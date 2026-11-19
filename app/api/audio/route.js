@@ -1,4 +1,4 @@
-import { getSegmentMp3 } from '../../../lib/tts';
+import { getSegmentMp3, mp3DurationSeconds } from '../../../lib/tts';
 import { ALLOWED_VOICES } from '../../../lib/voices';
 
 // GET /api/audio?v=<voice>&t=<script text>[&s=<segment id>]
@@ -37,6 +37,10 @@ export async function GET(request) {
       headers: {
         'Content-Type': 'audio/mpeg',
         'Content-Length': String(mp3.length),
+        // The renders are constant-bitrate, so the duration follows from
+        // the byte size. The player reads this (a HEAD request is enough)
+        // to anchor its wall-clock timeline on real durations.
+        'X-Audio-Duration-Seconds': mp3DurationSeconds(mp3).toFixed(3),
         // Safe forever: the URL is the content's identity.
         'Cache-Control': 'public, max-age=31536000, immutable',
         'X-Audio-Cache': fromCache ? 'memory-hit' : 'rendered',
