@@ -100,6 +100,39 @@ check(
   cleanText('AT&T and R&D at M&M\u2019s') === 'AT&T and R&D at M&M\u2019s',
   JSON.stringify(cleanText('AT&T and R&D at M&M\u2019s')),
 );
+// Semicolon artifacts (live UN News summaries, Nov 19): a semicolon
+// jammed against word characters is a separator artifact the TTS
+// reads as a pause ("assisting;thousands;of", "weekend,;where").
+// Normalize those to ", "; legitimate "; " prose survives; a lone
+// URL is exempt (semicolons are legal inside links).
+check(
+  'cleanText normalizes jammed semicolons',
+  cleanText('Crews are assisting;thousands;of residents displaced by the floods') ===
+    'Crews are assisting, thousands, of residents displaced by the floods',
+  JSON.stringify(cleanText('Crews are assisting;thousands;of residents displaced by the floods')),
+);
+check(
+  'cleanText collapses a comma-semicolon jam',
+  cleanText('Talks dragged on over the weekend,;where negotiators remained split') ===
+    'Talks dragged on over the weekend, where negotiators remained split',
+  JSON.stringify(cleanText('Talks dragged on over the weekend,;where negotiators remained split')),
+);
+check(
+  'cleanText collapses a semicolon-comma jam',
+  cleanText('The report landed late;,catching markets off guard') ===
+    'The report landed late, catching markets off guard',
+  JSON.stringify(cleanText('The report landed late;,catching markets off guard')),
+);
+check(
+  'cleanText preserves legitimate semicolon usage',
+  cleanText('He paused; then he spoke.') === 'He paused; then he spoke.',
+  JSON.stringify(cleanText('He paused; then he spoke.')),
+);
+check(
+  'cleanText leaves semicolons inside a lone URL alone',
+  cleanText('https://example.com/story;a=1;b=2') === 'https://example.com/story;a=1;b=2',
+  JSON.stringify(cleanText('https://example.com/story;a=1;b=2')),
+);
 check('ensureTerminalPunctuation appends a missing period', ensureTerminalPunctuation('She was denied parole again') === 'She was denied parole again.');
 check('ensureTerminalPunctuation leaves a period alone', ensureTerminalPunctuation('Already done.') === 'Already done.');
 check('ensureTerminalPunctuation leaves a question alone', ensureTerminalPunctuation('Really?') === 'Really?');
