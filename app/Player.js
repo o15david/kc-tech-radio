@@ -68,6 +68,21 @@
 //    not already queued or played this session (segment ids, plus
 //    story keys — link, falling back to headline — so a story can
 //    never repeat inside a session even across queue rotations).
+//  - LISTENING MEMORY (Nov 19, second repeat fix). The queue itself
+//    has no memory: the next 4-hour queue is built from the same
+//    pool and happily re-airs stories the last one played, and a
+//    page reload used to restart at queue position 1, so the same
+//    lead stories greeted the listener again and again. The player
+//    now persists what it has heard in localStorage: a story key
+//    is recorded the moment the story genuinely starts, and heard
+//    means RETIRED: the story is filtered out of later queues, on
+//    load and on refill alike, for 12 hours — with a floor: if
+//    filtering would leave fewer than ~40 stories, the OLDEST
+//    heard stories are let back in until the floor is met, so a
+//    listener never faces an empty or tiny queue. The current
+//    story and position are persisted as well, so a reload resumes
+//    mid-story where the listener left off instead of restarting
+//    the queue at its head.
 
 import { useCallback, useEffect, useRef, useState } from 'react';
 
@@ -86,6 +101,12 @@ const MAX_RESUME_ATTEMPTS = 3; // stage-1 resume attempts at one position before
 const RESUME_BACKOFF_MS = [1500, 3000, 6000]; // wait before resume attempt 2, 3 (index by attempts already made)
 const MAX_LOAD_ATTEMPTS = 3; // plain reloads of a never-heard segment before the speech fallback
 const LOAD_BACKOFF_MS = [1200, 2500, 5000]; // wait before load retry 2, 3
+const HEARD_STORAGE_KEY = 'kctr-heard-v1'; // localStorage: story key -> last-heard epoch ms
+const RESUME_STORAGE_KEY = 'kctr-resume-v1'; // localStorage: { key, segId, position }
+const HEARD_TTL_MS = 12 * 60 * 60 * 1000; // a heard story is filtered out for 12 hours
+const HEARD_CAP = 800; // most keys the registry keeps; oldest evicted first
+const REGISTRY_MIN_SEGMENTS = 40; // the heard filter never starves a fresh queue below this
+const RESUME_PERSIST_MIN_MS = 5000; // throttle for resume-position writes during playback
 const TIME_ZONE = 'America/Chicago';
 
 /** Split a script into speakable chunks of at most ~180 chars, by sentence. */
@@ -114,6 +135,79 @@ function pickVoice() {
   );
 }
 
+// ---- listening memory (localStorage) ---------------------------------------
+// The server cannot remember a listener: every /api/playlist queue
+// is built from the same pool for everyone. The cross-queue,
+// cross-session no-repeat memory therefore lives here, in the
+// browser, in two records:
+//   HEARD: story key -> epoch ms when the story last STARTED
+//   playing (the same moment the in-session playedStoryKeys record
+//   is written). Entries expire after HEARD_TTL_MS; the map is
+//   capped at HEARD_CAP keys, oldest evicted first, so it cannot
+//   grow without bound.
+//   RESUME: { key, segId, position } for the story playing when
+//   the page was last left, its position kept current as playback
+//   progresses, so a reload resumes mid-story.
+// Every access is guarded: WKWebView and private modes may deny or
+// clear storage, and the player must degrade to in-session memory
+// only, never break.
+function pruneHeardMap(map, now = Date.now()) {
+  for (const [k, ts] of map) {
+    if (!ts || now - ts > HEARD_TTL_MS) map.delete(k);
+  }
+  if (map.size > HEARD_CAP) {
+    const excess = map.size - HEARD_CAP;
+    const oldestFirst = [...map.entries()].sort((a, b) => a[1] - b[1]);
+    for (let i = 0; i < excess; i++) map.delete(oldestFirst[i][0]);
+  }
+  return map;
+}
+
+function loadHeardRegistry() {
+  try {
+    const raw = window.localStorage.getItem(HEARD_STORAGE_KEY);
+    if (!raw) return new Map();
+    const obj = JSON.parse(raw);
+    if (!obj || typeof obj !== 'object') return new Map();
+    return pruneHeardMap(new Map(Object.entries(obj)));
+  } catch {
+    return new Map();
+  }
+}
+
+function persistHeardRegistry(map) {
+  try {
+    window.localStorage.setItem(HEARD_STORAGE_KEY, JSON.stringify(Object.fromEntries(map)));
+  } catch {
+    /* storage denied or full: in-session memory still applies */
+  }
+}
+
+function loadResumeRecord() {
+  try {
+    const raw = window.localStorage.getItem(RESUME_STORAGE_KEY);
+    if (!raw) return null;
+    const rec = JSON.parse(raw);
+    if (!rec || typeof rec.key !== 'string' || !rec.key) return null;
+    return {
+      key: rec.key,
+      segId: typeof rec.segId === 'string' ? rec.segId : null,
+      position: Number.isFinite(rec.position) && rec.position > 0 ? rec.position : 0,
+    };
+  } catch {
+    return null;
+  }
+}
+
+function persistResumeRecord(rec) {
+  try {
+    if (!rec) window.localStorage.removeItem(RESUME_STORAGE_KEY);
+    else window.localStorage.setItem(RESUME_STORAGE_KEY, JSON.stringify(rec));
+  } catch {
+    /* storage denied: resume simply will not survive a reload */
+  }
+}
+
 export default function Player() {
   const [status, setStatus] = useState('loading'); // loading|ready|playing|paused
   const [nowPlaying, setNowPlaying] = useState(null); // segment at the playhead
@@ -131,6 +225,7 @@ export default function Player() {
     resumesOk: 0,
     skips: 0,
     loadErrors: 0,
+    registrySkipped: 0,
   });
 
   const queueRef = useRef([]);
@@ -173,7 +268,15 @@ export default function Player() {
     resumesOk: 0,
     skips: 0,
     loadErrors: 0,
+    registrySkipped: 0,
   });
+  // Listening memory state (persisted; see the localStorage helpers
+  // above). heardRegistryRef mirrors the stored heard map for this
+  // page session; resumeTargetRef is the record the NEXT load
+  // should resume from, rewritten as playback moves.
+  const heardRegistryRef = useRef(new Map()); // story key -> last-heard epoch ms
+  const resumeTargetRef = useRef(null); // { key, segId, position } | null
+  const resumePersistRef = useRef({ segId: null, at: 0 }); // position-write throttle
   const playingRef = useRef(false);
   const pausedModeRef = useRef(null); // mode held by Pause: 'audio' | 'speech' | null
   const rateRef = useRef(1);
@@ -236,6 +339,33 @@ export default function Player() {
     return seg.link || seg.headline || seg.id;
   }, []);
 
+  // Add an amount to a session diagnostics counter: bumpDiag's
+  // sibling for bulk events (registry filtering can skip hundreds
+  // of segments in one fetch; bumping once per segment would spam
+  // renders and the console).
+  const addDiag = useCallback((key, amount, segId, note) => {
+    if (!amount) return;
+    diagRef.current = { ...diagRef.current, [key]: (diagRef.current[key] || 0) + amount };
+    setDiagView(diagRef.current);
+    try {
+      console.info(
+        `[kc-tech-radio] diag ${key} +=${amount} seg=${segId || '-'}${note ? ` ${note}` : ''} totals=${JSON.stringify(diagRef.current)}`
+      );
+    } catch {
+      /* console is best-effort */
+    }
+  }, []);
+
+  // Record a story key in the persisted heard registry, with its
+  // TTL/cap pruning, at the moment the story genuinely starts.
+  const recordHeard = useCallback((key) => {
+    if (!key) return;
+    const map = heardRegistryRef.current;
+    map.set(key, Date.now());
+    pruneHeardMap(map);
+    persistHeardRegistry(map);
+  }, []);
+
   // ---- queue fetching -----------------------------------------------------
   const fetchQueue = useCallback(
     async (append) => {
@@ -246,12 +376,32 @@ export default function Player() {
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const data = await res.json();
         let added = 0;
+        let registrySkipped = 0;
         if (!append) {
           queueRef.current = [];
           seenIdsRef.current = new Set();
           queuedStoryKeysRef.current = new Set();
           indexRef.current = 0;
+          // Fresh page load: (re)read the persisted listening
+          // memory. The heard registry is the cross-session
+          // no-repeat record; the resume record says where the
+          // last session stopped mid-story.
+          heardRegistryRef.current = loadHeardRegistry();
+          resumeTargetRef.current = loadResumeRecord();
         }
+        const registry = heardRegistryRef.current;
+        // The resume target matters only to the initial load: by
+        // refill time its story has been queued (and its record
+        // consumed or rewritten by startSegment) or cleared below.
+        const resumeTarget = append ? null : resumeTargetRef.current;
+        const isResumeTarget = (seg) =>
+          !!resumeTarget &&
+          (seg.id === resumeTarget.segId ||
+            (!!resumeTarget.key && storyKey(seg) === resumeTarget.key));
+
+        // Pass 1: the session filters (segment ids, plus story
+        // keys already queued or played this session), unchanged.
+        const candidates = [];
         for (const seg of data.segments) {
           if (seenIdsRef.current.has(seg.id)) continue;
           const key = storyKey(seg);
@@ -260,10 +410,109 @@ export default function Player() {
           if (key && (queuedStoryKeysRef.current.has(key) || playedStoryKeysRef.current.has(key))) {
             continue;
           }
+          candidates.push(seg);
+        }
+
+        // Pass 2: choose which STORY segments may be queued, under
+        // the heard registry.
+        const storyCands = candidates.filter((s) => s.kind === 'story');
+        let chosenStoryIds;
+        if (append) {
+          // Refill: anything in the heard registry stays out. No
+          // relaxation here: a refill that adds nothing means this
+          // listener has heard the current pool, and the queue
+          // ends cleanly rather than padding with repeats.
+          chosenStoryIds = new Set();
+          for (const seg of storyCands) {
+            if (registry.has(storyKey(seg))) {
+              registrySkipped++;
+              continue;
+            }
+            chosenStoryIds.add(seg.id);
+          }
+        } else {
+          // Initial load: heard stories are filtered out, EXCEPT
+          // the resume target (the one story the listener is meant
+          // to continue), and EXCEPT the relaxation: if filtering
+          // would leave fewer than REGISTRY_MIN_SEGMENTS stories,
+          // the OLDEST heard stories are let back in until the
+          // floor is met. A listener never faces an empty or tiny
+          // queue; repeats of the longest-ago heard stories are
+          // the least bad outcome.
+          const fresh = storyCands.filter(
+            (s) => isResumeTarget(s) || !registry.has(storyKey(s))
+          );
+          chosenStoryIds = new Set(fresh.map((s) => s.id));
+          if (fresh.length < REGISTRY_MIN_SEGMENTS && fresh.length < storyCands.length) {
+            const heardOldestFirst = storyCands
+              .filter((s) => !chosenStoryIds.has(s.id))
+              .sort(
+                (a, b) =>
+                  (registry.get(storyKey(a)) || 0) - (registry.get(storyKey(b)) || 0)
+              );
+            for (const seg of heardOldestFirst) {
+              if (chosenStoryIds.size >= REGISTRY_MIN_SEGMENTS) break;
+              chosenStoryIds.add(seg.id);
+            }
+          }
+          registrySkipped = storyCands.length - chosenStoryIds.size;
+        }
+        const chosenStoryLinks = new Set(
+          storyCands
+            .filter((s) => chosenStoryIds.has(s.id))
+            .map((s) => s.link)
+            .filter(Boolean)
+        );
+
+        // Pass 3: assemble in server order. Non-story material
+        // (station IDs, weather, the desk, music) always passes.
+        // A caller passes only WITH its story: a caller whose
+        // story was filtered out would be reacting to a story this
+        // queue never airs.
+        for (const seg of candidates) {
+          if (seg.kind === 'story' && !chosenStoryIds.has(seg.id)) continue;
+          if (seg.kind === 'caller' && !(seg.link && chosenStoryLinks.has(seg.link))) continue;
           seenIdsRef.current.add(seg.id);
+          const key = storyKey(seg);
           if (key) queuedStoryKeysRef.current.add(key);
           queueRef.current.push(seg);
           added++;
+        }
+
+        if (!append) {
+          // Playhead placement: never blindly position 1. The
+          // resume target when it survived filtering; else the
+          // first unheard story; else the head of the queue.
+          const q = queueRef.current;
+          let startIdx = -1;
+          if (resumeTarget) {
+            const idx = q.findIndex((s) => isResumeTarget(s));
+            const seg = idx >= 0 ? q[idx] : null;
+            // A resume record pointing at (or past) the story's
+            // estimated end is a finished story wearing a resume
+            // record's clothes: do not resume it.
+            const atEnd =
+              !!seg &&
+              resumeTarget.position > 0 &&
+              !!seg.estSeconds &&
+              resumeTarget.position >= seg.estSeconds - 1;
+            if (seg && !atEnd) {
+              startIdx = idx;
+            } else {
+              // The story is gone from this queue (rotated out) or
+              // already finished: the record has done its job.
+              resumeTargetRef.current = null;
+              persistResumeRecord(null);
+            }
+          }
+          if (startIdx < 0) {
+            startIdx = q.findIndex((s) => s.kind === 'story' && !registry.has(storyKey(s)));
+          }
+          indexRef.current = startIdx >= 0 ? startIdx : 0;
+        }
+
+        if (registrySkipped > 0) {
+          addDiag('registrySkipped', registrySkipped, null, append ? 'refill filter' : 'load filter');
         }
         if (added || !append) syncView();
         return added;
@@ -273,7 +522,7 @@ export default function Player() {
         fetchingRef.current = false;
       }
     },
-    [storyKey, syncView]
+    [addDiag, storyKey, syncView]
   );
 
   // Initial queue load (so the head of the queue shows before Play).
@@ -439,6 +688,18 @@ export default function Player() {
     (segId, cur) => {
       if (cur > (heardMaxRef.current.get(segId) || 0)) {
         heardMaxRef.current.set(segId, cur);
+      }
+      // Keep the persisted resume record's position current
+      // (throttled): a reload mid-story resumes where the listener
+      // actually stopped, not where the story started.
+      const rt = resumeTargetRef.current;
+      if (rt && rt.segId === segId) {
+        if (cur > (rt.position || 0)) rt.position = cur;
+        const last = resumePersistRef.current;
+        if (!last || last.segId !== segId || Date.now() - last.at >= RESUME_PERSIST_MIN_MS) {
+          resumePersistRef.current = { segId, at: Date.now() };
+          persistResumeRecord(rt);
+        }
       }
       const rec = recoveryRef.current;
       if (rec.id !== segId) return;
@@ -858,7 +1119,36 @@ export default function Player() {
       // Session no-repeat backstop: once a story starts, it can never
       // be re-queued by a refill this session.
       const key = storyKey(seg);
-      if (key) playedStoryKeysRef.current.add(key);
+      // Cross-session resume: if the persisted resume record names
+      // THIS story, the listener left it mid-story last session.
+      // resumeFrom is applied below (the heard record is seeded
+      // with it, so every no-replay rule in the recovery ladder
+      // treats the position as already heard, and the first load
+      // seeks there before playing).
+      let resumeFrom = 0;
+      if (key) {
+        playedStoryKeysRef.current.add(key);
+        // The same moment writes the cross-session record: this
+        // story is now heard, for this and every later queue,
+        // until its registry entry expires (12h).
+        recordHeard(key);
+        const prevResume = resumeTargetRef.current;
+        if (prevResume && prevResume.key === key && prevResume.position > 0.5) {
+          resumeFrom = prevResume.position;
+          if (resumeFrom > (heardMaxRef.current.get(seg.id) || 0)) {
+            heardMaxRef.current.set(seg.id, resumeFrom);
+          }
+        }
+        // This story becomes the resume record now: if the page
+        // reloads while it plays, the next load resumes HERE.
+        resumeTargetRef.current = {
+          key,
+          segId: seg.id,
+          position: heardMaxRef.current.get(seg.id) || 0,
+        };
+        persistResumeRecord(resumeTargetRef.current);
+        resumePersistRef.current = { segId: seg.id, at: Date.now() };
+      }
       setNowPlaying(seg);
       syncView();
       preloadNext(index);
@@ -897,6 +1187,34 @@ export default function Player() {
       };
       audio.playbackRate = rateRef.current;
       audio.volume = volumeRef.current;
+      if (resumeFrom > 0) {
+        // First-load seek for a cross-session resume: as soon as
+        // the element can accept a seek, jump to where the last
+        // session stopped, BEFORE playing. Armed through
+        // pendingSeekRef like a recovery resume, so a segment
+        // change or Stop disarms it. If the duration never becomes
+        // known the seek cannot be aimed; this segment has heard
+        // nothing THIS session, so it simply plays from the top
+        // (the pre-heard path's rule) rather than failing an
+        // attempt over it. The initial-load grace window above
+        // gives the seek its judgement time.
+        clearPendingSeek();
+        const onResumeCanPlay = () => {
+          if (pendingSeekRef.current === onResumeCanPlay) pendingSeekRef.current = null;
+          audio.removeEventListener('canplay', onResumeCanPlay);
+          if (currentIdRef.current !== seg.id) return;
+          const d = audio.duration;
+          if (Number.isFinite(d) && d > 0) {
+            try {
+              audio.currentTime = Math.min(resumeFrom, Math.max(0, d - 0.3));
+            } catch {
+              /* not seekable yet; plays from the top this once */
+            }
+          }
+        };
+        pendingSeekRef.current = onResumeCanPlay;
+        audio.addEventListener('canplay', onResumeCanPlay);
+      }
       audio.src = seg.audioUrl;
       audio.play().catch(() => {
         // Not judged instantly: a transient iOS rejection routes to
@@ -912,6 +1230,7 @@ export default function Player() {
       maybeRefill,
       noteProgress,
       preloadNext,
+      recordHeard,
       signalStall,
       speakSegment,
       storyKey,
@@ -1107,6 +1426,13 @@ export default function Player() {
     // replay must resume from the NEW playback position, not seek
     // back to where the pre-Stop playback had reached.
     if (currentIdRef.current) heardMaxRef.current.delete(currentIdRef.current);
+    // The deliberate rewind restarts this story's resume record
+    // too: a reload after Stop resumes the story from its top,
+    // where the listener chose to return to, not from mid-story.
+    if (resumeTargetRef.current && resumeTargetRef.current.segId === currentIdRef.current) {
+      resumeTargetRef.current = { ...resumeTargetRef.current, position: 0 };
+      persistResumeRecord(resumeTargetRef.current);
+    }
     playingRef.current = false;
     clearRetryTimer();
     clearStallTimer();
@@ -1209,11 +1535,12 @@ export default function Player() {
 
         <p
           className="diag-line"
-          title="This session's stall recovery counters. Stalls: freezes detected. In place: recovered by a play() nudge without reloading. Resumes: reload-and-seek attempts, and how many worked. Skips: segments abandoned after 3 failed resumes."
+          title="This session's stall recovery counters. Stalls: freezes detected. In place: recovered by a play() nudge without reloading. Resumes: reload-and-seek attempts, and how many worked. Skips: segments abandoned after 3 failed resumes. Heard earlier: stories filtered out of fetched queues because this listener already heard them (listening memory, 12h)."
         >
           Playback health: stalls {diagView.stalls} · recovered in place {diagView.stage0Recoveries}{' '}
           · resume attempts {diagView.resumeAttempts} · resumes ok {diagView.resumesOk} · skips{' '}
-          {diagView.skips} · load errors {diagView.loadErrors}
+          {diagView.skips} · load errors {diagView.loadErrors} · heard earlier{' '}
+          {diagView.registrySkipped}
         </p>
       </section>
 
