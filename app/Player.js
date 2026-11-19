@@ -1,36 +1,49 @@
 'use client';
 
-// KC Tech Radio browser player.
+// KC Tech Radio browser player — a WALL-CLOCK-LOCKED live stream.
 //
-// Playback model: the server hands us a queue of segments covering 12+
-// minutes. Each segment carries an audioUrl to a pre-rendered MP3 (natural
-// Edge TTS neural voice, rendered server-side by /api/audio) — that is the
-// primary audio path. While a segment plays we preload the NEXT segment's
-// MP3 into a second audio element, so playback rolls gaplessly and the
-// stream stays minutes ahead of the listener. If an MP3 fails to load or
-// play, we fall back to reading that segment with the browser's
-// speechSynthesis (chunked by sentence, since long single utterances stall
-// in Chrome) and try MP3 again on the next segment. When the unplayed tail
-// of the queue drops under REFILL_THRESHOLD_SECONDS we fetch /api/playlist
-// again and append only segments we have not already queued.
+// This is one constant stream, not a personal queue: every listener hears
+// the same segment at the same moment, like a regular radio station. The
+// server's schedule (each segment's startMs on the America/Chicago clock,
+// see lib/format.js) is the source of truth, and lib/liveEdge.js turns it
+// into effective windows using REAL MP3 durations (learned from the audio
+// elements and the /api/audio duration header) with word-count estimates
+// as fallback only.
 //
-// No repeats, guaranteed on this side too (the server also rotates without
-// replacement; this is the session backstop): a refill restarts from the
-// beginning of the CURRENT block instance, so segments already played
-// would be offered again. We keep session-level sets of played/current
-// segment ids and of played story keys (link/headline), and never
-// re-queue anything in them, even if a pool refresh changed the segment
-// ids a story wears. Segments also carry their scheduled window
-// (startMs + estSeconds, slotEndMs); unplayed segments whose window has
-// fully passed are pruned at refill time instead of airing stale, and a
-// fresh fetch never appends a segment whose slot has already ended.
-// Position tracking is driven by real audio end events (onended /
-// utterance onend), never by the duration estimates, so playback cannot
-// drift out of the server's schedule and "resync" by restarting a block.
+// The rules (all enforced by anchorPlayback below):
+//  - TUNE-IN AT THE LIVE EDGE. Play, a return to the page, and a resume
+//    all find the segment whose scheduled window contains NOW and start
+//    it at offset (now - window start) via currentTime. Nobody ever
+//    hears the queue from the top, and a returning listener lands on
+//    whatever is live then, never on a replay.
+//  - RE-ANCHOR AT EVERY TRANSITION. When a segment ends, position is
+//    recomputed from the wall clock. If playback fell behind the live
+//    edge (drift, a buffering stall, background-tab throttling), the
+//    stale remainder is skipped and the live segment starts instead.
+//  - GAPS ARE REAL. Where the schedule itself is quiet (a block's copy
+//    ran shorter than its slot), the player waits for the next segment's
+//    start rather than starting it early: a segment that announces a
+//    time is only ever heard inside its true window, so spoken times
+//    are correct by construction.
+//  - PAUSE IS A DELIBERATE HOLD. It freezes the output where it is; on
+//    resume the player re-anchors to the live edge (you rejoin the
+//    stream, you do not catch up on what aired while you were gone).
+//  - AUDIO FAILURE IS PER-SEGMENT. If a segment's MP3 fails, that one
+//    segment falls back to the browser's speechSynthesis (sentence-
+//    chunked, since long utterances stall Chrome) and the next segment
+//    re-anchors and tries MP3 again.
+//
+// Backstops kept from the queue era: the server's no-repeat rotation is
+// untouched, and the player still records played segment ids and played
+// story keys so a refill can never re-queue them this session. They now
+// guard edge cases (and the speech fallback, which cannot seek), while
+// the live-edge model is the primary mechanism.
 
 import { useCallback, useEffect, useRef, useState } from 'react';
+import { effectiveTimeline, liveSegmentAt, nextPlayable } from '../lib/liveEdge';
 
-const REFILL_THRESHOLD_SECONDS = 300; // refetch when < 5 min remain
+const REFILL_THRESHOLD_SECONDS = 300; // refetch when the loaded schedule runs out within 5 min
+const WARM_AHEAD = 4; // segments whose real durations we learn ahead of the playhead
 const TIME_ZONE = 'America/Chicago';
 
 /** Split a script into speakable chunks of at most ~180 chars, by sentence. */
@@ -59,10 +72,19 @@ function pickVoice() {
   );
 }
 
+function clockTime(ms) {
+  return new Date(ms).toLocaleTimeString('en-US', {
+    timeZone: TIME_ZONE,
+    hour: 'numeric',
+    minute: '2-digit',
+  });
+}
+
 export default function Player() {
   const [status, setStatus] = useState('loading'); // loading|ready|playing|paused|error
-  const [nowPlaying, setNowPlaying] = useState(null);
-  const [queueView, setQueueView] = useState([]); // segments from current onward
+  const [nowPlaying, setNowPlaying] = useState(null); // segment on air (or live right now, pre-play)
+  const [standby, setStandby] = useState(null); // { seg, atMs } when the live edge is in a schedule gap
+  const [queueView, setQueueView] = useState([]); // segments from the live position onward
   const [bufferSeconds, setBufferSeconds] = useState(0);
   const [health, setHealth] = useState(null);
   const [clock, setClock] = useState('');
@@ -71,21 +93,29 @@ export default function Player() {
   const [voiceLabel, setVoiceLabel] = useState('Edge neural TTS');
 
   const queueRef = useRef([]);
-  const posRef = useRef(0);
   const seenIdsRef = useRef(new Set()); // every segment id ever queued
-  const playedIdsRef = useRef(new Set()); // ids that started/finished playing
-  const playedStoryKeysRef = useRef(new Set()); // link/headline of played stories
-  const playingRef = useRef(false);
+  const playedIdsRef = useRef(new Set()); // ids that started playing (refill backstop)
+  const playedStoryKeysRef = useRef(new Set()); // link/headline of played stories (backstop)
+  const finishedIdsRef = useRef(new Set()); // ids that finished: never re-entered (liveEdge)
+  const durationsRef = useRef(new Map()); // segment id -> real MP3 seconds
+  const playingRef = useRef(false); // stream is ON (sounding or waiting out a gap)
   const rateRef = useRef(1);
   const volumeRef = useRef(1);
   const voiceRef = useRef(null); // browser fallback voice
   const fetchingRef = useRef(false);
   const startedRef = useRef(false);
-  const currentRef = useRef(null);
+  const currentIdRef = useRef(null); // segment currently sounding, or null
+  const displayIdRef = useRef(null); // segment id currently shown as live (pre-play display)
   const audioRef = useRef(null); // main MP3 element
   const preloadRef = useRef(null); // next-segment MP3 preload element
   const modeRef = useRef(null); // 'audio' | 'speech' | null (current segment)
-  const suspendedRef = useRef(false); // paused mid-segment
+  const gapTimerRef = useRef(null);
+  const speechGenRef = useRef(0); // bumped whenever speech is superseded/cancelled
+
+  const timeline = useCallback(
+    () => effectiveTimeline(queueRef.current, durationsRef.current),
+    []
+  );
 
   // ---- clock -------------------------------------------------------------
   useEffect(() => {
@@ -113,21 +143,45 @@ export default function Player() {
     return () => window.speechSynthesis?.removeEventListener('voiceschanged', load);
   }, []);
 
-  // ---- playlist fetching -----------------------------------------------------
-  const remainingSeconds = useCallback(() => {
-    let sum = 0;
-    for (let i = posRef.current; i < queueRef.current.length; i++) {
-      sum += queueRef.current[i].estSeconds / rateRef.current;
+  // ---- view sync -------------------------------------------------------------
+  // The view always reflects the LIVE position: what is on air now (or,
+  // in a schedule gap, what comes next and when), never a personal queue
+  // position.
+  const syncView = useCallback(
+    (fromIndex, tl) => {
+      const t = tl || timeline();
+      setQueueView(queueRef.current.slice(fromIndex, fromIndex + 9));
+      const last = t[t.length - 1];
+      setBufferSeconds(
+        last ? Math.max(0, Math.round((last.endMs - Date.now()) / 1000)) : 0
+      );
+    },
+    [timeline]
+  );
+
+  // Pre-play / paused display: show the segment that is live right now.
+  const refreshLiveDisplay = useCallback(() => {
+    if (playingRef.current) return;
+    const tl = timeline();
+    if (!tl.length) return;
+    const pos = nextPlayable(tl, Date.now(), finishedIdsRef.current);
+    if (pos.type === 'ended') return;
+    const entry = tl[pos.index];
+    if (!entry) return;
+    if (displayIdRef.current !== entry.seg.id) {
+      displayIdRef.current = entry.seg.id;
+      if (pos.type === 'segment') {
+        setNowPlaying(entry.seg);
+        setStandby(null);
+      } else {
+        setNowPlaying(null);
+        setStandby({ seg: entry.seg, atMs: entry.startMs });
+      }
     }
-    return sum;
-  }, []);
+    syncView(pos.index, tl);
+  }, [syncView, timeline]);
 
-  const syncView = useCallback(() => {
-    setQueueView(queueRef.current.slice(posRef.current, posRef.current + 9));
-    setNowPlaying(queueRef.current[posRef.current] || null);
-    setBufferSeconds(Math.round(remainingSeconds()));
-  }, [remainingSeconds]);
-
+  // ---- playlist fetching -----------------------------------------------------
   // Identity of a story segment independent of its segment id: if a pool
   // refresh reassigns slots, the same story can come back wearing a new
   // segment id, but its link (or headline) gives it away.
@@ -136,32 +190,22 @@ export default function Player() {
     return seg.link || seg.headline || seg.id;
   }, []);
 
-  // Drop unplayed segments whose scheduled window has fully passed (the
-  // listener paused through their slot, or the tab sat open for hours).
-  // The current segment and the one right after it are protected: real
-  // MP3 durations differ from the estimates, and the next-up segment must
-  // never be pruned out from under the playhead. Pruned ids stay in
-  // seenIds, so a later refill cannot resurrect them.
-  const pruneStale = useCallback(() => {
+  // Drop whole blocks whose slot has fully passed (the tab sat open for
+  // hours). The segment currently sounding is protected. Pruned ids stay
+  // in seenIds, so a later refill cannot resurrect them.
+  const pruneQueue = useCallback(() => {
     const nowMs = Date.now();
-    const q = queueRef.current;
-    let removed = 0;
-    for (let i = q.length - 1; i > posRef.current + 1; i--) {
-      const seg = q[i];
-      if (seg.startMs && seg.startMs + seg.estSeconds * 1000 <= nowMs) {
-        q.splice(i, 1);
-        removed++;
-      }
-    }
-    if (removed) syncView();
-    return removed;
-  }, [syncView]);
+    queueRef.current = queueRef.current.filter(
+      (seg) =>
+        seg.id === currentIdRef.current || !seg.slotEndMs || seg.slotEndMs > nowMs
+    );
+  }, []);
 
   const fetchPlaylist = useCallback(async () => {
-    if (fetchingRef.current) return;
+    if (fetchingRef.current) return 0;
     fetchingRef.current = true;
     try {
-      pruneStale();
+      pruneQueue();
       const res = await fetch('/api/playlist', { cache: 'no-store' });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data = await res.json();
@@ -180,21 +224,34 @@ export default function Player() {
         queueRef.current.push(seg);
         added++;
       }
-      if (added) syncView();
+      if (added) {
+        warmDurationsRef.current?.();
+        if (playingRef.current) syncViewRef.current?.();
+        else refreshLiveDisplay();
+      }
       return added;
     } catch {
       return 0;
     } finally {
       fetchingRef.current = false;
     }
-  }, [pruneStale, storyKey, syncView]);
+  }, [pruneQueue, refreshLiveDisplay, storyKey]);
 
-  // Initial queue load (so Up Next is populated before Play is pressed).
+  // Initial queue load (so the live segment and Up Next show before Play).
   useEffect(() => {
     if (startedRef.current) return;
     startedRef.current = true;
-    fetchPlaylist().then(() => setStatus((s) => (s === 'loading' ? 'ready' : s)));
-  }, [fetchPlaylist]);
+    fetchPlaylist().then(() => {
+      refreshLiveDisplay();
+      setStatus((s) => (s === 'loading' ? 'ready' : s));
+    });
+  }, [fetchPlaylist, refreshLiveDisplay]);
+
+  // Keep the pre-play display honest as the clock moves.
+  useEffect(() => {
+    const t = setInterval(refreshLiveDisplay, 5000);
+    return () => clearInterval(t);
+  }, [refreshLiveDisplay]);
 
   // ---- health footer -----------------------------------------------------------
   useEffect(() => {
@@ -228,118 +285,308 @@ export default function Player() {
     return preloadRef.current;
   }, []);
 
-  // Start downloading the next segment's MP3 while the current one plays.
-  const preloadNext = useCallback(() => {
-    const next = queueRef.current[posRef.current + 1];
-    if (!next?.audioUrl) return;
-    const pre = getPreload();
-    const target = new URL(next.audioUrl, window.location.origin).href;
-    if (pre.src !== target) {
-      pre.src = next.audioUrl;
-      pre.load();
+  const noteDuration = useCallback((segId, seconds) => {
+    if (segId && Number.isFinite(seconds) && seconds > 0) {
+      durationsRef.current.set(segId, seconds);
     }
-  }, [getPreload]);
+  }, []);
+
+  // Learn real durations ahead of the playhead: HEAD the next few
+  // segments' audioUrls (which also warms the server-side render cache)
+  // and read the duration header; the preload element's metadata refines
+  // the next segment's duration exactly.
+  const warmDurations = useCallback(
+    (fromIndex = 0) => {
+      const q = queueRef.current;
+      for (let i = fromIndex; i < Math.min(q.length, fromIndex + WARM_AHEAD); i++) {
+        const seg = q[i];
+        if (!seg?.audioUrl || durationsRef.current.has(seg.id)) continue;
+        fetch(seg.audioUrl, { method: 'HEAD' })
+          .then((res) => {
+            const d = parseFloat(res.headers.get('x-audio-duration-seconds'));
+            if (Number.isFinite(d)) noteDuration(seg.id, d);
+          })
+          .catch(() => {
+            /* estimates remain the fallback */
+          });
+      }
+    },
+    [noteDuration]
+  );
+  const warmDurationsRef = useRef(null);
+  useEffect(() => {
+    warmDurationsRef.current = warmDurations;
+  }, [warmDurations]);
+
+  // Start downloading the next segment's MP3 while the current one plays,
+  // and record its real duration when the metadata lands.
+  const preloadNext = useCallback(
+    (index) => {
+      const next = queueRef.current[index + 1];
+      if (!next?.audioUrl) return;
+      const pre = getPreload();
+      const target = new URL(next.audioUrl, window.location.origin).href;
+      pre.onloadedmetadata = () => noteDuration(next.id, pre.duration);
+      if (pre.src !== target) {
+        pre.src = next.audioUrl;
+        pre.load();
+      }
+      warmDurations(index + 1);
+    },
+    [getPreload, noteDuration, warmDurations]
+  );
 
   // ---- playback engine -----------------------------------------------------------
-  // Defined with refs so the recursive advance chain never goes stale.
-  const playCurrentRef = useRef(null);
+  // Defined with refs so the anchor chain never goes stale.
+  const anchorRef = useRef(null);
+  const syncViewRef = useRef(null);
 
-  const speakSegment = useCallback(
-    (seg, onDone) => {
-      const synth = window.speechSynthesis;
-      if (!synth) {
+  const clearGapTimer = useCallback(() => {
+    if (gapTimerRef.current) {
+      clearTimeout(gapTimerRef.current);
+      gapTimerRef.current = null;
+    }
+  }, []);
+
+  const haltOutput = useCallback(() => {
+    if (audioRef.current) audioRef.current.pause();
+    speechGenRef.current += 1; // any in-flight fallback speech is now stale
+    window.speechSynthesis?.cancel();
+    modeRef.current = null;
+  }, []);
+
+  const speakSegment = useCallback((seg, onDone) => {
+    const synth = window.speechSynthesis;
+    if (!synth) {
+      onDone();
+      return;
+    }
+    // Supersede anything the fallback voice was still saying (e.g. a
+    // segment held by Pause): a re-anchor must never talk over itself.
+    speechGenRef.current += 1;
+    const gen = speechGenRef.current;
+    synth.cancel();
+    modeRef.current = 'speech';
+    setVoiceLabel(`browser voice (${voiceRef.current?.name || 'default'}) · fallback`);
+    const chunks = chunkScript(seg.script);
+    let chunkIdx = 0;
+    const speakChunk = () => {
+      if (!playingRef.current || gen !== speechGenRef.current) return;
+      if (chunkIdx >= chunks.length) {
         onDone();
         return;
       }
-      modeRef.current = 'speech';
-      setVoiceLabel(`browser voice (${voiceRef.current?.name || 'default'}) · fallback`);
-      const chunks = chunkScript(seg.script);
-      let chunkIdx = 0;
-      const speakChunk = () => {
-        if (!playingRef.current) return;
-        if (chunkIdx >= chunks.length) {
-          onDone();
-          return;
-        }
-        const utter = new SpeechSynthesisUtterance(chunks[chunkIdx]);
-        if (voiceRef.current) utter.voice = voiceRef.current;
-        utter.rate = rateRef.current;
-        utter.volume = volumeRef.current;
-        utter.onend = () => {
-          chunkIdx += 1;
-          speakChunk();
-        };
-        utter.onerror = () => {
-          // A single bad utterance must not kill the stream.
-          chunkIdx += 1;
-          speakChunk();
-        };
-        synth.speak(utter);
+      const utter = new SpeechSynthesisUtterance(chunks[chunkIdx]);
+      if (voiceRef.current) utter.voice = voiceRef.current;
+      utter.rate = rateRef.current;
+      utter.volume = volumeRef.current;
+      utter.onend = () => {
+        chunkIdx += 1;
+        speakChunk();
       };
-      speakChunk();
+      utter.onerror = () => {
+        // A single bad utterance must not kill the stream.
+        chunkIdx += 1;
+        speakChunk();
+      };
+      synth.speak(utter);
+    };
+    speakChunk();
+  }, []);
+
+  const finishSegment = useCallback((seg) => {
+    finishedIdsRef.current.add(seg.id);
+    if (currentIdRef.current === seg.id) currentIdRef.current = null;
+    modeRef.current = null;
+    // Every transition re-anchors to the wall clock.
+    anchorRef.current?.();
+  }, []);
+
+  const startSegment = useCallback(
+    (tl, index, offsetMs) => {
+      const seg = tl[index].seg;
+      currentIdRef.current = seg.id;
+      displayIdRef.current = seg.id;
+      // Session no-repeat backstops: once a segment starts, neither it
+      // nor its story (under any segment id) can be queued again.
+      playedIdsRef.current.add(seg.id);
+      const playedKey = storyKey(seg);
+      if (playedKey) playedStoryKeysRef.current.add(playedKey);
+      setNowPlaying(seg);
+      setStandby(null);
+      syncView(index, tl);
+      preloadNext(index);
+
+      if (!seg.audioUrl) {
+        speakSegment(seg, () => finishSegment(seg));
+        return;
+      }
+
+      // Primary path: the pre-rendered MP3, entered at the live offset.
+      modeRef.current = 'audio';
+      setVoiceLabel(seg.voice ? `${seg.voice} · Edge neural` : 'Edge neural TTS');
+      const audio = getAudio();
+      let fellBack = false;
+      const fallBack = () => {
+        if (fellBack || !playingRef.current) return;
+        fellBack = true;
+        // Fall back for THIS segment only; the next transition re-anchors
+        // and tries MP3 again. Speech cannot seek, so the fallback reads
+        // the segment from its top.
+        if (currentIdRef.current === seg.id) {
+          speakSegment(seg, () => finishSegment(seg));
+        }
+      };
+      audio.onended = () => {
+        if (playingRef.current && currentIdRef.current === seg.id) {
+          finishSegment(seg);
+        }
+      };
+      audio.onerror = fallBack;
+      audio.onloadedmetadata = () => {
+        noteDuration(seg.id, audio.duration);
+        // Tune in at the live edge: jump to (now - window start).
+        if (offsetMs > 400 && Number.isFinite(audio.duration)) {
+          try {
+            audio.currentTime = Math.min(offsetMs / 1000, audio.duration);
+          } catch {
+            /* a failed seek self-corrects at the next re-anchor */
+          }
+        }
+      };
+      audio.playbackRate = rateRef.current;
+      audio.volume = volumeRef.current;
+      audio.src = seg.audioUrl;
+      audio.play().catch(fallBack);
     },
-    []
+    [finishSegment, getAudio, noteDuration, preloadNext, speakSegment, storyKey, syncView]
   );
 
-  const playCurrent = useCallback(() => {
+  // THE ANCHOR: recompute the live position from the wall clock and put
+  // playback there. Called at tune-in, on resume, on return to the page,
+  // at every segment transition, and by the drift watchdog.
+  const anchorPlayback = useCallback(() => {
     if (!playingRef.current) return;
-    const seg = queueRef.current[posRef.current];
-    if (!seg) {
-      // Queue exhausted: try a refill; if nothing arrives, stop cleanly.
+    clearGapTimer();
+    pruneQueue();
+    const tl = timeline();
+    const nowMs = Date.now();
+    const pos = nextPlayable(tl, nowMs, finishedIdsRef.current);
+
+    if (pos.type === 'ended') {
+      // The loaded schedule is exhausted: refill, then anchor again. If
+      // nothing new arrives, the stream stops cleanly rather than
+      // replaying anything.
       fetchPlaylist().then((added) => {
-        if (added && playingRef.current) playCurrentRef.current?.();
-        else if (playingRef.current) {
+        if (!playingRef.current) return;
+        if (added) anchorRef.current?.();
+        else {
           playingRef.current = false;
+          currentIdRef.current = null;
           setStatus('ready');
+          refreshLiveDisplay();
         }
       });
       return;
     }
-    currentRef.current = seg;
-    // Session no-repeat sets: once a segment starts, neither it nor its
-    // story (under any segment id) can be queued again this session.
-    playedIdsRef.current.add(seg.id);
-    const playedKey = storyKey(seg);
-    if (playedKey) playedStoryKeysRef.current.add(playedKey);
-    syncView();
-    preloadNext();
 
-    const advance = () => {
-      posRef.current += 1;
-      // Keep the buffer ahead of the listener.
-      if (remainingSeconds() < REFILL_THRESHOLD_SECONDS) fetchPlaylist();
-      playCurrentRef.current?.();
-    };
+    const entry = tl[pos.index];
 
-    if (!seg.audioUrl) {
-      speakSegment(seg, advance);
+    if (pos.type === 'gap') {
+      // The schedule itself is quiet right now. Wait for the next
+      // segment's true start instead of airing it early.
+      currentIdRef.current = null;
+      haltOutput();
+      displayIdRef.current = entry.seg.id;
+      setNowPlaying(null);
+      setStandby({ seg: entry.seg, atMs: entry.startMs });
+      syncView(pos.index, tl);
+      gapTimerRef.current = setTimeout(
+        () => anchorRef.current?.(),
+        Math.max(0, pos.waitMs) + 60
+      );
+      // Keep the schedule loaded ahead while we wait.
+      const last = tl[tl.length - 1];
+      if (last && last.endMs - nowMs < REFILL_THRESHOLD_SECONDS * 1000) {
+        fetchPlaylist();
+      }
       return;
     }
 
-    // Primary path: the pre-rendered MP3.
-    modeRef.current = 'audio';
-    setVoiceLabel(seg.voice ? `${seg.voice} · Edge neural` : 'Edge neural TTS');
-    const audio = getAudio();
-    let fellBack = false;
-    const fallBack = () => {
-      if (fellBack || !playingRef.current) return;
-      fellBack = true;
-      // Only fall back if this segment is still the one on air.
-      if (currentRef.current === seg) speakSegment(seg, advance);
-    };
-    audio.onended = () => {
-      if (playingRef.current && currentRef.current === seg) advance();
-    };
-    audio.onerror = fallBack;
-    audio.playbackRate = rateRef.current;
-    audio.volume = volumeRef.current;
-    audio.src = seg.audioUrl;
-    audio.play().catch(fallBack);
-  }, [fetchPlaylist, getAudio, preloadNext, remainingSeconds, speakSegment, storyKey, syncView]);
+    startSegment(tl, pos.index, pos.offsetMs);
+
+    // Keep the buffer ahead of the live edge.
+    const last = tl[tl.length - 1];
+    if (last && last.endMs - nowMs < REFILL_THRESHOLD_SECONDS * 1000) {
+      fetchPlaylist();
+    }
+  }, [
+    clearGapTimer,
+    fetchPlaylist,
+    haltOutput,
+    pruneQueue,
+    refreshLiveDisplay,
+    startSegment,
+    syncView,
+    timeline,
+  ]);
 
   useEffect(() => {
-    playCurrentRef.current = playCurrent;
-  }, [playCurrent]);
+    anchorRef.current = anchorPlayback;
+  }, [anchorPlayback]);
+  useEffect(() => {
+    syncViewRef.current = () => {
+      const tl = timeline();
+      const idx = liveSegmentAt(tl, Date.now());
+      syncView(idx >= 0 ? idx : 0, tl);
+    };
+  }, [syncView, timeline]);
+
+  // Drift watchdog: if the sounding segment's window has passed (an
+  // overrun, a long stall, a throttled background tab), or — at natural
+  // rate — the audio has fallen well behind the wall-clock offset, skip
+  // forward to the live edge instead of playing the stale remainder.
+  useEffect(() => {
+    const t = setInterval(() => {
+      if (!playingRef.current || !currentIdRef.current) return;
+      if (modeRef.current !== 'audio' || !audioRef.current) return;
+      const tl = timeline();
+      const entry = tl.find((e) => e.seg.id === currentIdRef.current);
+      if (!entry) {
+        anchorRef.current?.();
+        return;
+      }
+      const nowMs = Date.now();
+      if (nowMs >= entry.endMs) {
+        anchorRef.current?.();
+        return;
+      }
+      if (rateRef.current === 1) {
+        const expected = (nowMs - entry.startMs) / 1000;
+        const cur = audioRef.current.currentTime || 0;
+        if (expected - cur > 5) {
+          try {
+            audioRef.current.currentTime = expected;
+          } catch {
+            /* self-corrects at the next re-anchor */
+          }
+        }
+      }
+    }, 4000);
+    return () => clearInterval(t);
+  }, [timeline]);
+
+  // Returning to the page re-anchors: a backgrounded tab that was
+  // throttled rejoins the live stream, it does not resume the stale one.
+  useEffect(() => {
+    const onVis = () => {
+      if (document.visibilityState === 'visible' && playingRef.current) {
+        anchorRef.current?.();
+      }
+    };
+    document.addEventListener('visibilitychange', onVis);
+    return () => document.removeEventListener('visibilitychange', onVis);
+  }, []);
 
   // Chrome desktop can silently stall long speech sessions; nudge resume()
   // while the fallback voice is speaking (a well-known workaround).
@@ -359,47 +606,37 @@ export default function Player() {
   // ---- controls ---------------------------------------------------------------------
   const onPlay = async () => {
     if (!queueRef.current.length) await fetchPlaylist();
-    // If the tab sat open (or paused) across block boundaries, drop the
-    // unplayed segments whose scheduled windows have passed before
-    // rolling, then top up with fresh segments if the tail ran low.
-    pruneStale();
-    if (remainingSeconds() < REFILL_THRESHOLD_SECONDS) await fetchPlaylist();
+    pruneQueue();
+    const tl = timeline();
+    const last = tl[tl.length - 1];
+    if (!last || last.endMs - Date.now() < REFILL_THRESHOLD_SECONDS * 1000) {
+      await fetchPlaylist();
+    }
     playingRef.current = true;
     setStatus('playing');
-    if (suspendedRef.current) {
-      suspendedRef.current = false;
-      // Resume the segment we paused, in whichever mode it was playing.
-      if (modeRef.current === 'audio' && audioRef.current) {
-        audioRef.current.play().catch(() => {});
-        return;
-      }
-      if (modeRef.current === 'speech' && window.speechSynthesis?.paused) {
-        window.speechSynthesis.resume();
-        return;
-      }
-    }
-    playCurrent();
+    // Tune in at the live edge — always. Play, resume after pause, and
+    // restart after Stop all land on whatever is live right now.
+    anchorPlayback();
   };
 
   const onPause = () => {
+    // A deliberate hold: freeze the output. The wall clock keeps moving;
+    // resume re-anchors to the live edge rather than catching up.
     playingRef.current = false;
-    suspendedRef.current = true;
+    clearGapTimer();
     setStatus('paused');
     if (modeRef.current === 'audio') audioRef.current?.pause();
     else window.speechSynthesis?.pause();
+    modeRef.current = null;
   };
 
   const onStop = () => {
     playingRef.current = false;
-    suspendedRef.current = false;
-    modeRef.current = null;
+    clearGapTimer();
+    currentIdRef.current = null;
+    haltOutput();
     setStatus('ready');
-    if (audioRef.current) {
-      audioRef.current.pause();
-      audioRef.current.currentTime = 0;
-    }
-    window.speechSynthesis?.cancel();
-    // The current segment restarts from its top next time Play is pressed.
+    refreshLiveDisplay();
   };
 
   useEffect(() => {
@@ -476,7 +713,7 @@ export default function Player() {
               <option value={1.3}>1.3×</option>
             </select>
           </label>
-          <span className="buffer" title="Minutes of queued audio ahead of playback">
+          <span className="buffer" title="How far ahead the live schedule is loaded">
             Buffer: {(bufferSeconds / 60).toFixed(1)} min
           </span>
         </div>
@@ -491,6 +728,15 @@ export default function Player() {
             <p className="np-meta">
               {nowPlaying.category} · {nowPlaying.source} · ~
               {Math.round(nowPlaying.estSeconds)}s
+            </p>
+          </>
+        ) : standby ? (
+          <>
+            <p className="np-title">{standby.seg.title}</p>
+            <p className="np-headline">{standby.seg.headline}</p>
+            <p className="np-meta">
+              On air at {clockTime(standby.atMs)} CT · the live stream resumes with the
+              next scheduled block
             </p>
           </>
         ) : (
@@ -522,6 +768,8 @@ export default function Player() {
           <h2>Live Script</h2>
           {nowPlaying ? (
             <p className="script-text">{nowPlaying.script}</p>
+          ) : standby ? (
+            <p className="script-text">{standby.seg.script}</p>
           ) : (
             <p>The script for the current segment will appear here.</p>
           )}
@@ -533,8 +781,10 @@ export default function Player() {
         {health ? (
           <p>
             Wire status: {health.totalItems} stories · local {health.countsByCategory.local} ·
+            state {health.countsByCategory.state} · regional {health.countsByCategory.regional} ·
             AI {health.countsByCategory.ai} · tech {health.countsByCategory.tech} · business{' '}
-            {health.countsByCategory.business} · global {health.countsByCategory.global} ·
+            {health.countsByCategory.business} · national {health.countsByCategory.national} ·
+            global {health.countsByCategory.global} ·
             newsletters {health.countsByCategory.newsletter} · music listings{' '}
             {health.countsByCategory.music} · last fetch{' '}
             {health.lastFeedFetchAt
