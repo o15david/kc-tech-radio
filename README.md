@@ -1,8 +1,10 @@
 # KC Tech Radio
 
 A 24x7 streaming tech radio station for Kansas City: local tech and business
-news, AI headlines in the spirit of TBPN, tech and business blocks, and
-general global news at the top of every hour. It plays in the web browser
+news, AI headlines in the spirit of TBPN, tech and business blocks, and a
+general news block at the top of every hour that runs **inside-out**:
+Kansas City first, then Missouri/Kansas state news, the Midwest, the
+nation, and the world last. It plays in the web browser
 and stays minutes ahead of the listener so the stream never breaks.
 
 **The hard rule: no AI in the pipeline.** There are no LLM calls anywhere.
@@ -14,7 +16,7 @@ credits to run, forever.
 
 ```
 RSS/Atom feeds ──> ingest (fetch, dedupe, tag) ──> format clock ──> /api/playlist
-   (14 sources)        5-min cache                   templates        queue of
+   (58 sources)        5-min cache                   templates        queue of
                                                                         segments
 Open-Meteo ────────> KC weather (or time-only fallback)                    │
                                                                            v
@@ -30,10 +32,12 @@ Open-Meteo ────────> KC weather (or time-only fallback)         
 
 ### 1. Ingestion (`lib/feeds.js`, `lib/rss.js`, `lib/ingest.js`)
 
-Server-side fetch of 14 public RSS/Atom feeds with a small dependency-free
+Server-side fetch of 56 public RSS/Atom feeds with a small dependency-free
 parser (RSS 2.0 + Atom). Items are normalized, deduped by link/GUID
-(tracking params stripped), timestamped, and tagged with one category:
-`local`, `ai`, `tech`, `business`, `global`. Fetches are cached for 5
+(tracking params stripped), timestamped, and tagged with one category.
+The general-news categories are the inside-out rings: `local` (KC metro),
+`state` (Missouri/Kansas), `regional` (Midwest), `national`, and `global`
+(world); the subject pools are `ai`, `tech`, and `business`. Fetches are cached for 5
 minutes in module memory and via Vercel's data cache (`revalidate: 300`),
 so playlist requests are nearly free. A dead feed never breaks the station:
 failures are recorded per-feed and the pool just runs smaller.
@@ -48,9 +52,9 @@ A fixed hourly wheel, like a real station:
 
 | Time | Block |
 | --- | --- |
-| :00 | **World News at the Top of the Hour** (global) |
-| :08 | **Kansas City Tech & Business Report** (local) |
-| :20 | **The AI Report** (ai) |
+| :00 | **News at the Top of the Hour** (general news, inside-out: local x2, state, regional, national, global) |
+| :08 | **Kansas City Tech & Business Report** (local; one story gets a two-host banter exchange) |
+| :20 | **The AI Report** (ai; one story gets a two-host banter exchange) |
 | :30 | Station ID + Kansas City time/weather check |
 | :33 | **Tech Headlines** (tech; newsletter items are the secondary pool) |
 | :37 | **Kansas City Music Scene** (tonight's shows, announcements, weekend and jazz picks; silent when the music feed is empty) |
@@ -71,7 +75,7 @@ filler segment keeps the stream alive.
 
 Spoken times are always the block's true scheduled start on the Chicago
 clock (that date at the block's start hour:minute), never "now plus whole
-hours": a global block that starts at 11:00 says "It is 11 AM Central
+hours": a top-of-hour block that starts at 11:00 says "It is 11 AM Central
 Time" even when the playlist was generated at 10:59. On the hour, times
 are spoken radio-style without the ":00". Every segment carries `startMs`
 (its scheduled start epoch) and `slotEndMs` (the next block's scheduled
@@ -93,8 +97,8 @@ of every show:
   fully cycled (the next cycle window begins), or when a genuinely new
   edition of the story arrives: a new link/GUID is a new item, and it
   enters at the front of its newest-first pool, eligible immediately.
-  Eight hours is sized to the wire: a cycle consumes at most ~170 story
-  slots against a live pool of ~210 stories, so blocks do not run dry
+  Eight hours is sized to the wire: a cycle consumes at most ~185 story
+  slots against a live pool of ~1,000 stories, so blocks do not run dry
   mid-cycle, while no story can resurface inside a single long listening
   session.
 - If a block's fresh pool runs dry, the block draws a fresh story from a
@@ -109,6 +113,29 @@ of every show:
   published by that instance's start, so a story published at 10:05 AM is
   never retroactively "aired" by a 3 AM replay instance. The player keeps
   its own session-level played sets as a backstop (see section 6).
+
+**Inside-out selection (the top-of-hour block).** General news runs
+inside-out, because selection weight follows direct control and impact
+for a KC metro listener: the closer the ring, the earlier and heavier it
+draws. The :00 block deals its six story slots by ring: metro (`local`)
+x2, state (`state`) x1, regional (`regional`) x1, national (`national`)
+x1, world (`global`) x1, national deliberately briefest. Within a ring,
+stories are freshest-first under the same no-repeat cycle rules; a dry
+ring's slot falls outward through the later rings, then the general
+fallback order, so the block fills without repeating and still leads as
+close to home as the wire allows. Fallback order everywhere also runs
+inside-out: local, state, regional, ai, tech, business, national,
+global, newsletter.
+
+**Two-host banter.** The KC Tech & Business Report and The AI Report are
+two-host shows. One story per airing (picked by hash of the block
+instance, so it moves around) gets a short exchange right after it: the
+anchor reads the story exactly as usual, the co-host (Aria) reacts with a
+line from `BANTER_REACTIONS` in `lib/gonzo.js`, and the anchor counters
+from `BANTER_COUNTERS`. The exchange is three consecutive segments typed
+`story` / `banter` (role `reaction`) / `banter` (role `counter`) with
+alternating voices. The story counts once in the aired set; the banter
+lines are framing copy and draw nothing.
 
 **Editorial stance.** "Snarky and funny, self-deprecating to KC and tech,
 but should not be a tech curmudgeon. This is a pro-KC, pro-tech radio
@@ -133,11 +160,12 @@ Returns the current segment plus upcoming segments totaling **at least 12
 minutes** of airtime. Segment durations are estimated from word count at a
 fixed 155 words/minute, so timing is deterministic. Each segment carries
 its scheduled window (`startMs`, plus `slotEndMs` for the end of its
-block's slot). The player refetches when its unplayed tail drops below 5
-minutes; because a refill restarts at the beginning of the current block
-instance, the player appends only segments it has not already queued *or
-played* (see the backstop in section 6), and drops unplayed segments whose
-scheduled window has fully passed rather than airing stale content.
+block's slot). The player refetches when the loaded schedule runs out
+within 5 minutes, appends only segments it has not already queued *or
+played* (see the backstop in section 6), and drops whole blocks whose slot
+has fully passed rather than airing stale content. The schedule itself is
+the stream: the player locks playback to these windows on the wall clock
+(see section 6).
 
 ### 4. The voice: pre-rendered neural audio (`lib/voices.js`, `lib/tts.js`, `app/api/audio/route.js`)
 
@@ -147,14 +175,20 @@ free read-aloud service built into Edge: no API key, no account, no AI
 credits) through the `msedge-tts` client.
 
 - **Voices** are configured in exactly one place, `lib/voices.js`. The
-  anchor voice is `en-US-ChristopherNeural`; the World News block at the
-  top of the hour uses `en-US-AriaNeural` so the hour opens with a distinct
-  read. Edit those two constants to recast the station.
+  anchor voice is `en-US-ChristopherNeural`; the co-host voice
+  `en-US-AriaNeural` reads the News at the Top of the Hour block so the
+  hour opens with a distinct read, and delivers the reaction lines in the
+  two-host banter exchanges (a segment may carry an explicit voice, which
+  is how banter alternates hosts). Edit those two constants to recast the station.
 - Each playlist segment carries a `voice` and an `audioUrl`:
   `/api/audio?v=<voice>&t=<script>`. The URL fully determines the audio, so
   the route answers with year-long immutable cache headers; a warm instance
   also keeps an in-memory cache keyed by SHA-256 of voice + text
-  (`lib/tts.js`). Deterministic segments effectively render once.
+  (`lib/tts.js`). Deterministic segments effectively render once. The route
+  also returns `X-Audio-Duration-Seconds`: the renders are
+  constant-bitrate, so duration follows from the byte size
+  (`mp3DurationSeconds` in `lib/tts.js`), and the player's wall-clock
+  timeline is built from these real durations (see section 6).
 - **Production upgrade path**: the in-memory cache resets on serverless
   cold starts, so a cold instance may re-render a segment once. If that
   ever matters, put a persistent blob store (e.g. Vercel Blob) behind
@@ -167,7 +201,8 @@ credits) through the `msedge-tts` client.
 The production voice is TBPN pacing and NPR polish, produced as if Hunter
 S. Thompson were running the board. All of that attitude lives in one
 hand-written file, `lib/gonzo.js`: show opens, story transitions, station
-IDs, the global block's framing lines, sign-offs, and **The Producer's
+IDs, the top-of-hour block's framing lines, sign-offs, the two-host
+banter pools (`BANTER_REACTIONS` / `BANTER_COUNTERS`), and **The Producer's
 Desk**, a short fixed-copy rant at the industry that airs once an hour
 (:50). No LLM writes or picks copy at runtime; pool selection is a hash of
 the segment id, so hours are stable and cacheable.
@@ -183,25 +218,64 @@ editing the pools in `lib/gonzo.js` directly.
 A radio-style page: Play/Pause/Stop, a live America/Chicago clock, Now
 Playing, Up Next, a live script view showing exactly what is being read,
 volume and voice-rate controls, and a status footer (last wire fetch, story
-counts per category, server buffer depth). Playback is MP3-first: the
-player plays each segment's `audioUrl` and **preloads the next segment's
-MP3 while the current one plays**, so the stream rolls gaplessly and stays
-minutes ahead. Only if an MP3 fails to load or play does it fall back to
-the browser's `speechSynthesis` for that segment (sentence-chunked, with a
-periodic `resume()` nudge for Chrome's long-session stalls), then tries
-MP3 again on the next segment. A TTS outage degrades the voice, never the
-stream.
+counts per category, server buffer depth).
 
-Repeat protection on this side is a session-level backstop to the server's
-no-repeat rotation: the player records every segment id it starts playing
-and every played story's key (its link, falling back to headline), and a
-refill never re-queues either, even if a pool refresh re-slotted a story
-under a new segment id. Unplayed segments whose scheduled window
-(`startMs` + estimated duration) has fully passed are pruned at refill and
-on Play, with the current and next-up segments protected. Position
-tracking runs on real audio end events, never on the duration estimates,
-so playback cannot drift out of the server's schedule and resync by
-restarting a block.
+**Playback is wall-clock-locked: one constant stream, not a personal
+queue.** The pure selection logic lives in `lib/liveEdge.js` (shared with
+the verification harness in `scripts/live-edge-check.mjs`). Each segment's
+scheduled `startMs` anchors a timeline of *effective windows*: within a
+block, segments tile back-to-back using **real MP3 durations** — learned
+from the audio elements' metadata and from the `X-Audio-Duration-Seconds`
+header `/api/audio` returns (the renders are constant-bitrate, so the
+header's byte-size math is near-exact, and the player HEAD-warms the next
+few segments, which also pre-renders them server-side) — with the
+word-count estimate as fallback only. A window never crosses its block's
+`slotEndMs`: an overrunning block is cut by the schedule, the way the next
+show starts on time at a real station.
+
+- **Tune-in at the live edge.** Play, a return to the page, and a resume
+  all find the segment whose window contains *now* and start its MP3 at
+  offset `now - window start` via `currentTime`. Nobody hears the queue
+  from the top, and a returning listener lands on whatever is live then —
+  never on a replay of the current block.
+- **Re-anchoring.** Every segment transition recomputes position from the
+  wall clock, and a watchdog does the same every few seconds. If playback
+  fell behind the live edge (drift, a buffering stall, background-tab
+  throttling), the stale remainder is skipped and the live segment starts
+  instead. At natural rate, an audio element lagging its wall-clock offset
+  by more than 5 seconds is seeked forward in place.
+- **Gaps are real.** A block's copy usually runs shorter than its slot, so
+  the schedule itself has quiet stretches. The player waits them out and
+  starts the next segment at its true start (Now Playing shows what is on
+  air next, and when), rather than starting it early: a segment that
+  announces a time is only ever heard inside its true window, so **spoken
+  times are correct by construction**.
+- **Pause is a deliberate hold.** It freezes the output where it is; the
+  wall clock keeps moving, and resume re-anchors to the live edge — you
+  rejoin the stream, you do not catch up on what aired while you were gone.
+- **Audio failure is per-segment.** Playback is MP3-first, with the next
+  segment's MP3 preloaded while the current one plays. Only if a segment's
+  MP3 fails to load or play does that segment fall back to the browser's
+  `speechSynthesis` (sentence-chunked, with a periodic `resume()` nudge for
+  Chrome's long-session stalls; speech cannot seek, so the fallback reads
+  its one segment from the top), and the next segment re-anchors and tries
+  MP3 again. A TTS outage degrades the voice, never the stream.
+
+The Now Playing / Up Next display always reflects the live position — what
+is on air now — not where a personal queue happens to sit. Repeat
+protection on this side is now a backstop to the server's no-repeat
+rotation and the live-edge model: the player records every segment id it
+starts and finishes and every played story's key (its link, falling back
+to headline); a refill never re-queues them, finished segments are never
+re-entered even if the clock is still inside their window, and whole
+blocks whose slot has fully passed are pruned instead of airing stale.
+
+**Honest framing:** on Vercel this is a *synchronized emulation* of a
+constant stream — every listener hears the same segment at the same
+moment, within a few seconds — not a literal always-on Icecast stream. A
+literal stream would need an always-on host pushing one audio feed; the
+segment/schedule contract here already carries everything such a host
+would need.
 
 ### 7. Weather
 
@@ -302,19 +376,51 @@ come from the gonzo pools.
 
 ## Feeds
 
-Verified live at build time (Nov 19, 2026):
+56 RSS feeds plus the 2 assistant-generated JSON feeds, every one
+verified live (fetched and parsed with the station's own parser, current
+items confirmed) at build time or in the Nov 19, 2026 inside-out
+expansion. The roster is also listed, with per-feed notes, in
+`lib/feeds.js`.
 
-- **local**: Startland News, Silicon Prairie News, KCUR (`kcur.org/news.rss`)
-- **ai**: TechCrunch AI, MIT Technology Review
-- **tech**: TechCrunch, The Verge, Ars Technica, Hacker News
-- **business**: CNBC, MarketWatch Top Stories
-- **global**: BBC World, NPR News, Al Jazeera
+- **local** (KC metro): Startland News, Silicon Prairie News, KCUR
+  (`kcur.org/news.rss`), Flatland KC, Johnson County Post, Kansas City
+  Magazine, The Pitch KC
+- **state** (MO/KS): Missouri Independent, Kansas Reflector, Missourinet
+- **regional** (Midwest): Iowa Capital Dispatch, Nebraska Examiner,
+  Minnesota Reformer, Oklahoma Voice, Arkansas Advocate, Indiana Capital
+  Chronicle, Capitol News Illinois
+- **ai**: TechCrunch AI, MIT Technology Review, OpenAI Blog, Google
+  DeepMind, Google AI Blog, NVIDIA Blog, AWS Machine Learning Blog,
+  The Decoder, MarkTechPost
+- **tech**: TechCrunch, The Verge, Ars Technica, Hacker News, Wired,
+  Engadget, NYT Technology, Fast Company, CNBC Technology
+- **business**: CNBC, MarketWatch Top Stories, Fortune, Bloomberg
+  Technology
+- **national**: NPR News, The Hill, PBS NewsHour, CBS News, NBC News,
+  ABC News, NYT Home Page, Axios
+- **global**: BBC World, Al Jazeera, The Guardian World, DW News,
+  France 24, CBC World, Sky News World, UN News, SCMP World
 
-Dropped after verification: Kansas City Business Journal (RSS endpoint
-returns 403 to non-browser clients) and AP (no public RSS feed). Startland
-and Silicon Prairie sit behind Cloudflare and occasionally challenge rapid
-repeat requests; the 5-minute cache keeps request volume low enough that
-this has not been a problem.
+Attempted but dropped after verification (details in `lib/feeds.js`):
+Kansas City Business Journal (403 bot wall), AP (no public RSS), KC Star
+(feed requests time out), Shawnee Mission Post (fetch fails), Northeast
+News KC (404), Kansas City Beacon (fetch fails), KCUR politics feed
+(404; the main KCUR feed carries its statehouse coverage), St. Louis
+Post-Dispatch (0 items parsed), St. Louis Public Radio (404), USA Today
+(timeouts), Washington Post National (parses in isolation but
+consistently exceeds the station's 9s fetch timeout), WSJ via Dow Jones
+(feed is a frozen snapshot, newest item ~22 months old), Anthropic and
+Meta AI (no public RSS), VentureBeat AI (429), AI News (0 items),
+Hugging Face blog (no usable summaries; community upload firehose),
+Google Research blog (almost no summaries, sparse), arXiv cs.AI (daily
+abstract firehose that would flood the AI pool), Reuters (public RSS
+discontinued). Verified live but held back for scope: Wisconsin
+Examiner, Ohio Capital Journal, South Dakota Searchlight, North Dakota
+Monitor, Bridge Michigan (outside the KC-centric regional ring).
+
+Startland and Silicon Prairie sit behind Cloudflare and occasionally
+challenge rapid repeat requests; the 5-minute cache keeps request volume
+low enough that this has not been a problem.
 
 ## Run it locally
 
@@ -355,9 +461,11 @@ because it refills its own queue.
 ## Known limitations / future work
 
 - Playback still requires the listener's tab to stay open, and browsers
-  require a user gesture (the Play button) before audio starts. A true
-  HLS/Icecast-style stream that any player can consume remains a possible
-  future step; the segment/queue contract already supports it.
+  require a user gesture (the Play button) before audio starts. The stream
+  is a synchronized emulation locked to the wall clock (see section 6),
+  not a literal always-on HLS/Icecast feed that any player can consume;
+  that remains a possible future step, and the segment/schedule contract
+  already supports it.
 - Edge TTS is an unofficial free service (the one Edge's read-aloud uses).
   If it is ever unreachable, `/api/audio` returns 502 and the player falls
   back to browser speech for those segments; the stream itself never stops.
