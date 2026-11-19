@@ -1,17 +1,24 @@
 import { NextResponse } from 'next/server';
 import { getNewsPool, countByCategory } from '../../../lib/ingest';
 import { getKansasCityWeather } from '../../../lib/weather';
+import { getSocialItems } from '../../../lib/social';
 import { buildPlaylist } from '../../../lib/format';
 import { warmSegmentAudio } from '../../../lib/tts';
 
 export const dynamic = 'force-dynamic';
 
 export async function GET() {
-  const [pool, weather] = await Promise.all([
+  const [pool, weather, socialItems] = await Promise.all([
     getNewsPool(),
     getKansasCityWeather(),
+    getSocialItems(),
   ]);
-  const { segments, bufferSeconds } = buildPlaylist(pool, weather);
+  const { segments, bufferSeconds, callerCount } = buildPlaylist(
+    pool,
+    weather,
+    Date.now(),
+    socialItems
+  );
   // Health checks build the queue anyway; use the pass to warm the
   // audio cache for the queue's head too (fire-and-forget, deduped
   // against the playlist route's passes; see lib/tts.js).
@@ -24,6 +31,10 @@ export async function GET() {
     countsByCategory: countByCategory(pool),
     bufferMinutes: Math.round((bufferSeconds / 60) * 10) / 10,
     weatherAvailable: Boolean(weather),
+    // Social callers in the queue this health pass built, and how
+    // many validated caller items the social feed currently offers.
+    callerCount,
+    socialFeedItems: socialItems.length,
     // Per-feed status of the last ACCEPTED refresh. A rejected
     // (collapsed) refresh never overwrites these counts; the failed
     // attempt itself is reported in lastRefresh instead.
