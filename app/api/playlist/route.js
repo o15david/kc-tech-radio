@@ -27,6 +27,10 @@ export async function GET() {
     callerCount,
     topicGuardSkipped,
     entityBudgetSkipped,
+    neverAiredStories,
+    recycledStories,
+    poolNeverAired,
+    poolRecycled,
   } = buildPlaylist(pool, weather, Date.now(), socialItems);
   // Server-side pre-render (lib/tts.js): warm the audio cache for the
   // segments at the head of the queue so a listener's player finds them
@@ -60,6 +64,15 @@ export async function GET() {
     // invisible in the response.
     topicGuardSkipped,
     entityBudgetSkipped,
+    // Consume-and-replace observability: the served mix (stories
+    // in this queue that are never-aired vs recycled from the
+    // aired fallback, oldest-aired first) and the pool split at
+    // build time. Recycling is never quiet: if fresh inflow ever
+    // falls behind consumption, recycledStories climbs visibly.
+    neverAiredStories,
+    recycledStories,
+    poolNeverAired,
+    poolRecycled,
     segments,
   });
 }
