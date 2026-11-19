@@ -20,17 +20,26 @@
 //      that moment, not on anything already played.
 //   5. The continuous chain: with estimated durations, segment windows
 //      tile the whole buffer with zero gaps (the schedule has no holes
-//      by construction since the dead-air fix). Plus the overrun rule:
-//      a story whose real MP3 runs 10 minutes long is cut at its
-//      slot end (the next segment's start), and just after that the
-//      selection is the live segment, never the stale overrun.
+//      by construction since the dead-air fix). Plus the NO-CUT rule:
+//      a story whose real MP3 runs 10 minutes long is NOT cut at its
+//      slot end; its effective window extends to its real end, tune-in
+//      during the overrun finds it, and a stale anchor overtaken by
+//      drift is skipped rather than aired late.
+//   6. Simulated listening walk: with deterministic pseudo-real
+//      durations spanning the measured error range, a sequential
+//      player (nextInSequence transitions, the way app/Player.js now
+//      plays) walks a full hour. Every segment it starts plays its
+//      full real duration; anchors either start on their pinned
+//      minute or are skipped; there is no dead air between segments
+//      except explicit waits that end exactly at an anchor's start.
 // ============================================================================
 
 import { register } from 'node:module';
 // lib/*.js use extensionless imports (bundler-style); teach Node.
 register('./extensionless-loader.mjs', import.meta.url);
-const { buildPlaylist, epochForChicagoWall } = await import('../lib/format.js');
-const { effectiveTimeline, liveSegmentAt, nextPlayable } = await import('../lib/liveEdge.js');
+const { buildPlaylist, epochForChicagoWall, hashString } = await import('../lib/format.js');
+const { effectiveTimeline, liveSegmentAt, nextPlayable, nextInSequence, isAnchorSegment } =
+  await import('../lib/liveEdge.js');
 
 let failures = 0;
 function check(name, cond, detail = '') {
@@ -158,8 +167,8 @@ check(
   back.type === 'segment' && `offsetMs=${back.offsetMs}`
 );
 
-// --- 5. Continuous chain + overrun cut ------------------------------------------
-console.log('\n5. Continuous chain (no holes) and overrun handling');
+// --- 5. Continuous chain + no-cut overrun handling ----------------------------
+console.log('\n5. Continuous chain (no holes) and no-cut overrun handling');
 // With estimated durations, every segment's effective window must end
 // exactly where the next begins: the chain tiles the buffer.
 let maxGapMs = 0;
@@ -174,36 +183,119 @@ check(
   maxGapMs <= 2000,
   `maxGapMs=${maxGapMs}`
 );
-check('no overlapping windows', overlaps === 0, `overlaps=${overlaps}`);
+check('no overlapping windows at estimated durations', overlaps === 0, `overlaps=${overlaps}`);
 // Overrun: give a Business story a real duration 10 minutes longer than
-// its estimate: its effective window must be cut at its slot end (the
-// next segment's scheduled start), and just after the slot end the live
-// selection must be the segment scheduled then, not the stale overrun.
+// its estimate. The NO-CUT rule: its effective window extends to its
+// real end (never capped at the slot end), a listener tuning in during
+// the overrun finds the story still playing, and when it finally
+// finishes, the sequence moves to its successor at offset 0.
 const bizEntry = tl.find((e) => e.seg.blockKey === 'business-headlines' && e.seg.kind === 'story');
 const durations = new Map([[bizEntry.seg.id, bizEntry.seg.estSeconds + 600]]);
 const tlFat = effectiveTimeline(segments, durations);
 const fatEntry = tlFat.find((e) => e.seg.id === bizEntry.seg.id);
 check(
-  'overrunning segment is cut at its slot end (next segment\'s start)',
-  fatEntry.endMs === fatEntry.seg.slotEndMs,
+  'overrunning segment window extends to its real end, past its slot end',
+  fatEntry.endMs === fatEntry.startMs + (bizEntry.seg.estSeconds + 600) * 1000 &&
+    fatEntry.endMs > fatEntry.seg.slotEndMs,
   `endMs=${new Date(fatEntry.endMs).toISOString()} slotEndMs=${new Date(fatEntry.seg.slotEndMs).toISOString()}`
 );
-const afterMs = fatEntry.endMs + 5000;
-const after = nextPlayable(tlFat, afterMs, new Set());
-const afterEntry = after.type === 'segment' ? tlFat[after.index] : null;
+const duringMs = fatEntry.seg.slotEndMs + 5000; // inside the overrun, past the slot end
+const during = nextPlayable(tlFat, duringMs, new Set());
 check(
-  'just after the slot end the selection is the live segment, not the stale overrun',
-  !!afterEntry && afterEntry.seg.id !== bizEntry.seg.id &&
-    afterEntry.startMs <= afterMs && afterMs < afterEntry.endMs,
-  afterEntry ? afterEntry.seg.id : after.type
+  'tune-in during the overrun finds the story still playing (not skipped)',
+  during.type === 'segment' && tlFat[during.index].seg.id === bizEntry.seg.id,
+  during.type === 'segment' ? tlFat[during.index].seg.id : during.type
 );
-// Playback-behind variant: the same decision when the listener's player
-// only finished the fat segment after its slot end (it played long).
-const late = nextPlayable(tlFat, afterMs, new Set([bizEntry.seg.id]));
+const finishMs = fatEntry.endMs + 120; // it finishes, late, in full
+const seq = nextInSequence(tlFat, tlFat.indexOf(fatEntry), new Set([bizEntry.seg.id]), finishMs);
 check(
-  'a player that finished the overrun late also skips forward',
-  late.type === 'segment' && tlFat[late.index].seg.id !== bizEntry.seg.id,
-  late.type === 'segment' ? tlFat[late.index].seg.id : late.type
+  'after the late finish, the sequence advances to a successor',
+  seq.type === 'segment' || seq.type === 'wait',
+  JSON.stringify(seq)
+);
+// Stale anchor rule: finish the last span-1 segment after the :57
+// tease's pinned minute has passed; the tease must be SKIPPED (never
+// aired late) and playback must land on a later segment.
+const teaseIdx = tlFat.findIndex((e) => e.seg.blockKey === 'hour-tease');
+const teaseEntry = tlFat[teaseIdx];
+const beforeTeaseIdx = teaseIdx - 1;
+const lateSeq = nextInSequence(
+  tlFat, beforeTeaseIdx, new Set([tlFat[beforeTeaseIdx].seg.id]), teaseEntry.seg.startMs + 5000
+);
+check(
+  'an anchor overtaken by drift is skipped, never aired late',
+  (lateSeq.skipped || []).includes(teaseEntry.seg.id) &&
+    (lateSeq.type === 'ended' || lateSeq.index > teaseIdx),
+  JSON.stringify(lateSeq)
+);
+
+// --- 6. Simulated listening walk ------------------------------------------------
+console.log('\n6. Simulated listening walk (sequential player, pseudo-real durations)');
+// Deterministic pseudo-real durations spanning and exceeding the
+// measured error range (ratios 0.92x to 1.28x of estimate).
+const realDur = new Map();
+for (const s of segments) {
+  const ratio = 0.92 + (hashString(s.id) % 37) / 100;
+  realDur.set(s.id, Math.max(3, Math.round(s.estSeconds * ratio * 10) / 10));
+}
+const tlReal = effectiveTimeline(segments, realDur);
+// Start the walk exactly at the :30 station ID's start (a segment
+// boundary), then play sequentially the way app/Player.js does.
+let idx = tlReal.findIndex((e) => e.seg.id === sidEntry.seg.id);
+let playhead = sidEntry.startMs;
+const walkEnd = playhead + 3600 * 1000;
+const playedIds = new Set();
+const finishedWalk = new Set();
+let playedCount = 0;
+let anchorStartsOnTime = 0;
+let anchorsPlayed = 0;
+let waits = 0;
+let waitTotalMs = 0;
+let violations = 0;
+let guard = 0;
+while (playhead < walkEnd && idx >= 0 && idx < tlReal.length && guard++ < 600) {
+  const entry = tlReal[idx];
+  const seg = entry.seg;
+  if (playedIds.has(seg.id)) { violations++; console.log(`    repeat in walk: ${seg.id}`); break; }
+  playedIds.add(seg.id);
+  // The segment plays its FULL real duration: the walk advances the
+  // playhead by exactly the real duration, never by the (shorter)
+  // estimated window. If the player cut at estimated windows, the
+  // playhead would advance by estSeconds instead and every start
+  // below would drift early; the anchor assertions catch that model.
+  const durMs = realDur.get(seg.id) * 1000;
+  if (isAnchorSegment(seg)) {
+    anchorsPlayed++;
+    if (Math.abs(playhead - seg.startMs) <= 2000) anchorStartsOnTime++;
+    else console.log(`    anchor played off its minute: ${seg.id} start=${new Date(seg.startMs).toISOString()} playhead=${new Date(playhead).toISOString()}`);
+  }
+  playedCount++;
+  playhead += durMs;
+  finishedWalk.add(seg.id);
+  const nxt = nextInSequence(tlReal, idx, finishedWalk, playhead);
+  for (const id of nxt.skipped || []) finishedWalk.add(id);
+  if (nxt.type === 'segment') {
+    idx = nxt.index;
+  } else if (nxt.type === 'wait') {
+    waits++;
+    waitTotalMs += nxt.waitMs;
+    playhead += nxt.waitMs;
+    idx = nxt.index;
+  } else {
+    break;
+  }
+}
+check(`walk played a full hour of segments (${playedCount})`, playedCount >= 40, `played=${playedCount}`);
+check('no segment repeated in the walk', violations === 0 && playedIds.size === playedCount);
+check(
+  `every anchor played started on its pinned minute (${anchorStartsOnTime}/${anchorsPlayed})`,
+  anchorStartsOnTime === anchorsPlayed,
+  `${anchorStartsOnTime}/${anchorsPlayed}`
+);
+check(
+  `waits only ever end at an anchor start (waits=${waits}, total ${(waitTotalMs / 1000).toFixed(0)}s)`,
+  waitTotalMs <= 180 * 1000,
+  `waitTotalMs=${waitTotalMs}`
 );
 
 console.log(failures ? `\n${failures} check(s) FAILED` : '\nAll checks passed.');

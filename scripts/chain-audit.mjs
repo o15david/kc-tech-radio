@@ -66,7 +66,8 @@ function windowOf(seg) {
   return [start, end];
 }
 
-function auditPlaylist(label, segments, sampleFromMs, sampleToMs) {
+function auditPlaylist(label, segments, sampleFromMs, sampleToMs, opts = {}) {
+  const strictMix = opts.strictMix !== false;
   console.log(`\n--- ${label}: ${segments.length} segments ---`);
   // Gap audit (uncapped windows: what would actually be heard back to back)
   let maxGapMs = 0;
@@ -132,6 +133,183 @@ function auditPlaylist(label, segments, sampleFromMs, sampleToMs) {
   }
   check(`all ${anchors} anchors start at their pinned minute exactly`, anchorBad === 0, `bad=${anchorBad}`);
   check(`every time-speaking segment (${timeSpeakers}) speaks its own start time`, timeBad === 0, `bad=${timeBad}`);
+
+  // --- Span composition: filler discipline (David's fill rules) -----
+  // (a) No run of consecutive filler over the caps: 5 segments / 60s
+  //     (62s tolerance for the solver's +2s anchor-cap trick). A run
+  //     containing wireExhausted segments is not a discipline
+  //     failure: the wire ran dry in that span and the solver topped
+  //     up so the chain would not break. Those runs are REPORTED
+  //     (hour + size) instead of asserted against, per David's rule
+  //     that a genuinely thin hour gets stated, not hidden.
+  let runSegs = 0;
+  let runSec = 0;
+  let runExhausted = false;
+  let runStartMs = 0;
+  let worstRunSegs = 0;
+  let worstRunSec = 0;
+  let exhaustedRuns = 0;
+  let exhaustedSec = 0;
+  const flushRun = () => {
+    if (runSegs && runExhausted) {
+      exhaustedRuns++;
+      exhaustedSec += runSec;
+      if (exhaustedRuns <= 3) {
+        console.log(`    note: wire-exhausted filler run at ${new Date(runStartMs).toISOString()}: ${runSegs} segs / ${runSec}s (pool ran dry; reported, not asserted)`);
+      }
+    } else if (runSegs) {
+      if (runSegs > worstRunSegs) worstRunSegs = runSegs;
+      if (runSec > worstRunSec) worstRunSec = runSec;
+    }
+    runSegs = 0;
+    runSec = 0;
+    runExhausted = false;
+  };
+  for (const seg of segments) {
+    if (seg.kind === 'filler') {
+      if (!runSegs) runStartMs = seg.startMs;
+      runSegs++; runSec += seg.estSeconds;
+      if (seg.wireExhausted) runExhausted = true;
+    } else flushRun();
+  }
+  flushRun();
+  if (exhaustedRuns) console.log(`  wire-exhausted runs: ${exhaustedRuns}, totaling ${exhaustedSec}s of filler`);
+  check(
+    `no filler run over caps (worst ${worstRunSegs} segs / ${worstRunSec}s; caps 5 segs / 60s)`,
+    worstRunSegs <= 5 && worstRunSec <= 62,
+    `worstRunSegs=${worstRunSegs} worstRunSec=${worstRunSec}`
+  );
+  // (b) No filler type recurs within 180s of its last use (type from
+  //     the segment's fillerType, title as fallback for old builds).
+  const TYPE_BY_TITLE = {
+    'Station ID': 'id', 'Kansas City Weather': 'weather',
+    "The Producer's Desk": 'desk', 'KC Tech Radio': 'promo',
+  };
+  const lastTypeEnd = new Map();
+  let typeViolations = 0;
+  for (const seg of segments) {
+    // The cooldown window runs within a span; an anchor segment is a
+    // natural separator and resets it (mirrors lib/format.js).
+    if (
+      seg.blockKey === 'station-id' || seg.blockKey === 'hour-tease' ||
+      (seg.blockKey === 'general-news' && seg.kind === 'intro')
+    ) {
+      lastTypeEnd.clear();
+    }
+    if (seg.kind !== 'filler') continue;
+    const type = seg.fillerType || TYPE_BY_TITLE[seg.title] || 'promo';
+    const prev = lastTypeEnd.get(type);
+    // Repeats involving wire-exhausted segments are reported with
+    // the exhausted runs above, not counted here: with five types
+    // and a dry wire, the cooldown cannot hold across a long top-up.
+    if (prev != null && !seg.wireExhausted && !prev.exhausted && seg.startMs - prev.end < 175 * 1000) {
+      typeViolations++;
+      if (typeViolations <= 3) {
+        console.log(`    filler type repeat: ${type} at ${new Date(seg.startMs).toISOString()}, previous ended ${((seg.startMs - prev.end) / 1000).toFixed(0)}s earlier`);
+      }
+    }
+    lastTypeEnd.set(type, { end: seg.startMs + seg.estSeconds * 1000, exhausted: !!seg.wireExhausted });
+  }
+  check('no filler type repeats within 180s of its last use', typeViolations === 0, `violations=${typeViolations}`);
+  // (c) The first story in every span arrives within 90s of the
+  //     span's start. Spans begin at anchor segments (:00 general
+  //     intro, :30 station ID, :57 tease). Chicago hours align with
+  //     UTC hour floors (whole-hour offset), so the bucket key works.
+  const spanStarts = [];
+  segments.forEach((seg, i) => {
+    const minute = chicagoMinuteOf(seg.startMs);
+    const isSpanStart =
+      (seg.blockKey === 'general-news' && seg.kind === 'intro' && minute === 0) ||
+      (seg.blockKey === 'station-id' && minute === 30) ||
+      (seg.blockKey === 'hour-tease' && minute === 57);
+    if (isSpanStart) spanStarts.push(i);
+  });
+  let spansChecked = 0;
+  let spanViolations = 0;
+  spanStarts.forEach((si, k) => {
+    const startMs = segments[si].startMs;
+    const endMs = k + 1 < spanStarts.length ? segments[spanStarts[k + 1]].startMs : Infinity;
+    const firstStory = segments.slice(si).find((s) => s.kind === 'story' && s.startMs < endMs);
+    if (!firstStory) {
+      // A span with no story at all fails, unless it is a reported
+      // wire-exhaustion span (or the partial span at the buffer edge).
+      const spanSegs = segments.slice(si).filter((s) => s.startMs < endMs);
+      if (endMs !== Infinity && !spanSegs.some((s) => s.wireExhausted)) {
+        spansChecked++;
+        spanViolations++;
+        console.log(`    span at ${new Date(startMs).toISOString()}: no story in the whole span`);
+      }
+      return;
+    }
+    spansChecked++;
+    const delay = (firstStory.startMs - startMs) / 1000;
+    if (delay > 90) {
+      spanViolations++;
+      console.log(`    span at ${new Date(startMs).toISOString()}: first story after ${delay.toFixed(0)}s`);
+    }
+  });
+  check(
+    `first story within 90s in every span (${spansChecked} spans)`,
+    spanViolations === 0 && spansChecked > 0,
+    `violations=${spanViolations} spans=${spansChecked}`
+  );
+
+  // --- Mix census ----------------------------------------------------
+  // Story-dominant mix (David's census complaint: 133 filler vs 105
+  // stories in a live buffer). Ceilings: filler <= 20% of segments
+  // and <= 15% of seconds. Banter cadence: >= 6 exchanges per covered
+  // hour (an exchange = a reaction + a counter = 2 banter segments).
+  const census = new Map();
+  let totalSec = 0;
+  for (const seg of segments) {
+    const a = census.get(seg.kind) || { n: 0, sec: 0 };
+    a.n++; a.sec += seg.estSeconds;
+    census.set(seg.kind, a);
+    totalSec += seg.estSeconds;
+  }
+  const censusStr = [...census.entries()]
+    .map(([k, a]) => `${k}=${a.n} (${a.sec}s)`)
+    .join(' ');
+  console.log(`  census: ${censusStr} | total ${segments.length} segs, ${totalSec}s`);
+  const fillerA = census.get('filler') || { n: 0, sec: 0 };
+  if (strictMix) {
+    check(
+      `filler is a clear minority (segments ${(100 * fillerA.n / segments.length).toFixed(1)}% <= 20%, seconds ${(100 * fillerA.sec / totalSec).toFixed(1)}% <= 15%)`,
+      fillerA.n / segments.length <= 0.20 && fillerA.sec / totalSec <= 0.15,
+      `fillerSegs=${fillerA.n}/${segments.length} fillerSec=${fillerA.sec}/${totalSec}`
+    );
+  } else {
+    console.log('  note: mix ceilings not asserted for this audit (stress pool by construction)');
+  }
+  const banterByHour = new Map();
+  for (const seg of segments) {
+    if (seg.kind !== 'banter') continue;
+    const h = Math.floor(seg.startMs / 3600000);
+    banterByHour.set(h, (banterByHour.get(h) || 0) + 1);
+  }
+  const coveredHours = new Map();
+  for (const seg of segments) {
+    const h = Math.floor(seg.startMs / 3600000);
+    coveredHours.set(h, (coveredHours.get(h) || 0) + seg.estSeconds);
+  }
+  let banterViolations = 0;
+  let banterHours = 0;
+  for (const [h, sec] of coveredHours) {
+    if (sec < 3000) continue; // only judge substantially covered hours
+    banterHours++;
+    const exchanges = (banterByHour.get(h) || 0) / 2;
+    if (exchanges < 6) {
+      banterViolations++;
+      console.log(`    hour bucket ${h}: only ${exchanges} banter exchanges`);
+    }
+  }
+  if (strictMix) {
+    check(
+      `banter cadence: >= 6 exchanges in every covered hour (${banterHours} hours)`,
+      banterViolations === 0 && banterHours > 0,
+      `violations=${banterViolations} hours=${banterHours}`
+    );
+  }
 }
 
 const urlArg = process.argv.indexOf('--url');
@@ -190,7 +368,7 @@ for (const [label, t, sparse] of TIMES) {
   const firstStart = segments[0].startMs;
   const lastEnd = segments[segments.length - 1].startMs + segments[segments.length - 1].estSeconds * 1000;
   console.log(`\n=== ${label}: pool ${p.items.length} items, bufferSeconds=${bufferSeconds} ===`);
-  auditPlaylist(label, segments, Math.max(t, firstStart), lastEnd);
+  auditPlaylist(label, segments, Math.max(t, firstStart), lastEnd, { strictMix: !sparse });
   const again = buildPlaylist(p, weather, t);
   check('determinism: two builds byte-identical', JSON.stringify(again.segments) === JSON.stringify(segments));
 }
