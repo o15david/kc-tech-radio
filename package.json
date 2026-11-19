@@ -1,0 +1,1 @@
+{"dependencies":{"next":"^15.1.6","react":"^19.0.0","react-dom":"^19.0.0"},"description":"KC Tech Radio: a deterministic, template-driven 24x7 streaming tech news radio station. No LLMs anywhere in the pipeline.","name":"kc-tech-radio","private":true,"scripts":{"build":"next build","dev":"next dev","start":"next start"},"version":"1.0.0"}
