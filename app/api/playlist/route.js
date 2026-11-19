@@ -19,8 +19,15 @@ export async function GET() {
     getKansasCityWeather(),
     getSocialItems(),
   ]);
-  const { generatedAt, segments, queueSeconds, bufferSeconds, callerCount } =
-    buildPlaylist(pool, weather, Date.now(), socialItems);
+  const {
+    generatedAt,
+    segments,
+    queueSeconds,
+    bufferSeconds,
+    callerCount,
+    topicGuardSkipped,
+    entityBudgetSkipped,
+  } = buildPlaylist(pool, weather, Date.now(), socialItems);
   // Server-side pre-render (lib/tts.js): warm the audio cache for the
   // segments at the head of the queue so a listener's player finds them
   // already rendered. Pure side effect: it never alters the response, and
@@ -47,6 +54,12 @@ export async function GET() {
     // the seconds value (~14411) where ~240.2 belonged.
     bufferMinutes: Math.round((bufferSeconds / 60) * 10) / 10,
     callerCount,
+    // Guard observability: stories this build held out of the queue
+    // as same-event repeats (topic guard) and as over-budget repeats
+    // of one dominant entity (entity budget). Both were previously
+    // invisible in the response.
+    topicGuardSkipped,
+    entityBudgetSkipped,
     segments,
   });
 }
