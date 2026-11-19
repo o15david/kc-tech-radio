@@ -12,6 +12,17 @@
 //   - no duplicate headline clusters (the ingestion dedupe thresholds:
 //     >= 4 shared significant tokens AND Jaccard >= 0.5 OR containment
 //     >= 0.8, different links only)
+//   - no same-EVENT repeats at the queue-level topic guard bar
+//     (>= 3 shared significant tokens, >= 1 shared entity token,
+//     Jaccard >= 0.3 OR containment >= 0.6; OR the entity+event rule:
+//     >= 2 shared tokens with a shared entity token and a DIFFERENT
+//     shared strong event token), plus a controls section proving the
+//     guard collapses same-event pairs that ingestion dedupe would
+//     keep (including the 2-shared-token production pair), while
+//     genuinely different stories about the same entity, a different
+//     company's same-event-type story, an earnings follow-up, a
+//     no-shared-entity pair, and a high-overlap pair with no shared
+//     entity token all survive
 //   - no scheduled-time speech: no segment speaks a clock time or
 //     announces the hour. Station-composed copy (everything but story
 //     bodies and music listings, whose text is wire/feed content) is
@@ -43,7 +54,7 @@ function check(name, cond, detail = '') {
   }
 }
 
-const { buildPlaylist, TARGET_QUEUE_SECONDS } = await import('../lib/format.js');
+const { buildPlaylist, TARGET_QUEUE_SECONDS, headlineProfile, topicGuardMatches } = await import('../lib/format.js');
 const { headlineTokens } = await import('../lib/rss.js');
 const { getNewsPool } = await import('../lib/ingest.js');
 const { speechSafeText } = await import('../lib/tts.js');
@@ -69,7 +80,8 @@ const STRICT_PATTERNS = [
 
 function auditQueue(label, pool, nowMs) {
   console.log(`\n--- ${label} ---`);
-  const { segments, queueSeconds } = buildPlaylist(pool, WEATHER, nowMs);
+  const { segments, queueSeconds, topicGuardSkipped } = buildPlaylist(pool, WEATHER, nowMs);
+  console.log(`  topic guard skipped ${topicGuardSkipped} same-event item(s)`);
   const stories = segments.filter((s) => s.kind === 'story');
   const banter = segments.filter((s) => s.kind === 'banter');
   const station = segments.filter((s) =>
@@ -132,6 +144,25 @@ function auditQueue(label, pool, nowMs) {
     }
   }
   check('no duplicate headline clusters', flagged.size === 0, [...flagged].slice(0, 3).join(' | '));
+
+  // No same-EVENT repeats at the queue-level topic guard bar. The
+  // guard enforces this during the build; asserting it here over the
+  // finished queue is the regression test (a guard bug that let a
+  // second version through would surface as a matching pair).
+  const profiles = stories.map((s) => headlineProfile(s.headline, s.source));
+  const eventHits = [];
+  for (let a = 0; a < profiles.length; a++) {
+    for (let b = a + 1; b < profiles.length; b++) {
+      if (topicGuardMatches(profiles[a], profiles[b])) {
+        eventHits.push(`${stories[a].headline}  <->  ${stories[b].headline}`);
+      }
+    }
+  }
+  check(
+    'no same-event repeats in the queue (topic guard)',
+    eventHits.length === 0,
+    eventHits.slice(0, 3).join(' | ')
+  );
 
   // No scheduled-time speech.
   const calloutHits = [];
@@ -327,6 +358,156 @@ check(
   'speechSafeText is idempotent',
   speechSafeText(poisoned) === poisoned,
   JSON.stringify(speechSafeText(poisoned))
+);
+
+// ------------------------------------- C. topic guard controls
+console.log('\nC. topic guard controls (tiny dedicated pool)');
+
+// The event pair: two outlets' differently worded versions of the
+// Anthropic IPO. They share 4 significant tokens (anthropic, ipo, 1,
+// trillion) at Jaccard 0.33 / containment 0.67 — BELOW the ingestion
+// dedupe bar (Jaccard >= 0.5 OR containment >= 0.8), so ingestion
+// keeps both; the queue guard (Jaccard >= 0.3 OR containment >= 0.6,
+// >= 3 shared, >= 1 shared entity token: "ipo") must keep only one.
+const EVENT_A = 'Anthropic valued at over $1 trillion in historic IPO';
+const EVENT_B = 'Anthropic IPO draws huge investor demand as valuation tops $1 trillion';
+// The flagship production pair for the entity+event rule: EVENT_A vs
+// PROD_B share only 2 significant tokens (anthropic, ipo), below even
+// the guard's 3-token bar — but anthropic is a shared entity token
+// and ipo is a shared strong event token, so the pair must collapse.
+const PROD_B = 'Investors scramble for a piece of AI giant Anthropic in blockbuster IPO';
+// Entity+event survival controls (each must NOT match EVENT_A):
+// a different company's IPO story (event token shared, entity not);
+// an earnings follow-up on the same company (entity shared, event
+// token not); and two unrelated outage stories (event token and 5
+// tokens shared, but no shared entity token).
+const CONTROL_RIVAL_IPO = 'Rivian prices IPO above range as EV demand surges';
+const CONTROL_EARNINGS = 'Shares of Anthropic climb after earnings beat expectations';
+const CONTROL_OUTAGE_A = 'Major outage knocks out power for thousands across Texas';
+const CONTROL_OUTAGE_B = 'Outage knocks out power across Chicago suburbs';
+// Distinctness control: shares {investors, ipo} with PROD_B, but the
+// only shared entity token IS the event token — must NOT match.
+const CONTROL_GENERIC_IPO = 'Investors cheer as Rivian files for IPO';
+// Control 1: same entity, genuinely different story (a product
+// launch). Shares only the entity token with the event pair, so the
+// entity rule alone must not merge it: BOTH survive.
+const CONTROL_PRODUCT = 'Anthropic launches Claude Opus upgrade for enterprise customers';
+// Control 2: a high-overlap pair (5 shared tokens, Jaccard 0.56,
+// containment 0.71) with NO shared entity token — the one shared
+// capitalized word ("Regulators") is sentence-initial in both, which
+// proves nothing. The entity gate must save both.
+const CONTROL_GATE_A = 'Regulators open probe into data brokers over privacy practices';
+const CONTROL_GATE_B = 'Regulators open probe into data brokers after complaint surge';
+const UNRELATED = 'Kansas City bakery wins national award for sourdough';
+
+const guardItems = [
+  { title: EVENT_A, source: 'Axios', category: 'ai' },
+  { title: EVENT_B, source: 'NPR News', category: 'national' },
+  { title: PROD_B, source: 'Bloomberg', category: 'business' },
+  { title: CONTROL_PRODUCT, source: 'TechCrunch', category: 'ai' },
+  { title: CONTROL_RIVAL_IPO, source: 'Reuters Wire', category: 'tech' },
+  { title: CONTROL_EARNINGS, source: 'CNBC', category: 'business' },
+  { title: CONTROL_OUTAGE_A, source: 'State Wire', category: 'state' },
+  { title: CONTROL_OUTAGE_B, source: 'Reuters Wire', category: 'national' },
+  { title: CONTROL_GATE_A, source: 'Reuters Wire', category: 'national' },
+  { title: CONTROL_GATE_B, source: 'State Wire', category: 'state' },
+  { title: UNRELATED, source: 'KC Local Wire', category: 'local' },
+].map((it, i) => ({
+  id: `guard-${i}`,
+  title: it.title,
+  link: `https://example.com/guard-${i}`,
+  summary: 'Officials confirmed the development on Tuesday and promised more detail soon.',
+  source: it.source,
+  category: it.category,
+  publishedAt: Date.parse('2026-11-19T12:00:00Z') - i * 60000,
+}));
+const guardPool = { items: guardItems, feeds: [], fetchedAt: Date.now() };
+const guardBuild = buildPlaylist(guardPool, null, T0);
+const guardHeadlines = guardBuild.segments
+  .filter((s) => s.kind === 'story')
+  .map((s) => s.headline);
+
+// Precondition: the event pair really is below the ingestion bar, or
+// this section would be testing the wrong layer.
+{
+  const pa = headlineProfile(EVENT_A, 'Axios');
+  const pb = headlineProfile(EVENT_B, 'NPR News');
+  let inter = 0;
+  for (const w of pa.tokens) if (pb.tokens.has(w)) inter++;
+  const j = inter / (pa.tokens.size + pb.tokens.size - inter);
+  const c = inter / Math.min(pa.tokens.size, pb.tokens.size);
+  check(
+    'control precondition: event pair is below the ingestion dedupe bar',
+    inter >= 4 && j < 0.5 && c < 0.8,
+    `shared ${inter}, J ${j.toFixed(2)}, C ${c.toFixed(2)}`
+  );
+  check('control precondition: event pair matches at the topic guard bar', topicGuardMatches(pa, pb));
+}
+// The entity+event rule: the production pair shares only 2 tokens,
+// so the similarity bar above can never catch it; the shared entity
+// (anthropic) plus a different shared event token (ipo) must.
+{
+  const pa = headlineProfile(EVENT_A, 'Axios');
+  const pb = headlineProfile(PROD_B, 'Bloomberg');
+  let inter = 0;
+  for (const w of pa.tokens) if (pb.tokens.has(w)) inter++;
+  check(
+    'control precondition: production pair shares only 2 tokens',
+    inter === 2,
+    `shared ${inter}: ${[...pa.tokens].filter((w) => pb.tokens.has(w)).join(',')}`
+  );
+  check(
+    'entity+event rule: production pair matches the topic guard',
+    topicGuardMatches(pa, pb)
+  );
+  check(
+    'entity+event rule: different company IPO story does not match',
+    !topicGuardMatches(pa, headlineProfile(CONTROL_RIVAL_IPO, 'Reuters Wire'))
+  );
+  check(
+    'entity+event rule: same company earnings story does not match',
+    !topicGuardMatches(pa, headlineProfile(CONTROL_EARNINGS, 'CNBC'))
+  );
+  check(
+    'entity+event rule: shared event token without shared entity does not match',
+    !topicGuardMatches(
+      headlineProfile(CONTROL_OUTAGE_A, 'State Wire'),
+      headlineProfile(CONTROL_OUTAGE_B, 'Reuters Wire')
+    )
+  );
+  check(
+    'entity+event rule: entity token identical to the event token does not match',
+    !topicGuardMatches(pb, headlineProfile(CONTROL_GENERIC_IPO, 'Bloomberg'))
+  );
+}
+check(
+  'topic guard: exactly one version of the event airs',
+  guardHeadlines.filter((h) => h === EVENT_A || h === EVENT_B || h === PROD_B).length === 1,
+  guardHeadlines.join(' | ')
+);
+check(
+  'topic guard: different story about the same entity survives',
+  guardHeadlines.includes(CONTROL_PRODUCT),
+  guardHeadlines.join(' | ')
+);
+check(
+  'topic guard: rival IPO, earnings follow-up, and both outage stories survive',
+  guardHeadlines.includes(CONTROL_RIVAL_IPO) &&
+    guardHeadlines.includes(CONTROL_EARNINGS) &&
+    guardHeadlines.includes(CONTROL_OUTAGE_A) &&
+    guardHeadlines.includes(CONTROL_OUTAGE_B),
+  guardHeadlines.join(' | ')
+);
+check(
+  'topic guard: entity gate saves the high-overlap pair (both survive)',
+  guardHeadlines.includes(CONTROL_GATE_A) && guardHeadlines.includes(CONTROL_GATE_B),
+  guardHeadlines.join(' | ')
+);
+check('topic guard: unrelated story survives', guardHeadlines.includes(UNRELATED));
+check(
+  'topic guard: exactly two items skipped in the controls pool (3 versions, 1 airs)',
+  guardBuild.topicGuardSkipped === 2,
+  `skipped ${guardBuild.topicGuardSkipped}`
 );
 
 // ---------------------------------------------------------- B. real pool
