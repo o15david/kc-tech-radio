@@ -46,6 +46,35 @@ Two more categories come from assistant-generated JSON feeds (below):
 `newsletter` (story-shaped, joins the pool like any wire) and `music`
 (listings, read only by the music block).
 
+Summaries are trimmed at ingestion (600 chars) and again when a script
+is composed (480 chars), always at a sentence boundary, never
+mid-clause: the shared rule in `lib/rss.js` cuts at the last complete
+sentence that fits the budget, takes the first complete sentence when
+none fits, and never treats an abbreviation ("U.S.") or a decimal
+("3.5") as a sentence end. A story can therefore no longer trail off
+like "...with more than 10,000 GPUs, delivering" (verified by
+`scripts/sentence-audit.mjs`).
+
+**Wire resilience.** A collapsed refresh never replaces the last good
+pool. On Nov 19, 2026 at 12:22 PM CT one refresh timed out on 57 of 58
+feeds and swapped a healthy ~1,045-item pool for 5 items; the station
+aired marked filler until the next refresh happened to restore it. Now
+a refresh whose item count falls under 25% of the pool being served is
+treated as failed and rejected: the last good pool (and its per-feed
+status) keeps serving untouched, the attempt is recorded in
+`lastRefresh` (surfaced by `/api/health` alongside `wireDegraded`, so
+an outage reads as an outage, not as the station quietly shrinking),
+and the next retry is due after 60 seconds instead of the full
+5-minute TTL, with retries gated to at most one a minute under traffic.
+The guard is not a pin: if collapses keep coming for 30 minutes of
+wall clock, the newest pool is accepted as the wire's new reality (a
+wire can genuinely shrink), and any healthy refresh clears the streak
+immediately. Verified end to end with a stubbed wire by
+`scripts/wire-resilience-check.mjs`. One limit, stated plainly: the
+pool and the collapse state live in module memory, so the guard
+protects warm instances (the normal case under constant playlist
+traffic); a cold instance's first refresh is simply its pool.
+
 ### 2. The format clock (`lib/format.js`)
 
 A fixed hourly wheel, like a real station:
@@ -279,10 +308,40 @@ credits) through the `msedge-tts` client.
   constant-bitrate, so duration follows from the byte size
   (`mp3DurationSeconds` in `lib/tts.js`), and the player's wall-clock
   timeline is built from these real durations (see section 6).
+- **Server-side pre-rendering**: a cold render costs seconds (measured
+  1.8-7.9s per segment in production, 8.4s in the local check below)
+  and occasionally fails outright ("Stream closed before the synthesis
+  completed"). So the cache is warmed ahead of the listener: every
+  `/api/playlist` build (and every `/api/health` build) queues
+  background renders for the nearest unrendered segments, up to 24 new
+  renders covering roughly the next 45 minutes of the schedule, at a
+  concurrency of 3, deduped against the render cache and in-flight map
+  (`warmSegmentAudio` in `lib/tts.js`). The playlist route hands the
+  pass's completion promise to Next's `after()`, which keeps the
+  Vercel invocation alive for it up to the route's `maxDuration`; the
+  warming is a pure side effect and never alters the playlist
+  response. Limits, honestly: work after a response can still be cut
+  off if the platform freezes the invocation early, and a cold
+  instance starts with an empty cache, so the design is deliberately
+  incremental: each build warms the nearest unrendered segments first,
+  and the player's regular polling walks coverage forward pass by
+  pass. A failed warm render is swallowed: the segment stays
+  unrendered and the player's stall ladder handles it at airtime,
+  exactly as before. Measured locally against a production server:
+  before warming, a first request for an upcoming segment took 8.38s
+  (`X-Audio-Cache: rendered`); after one playlist call and a short
+  wait, the first six segments served from memory in 0.004-0.014s, 23
+  of the first 24 window segments were memory hits on a later sweep
+  (the one miss is a segment whose synthesis fails deterministically
+  with the stream-closed error; it stays on the stall ladder), and a
+  control segment beyond the warm window still cold-rendered at
+  2.91s, confirming the warming is selective rather than incidental.
 - **Production upgrade path**: the in-memory cache resets on serverless
-  cold starts, so a cold instance may re-render a segment once. If that
-  ever matters, put a persistent blob store (e.g. Vercel Blob) behind
-  `getSegmentMp3()` keyed by the same hash. Nothing else changes.
+  cold starts, so a cold instance may re-render a segment once; the
+  pre-render warmer above absorbs most of that for upcoming segments.
+  If latency ever still matters, put a persistent blob store (e.g.
+  Vercel Blob) behind `getSegmentMp3()` keyed by the same hash.
+  Nothing else changes.
 - The route only renders the configured voices and caps script length, so
   it cannot be used as a free general-purpose TTS endpoint.
 
