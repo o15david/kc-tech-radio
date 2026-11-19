@@ -15,6 +15,12 @@
 //    comma/semicolon/colon or a dangling function word, and for items
 //    whose raw summary was actually cut (over the cap or marker-
 //    truncated) it must end with terminal punctuation.
+// C. Ending polish (the dangles the live sample still had after the
+//    sentence-boundary fix): source summaries with NO terminal
+//    punctuation at all, headline-style fragments, and summaries with
+//    residual HTML ("<p>Sen."). cleanText must strip escaped and
+//    partial tags, and every composed story body, cut or not, must
+//    end with terminal punctuation before the sign-off.
 // ============================================================================
 
 import { register } from 'node:module';
@@ -29,7 +35,7 @@ function check(name, cond, detail = '') {
   }
 }
 
-const { trimToSentenceBoundary, lastSentenceEnd } = await import('../lib/rss.js');
+const { trimToSentenceBoundary, lastSentenceEnd, cleanText, ensureTerminalPunctuation } = await import('../lib/rss.js');
 const { buildPlaylist } = await import('../lib/format.js');
 
 // ---------------------------------------------------------------- A. units
@@ -64,6 +70,43 @@ check('within budget: unchanged', trimToSentenceBoundary(s7, 480) === s7);
 check('lastSentenceEnd finds the end', lastSentenceEnd('One. Two!') === 'One. Two!'.length);
 check('lastSentenceEnd ignores abbreviations', lastSentenceEnd('In the U.S. it grew') === 0);
 
+console.log('C. ending-polish unit checks');
+check('cleanText strips escaped tags', cleanText('&lt;p&gt;Hello world') === 'Hello world', JSON.stringify(cleanText('&lt;p&gt;Hello world')));
+check('cleanText strips real tags', cleanText('Normal <b>bold</b> text') === 'Normal bold text');
+check('cleanText strips a trailing partial tag', cleanText('Text ends mid-tag <div class="x') === 'Text ends mid-tag', JSON.stringify(cleanText('Text ends mid-tag <div class="x')));
+check(
+  'cleanText leaves the Schumer remnant clean',
+  cleanText('The senators spoke out. &lt;p&gt;Sen. Cantwell said she was undecided.') ===
+    'The senators spoke out. Sen. Cantwell said she was undecided.',
+  JSON.stringify(cleanText('The senators spoke out. &lt;p&gt;Sen. Cantwell said she was undecided.')),
+);
+// Entity fragments: a semicolon-less "&nbsp" (the exact remnant a UN
+// News summary carried on Nov 19) and unknown entities must never
+// survive cleaning — a bare & in a script kills Edge TTS synthesis on
+// every attempt (see speechSafeText in lib/tts.js). Genuine prose
+// ampersands (one letter after the &) must survive untouched.
+check(
+  'cleanText strips a dangling &nbsp fragment',
+  cleanText('The situation is worse than it was in 2019.&nbsp') === 'The situation is worse than it was in 2019.',
+  JSON.stringify(cleanText('The situation is worse than it was in 2019.&nbsp')),
+);
+check(
+  'cleanText drops an unknown entity',
+  cleanText('Fish &copy; Friday specials') === 'Fish Friday specials',
+  JSON.stringify(cleanText('Fish &copy; Friday specials')),
+);
+check(
+  'cleanText keeps genuine ampersands',
+  cleanText('AT&T and R&D at M&M\u2019s') === 'AT&T and R&D at M&M\u2019s',
+  JSON.stringify(cleanText('AT&T and R&D at M&M\u2019s')),
+);
+check('ensureTerminalPunctuation appends a missing period', ensureTerminalPunctuation('She was denied parole again') === 'She was denied parole again.');
+check('ensureTerminalPunctuation leaves a period alone', ensureTerminalPunctuation('Already done.') === 'Already done.');
+check('ensureTerminalPunctuation leaves a question alone', ensureTerminalPunctuation('Really?') === 'Really?');
+check('ensureTerminalPunctuation leaves punctuated quotes alone', ensureTerminalPunctuation('He said "done."') === 'He said "done."');
+check('ensureTerminalPunctuation closes an unpunctuated quote', ensureTerminalPunctuation('He said "not yet"') === 'He said "not yet".');
+check('ensureTerminalPunctuation replaces a dangling comma', ensureTerminalPunctuation('Ends with a comma,') === 'Ends with a comma.');
+
 // ------------------------------------------------------- B. integration
 console.log('B. buildPlaylist over a nasty synthetic pool');
 
@@ -95,6 +138,9 @@ for (const cat of ['local', 'state', 'regional', 'national', 'global', 'ai', 'te
   addItem(cat, `${cat} abbreviation story`, `The U.S. Senate took up the bill on Tuesday, and the debate ran long into the evening session. Supporters in the ${cat} region said the measure would pass, while opponents promised amendments, procedural delays, and a fight on the floor that could stretch well past the holiday recess and into the new year.`);
   addItem(cat, `${cat} giant-sentence story`, `One enormous sentence about ${cat} that never seems to end because it keeps adding clause after clause, with commas, and asides, and qualifications, and references to earlier announcements, and hints about future products, and quotes from executives who spoke on background, and nods to rivals who declined to comment, and footnotes about supply chains, and caveats about currency fluctuations, until it finally stops.`);
   addItem(cat, `${cat} short story`, `A brief ${cat} item with one clean sentence.`);
+  addItem(cat, `${cat} unpunctuated story`, `Officials in the ${cat} region confirmed the decision late on Tuesday after a long hearing that stretched past midnight`);
+  addItem(cat, `${cat} fragment story`, `Rolling coverage of breaking news and live events across the ${cat} region`);
+  addItem(cat, `${cat} html story`, `First sentence from the ${cat} desk is complete and stands on its own. <p>Sen. Another complete sentence follows here with the detail that matters.`);
 }
 
 const pool = { items, feeds: [], fetchedAt: Date.now() };
@@ -116,11 +162,17 @@ const DANGLING = /(,|;|:|\b(and|but|or|the|a|an|to|of|with|for|on|in|at|by|deliv
 const TERMINAL = /[.!?]["'”’)\]]*$/;
 let dangling = [];
 let unterminated = [];
+let anyUnterminated = [];
+let tagLeaks = [];
 for (const seg of stories) {
   const suffix = ` From ${seg.source}.`;
   if (!seg.script.endsWith(suffix)) continue; // span-fill scripts share the shape; guard anyway
   const body = seg.script.slice(0, -suffix.length);
   if (DANGLING.test(body.trim())) dangling.push(`${seg.id}: ...${body.slice(-60)}`);
+  if (/<\/?[a-zA-Z!][^>]*>?/.test(seg.script)) tagLeaks.push(`${seg.id}: ...${body.slice(-60)}`);
+  // Ending polish: EVERY composed body ends with terminal punctuation
+  // before the sign-off, whether its summary was cut or not.
+  if (!TERMINAL.test(body.trim())) anyUnterminated.push(`${seg.id}: ...${body.slice(-60)}`);
   // Items whose raw summary had to be cut (over 480 chars, or wire-
   // truncated) must end on terminal punctuation, no exceptions.
   const raw = items.find((it) => it.title === seg.headline);
@@ -131,6 +183,8 @@ for (const seg of stories) {
 }
 check('no story body ends mid-clause (dangling punctuation/function word)', dangling.length === 0, dangling.slice(0, 3).join(' | '));
 check('every cut summary ends with terminal punctuation', unterminated.length === 0, unterminated.slice(0, 3).join(' | '));
+check('every story body ends with terminal punctuation', anyUnterminated.length === 0, anyUnterminated.slice(0, 3).join(' | '));
+check('no residual HTML tags in any story script', tagLeaks.length === 0, tagLeaks.slice(0, 3).join(' | '));
 
 console.log(failures ? `\n${failures} FAILURE(S)` : '\nALL CHECKS PASSED');
 process.exit(failures ? 1 : 0);
