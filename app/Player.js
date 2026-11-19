@@ -22,6 +22,22 @@
 //    the player reloads it up to 2 times with a short pause; then the
 //    browser's speechSynthesis reads that one segment; if even that
 //    is unavailable, the segment is skipped. The stream moves on.
+//  - NO REPLAY, EVER (Nov 19 production finding: 5 of 38 segments in
+//    a 15-minute listen had their audio restart from the beginning
+//    after a stall, cutting off mid-sentence — the old retryLoad
+//    reassigned src and reloaded from position 0 no matter how much
+//    had already been heard). A segment's audio plays AT MOST ONCE
+//    per session. The player tracks each segment's maximum heard
+//    position (heardMaxRef): a reload of the current segment seeks
+//    back to that position before playing, never to 0; if the heard
+//    position is already within the last second of the segment (or
+//    the duration is unknown while something was heard), the player
+//    advances instead of reloading. The speechSynthesis fallback
+//    re-reads the whole script, so it is FORBIDDEN once more than
+//    half a second of the segment was heard — the player skips to
+//    the next segment instead. And a segment that has finished or
+//    been skipped is recorded (finishedIdsRef) and can never be
+//    started again this session, whatever path leads to it.
 //  - REFILL BEFORE THE END. When the loaded queue runs low, the
 //    player fetches the next queue and appends only segments it has
 //    not already queued or played this session (segment ids, plus
@@ -83,6 +99,9 @@ export default function Player() {
   const playedStoryKeysRef = useRef(new Set()); // story keys that started playing
   const warmedIdsRef = useRef(new Set()); // segment ids already HEAD-warmed
   const loadAttemptsRef = useRef(new Map()); // segment id -> MP3 reload attempts
+  const heardMaxRef = useRef(new Map()); // segment id -> max audio position (s) actually heard
+  const finishedIdsRef = useRef(new Set()); // segment ids finished or skipped this session
+  const pendingSeekRef = useRef(null); // 'canplay' seek handler armed by a resume-reload
   const playingRef = useRef(false);
   const pausedModeRef = useRef(null); // mode held by Pause: 'audio' | 'speech' | null
   const rateRef = useRef(1);
@@ -295,6 +314,17 @@ export default function Player() {
     }
   }, []);
 
+  // Disarm a pending resume-seek. The audio element is shared across
+  // segments, so a 'canplay' handler armed by one segment's reload
+  // must never survive into another segment (or past a Stop): if it
+  // fired there, it would seek the WRONG segment to the old position.
+  const clearPendingSeek = useCallback(() => {
+    if (pendingSeekRef.current && audioRef.current) {
+      audioRef.current.removeEventListener('canplay', pendingSeekRef.current);
+    }
+    pendingSeekRef.current = null;
+  }, []);
+
   const speakSegment = useCallback((seg, onDone) => {
     const synth = window.speechSynthesis;
     if (!synth) {
@@ -336,6 +366,10 @@ export default function Player() {
 
   const advance = useCallback(() => {
     if (!playingRef.current) return;
+    // Whatever led here (natural end, speech fallback done, skip),
+    // the segment at the playhead is finished for this session: it
+    // can never be started again (see finishedIdsRef).
+    if (currentIdRef.current) finishedIdsRef.current.add(currentIdRef.current);
     const nextIndex = indexRef.current + 1;
     if (nextIndex >= queueRef.current.length) {
       // Queue exhausted: try one refill; if nothing new arrives, stop
@@ -361,36 +395,81 @@ export default function Player() {
     advanceRef.current = advance;
   }, [advance]);
 
-  // The MP3 for the current segment failed to load or stalled out:
-  // reload it (up to MAX_LOAD_ATTEMPTS times, with a short pause —
-  // the first attempt usually triggered the server render, so the
-  // reload is often a cache hit), then degrade to the browser voice
-  // for this one segment, then skip. Never silence.
+  // The MP3 for the current segment failed to load or stalled out.
+  // The ladder is bounded by the NO-REPLAY rule (see the header): a
+  // reload RESUMES at the maximum heard position, it never restarts
+  // the segment; a segment whose tail is all that is left (or whose
+  // duration is unknown while something was heard) is abandoned for
+  // the next segment rather than reloaded blind; and the browser
+  // voice, which would re-read the whole script, may only take over
+  // a segment nothing was heard from.
   const retryLoad = useCallback(
     (seg) => {
       if (!playingRef.current || currentIdRef.current !== seg.id) return;
+      const heard = heardMaxRef.current.get(seg.id) || 0;
       const attempts = (loadAttemptsRef.current.get(seg.id) || 0) + 1;
       loadAttemptsRef.current.set(seg.id, attempts);
       if (attempts > MAX_LOAD_ATTEMPTS) {
-        if (window.speechSynthesis) {
+        // Ladder exhausted. Speech fallback only when nothing (beyond
+        // a breath) was heard; otherwise skip — re-reading a segment
+        // the listener already heard is a replay.
+        if (heard <= 0.5 && window.speechSynthesis) {
           speakSegment(seg, () => advanceRef.current?.());
         } else {
           advanceRef.current?.();
         }
         return;
       }
+      if (heard > 0) {
+        // Something was already heard. If only the last second is
+        // left, it is not worth a reload: move on. If the duration is
+        // unknown, a reload cannot be aimed at the heard position
+        // reliably either: move on rather than risk a restart.
+        const dur = audioRef.current?.duration;
+        const durKnown = Number.isFinite(dur) && dur > 0;
+        if (!durKnown || dur - heard <= 1) {
+          advanceRef.current?.();
+          return;
+        }
+      }
       clearRetryTimer();
       retryTimerRef.current = setTimeout(() => {
         if (!playingRef.current || currentIdRef.current !== seg.id) return;
         const audio = getAudio();
         modeRef.current = 'audio';
-        stallRef.current = { id: seg.id, lastSample: 0, since: Date.now(), nudges: 0 };
+        const resumeAt = heardMaxRef.current.get(seg.id) || 0;
+        stallRef.current = { id: seg.id, lastSample: resumeAt, since: Date.now(), nudges: 0 };
+        if (resumeAt > 0) {
+          // Reassigning src restarts the element at 0; seek back to
+          // the last heard position as soon as the reload can accept
+          // a seek, BEFORE playing. Clamped to duration - 0.3s when
+          // the duration is known, so the seek lands inside the file.
+          // The handler is registered in pendingSeekRef so a segment
+          // change (or Stop) can disarm it: the element is shared,
+          // and a stale handler firing on the next segment's load
+          // would seek THAT segment to this one's position.
+          clearPendingSeek();
+          const onCanPlay = () => {
+            if (pendingSeekRef.current === onCanPlay) pendingSeekRef.current = null;
+            audio.removeEventListener('canplay', onCanPlay);
+            const d = audio.duration;
+            const target =
+              Number.isFinite(d) && d > 0 ? Math.min(resumeAt, Math.max(0, d - 0.3)) : resumeAt;
+            try {
+              audio.currentTime = target;
+            } catch {
+              /* element not seekable yet; the watchdog still guards */
+            }
+          };
+          pendingSeekRef.current = onCanPlay;
+          audio.addEventListener('canplay', onCanPlay);
+        }
         audio.src = seg.audioUrl;
         audio.load();
         audio.play().catch(() => retryLoadRef.current?.(seg));
       }, RETRY_PAUSE_MS);
     },
-    [clearRetryTimer, getAudio, speakSegment]
+    [clearPendingSeek, clearRetryTimer, getAudio, speakSegment]
   );
 
   useEffect(() => {
@@ -404,10 +483,18 @@ export default function Player() {
         advanceRef.current?.();
         return;
       }
+      if (finishedIdsRef.current.has(seg.id)) {
+        // No-replay backstop: a segment that finished or was skipped
+        // this session never starts again, whatever path led here.
+        indexRef.current = index;
+        advanceRef.current?.();
+        return;
+      }
       startTokenRef.current += 1;
       const token = startTokenRef.current;
       indexRef.current = index;
       currentIdRef.current = seg.id;
+      clearPendingSeek(); // a previous segment's resume-seek must not fire here
       stallRef.current = { id: seg.id, lastSample: 0, since: Date.now(), nudges: 0 };
       // Session no-repeat backstop: once a story starts, it can never
       // be re-queued by a refill this session.
@@ -434,9 +521,15 @@ export default function Player() {
       audio.ontimeupdate = () => {
         // Stall watchdog evidence: the last position the audio element
         // actually reached. A stalled fetch leaves this frozen while
-        // producing no 'error' and no 'ended'.
+        // producing no 'error' and no 'ended'. The same samples feed
+        // heardMaxRef, the no-replay record of how much of this
+        // segment the listener has actually heard.
         if (currentIdRef.current === seg.id) {
-          stallRef.current.lastSample = audio.currentTime || 0;
+          const cur = audio.currentTime || 0;
+          stallRef.current.lastSample = cur;
+          if (cur > (heardMaxRef.current.get(seg.id) || 0)) {
+            heardMaxRef.current.set(seg.id, cur);
+          }
         }
       };
       audio.onerror = () => {
@@ -449,7 +542,7 @@ export default function Player() {
         if (token === startTokenRef.current) retryLoadRef.current?.(seg);
       });
     },
-    [getAudio, maybeRefill, preloadNext, speakSegment, storyKey, syncView]
+    [clearPendingSeek, getAudio, maybeRefill, preloadNext, speakSegment, storyKey, syncView]
   );
 
   const startSegmentRef = useRef(null);
@@ -481,6 +574,11 @@ export default function Player() {
         stall.lastSample = cur;
         stall.since = Date.now();
         stall.nudges = 0;
+        // Keep the heard record current even if timeupdate events
+        // were throttled while the tab was backgrounded.
+        if (cur > (heardMaxRef.current.get(stall.id) || 0)) {
+          heardMaxRef.current.set(stall.id, cur);
+        }
         return;
       }
       if (Date.now() - stall.since < STALL_LIMIT_MS) return;
@@ -566,8 +664,14 @@ export default function Player() {
   const onStop = () => {
     // Halt and rewind to the start of the current segment: pressing
     // Play again restarts that segment, it does not jump anywhere.
+    // The rewind is the listener's own deliberate act, so the heard
+    // record for this segment restarts too: a stall during the
+    // replay must resume from the NEW playback position, not seek
+    // back to where the pre-Stop playback had reached.
+    if (currentIdRef.current) heardMaxRef.current.delete(currentIdRef.current);
     playingRef.current = false;
     clearRetryTimer();
+    clearPendingSeek();
     pausedModeRef.current = null;
     speechGenRef.current += 1;
     window.speechSynthesis?.cancel();
