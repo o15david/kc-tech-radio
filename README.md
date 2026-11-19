@@ -62,20 +62,82 @@ A fixed hourly wheel, like a real station:
 Each story segment's script is built from templates: an optional transition
 line (picked from a fixed pool by hashing the segment id), the headline, the
 cleaned RSS summary (truncated at a sentence boundary), and a spoken source
-attribution ("From TechCrunch AI."). Headline selection uses a deterministic
-per-category cursor derived from the absolute block-instance number, so the
-same request inside the same window returns the same queue, and the queue
-advances as the clock advances. If a category pool runs dry, blocks fall
-back through the other categories; if *everything* is down, a station-note
+attribution ("From TechCrunch AI."). Story selection follows the no-repeat
+rotation in the Format rules below, so the same request inside the same
+window returns the same queue, and the queue advances as the clock advances.
+If a category pool has no fresh story left, blocks fall back through the
+other categories' fresh stories; if *everything* is down, a station-note
 filler segment keeps the stream alive.
+
+Spoken times are always the block's true scheduled start on the Chicago
+clock (that date at the block's start hour:minute), never "now plus whole
+hours": a global block that starts at 11:00 says "It is 11 AM Central
+Time" even when the playlist was generated at 10:59. On the hour, times
+are spoken radio-style without the ":00". Every segment carries `startMs`
+(its scheduled start epoch) and `slotEndMs` (the next block's scheduled
+start) so the player can drop stale segments instead of re-airing them.
+
+## Format rules
+
+**Never repeat stories. The news should be fresh.** (David's hard rule.)
+Story selection rotates *without replacement* across every block instance
+of every show:
+
+- Pools are ordered newest-first and drawn freshest-first, so the freshest
+  stories get the earliest slots.
+- A story airs once, then it is out of rotation for the cycle. This holds
+  across consecutive airings of the same show and across different shows
+  drawing from the same pool; there is no mid-cycle reset.
+- **The cycle is 8 hours**, anchored at 00:00, 08:00, and 16:00
+  America/Chicago. A story becomes eligible again only when the pool has
+  fully cycled (the next cycle window begins), or when a genuinely new
+  edition of the story arrives: a new link/GUID is a new item, and it
+  enters at the front of its newest-first pool, eligible immediately.
+  Eight hours is sized to the wire: a cycle consumes at most ~170 story
+  slots against a live pool of ~210 stories, so blocks do not run dry
+  mid-cycle, while no story can resurface inside a single long listening
+  session.
+- If a block's fresh pool runs dry, the block draws a fresh story from a
+  fallback category; if nothing fresh remains anywhere, **the block runs
+  short rather than recycling an aired story**. No filler repeats.
+- Station IDs, intros, time checks, the producer's desk, and the music
+  block's fixed copy are not stories and are exempt.
+- Implementation (stateless, deterministic): the aired set for the current
+  cycle is reconstructed on every request by replaying the schedule from
+  the cycle anchor to the current block instance with the same draw rules.
+  An honesty rule applies in the replay: an instance may only draw stories
+  published by that instance's start, so a story published at 10:05 AM is
+  never retroactively "aired" by a 3 AM replay instance. The player keeps
+  its own session-level played sets as a backstop (see section 6).
+
+**Editorial stance.** "Snarky and funny, self-deprecating to KC and tech,
+but should not be a tech curmudgeon. This is a pro-KC, pro-tech radio
+station, but not just agreeing with the mainstream, politicians, etc."
+And pro-business. The gloss: jokes punch at hype, press releases, and
+official spin, including KC boosterism and tech's self-importance; KC and
+tech are roasted lovingly from the inside. The station is fundamentally
+*for* Kansas City, *for* technology, and *for* business: builders over
+bloviators, no curmudgeon decline-of-everything energy, no reflexive
+agreement with mainstream narratives or politicians of any stripe. The
+station is **not biased to any political party**: in the model of Bill
+Maher and Jon Stewart, everyone is fair game. It is nonpartisan,
+equal-opportunity snark: politicians, parties, media, and tech royalty
+all get roasted on the same terms, and the comedy follows the absurdity
+rather than a party line. Independent, skeptical, amused, on the home
+team's side. (This stance governs the framing copy in `lib/gonzo.js`;
+news facts are never touched.)
 
 ### 3. The rolling buffer (`app/api/playlist/route.js`)
 
 Returns the current segment plus upcoming segments totaling **at least 12
 minutes** of airtime. Segment durations are estimated from word count at a
-fixed 155 words/minute, so timing is deterministic. The player refetches
-when its unplayed tail drops below 5 minutes and appends only segments it
-has not already queued (segment ids are deterministic per airing).
+fixed 155 words/minute, so timing is deterministic. Each segment carries
+its scheduled window (`startMs`, plus `slotEndMs` for the end of its
+block's slot). The player refetches when its unplayed tail drops below 5
+minutes; because a refill restarts at the beginning of the current block
+instance, the player appends only segments it has not already queued *or
+played* (see the backstop in section 6), and drops unplayed segments whose
+scheduled window has fully passed rather than airing stale content.
 
 ### 4. The voice: pre-rendered neural audio (`lib/voices.js`, `lib/tts.js`, `app/api/audio/route.js`)
 
@@ -129,6 +191,17 @@ the browser's `speechSynthesis` for that segment (sentence-chunked, with a
 periodic `resume()` nudge for Chrome's long-session stalls), then tries
 MP3 again on the next segment. A TTS outage degrades the voice, never the
 stream.
+
+Repeat protection on this side is a session-level backstop to the server's
+no-repeat rotation: the player records every segment id it starts playing
+and every played story's key (its link, falling back to headline), and a
+refill never re-queues either, even if a pool refresh re-slotted a story
+under a new segment id. Unplayed segments whose scheduled window
+(`startMs` + estimated duration) has fully passed are pruned at refill and
+on Play, with the current and next-up segments protected. Position
+tracking runs on real audio end events, never on the duration estimates,
+so playback cannot drift out of the server's schedule and resync by
+restarting a block.
 
 ### 7. Weather
 
