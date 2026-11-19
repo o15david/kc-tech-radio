@@ -149,13 +149,9 @@ one ordered queue of segments:
   at a calibrated 136 words/minute (a 38-render sample measured the
   true rate at ~138 wpm); estimates shape queue composition only —
   playback is sequential and never cuts on an estimate.
-- **Banter.** After every 5th story, the two hosts trade an exchange:
-  the co-host (Aria) reacts from `BANTER_REACTIONS` and the anchor
-  (Christopher) counters from `BANTER_COUNTERS` (pools in
-  `lib/gonzo.js`). Lines rotate without replacement from a
-  bucket-seeded offset; a pool reshuffles only after every line in it
-  has aired. The story itself is dealt exactly once; banter is
-  framing, counts as content, and draws nothing.
+- **No banter, no canned transitions.** Stories run back to back and
+  start directly with the headline. (David cut the two-host banter
+  exchanges and the story transition phrases on Nov 19: repetitive.)
 - **Station material, as seasoning.** The queue opens with a station
   ID, then station material recurs at natural intervals measured in
   queue audio — a station ID about every 20 minutes, a Kansas City
@@ -175,9 +171,9 @@ one ordered queue of segments:
   queue is a station ID plus a fixed station note saying the wires are
   momentarily quiet — never a repeated story.
 
-Each story segment's script is built from templates: an optional
-transition line (picked from a fixed pool by hashing the segment id),
-the headline, the cleaned RSS summary (truncated at a sentence
+Each story segment's script starts directly with the headline (no
+canned intro or transition phrases), followed by the cleaned RSS
+summary (truncated at a sentence
 boundary, guaranteed to end with terminal punctuation), and a spoken
 source attribution ("From TechCrunch AI.").
 
@@ -221,15 +217,12 @@ the synthesis reliability design (section 4) and the player's
 retry/degrade/skip ladder (section 6). There is no schedule to fall
 behind, so there is nothing to catch up to and nothing to cut.
 
-**Story-led mix.** Stories dominate by design: in the Nov 19 queue
-audit over the real pool (886 items), the 4-hour queue held 787
-segments — 547 stories, 218 banter segments (109 exchanges), and 22
-station-material segments — about 240 minutes of audio.
-`scripts/queue-audit.mjs` asserts the mix, the banter cadence (exactly
-one exchange per 5 stories), the no-repeat rules, the terminal
-punctuation rule, the absence of scheduled-time speech in every
-segment, and queue coverage, over both a synthetic pool and the real
-wire.
+**Story-led mix.** Stories dominate by design: station material is
+the only non-story content in the queue. `scripts/queue-audit.mjs`
+asserts the mix, zero banter segments, the no-repeat rules, the
+terminal punctuation rule, the absence of scheduled-time speech in
+every segment, and queue coverage, over both a synthetic pool and
+the real wire.
 
 **Inside-out selection.** Selection weight follows direct control and
 impact for a KC metro listener: the closer the ring, the heavier it
@@ -279,9 +272,7 @@ credits) through the `msedge-tts` client.
   anchor voice is `en-US-ChristopherNeural`; the co-host voice
   `en-US-AriaNeural` reads the inside-out news section (state,
   regional, national, global, and newsletter stories) so the straight
-  news carries a distinct read, and delivers the reaction lines in the
-  two-host banter exchanges (a segment may carry an explicit voice,
-  which is how banter alternates hosts). Edit those two constants to
+  news carries a distinct read. Edit those two constants to
   recast the station.
 - Each queue segment carries a `voice` and an `audioUrl`:
   `/api/audio?v=<voice>&t=<script>`. The URL fully determines the audio, so
@@ -365,9 +356,8 @@ credits) through the `msedge-tts` client.
 
 The production voice is TBPN pacing and NPR polish, produced as if Hunter
 S. Thompson were running the board. All of that attitude lives in one
-hand-written file, `lib/gonzo.js`: show opens, story transitions, station
-IDs, music lead-ins, the two-host banter pools (`BANTER_REACTIONS` /
-`BANTER_COUNTERS`), and **The Producer's Desk**, a short fixed-copy rant
+hand-written file, `lib/gonzo.js`: show opens, station
+IDs, music lead-ins, and **The Producer's Desk**, a short fixed-copy rant
 at the industry that recurs about every 50 minutes of queue audio. No LLM
 writes or picks copy at runtime; pool selection is a hash of the segment
 id, so queues are stable and cacheable. (Three pools from the format-clock
@@ -596,7 +586,7 @@ Verification harnesses (plain Node, no test framework):
 
 - `node scripts/queue-audit.mjs` — the queue rules: no duplicate links
   or headline clusters, no scheduled-time speech, terminal punctuation,
-  banter cadence, station-material share, coverage, determinism and
+  zero banter, station-material share, coverage, determinism and
   rotation, over a synthetic pool and the real wire
 - `node scripts/audio-sample.mjs` — starts the production server and
   samples audio URLs across the queue (bar: zero failures)
