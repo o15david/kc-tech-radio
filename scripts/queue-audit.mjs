@@ -30,7 +30,7 @@
 //     callout shapes ("It is <time>", "top of the hour", "o'clock").
 //   - every story script ends with terminal punctuation before the
 //     "From <source>." sign-off
-//   - banter cadence: exactly one exchange per 5 stories
+//   - no banter: zero banter segments in any built queue
 //   - station material (station ID / weather / producer's desk) is a
 //     small minority of segments AND of seconds; stories dominate both
 //   - queue coverage meets the target (~4h) or consumes the pool
@@ -214,12 +214,12 @@ function auditQueue(label, pool, nowMs) {
   }
   check('every story ends with terminal punctuation', badEndings.length === 0, badEndings.slice(0, 3).join(' | '));
 
-  // Banter cadence: exactly one exchange (2 segments) per 5 stories.
-  const exchanges = banter.filter((s) => s.role === 'reaction').length;
+  // No banter: David cut it ("just news", Nov 19). Zero banter
+  // segments may appear in a built queue.
   check(
-    'banter cadence: one exchange per 5 stories',
-    exchanges === Math.floor(stories.length / 5) && banter.length === exchanges * 2,
-    `${exchanges} exchanges for ${stories.length} stories`
+    'no banter segments in the queue',
+    banter.length === 0,
+    `${banter.length} banter segments`
   );
 
   // Station material is a small minority, by segments and by seconds.
@@ -234,7 +234,7 @@ function auditQueue(label, pool, nowMs) {
     `${stationSeconds}s/${queueSeconds}s`
   );
   // ...and never stacked: no two station segments back to back (the
-  // queue head station ID is followed by a story or banter by design).
+  // queue head station ID is followed by a story by design).
   let stacked = 0;
   for (let i = 0; i + 1 < segments.length; i++) {
     const a = segments[i].kind;
