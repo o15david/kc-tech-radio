@@ -16,13 +16,23 @@
 //     (>= 3 shared significant tokens, >= 1 shared entity token,
 //     Jaccard >= 0.3 OR containment >= 0.6; OR the entity+event rule:
 //     >= 2 shared tokens with a shared entity token and a DIFFERENT
-//     shared strong event token), plus a controls section proving the
-//     guard collapses same-event pairs that ingestion dedupe would
-//     keep (including the 2-shared-token production pair), while
-//     genuinely different stories about the same entity, a different
-//     company's same-event-type story, an earnings follow-up, a
-//     no-shared-entity pair, and a high-overlap pair with no shared
-//     entity token all survive
+//     shared strong event token; OR the v3 summary path: shared
+//     dominant entity AND >= 4 shared summary tokens at containment
+//     >= 0.5), plus a controls section proving the guard collapses
+//     same-event pairs that ingestion dedupe would keep (including
+//     the 2-shared-token production pair), while genuinely different
+//     stories about the same entity, a different company's
+//     same-event-type story, an earnings follow-up, a no-shared-
+//     entity pair, and a high-overlap pair with no shared entity
+//     token all survive
+//   - the v3 entity budget: no dominant entity (first entity token
+//     of a headline; headline-initial names count, generic openers
+//     do not) airs more than 3 stories in one queue, proven over the
+//     production families (the Anthropic IPO headline family
+//     collapses to <= 3, the Xi/Trump/Putin summit family to <= 2,
+//     the Musk "not MAGA" DealBook pair to 1)
+//   - no doubled periods in story scripts: a headline that already
+//     ends with terminal punctuation gains no second period
 //   - no scheduled-time speech: no segment speaks a clock time or
 //     announces the hour. Station-composed copy (everything but story
 //     bodies and music listings, whose text is wire/feed content) is
@@ -62,7 +72,7 @@ function check(name, cond, detail = '') {
   }
 }
 
-const { buildPlaylist, TARGET_QUEUE_SECONDS, headlineProfile, topicGuardMatches } = await import('../lib/format.js');
+const { buildPlaylist, TARGET_QUEUE_SECONDS, headlineProfile, storyProfile, topicGuardMatches } = await import('../lib/format.js');
 const { headlineTokens } = await import('../lib/rss.js');
 const { getNewsPool } = await import('../lib/ingest.js');
 const { speechSafeText } = await import('../lib/tts.js');
@@ -90,8 +100,8 @@ const STRICT_PATTERNS = [
 
 function auditQueue(label, pool, nowMs, socialItems) {
   console.log(`\n--- ${label} ---`);
-  const { segments, queueSeconds, topicGuardSkipped } = buildPlaylist(pool, WEATHER, nowMs, socialItems);
-  console.log(`  topic guard skipped ${topicGuardSkipped} same-event item(s)`);
+  const { segments, queueSeconds, topicGuardSkipped, entityBudgetSkipped } = buildPlaylist(pool, WEATHER, nowMs, socialItems);
+  console.log(`  topic guard skipped ${topicGuardSkipped} same-event item(s), entity budget skipped ${entityBudgetSkipped}`);
   const stories = segments.filter((s) => s.kind === 'story');
   const banter = segments.filter((s) => s.kind === 'banter');
   const station = segments.filter((s) =>
@@ -172,6 +182,21 @@ function auditQueue(label, pool, nowMs, socialItems) {
     'no same-event repeats in the queue (topic guard)',
     eventHits.length === 0,
     eventHits.slice(0, 3).join(' | ')
+  );
+
+  // Entity budget: no dominant entity airs more than 3 stories in
+  // one queue. The build enforces it; asserting it here over the
+  // finished queue is the regression test.
+  const dominantCounts = new Map();
+  for (const s of stories) {
+    const d = headlineProfile(s.headline, s.source).dominantEntity;
+    if (d) dominantCounts.set(d, (dominantCounts.get(d) || 0) + 1);
+  }
+  const overBudget = [...dominantCounts.entries()].filter(([, c]) => c > 3);
+  check(
+    'entity budget: no dominant entity airs more than 3 stories',
+    overBudget.length === 0,
+    overBudget.map(([d, c]) => `${d} x${c}`).join(' | ')
   );
 
   // No scheduled-time speech.
@@ -301,10 +326,14 @@ function auditQueue(label, pool, nowMs, socialItems) {
   );
 
   // Coverage: the target, or the whole pool when the pool is smaller.
+  // "Consumes the pool" counts guard/budget skips as consumed: the
+  // build dealt every pool story and deliberately held those out.
   check(
     'queue coverage meets target or consumes the pool',
-    queueSeconds >= TARGET_QUEUE_SECONDS * 0.95 || stories.length >= pool.items.filter((i) => i.category !== 'music').length,
-    `queue ${(queueSeconds / 3600).toFixed(2)}h, target ${(TARGET_QUEUE_SECONDS / 3600).toFixed(1)}h, pool stories ${pool.items.filter((i) => i.category !== 'music').length}`
+    queueSeconds >= TARGET_QUEUE_SECONDS * 0.95 ||
+      stories.length + topicGuardSkipped + entityBudgetSkipped >=
+        pool.items.filter((i) => i.category !== 'music').length,
+    `queue ${(queueSeconds / 3600).toFixed(2)}h, target ${(TARGET_QUEUE_SECONDS / 3600).toFixed(1)}h, pool stories ${pool.items.filter((i) => i.category !== 'music').length}, aired ${stories.length}, guard ${topicGuardSkipped}, budget ${entityBudgetSkipped}`
   );
 
   // Music discipline.
@@ -414,7 +443,8 @@ console.log('\nC. topic guard controls (tiny dedicated pool)');
 // trillion) at Jaccard 0.33 / containment 0.67 — BELOW the ingestion
 // dedupe bar (Jaccard >= 0.5 OR containment >= 0.8), so ingestion
 // keeps both; the queue guard (Jaccard >= 0.3 OR containment >= 0.6,
-// >= 3 shared, >= 1 shared entity token: "ipo") must keep only one.
+// >= 3 shared, >= 1 shared entity token: "anthropic") must keep
+// only one.
 const EVENT_A = 'Anthropic valued at over $1 trillion in historic IPO';
 const EVENT_B = 'Anthropic IPO draws huge investor demand as valuation tops $1 trillion';
 // The flagship production pair for the entity+event rule: EVENT_A vs
@@ -446,6 +476,24 @@ const CONTROL_GATE_A = 'Regulators open probe into data brokers over privacy pra
 const CONTROL_GATE_B = 'Regulators open probe into data brokers after complaint surge';
 const UNRELATED = 'Kansas City bakery wins national award for sourdough';
 
+// Every item carries its OWN summary. (They once all shared one
+// generic summary; the v3 summary path correctly read that as the
+// same story told in the same words and merged the same-entity
+// items, which is the guard working as designed, not a fixture
+// worth keeping.)
+const GUARD_SUMMARIES = {
+  [EVENT_A]: 'The artificial intelligence startup sold shares to the public on Thursday in the largest offering of its kind, valuing the company at over a trillion dollars.',
+  [EVENT_B]: 'Investor demand for the new listing overwhelmed underwriters, who raised the expected price as orders poured in from pension funds and sovereign wealth funds.',
+  [PROD_B]: 'Allocations were snapped up within hours as big money managers fought for a stake in the float, according to people familiar with the bookbuild.',
+  [CONTROL_PRODUCT]: 'The upgraded model is available to enterprise customers starting today, with faster reasoning, longer context windows and new tools for software teams.',
+  [CONTROL_RIVAL_IPO]: 'The electric vehicle maker priced its offering above expectations as orders from retail buyers surged ahead of its first day of trading.',
+  [CONTROL_EARNINGS]: 'Quarterly results topped analyst forecasts as cloud revenue climbed, and executives lifted guidance for the rest of the fiscal year.',
+  [CONTROL_OUTAGE_A]: 'A failed substation left thousands of homes without electricity across the region, and utility crews worked through the night on repairs.',
+  [CONTROL_OUTAGE_B]: 'Power went down across several suburbs after equipment failed at a switching station, the utility said, with restoration expected by morning.',
+  [CONTROL_GATE_A]: 'The inquiry focuses on how brokers collect and sell personal information, and whether consumers were told their data was being shared.',
+  [CONTROL_GATE_B]: 'The second inquiry follows a surge of consumer complaints about unwanted marketing calls traced back to brokered lists.',
+  [UNRELATED]: 'The bakery took top honors at a national competition for its naturally leavened loaves, beating entries from forty states.',
+};
 const guardItems = [
   { title: EVENT_A, source: 'Axios', category: 'ai' },
   { title: EVENT_B, source: 'NPR News', category: 'national' },
@@ -462,7 +510,7 @@ const guardItems = [
   id: `guard-${i}`,
   title: it.title,
   link: `https://example.com/guard-${i}`,
-  summary: 'Officials confirmed the development on Tuesday and promised more detail soon.',
+  summary: GUARD_SUMMARIES[it.title],
   source: it.source,
   category: it.category,
   publishedAt: Date.parse('2026-11-19T12:00:00Z') - i * 60000,
@@ -677,6 +725,195 @@ check(
   'empty social feed: queue identical to the just-news build',
   JSON.stringify(emptyBuild.segments) === JSON.stringify(noSocialBuild.segments)
 );
+
+// ------------------------------------- E. guard v3 production cases
+console.log('\nE. guard v3: production families, summary path, period polish');
+
+// The cases a production cluster audit found in a live queue even
+// AFTER the v2 headline guard: the Anthropic IPO event carried 16
+// headline stories, the Xi/Trump/Putin summit 5, and the Musk
+// "not MAGA" DealBook remarks 2-4. Headline-only matching missed
+// them because headline-initial names were not entities ("Anthropic
+// prices..." had no entity token), developing-story updates share
+// almost no headline vocabulary, and "summit" was not an event
+// token. Guard v3 answers with the entity fix, the event-list
+// addition, the summary path, and the entity budget.
+let famSeq = 0;
+const famItem = (title, source, category, summary) => ({
+  id: `fam-${famSeq}`,
+  title,
+  link: `https://example.com/fam-${famSeq++}`,
+  summary:
+    summary || 'Officials confirmed the development on Tuesday and promised more detail soon.',
+  source,
+  category,
+  publishedAt: Date.parse('2026-11-19T12:00:00Z') - famSeq * 60000,
+});
+const famBuild = (items) =>
+  buildPlaylist({ items, feeds: [], fetchedAt: Date.now() }, null, T0);
+const famAired = (build, titles) =>
+  build.segments.filter((s) => s.kind === 'story' && titles.includes(s.headline)).length;
+
+// --- The Anthropic IPO headline family (the real production
+// headlines) must collapse to at most 3 in a built queue. Every
+// member's dominant entity is "anthropic" (the entity fix is what
+// makes "Anthropic prices...", "Meet Anthropic's..." and "What are
+// Anthropic's..." register it), so the entity budget alone caps
+// the family at 3; the headline and summary paths cut it further.
+const ANTHROPIC_FAMILY = [
+  ['Anthropic Sells $81.3 Billion in Shares for a Record IPO', 'NPR News', 'national',
+   'The artificial intelligence startup sold shares to the public on Thursday in the largest offering of its kind, valuing the company at over a trillion dollars.'],
+  ['Anthropic prices its IPO at $83, above range', 'Bloomberg', 'business',
+   'The company priced its initial public offering at 83 dollars a share late Thursday, above the marketed range, according to people familiar with the matter.'],
+  ['Anthropic hits Nasdaq with shares at $111, after IPO priced at $83', 'CNBC', 'business',
+   'Shares opened well above the offering price in their first minutes of trading on the Nasdaq, extending gains through the morning session.'],
+  ['Anthropic Debuts on Wall Street as $2 Trillion Company', 'Axios', 'ai',
+   'The listing capped a rapid rise for the artificial intelligence company, whose valuation doubled in under a year on surging demand for its models.'],
+  ['Anthropic is now a public company worth more than $1 trillion', 'The Verge', 'tech',
+   'With the offering complete, the startup joins a small club of trillion dollar technology names, and its founders now rank among the richest people in the industry.'],
+  ["Meet Anthropic's 7 co-founders", 'TechCrunch', 'ai',
+   'Seven researchers and engineers founded the company after leaving a rival lab; here is who they are and what each of them runs today.'],
+  ["What are Anthropic's financials?", 'Reuters Wire', 'business',
+   'A look at the revenue, losses and cash position disclosed in the regulatory filings the company made ahead of its market debut.'],
+];
+{
+  const titles = ANTHROPIC_FAMILY.map(([t]) => t);
+  check(
+    'v3 entity fix: every Anthropic family headline has dominant entity "anthropic"',
+    ANTHROPIC_FAMILY.every(
+      ([t, s]) => headlineProfile(t, s).dominantEntity === 'anthropic'
+    ),
+    ANTHROPIC_FAMILY.map(([t, s]) => `${t} -> ${headlineProfile(t, s).dominantEntity}`).join(' | ')
+  );
+  const build = famBuild(ANTHROPIC_FAMILY.map(([t, s, c, sum]) => famItem(t, s, c, sum)));
+  check(
+    'v3: Anthropic IPO family collapses to at most 3 in a built queue',
+    famAired(build, titles) <= 3,
+    `${famAired(build, titles)} aired of ${titles.length}`
+  );
+  check(
+    'v3: Anthropic family skips are accounted by guard + budget',
+    build.topicGuardSkipped + build.entityBudgetSkipped >= titles.length - 3,
+    `guard ${build.topicGuardSkipped}, budget ${build.entityBudgetSkipped}`
+  );
+  console.log(
+    `  Anthropic family: ${famAired(build, titles)} aired, ` +
+      `${build.topicGuardSkipped} guard skips, ${build.entityBudgetSkipped} budget skips`
+  );
+}
+
+// --- The Xi/Trump/Putin summit family must collapse to at most 2.
+// "summit" is a strong event token in v3, and every member shares
+// entity tokens (xi, trump, putin) with the keeper, so the
+// entity+event rule does the work.
+const XI_FAMILY = [
+  ['Xi, Trump and Putin to hold trilateral summit in Beijing', 'BBC World', 'global'],
+  ['Trump confirms summit with Xi and Putin next month', 'NPR News', 'national'],
+  ['Putin, Xi and Trump summit set for September, Kremlin confirms', 'Reuters Wire', 'global'],
+  ['Xi hosts Trump and Putin at regional security summit', 'DW', 'global'],
+];
+{
+  const titles = XI_FAMILY.map(([t]) => t);
+  const build = famBuild(XI_FAMILY.map(([t, s, c]) => famItem(t, s, c)));
+  check(
+    'v3: Xi summit family collapses to at most 2 in a built queue',
+    famAired(build, titles) <= 2,
+    `${famAired(build, titles)} aired of ${titles.length}`
+  );
+  console.log(
+    `  Xi family: ${famAired(build, titles)} aired, ` +
+      `${build.topicGuardSkipped} guard skips, ${build.entityBudgetSkipped} budget skips`
+  );
+}
+
+// --- The Musk "not MAGA" DealBook pair must collapse to 1.
+const MUSK_PAIR = [
+  ['Musk tells DealBook crowd he is not MAGA', 'CNBC', 'business'],
+  ['Elon Musk says at DealBook that he is not part of the MAGA movement', 'Bloomberg', 'business'],
+];
+{
+  const titles = MUSK_PAIR.map(([t]) => t);
+  const build = famBuild(MUSK_PAIR.map(([t, s, c]) => famItem(t, s, c)));
+  check(
+    'v3: Musk "not MAGA" DealBook pair collapses to 1',
+    famAired(build, titles) === 1,
+    `${famAired(build, titles)} aired of ${titles.length}`
+  );
+}
+
+// --- Summary path controls. Two developing-story updates of the
+// same IPO share almost no headline vocabulary ("prices its IPO"
+// vs "Debuts on Wall Street"), so the headline paths must NOT match
+// them; their summaries describe the same priced deal in the same
+// words, so the summary path MUST. A product-launch story and a
+// safety-research story about the same company have genuinely
+// different summaries and must both survive alongside.
+const SUM_IPO_A = 'Anthropic priced its initial public offering at 83 dollars a share on Thursday, above the marketed range, raising about 81 billion dollars and valuing the artificial intelligence company at more than 2 trillion dollars ahead of its Nasdaq debut.';
+const SUM_IPO_B = 'Shares of Anthropic began trading on the Nasdaq on Thursday after the artificial intelligence company priced its initial public offering at 83 dollars a share, above the marketed range, raising about 81 billion dollars for a valuation of more than 2 trillion dollars.';
+const SUM_PRODUCT = 'The company said the upgraded model is available to enterprise customers starting today, with faster reasoning, longer context windows and new tools for software teams, and it will roll out to free users over the coming weeks.';
+const SUM_SAFETY = 'Researchers at the company published a study on Thursday describing how the model behaves under adversarial testing, and proposed new evaluations for alignment that other laboratories could adopt.';
+const DEV_A = ['Anthropic prices its IPO at $83, above range', 'Bloomberg', 'business', SUM_IPO_A];
+const DEV_B = ['Anthropic Debuts on Wall Street as $2 Trillion Company', 'Axios', 'ai', SUM_IPO_B];
+const PROD_STORY = ['Anthropic launches Claude Opus upgrade for enterprise customers', 'TechCrunch', 'ai', SUM_PRODUCT];
+const SAFETY_STORY = ['Anthropic publishes new AI safety research', 'Wired', 'tech', SUM_SAFETY];
+{
+  check(
+    'v3 summary path precondition: the developing pair does NOT match on headlines alone',
+    !topicGuardMatches(
+      headlineProfile(DEV_A[0], DEV_A[1]),
+      headlineProfile(DEV_B[0], DEV_B[1])
+    )
+  );
+  check(
+    'v3 summary path: developing-story updates of one event match on summaries',
+    topicGuardMatches(
+      storyProfile({ title: DEV_A[0], source: DEV_A[1], summary: DEV_A[3] }),
+      storyProfile({ title: DEV_B[0], source: DEV_B[1], summary: DEV_B[3] })
+    )
+  );
+  check(
+    'v3 summary path: product launch vs IPO about the same company does not match',
+    !topicGuardMatches(
+      storyProfile({ title: DEV_A[0], source: DEV_A[1], summary: DEV_A[3] }),
+      storyProfile({ title: PROD_STORY[0], source: PROD_STORY[1], summary: PROD_STORY[3] })
+    )
+  );
+  check(
+    'v3 summary path: two unrelated stories about the same company do not match',
+    !topicGuardMatches(
+      storyProfile({ title: PROD_STORY[0], source: PROD_STORY[1], summary: PROD_STORY[3] }),
+      storyProfile({ title: SAFETY_STORY[0], source: SAFETY_STORY[1], summary: SAFETY_STORY[3] })
+    )
+  );
+  const build = famBuild([DEV_A, DEV_B, PROD_STORY, SAFETY_STORY].map(([t, s, c, sum]) => famItem(t, s, c, sum)));
+  const aired = build.segments.filter((s) => s.kind === 'story').map((s) => s.headline);
+  check(
+    'v3 summary path: pool build airs one IPO update plus the product and safety stories',
+    aired.length === 3 && aired.includes(PROD_STORY[0]) && aired.includes(SAFETY_STORY[0]),
+    aired.join(' | ')
+  );
+}
+
+// --- Double-period polish: a headline that already ends with a
+// period must not gain a second one when the body is composed
+// (production: "Death and Taxes. Rats and Real Estate.. The
+// inevitabilities...").
+{
+  const build = famBuild([
+    famItem(
+      'Death and Taxes. Rats and Real Estate.',
+      'UN News',
+      'global',
+      'The inevitabilities of city life, ranked by the people who study them for a living.'
+    ),
+  ]);
+  const story = build.segments.find((s) => s.kind === 'story');
+  check(
+    'v3 polish: no doubled period after a period-ending headline',
+    !!story && !story.script.includes('..') && story.script.startsWith('Death and Taxes. Rats and Real Estate. The inevitabilities'),
+    story ? story.script.slice(0, 90) : 'no story segment'
+  );
+}
 
 // ---------------------------------------------------------- B. real pool
 console.log('\nB. real pool (skipped if the wire is unreachable)');
