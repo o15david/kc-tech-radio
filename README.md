@@ -195,6 +195,20 @@ Inside one queue this holds by construction, three ways:
   story cannot enter the queue twice under two outlets' links. The
   queue audit re-checks the built queue itself for duplicate links
   and duplicate headline clusters.
+- A **queue-level topic guard** (`topicGuardMatches` in
+  `lib/format.js`) holds out a second outlet's differently worded
+  version of the same event within a single queue build (the pool
+  keeps every version for later queues). Two headlines are the same
+  event when they share >= 3 significant tokens including an entity
+  token (capitalized mid-headline) at Jaccard >= 0.3 or containment
+  >= 0.6 — or, at as few as 2 shared tokens, when one shared token is
+  an entity token and a *different* shared token is a strong event
+  token from a fixed list: ipo, merger(s), acquires/acquired/
+  acquisition, bankruptcy, resigns/resigned, dies/died, verdict,
+  guilty, shooting, earthquake, recall(s), lawsuit, indictment,
+  charged, arrest/arrested, explosion(s), crash(es), outage(s). The
+  entity anchor is what keeps a product launch, an earnings story, or
+  a rival company's IPO from being merged into the event.
 - Across queues, the 30-minute **rotation bucket** moves the starting
   point, and the player keeps session-level backstops (section 6): a
   refill never re-queues a segment id or a story key (link, falling
