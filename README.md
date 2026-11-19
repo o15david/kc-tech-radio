@@ -152,6 +152,12 @@ one ordered queue of segments:
 - **No banter, no canned transitions.** Stories run back to back and
   start directly with the headline. (David cut the two-host banter
   exchanges and the story transition phrases on Nov 19: repetitive.)
+- **Social callers.** When the social feed (section 10) carries a
+  real public reaction to a story in the queue, one caller segment
+  airs immediately after that story, read by the co-host voice in a
+  single fixed attribution format. At most one caller per story, at
+  most 16 per queue; callers are not stories and count toward no
+  cadence. An empty social feed changes nothing.
 - **Station material, as seasoning.** The queue opens with a station
   ID, then station material recurs at natural intervals measured in
   queue audio — a station ID about every 20 minutes, a Kansas City
@@ -194,17 +200,29 @@ Inside one queue this holds by construction, three ways:
 - A **queue-level topic guard** (`topicGuardMatches` in
   `lib/format.js`) holds out a second outlet's differently worded
   version of the same event within a single queue build (the pool
-  keeps every version for later queues). Two headlines are the same
-  event when they share >= 3 significant tokens including an entity
-  token (capitalized mid-headline) at Jaccard >= 0.3 or containment
-  >= 0.6 — or, at as few as 2 shared tokens, when one shared token is
-  an entity token and a *different* shared token is a strong event
-  token from a fixed list: ipo, merger(s), acquires/acquired/
-  acquisition, bankruptcy, resigns/resigned, dies/died, verdict,
-  guilty, shooting, earthquake, recall(s), lawsuit, indictment,
-  charged, arrest/arrested, explosion(s), crash(es), outage(s). The
-  entity anchor is what keeps a product launch, an earnings story, or
-  a rival company's IPO from being merged into the event.
+  keeps every version for later queues). Two stories are the same
+  event when any of three paths fires: (1) their headlines share
+  >= 3 significant tokens including an entity token (capitalized in
+  the headline; a headline-initial name counts too, unless it is a
+  generic opener like "Investors" or "Regulators") at Jaccard
+  >= 0.3 or containment >= 0.6; (2) at as few as 2 shared headline
+  tokens, one shared token is an entity token and a *different*
+  shared token is a strong event token from a fixed list: ipo,
+  merger(s), acquires/acquired/acquisition, bankruptcy,
+  resigns/resigned, dies/died, verdict, guilty, shooting,
+  earthquake, recall(s), lawsuit, indictment, charged,
+  arrest/arrested, explosion(s), crash(es), outage(s), summit(s),
+  trial(s), hearing(s), strike(s); or (3) the v3 summary path: the
+  headlines share a dominant entity (the first entity token) and
+  their cleaned summaries share >= 4 significant tokens at
+  containment >= 0.5, which catches developing-story updates
+  ("prices its IPO", "debuts", "shares pare gains") whose headlines
+  share almost nothing. The entity anchor is what keeps a product
+  launch, an earnings story, or a rival company's IPO from being
+  merged into the event. On top of the guard, an **entity budget**
+  caps any one dominant entity at 3 stories per queue, however
+  distinct their events are. The playlist response reports both
+  counts as `topicGuardSkipped` and `entityBudgetSkipped`.
 - Across queues, the 30-minute **rotation bucket** moves the starting
   point, and the player keeps session-level backstops (section 6): a
   refill never re-queues a segment id or a story key (link, falling
@@ -217,8 +235,9 @@ the synthesis reliability design (section 4) and the player's
 retry/degrade/skip ladder (section 6). There is no schedule to fall
 behind, so there is nothing to catch up to and nothing to cut.
 
-**Story-led mix.** Stories dominate by design: station material is
-the only non-story content in the queue. `scripts/queue-audit.mjs`
+**Story-led mix.** Stories dominate by design: station material and
+social callers are the only non-story content in the queue.
+`scripts/queue-audit.mjs`
 asserts the mix, zero banter segments, the no-repeat rules, the
 terminal punctuation rule, the absence of scheduled-time speech in
 every segment, and queue coverage, over both a synthetic pool and
@@ -518,6 +537,76 @@ before publication, never on air. Show facts (artist, venue, date, time)
 are read exactly as the feed carries them; only the intros and lead-ins
 come from the gonzo pools.
 
+### 10. Social callers (listener reaction feed)
+
+David's chosen personality layer (Nov 19, after the canned transitions
+and banter were cut): real public reactions to real stories, presented
+like callers phoning in. The reactions are **real public posts,
+attributed by platform and username, framed on air as listener
+reaction, never as news**. Nothing about a caller is generated: the
+text is the post, verbatim, and the story facts stay with the story
+segment that precedes it.
+
+Like the newsletter and music feeds, the social feed is prepared
+outside Vercel and consumed as a small JSON document from
+`SOCIAL_FEED_URL` (default: `data/social-feed.json` in this repo).
+`lib/social.js` fetches it with the same caching and forgiving failure
+handling as RSS: unreachable, malformed, or empty means zero callers,
+never an error and never filler.
+
+**Feed contract:**
+
+```json
+{ "generatedAt": "2026-11-19T14:00:00.000Z",
+  "items": [
+    { "storyLink": "https://example.com/the-story",
+      "platform": "Reddit",
+      "username": "some_redditor",
+      "text": "The reaction, verbatim from the public post.",
+      "engagement": 128,
+      "sourceUrl": "https://www.reddit.com/r/technology/comments/...",
+      "capturedAt": "2026-11-19T13:55:00.000Z" }
+  ] }
+```
+
+`platform` is one of `Reddit`, `X`, `Facebook`; `engagement` is the
+post's public score/like count where the platform exposes one, else
+`null`; `storyLink` is the pool story the reaction answers (tracking
+parameters are stripped before matching, the way ingestion normalizes
+story links).
+
+**Ingest filters (deterministic, `lib/social.js`):** an item is
+dropped when its text (after cleaning) is under 20 or over 280
+characters, contains a URL, or contains a word from a basic profanity
+blocklist; when its story link is not a plausible http(s) URL; when
+its platform is not one of the three above; or when its text
+duplicates an earlier item's. Usernames face the same URL/blocklist
+rules.
+
+**Placement rules (queue builder, `lib/format.js`):** a caller airs
+**immediately after its story**, before any station material, so the
+reaction is never separated from the story it answers. At most **one
+caller per story** (the feed's first item for a story wins) and at
+most **16 callers per queue**. Callers do not count as stories for
+any cadence. The script is a **single fixed attribution format, not
+a template pool**: `Caller on <platform>, <username>: <text>`, read
+by the **co-host voice (Aria)** so callers sound distinct from the
+anchor.
+
+**Building the feed:** `scripts/social-feed-builder.mjs` pulls the
+live pool, searches Reddit's public JSON endpoints for threads
+matching the ~40 freshest stories (a thread whose link is the story
+itself, or whose title shares significant tokens with the headline;
+category subreddits r/kansascity, r/artificial, r/technology,
+r/business included), and takes the highest-scoring qualifying
+comment per story. X and Facebook reactions arrive by the same
+assistant-pass pattern as the newsletter and music feeds. Note:
+Reddit's public JSON endpoints bot-wall many datacenter networks
+(HTTP 403); the builder detects the wall, stops early, and writes
+whatever it genuinely found, possibly an empty feed. An honest empty
+feed beats a fabricated full one, and the station airs zero callers
+until a feed with real reactions is published.
+
 ## Feeds
 
 56 RSS feeds plus the 2 assistant-generated JSON feeds, every one
@@ -586,7 +675,8 @@ Verification harnesses (plain Node, no test framework):
 
 - `node scripts/queue-audit.mjs` — the queue rules: no duplicate links
   or headline clusters, no scheduled-time speech, terminal punctuation,
-  zero banter, station-material share, coverage, determinism and
+  zero banter, social caller placement and ingest filters,
+  station-material share, coverage, determinism and
   rotation, over a synthetic pool and the real wire
 - `node scripts/audio-sample.mjs` — starts the production server and
   samples audio URLs across the queue (bar: zero failures)
@@ -596,9 +686,9 @@ Verification harnesses (plain Node, no test framework):
 - `node scripts/wire-resilience-check.mjs` — the collapsed-refresh
   guard, end to end with a stubbed wire
 
-No environment variables are required for the core station. Two optional
+No environment variables are required for the core station. Three optional
 ones configure the assistant-generated JSON feeds described below:
-`NEWSLETTER_FEED_URL` and `MUSIC_FEED_URL`.
+`NEWSLETTER_FEED_URL`, `MUSIC_FEED_URL`, and `SOCIAL_FEED_URL`.
 
 ## Deploying to Vercel
 
