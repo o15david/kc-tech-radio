@@ -1,6 +1,7 @@
 import { NextResponse, after } from 'next/server';
 import { getNewsPool } from '../../../lib/ingest';
 import { getKansasCityWeather } from '../../../lib/weather';
+import { getSocialItems } from '../../../lib/social';
 import { buildPlaylist, TIME_ZONE } from '../../../lib/format';
 import { warmSegmentAudio } from '../../../lib/tts';
 
@@ -13,12 +14,13 @@ export const dynamic = 'force-dynamic';
 export const maxDuration = 60;
 
 export async function GET() {
-  const [pool, weather] = await Promise.all([
+  const [pool, weather, socialItems] = await Promise.all([
     getNewsPool(),
     getKansasCityWeather(),
+    getSocialItems(),
   ]);
-  const { generatedAt, segments, queueSeconds, bufferSeconds } =
-    buildPlaylist(pool, weather);
+  const { generatedAt, segments, queueSeconds, bufferSeconds, callerCount } =
+    buildPlaylist(pool, weather, Date.now(), socialItems);
   // Server-side pre-render (lib/tts.js): warm the audio cache for the
   // segments at the head of the queue so a listener's player finds them
   // already rendered. Pure side effect: it never alters the response, and
@@ -44,6 +46,7 @@ export async function GET() {
     // consumers reading a minutes field here previously found only
     // the seconds value (~14411) where ~240.2 belonged.
     bufferMinutes: Math.round((bufferSeconds / 60) * 10) / 10,
+    callerCount,
     segments,
   });
 }
