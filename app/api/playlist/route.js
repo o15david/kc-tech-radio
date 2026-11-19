@@ -5,8 +5,8 @@ import { buildPlaylist, TIME_ZONE } from '../../../lib/format';
 import { warmSegmentAudio } from '../../../lib/tts';
 
 // Always compute fresh from the (cached) pool: the pool itself is cached for
-// 5 minutes inside ingest, so this stays cheap while the queue tracks the
-// format clock in real time.
+// 5 minutes inside ingest, so this stays cheap while the queue's rotation
+// bucket rolls every 30 minutes.
 export const dynamic = 'force-dynamic';
 // Pre-render warming continues after the response via after(); give the
 // invocation room to finish a pass.
@@ -17,15 +17,16 @@ export async function GET() {
     getNewsPool(),
     getKansasCityWeather(),
   ]);
-  const { generatedAt, segments, bufferSeconds } = buildPlaylist(pool, weather);
+  const { generatedAt, segments, queueSeconds, bufferSeconds } =
+    buildPlaylist(pool, weather);
   // Server-side pre-render (lib/tts.js): warm the audio cache for the
-  // nearest upcoming segments so a listener's player finds them already
-  // rendered. Pure side effect: it never alters the response, and a
-  // failed warm render just leaves that segment to the player's stall
+  // segments at the head of the queue so a listener's player finds them
+  // already rendered. Pure side effect: it never alters the response, and
+  // a failed warm render just leaves that segment to the player's retry
   // ladder. after() keeps the invocation alive for the pass on Vercel;
   // where after() is unavailable the renders still run fire-and-forget,
   // and every playlist build re-triggers the pass, so coverage of the
-  // upcoming window is incremental across requests.
+  // queue head is incremental across requests.
   const warming = warmSegmentAudio(segments);
   try {
     after(() => warming);
@@ -37,6 +38,7 @@ export async function GET() {
     station: 'KC Tech Radio',
     timeZone: TIME_ZONE,
     generatedAt,
+    queueSeconds,
     bufferSeconds,
     segments,
   });
