@@ -31,6 +31,14 @@
 //   - every story script ends with terminal punctuation before the
 //     "From <source>." sign-off
 //   - no banter: zero banter segments in any built queue
+//   - social callers: a caller segment only ever appears immediately
+//     after the story it reacts to, at most one per story, at most 16
+//     per queue, read by the co-host voice, in the single fixed
+//     attribution format, with no URL or blocklisted word in any
+//     caller script; an empty social feed yields zero callers and a
+//     queue identical to the just-news build; the ingest filters
+//     (lib/social.js) drop short/long/URL/profanity/duplicate/bad-
+//     platform/bad-link items before placement is ever considered
 //   - station material (station ID / weather / producer's desk) is a
 //     small minority of segments AND of seconds; stories dominate both
 //   - queue coverage meets the target (~4h) or consumes the pool
@@ -58,6 +66,8 @@ const { buildPlaylist, TARGET_QUEUE_SECONDS, headlineProfile, topicGuardMatches 
 const { headlineTokens } = await import('../lib/rss.js');
 const { getNewsPool } = await import('../lib/ingest.js');
 const { speechSafeText } = await import('../lib/tts.js');
+const { parseSocialFeed, hasBlockedWord, hasUrl } = await import('../lib/social.js');
+const { COHOST_VOICE } = await import('../lib/voices.js');
 
 const WEATHER = { tempF: 54, condition: 'clear skies', windMph: 8 };
 
@@ -78,9 +88,9 @@ const STRICT_PATTERNS = [
   /Central Time/i,
 ];
 
-function auditQueue(label, pool, nowMs) {
+function auditQueue(label, pool, nowMs, socialItems) {
   console.log(`\n--- ${label} ---`);
-  const { segments, queueSeconds, topicGuardSkipped } = buildPlaylist(pool, WEATHER, nowMs);
+  const { segments, queueSeconds, topicGuardSkipped } = buildPlaylist(pool, WEATHER, nowMs, socialItems);
   console.log(`  topic guard skipped ${topicGuardSkipped} same-event item(s)`);
   const stories = segments.filter((s) => s.kind === 'story');
   const banter = segments.filter((s) => s.kind === 'banter');
@@ -221,6 +231,42 @@ function auditQueue(label, pool, nowMs) {
     banter.length === 0,
     `${banter.length} banter segments`
   );
+
+  // Social callers: placement and shape rules, checked over every
+  // queue this audit builds (queues built without a social feed must
+  // simply have none).
+  const callers = segments.filter((s) => s.kind === 'caller');
+  const callerProblems = [];
+  const callerStories = new Set();
+  segments.forEach((seg, i) => {
+    if (seg.kind !== 'caller') return;
+    const prev = segments[i - 1];
+    if (!prev || prev.kind !== 'story' || prev.link !== seg.storyLink) {
+      callerProblems.push(`${seg.id}: does not immediately follow its story`);
+    }
+    if (callerStories.has(seg.storyLink)) {
+      callerProblems.push(`${seg.id}: second caller for one story`);
+    }
+    callerStories.add(seg.storyLink);
+    if (seg.voice !== COHOST_VOICE) {
+      callerProblems.push(`${seg.id}: not read by the co-host voice`);
+    }
+    if (!/^Caller on (Reddit|X|Facebook), [^:]+: \S/.test(seg.script)) {
+      callerProblems.push(`${seg.id}: script off the fixed format: ${seg.script.slice(0, 60)}`);
+    }
+    if (hasUrl(seg.script) || hasBlockedWord(seg.script)) {
+      callerProblems.push(`${seg.id}: script carries a URL or blocklisted word`);
+    }
+  });
+  check(
+    'callers follow their story, one per story, co-host voice, fixed format, clean text',
+    callerProblems.length === 0,
+    callerProblems.slice(0, 3).join(' | ')
+  );
+  check('caller cap respected (16 per queue)', callers.length <= 16, `${callers.length} callers`);
+  if (!socialItems || socialItems.length === 0) {
+    check('zero callers when the social feed is empty', callers.length === 0, `${callers.length}`);
+  }
 
   // Station material is a small minority, by segments and by seconds.
   check(
@@ -508,6 +554,128 @@ check(
   'topic guard: exactly two items skipped in the controls pool (3 versions, 1 airs)',
   guardBuild.topicGuardSkipped === 2,
   `skipped ${guardBuild.topicGuardSkipped}`
+);
+
+// ------------------------------------- D. social caller controls
+console.log('\nD. social caller controls (dedicated pool + raw feed doc)');
+
+// Twenty stories with mutually dissimilar headlines (any pair shares
+// at most the constant tail, so the topic guard never fires).
+const callerItems = [];
+for (let i = 0; i < 20; i++) {
+  callerItems.push({
+    id: `caller-story-${i}`,
+    title: `${WA[i % 12]} ${WB[Math.floor(i / 12) % 12]} quarterly report`,
+    link: `https://example.com/caller-story-${i}`,
+    summary: 'Officials confirmed the development on Tuesday and promised more detail soon.',
+    source: 'Wire Service',
+    category: CATS[i % CATS.length],
+    publishedAt: Date.parse('2026-11-19T12:00:00Z') - i * 60000,
+  });
+}
+const callerPool = { items: callerItems, feeds: [], fetchedAt: Date.now() };
+const callerText = (i) =>
+  `Reaction number ${i} here: this is exactly the kind of story this town talks about all week long.`;
+
+// The raw feed doc mixes 18 valid matched callers (cap test), a
+// second item for story 0 (first must win), one valid item for a
+// story that is not in the pool, and one item per ingest-filter
+// failure mode.
+const rawSocialDoc = {
+  generatedAt: '2026-11-19T18:00:00.000Z',
+  items: [
+    ...callerItems.slice(0, 18).map((it, i) => ({
+      storyLink: it.link,
+      platform: i % 3 === 0 ? 'Reddit' : i % 3 === 1 ? 'X' : 'Facebook',
+      username: `caller_user_${i}`,
+      text: callerText(i),
+      engagement: 100 - i,
+      sourceUrl: `https://www.reddit.com/r/test/comments/${i}`,
+      capturedAt: '2026-11-19T17:59:00.000Z',
+    })),
+    {
+      storyLink: callerItems[0].link,
+      platform: 'Reddit',
+      username: 'second_in_line',
+      text: 'A different and perfectly valid reaction that must lose to the first one for this story.',
+      engagement: 5,
+      sourceUrl: '',
+      capturedAt: null,
+    },
+    {
+      storyLink: 'https://example.com/not-in-the-pool',
+      platform: 'Reddit',
+      username: 'orphan_caller',
+      text: 'This reaction is valid but its story never airs, so it must never be placed.',
+      engagement: 1,
+      sourceUrl: '',
+      capturedAt: null,
+    },
+    { storyLink: callerItems[18].link, platform: 'Reddit', username: 'shorty', text: 'too short', engagement: 1, sourceUrl: '', capturedAt: null },
+    { storyLink: callerItems[18].link, platform: 'Reddit', username: 'longwinded', text: 'word '.repeat(70).trim(), engagement: 1, sourceUrl: '', capturedAt: null },
+    { storyLink: callerItems[18].link, platform: 'Reddit', username: 'linkdropper', text: 'Go read the whole thread at https://example.com/thread for the real story here.', engagement: 1, sourceUrl: '', capturedAt: null },
+    { storyLink: callerItems[19].link, platform: 'Reddit', username: 'swearer', text: 'This is fucking great news for everyone in this city, honestly it is about time.', engagement: 1, sourceUrl: '', capturedAt: null },
+    { storyLink: callerItems[19].link, platform: 'TikTok', username: 'wrong_platform', text: 'A fine reaction that arrives from a platform the station does not take callers from.', engagement: 1, sourceUrl: '', capturedAt: null },
+    { storyLink: 'not a url at all', platform: 'Reddit', username: 'bad_link', text: 'A fine reaction whose story link is not a plausible URL, so it must be dropped.', engagement: 1, sourceUrl: '', capturedAt: null },
+    {
+      storyLink: callerItems[19].link,
+      platform: 'Reddit',
+      username: 'echo_chamber',
+      text: callerText(0).toUpperCase(),
+      engagement: 1,
+      sourceUrl: '',
+      capturedAt: null,
+    },
+  ],
+};
+const parsedSocial = parseSocialFeed(rawSocialDoc);
+check(
+  'social ingest: 18 matched + first-wins duplicate + orphan survive parsing',
+  parsedSocial.length === 20,
+  `parsed ${parsedSocial.length} of ${rawSocialDoc.items.length} raw items`
+);
+check(
+  'social ingest: filter failures dropped (short, long, URL, profanity, platform, link, duplicate text)',
+  !parsedSocial.some((it) =>
+    ['shorty', 'longwinded', 'linkdropper', 'swearer', 'wrong_platform', 'bad_link', 'echo_chamber'].includes(it.username)
+  ),
+  parsedSocial.map((it) => it.username).join(',')
+);
+
+const callerBuild = buildPlaylist(callerPool, WEATHER, T0, parsedSocial);
+const placedCallers = callerBuild.segments.filter((s) => s.kind === 'caller');
+check('social placement: cap holds at 16 with 18 matched stories', placedCallers.length === 16 && callerBuild.callerCount === 16, `${placedCallers.length} placed`);
+check(
+  'social placement: first item for a story wins',
+  placedCallers.some((s) => s.storyLink === callerItems[0].link && s.username === 'caller_user_0') &&
+    !placedCallers.some((s) => s.username === 'second_in_line')
+);
+check(
+  'social placement: orphan caller (story not in pool) never airs',
+  !placedCallers.some((s) => s.username === 'orphan_caller')
+);
+{
+  // Full placement audit over the caller build (the generic checks in
+  // auditQueue cover the other builds; this pool is caller-dense).
+  const problems = [];
+  callerBuild.segments.forEach((seg, i) => {
+    if (seg.kind !== 'caller') return;
+    const prev = callerBuild.segments[i - 1];
+    if (!prev || prev.kind !== 'story' || prev.link !== seg.storyLink) {
+      problems.push(`${seg.id} not after its story`);
+    }
+  });
+  check('social placement: every caller immediately follows its story', problems.length === 0, problems.join(' | '));
+}
+
+// Empty feed: zero callers, and the queue is byte-identical to a
+// build that never heard of social items.
+const emptyBuild = buildPlaylist(callerPool, WEATHER, T0, parseSocialFeed({ items: [] }));
+const noSocialBuild = buildPlaylist(callerPool, WEATHER, T0);
+check('empty social feed: zero callers', emptyBuild.segments.every((s) => s.kind !== 'caller'));
+check(
+  'empty social feed: queue identical to the just-news build',
+  JSON.stringify(emptyBuild.segments) === JSON.stringify(noSocialBuild.segments)
 );
 
 // ---------------------------------------------------------- B. real pool
