@@ -12,8 +12,8 @@ export async function GET() {
     getKansasCityWeather(),
   ]);
   const { segments, bufferSeconds } = buildPlaylist(pool, weather);
-  // Health checks build the schedule anyway; use the pass to warm the
-  // audio cache for upcoming segments too (fire-and-forget, deduped
+  // Health checks build the queue anyway; use the pass to warm the
+  // audio cache for the queue's head too (fire-and-forget, deduped
   // against the playlist route's passes; see lib/tts.js).
   warmSegmentAudio(segments);
   return NextResponse.json({
@@ -39,5 +39,9 @@ export async function GET() {
         }
       : null,
     wireDegraded: Boolean(pool.lastRefresh && !pool.lastRefresh.ok),
+    // Topic-dedupe stats of the pool being served: how many items the
+    // last accepted refresh arrived with, how many survived headline
+    // dedupe, and how many syndicated copies were dropped (lib/ingest.js).
+    dedupe: pool.dedupe || null,
   });
 }
