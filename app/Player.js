@@ -10,25 +10,39 @@
 // elements and the /api/audio duration header) with word-count estimates
 // as fallback only.
 //
-// The rules (all enforced by anchorPlayback below):
+// The rules:
 //  - TUNE-IN AT THE LIVE EDGE. Play, a return to the page, and a resume
 //    all find the segment whose scheduled window contains NOW and start
 //    it at offset (now - window start) via currentTime. Nobody ever
 //    hears the queue from the top, and a returning listener lands on
 //    whatever is live then, never on a replay.
-//  - RE-ANCHOR AT EVERY TRANSITION. When a segment ends, position is
-//    recomputed from the wall clock. If playback fell behind the live
-//    edge (drift, a buffering stall, background-tab throttling), the
-//    stale remainder is skipped and the live segment starts instead.
+//  - A PLAYING SEGMENT IS NEVER CUT. Rendered MP3s run a few seconds
+//    longer or shorter than the schedule's word-count estimates, so
+//    transitions do NOT consult the wall clock: when a segment ends
+//    naturally, its successor starts at offset 0 (nextInSequence in
+//    lib/liveEdge.js) and plays to its own natural end. Anchors absorb
+//    the accumulated drift: an anchor reached after its pinned minute
+//    is skipped rather than aired late, and its span's content
+//    butt-joins with no gap. (The previous design re-anchored at every
+//    transition and cut stories mid-sentence at their slot ends; it
+//    also abandoned segments whose MP3 was still loading when their
+//    estimated window passed, which listeners heard as silence.)
+//  - NO SILENT FAILURE. Cold /api/audio renders take seconds and
+//    occasionally far longer, so the player warms several minutes of
+//    audio ahead, and a stall watchdog watches for an audio element
+//    that stops progressing: it nudges play(), reloads the segment
+//    once (the render it triggered is usually cached by then), and
+//    finally falls back to speechSynthesis for that segment. Silence
+//    is never the failure mode.
 //  - GAPS SHOULD NOT EXIST. The server schedule is a continuous chain
-//    (blocks drawn to target lengths, shortfalls filled with station
-//    material, anchors pinned at :00/:30/:57), so segment windows tile
-//    with no holes. The wait-for-the-next-start path below remains as a
-//    safety net for pathological schedules: if a gap ever does appear,
-//    the player waits for the next segment's true start rather than
-//    starting it early, because a segment that announces a time is only
-//    ever heard inside its true window, so spoken times stay correct
-//    by construction.
+//    (blocks drawn to target lengths, shortfalls filled first with
+//    more stories and only lastly with station material, anchors
+//    pinned at :00/:30/:57), so segment windows tile with no holes.
+//    The wait-for-the-next-start path below remains as a safety net:
+//    if a gap ever does appear, the player waits for the next
+//    segment's true start rather than starting it early, because a
+//    segment that announces a time is only ever heard inside its true
+//    window, so spoken times stay correct by construction.
 //  - PAUSE IS A DELIBERATE HOLD. It freezes the output where it is; on
 //    resume the player re-anchors to the live edge (you rejoin the
 //    stream, you do not catch up on what aired while you were gone).
@@ -44,10 +58,23 @@
 // the live-edge model is the primary mechanism.
 
 import { useCallback, useEffect, useRef, useState } from 'react';
-import { effectiveTimeline, liveSegmentAt, nextPlayable } from '../lib/liveEdge';
+import {
+  effectiveTimeline,
+  liveSegmentAt,
+  nextPlayable,
+  nextInSequence,
+} from '../lib/liveEdge';
 
 const REFILL_THRESHOLD_SECONDS = 300; // refetch when the loaded schedule runs out within 5 min
-const WARM_AHEAD = 4; // segments whose real durations we learn ahead of the playhead
+// Warming depth, in seconds of audio ahead of the playhead (with a
+// segment-count cap). Cold /api/audio renders measured ~5s each in
+// good conditions but tens of seconds (or an outright failure) in bad
+// ones, and the previous depth of 4 short segments was under a minute
+// of runway: a slow render at the playhead meant silence. Five
+// minutes of runway absorbs realistic render latency.
+const WARM_AHEAD_SECONDS = 300;
+const WARM_AHEAD_MAX = 24;
+const STALL_LIMIT_MS = 8000; // no audio progress for this long = stalled
 const TIME_ZONE = 'America/Chicago';
 
 /** Split a script into speakable chunks of at most ~180 chars, by sentence. */
@@ -109,6 +136,8 @@ export default function Player() {
   const fetchingRef = useRef(false);
   const startedRef = useRef(false);
   const currentIdRef = useRef(null); // segment currently sounding, or null
+  const currentIndexRef = useRef(-1); // its index in queueRef (transitions are sequential)
+  const stallRef = useRef({ id: null, lastSample: 0, since: 0, recoveries: 0 }); // stall watchdog state
   const displayIdRef = useRef(null); // segment id currently shown as live (pre-play display)
   const audioRef = useRef(null); // main MP3 element
   const preloadRef = useRef(null); // next-segment MP3 preload element
@@ -295,23 +324,32 @@ export default function Player() {
     }
   }, []);
 
-  // Learn real durations ahead of the playhead: HEAD the next few
-  // segments' audioUrls (which also warms the server-side render cache)
-  // and read the duration header; the preload element's metadata refines
-  // the next segment's duration exactly.
+  // Learn real durations ahead of the playhead AND trigger the
+  // server-side renders before the playhead arrives: HEAD each upcoming
+  // segment's audioUrl (the route renders on HEAD exactly as on GET,
+  // so the MP3 is cached server-side and CDN-side by the time it is
+  // needed) and read the duration header. Depth is measured in seconds
+  // of audio, not segment count: short segments used to give under a
+  // minute of runway against multi-second cold renders.
   const warmDurations = useCallback(
     (fromIndex = 0) => {
       const q = queueRef.current;
-      for (let i = fromIndex; i < Math.min(q.length, fromIndex + WARM_AHEAD); i++) {
+      let seconds = 0;
+      let count = 0;
+      for (let i = fromIndex; i < q.length && count < WARM_AHEAD_MAX; i++) {
         const seg = q[i];
-        if (!seg?.audioUrl || durationsRef.current.has(seg.id)) continue;
+        if (!seg) break;
+        seconds += seg.estSeconds || 0;
+        count++;
+        if (seconds >= WARM_AHEAD_SECONDS && count >= 2) break;
+        if (!seg.audioUrl || durationsRef.current.has(seg.id)) continue;
         fetch(seg.audioUrl, { method: 'HEAD' })
           .then((res) => {
             const d = parseFloat(res.headers.get('x-audio-duration-seconds'));
             if (Number.isFinite(d)) noteDuration(seg.id, d);
           })
           .catch(() => {
-            /* estimates remain the fallback */
+            /* estimates remain the fallback; the stall ladder covers a slow render */
           });
       }
     },
@@ -343,6 +381,7 @@ export default function Player() {
   // ---- playback engine -----------------------------------------------------------
   // Defined with refs so the anchor chain never goes stale.
   const anchorRef = useRef(null);
+  const sequentialRef = useRef(null);
   const syncViewRef = useRef(null);
 
   const clearGapTimer = useCallback(() => {
@@ -402,14 +441,22 @@ export default function Player() {
     finishedIdsRef.current.add(seg.id);
     if (currentIdRef.current === seg.id) currentIdRef.current = null;
     modeRef.current = null;
-    // Every transition re-anchors to the wall clock.
-    anchorRef.current?.();
+    // TRANSITIONS ARE SEQUENTIAL, never wall-clock re-anchors: the
+    // successor starts at offset 0 and plays to its natural end, so a
+    // segment can never be cut at its estimated slot end. Anchors
+    // absorb the drift inside nextInSequence (a stale anchor is
+    // skipped; its span's content butt-joins). The wall-clock anchor
+    // path runs only when the loaded sequence is exhausted (refill)
+    // or when joining the stream (play / resume / return).
+    sequentialRef.current?.(currentIndexRef.current);
   }, []);
 
   const startSegment = useCallback(
     (tl, index, offsetMs) => {
       const seg = tl[index].seg;
       currentIdRef.current = seg.id;
+      currentIndexRef.current = index;
+      stallRef.current = { id: seg.id, lastSample: 0, since: Date.now(), recoveries: 0 };
       displayIdRef.current = seg.id;
       // Session no-repeat backstops: once a segment starts, neither it
       // nor its story (under any segment id) can be queued again.
@@ -446,6 +493,15 @@ export default function Player() {
           finishSegment(seg);
         }
       };
+      audio.ontimeupdate = () => {
+        // Stall watchdog evidence: the last position the audio
+        // element actually reached. A loading or stalled MP3 leaves
+        // this frozen while the wall clock (and the old watchdog)
+        // marched on.
+        if (currentIdRef.current === seg.id) {
+          stallRef.current.lastSample = audio.currentTime || 0;
+        }
+      };
       audio.onerror = fallBack;
       audio.onloadedmetadata = () => {
         noteDuration(seg.id, audio.duration);
@@ -466,11 +522,67 @@ export default function Player() {
     [finishSegment, getAudio, noteDuration, preloadNext, speakSegment, storyKey, syncView]
   );
 
+  // THE SEQUENCE: advance from the segment that just finished to its
+  // successor, which always starts at offset 0 (see nextInSequence).
+  // A successor that is an anchor still in the future is waited for;
+  // stale anchors and stale time checks are skipped inside
+  // nextInSequence and recorded as finished so nothing resurrects
+  // them. Only an exhausted sequence falls through to the wall-clock
+  // anchor path, which refills the playlist.
+  const advanceSequential = useCallback(
+    (fromIndex) => {
+      if (!playingRef.current) return;
+      const tl = timeline();
+      const nxt = nextInSequence(tl, fromIndex, finishedIdsRef.current, Date.now());
+      for (const id of nxt.skipped || []) finishedIdsRef.current.add(id);
+      if (nxt.type === 'segment') {
+        startSegment(tl, nxt.index, 0);
+        return;
+      }
+      if (nxt.type === 'wait') {
+        const entry = tl[nxt.index];
+        currentIdRef.current = null;
+        displayIdRef.current = entry.seg.id;
+        setNowPlaying(null);
+        setStandby({ seg: entry.seg, atMs: entry.seg.startMs });
+        syncView(nxt.index, tl);
+        gapTimerRef.current = setTimeout(
+          () => {
+            if (!playingRef.current) return;
+            const tl2 = timeline();
+            const idx = tl2.findIndex((e) => e.seg.id === entry.seg.id);
+            if (idx >= 0) startSegment(tl2, idx, 0);
+            else sequentialRef.current?.(fromIndex);
+          },
+          Math.max(0, nxt.waitMs) + 30
+        );
+        return;
+      }
+      anchorRef.current?.();
+    },
+    [startSegment, syncView, timeline]
+  );
+
+  useEffect(() => {
+    sequentialRef.current = advanceSequential;
+  }, [advanceSequential]);
+
   // THE ANCHOR: recompute the live position from the wall clock and put
-  // playback there. Called at tune-in, on resume, on return to the page,
-  // at every segment transition, and by the drift watchdog.
+  // playback there. Called when JOINING the stream (tune-in, resume,
+  // return to the page) and to refill an exhausted sequence. It must
+  // never interrupt a segment that is sounding: transitions belong to
+  // the sequence above.
   const anchorPlayback = useCallback(() => {
     if (!playingRef.current) return;
+    if (
+      currentIdRef.current &&
+      modeRef.current === 'audio' &&
+      audioRef.current &&
+      !audioRef.current.paused &&
+      !audioRef.current.ended
+    ) {
+      return; // a segment is sounding; the sequence owns transitions
+    }
     clearGapTimer();
     pruneQueue();
     const tl = timeline();
@@ -546,47 +658,87 @@ export default function Player() {
     };
   }, [syncView, timeline]);
 
-  // Drift watchdog: if the sounding segment's window has passed (an
-  // overrun, a long stall, a throttled background tab), or — at natural
-  // rate — the audio has fallen well behind the wall-clock offset, skip
-  // forward to the live edge instead of playing the stale remainder.
+  // Stall watchdog. The old drift watchdog compared the audio against
+  // the segment's estimated window and re-anchored when the window
+  // passed: that is what cut stories mid-sentence (real MP3s run
+  // longer than estimates) and what abandoned segments whose MP3 was
+  // still rendering when their window passed (heard as silence). This
+  // watchdog never touches a progressing segment. It watches for the
+  // one failure that produces silence: an audio element that has
+  // stopped progressing (a slow cold render, a stalled fetch: no
+  // 'error' event, no 'ended', currentTime frozen). Recovery ladder,
+  // one rung per stall period: (1) nudge play(); (2) reload the
+  // segment and seek back to the last heard position (the first
+  // attempt usually triggered the server render, so the reload is a
+  // cache hit); (3) fall back to speechSynthesis for this segment.
+  // The ladder always ends in sound or in the sequence advancing.
   useEffect(() => {
     const t = setInterval(() => {
       if (!playingRef.current || !currentIdRef.current) return;
       if (modeRef.current !== 'audio' || !audioRef.current) return;
-      const tl = timeline();
-      const entry = tl.find((e) => e.seg.id === currentIdRef.current);
-      if (!entry) {
-        anchorRef.current?.();
+      const audio = audioRef.current;
+      if (audio.ended) return;
+      const stall = stallRef.current;
+      if (stall.id !== currentIdRef.current) return;
+      if (audio.paused) {
+        // A browser-side pause we did not ask for (autoplay policy,
+        // interruption): try to resume rather than sit silent.
+        if (audio.readyState >= 2) audio.play().catch(() => {});
         return;
       }
-      const nowMs = Date.now();
-      if (nowMs >= entry.endMs) {
-        anchorRef.current?.();
+      const cur = audio.currentTime || 0;
+      if (cur > stall.lastSample + 0.2) {
+        stall.lastSample = cur;
+        stall.since = Date.now();
+        stall.recoveries = 0;
         return;
       }
-      if (rateRef.current === 1) {
-        const expected = (nowMs - entry.startMs) / 1000;
-        const cur = audioRef.current.currentTime || 0;
-        if (expected - cur > 5) {
+      if (Date.now() - stall.since < STALL_LIMIT_MS) return;
+      // Stalled: no progress for STALL_LIMIT_MS while supposedly playing.
+      stall.since = Date.now();
+      stall.recoveries += 1;
+      const seg = queueRef.current.find((s) => s.id === currentIdRef.current);
+      if (stall.recoveries === 1) {
+        audio.play().catch(() => {});
+      } else if (stall.recoveries === 2 && seg?.audioUrl) {
+        const resumeAt = stall.lastSample;
+        audio.src = seg.audioUrl;
+        audio.onloadedmetadata = () => {
+          noteDuration(seg.id, audio.duration);
           try {
-            audioRef.current.currentTime = expected;
+            audio.currentTime = resumeAt;
           } catch {
-            /* self-corrects at the next re-anchor */
+            /* resume from the top of the segment if the seek fails */
           }
-        }
+        };
+        audio.load();
+        audio.play().catch(() => {});
+      } else if (seg) {
+        // The MP3 cannot be delivered in time: the browser voice reads
+        // this segment (from its top; speech cannot seek) and the
+        // sequence moves on. Degraded voice beats silence.
+        modeRef.current = 'speech';
+        speakSegment(seg, () => finishSegment(seg));
       }
-    }, 4000);
+    }, 2000);
     return () => clearInterval(t);
-  }, [timeline]);
+  }, [finishSegment, noteDuration, speakSegment]);
 
-  // Returning to the page re-anchors: a backgrounded tab that was
-  // throttled rejoins the live stream, it does not resume the stale one.
+  // Returning to the page: if a segment is sounding, leave it alone
+  // (re-anchoring used to cut it). Only a stream whose output actually
+  // stopped while backgrounded re-anchors to the live edge.
   useEffect(() => {
     const onVis = () => {
-      if (document.visibilityState === 'visible' && playingRef.current) {
-        anchorRef.current?.();
+      if (document.visibilityState !== 'visible' || !playingRef.current) return;
+      if (
+        modeRef.current === 'audio' &&
+        audioRef.current &&
+        !audioRef.current.paused &&
+        !audioRef.current.ended
+      ) {
+        return;
       }
+      anchorRef.current?.();
     };
     document.addEventListener('visibilitychange', onVis);
     return () => document.removeEventListener('visibilitychange', onVis);
