@@ -130,6 +130,13 @@ body {
   font-variant-numeric: tabular-nums;
 }
 
+.diag-line {
+  margin: 10px 0 0;
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-variant-numeric: tabular-nums;
+}
+
 .now-playing {
   background: linear-gradient(135deg, var(--panel-2), var(--panel));
   border: 1px solid var(--line);
