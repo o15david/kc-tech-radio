@@ -40,6 +40,10 @@ export async function GET() {
     generatedAt,
     queueSeconds,
     bufferSeconds,
+    // The same buffer in MINUTES (queueSeconds / 60, one decimal):
+    // consumers reading a minutes field here previously found only
+    // the seconds value (~14411) where ~240.2 belonged.
+    bufferMinutes: Math.round((bufferSeconds / 60) * 10) / 10,
     segments,
   });
 }
