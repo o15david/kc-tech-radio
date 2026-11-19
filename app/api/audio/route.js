@@ -3,12 +3,17 @@ import { ALLOWED_VOICES } from '../../../lib/voices';
 
 // GET /api/audio?v=<voice>&t=<script text>[&s=<segment id>]
 //
-// Renders (or serves from cache) the MP3 for one playlist segment. The URL
+// Renders (or serves from cache) the MP3 for one queue segment. The URL
 // fully determines the audio: segments are deterministic, so the same URL
 // always yields the same bytes, which is why the response carries year-long
 // immutable cache headers for browsers and the Vercel CDN. The in-memory
 // cache in lib/tts.js (keyed by SHA-256 of voice + text) means a warm
-// instance renders each segment exactly once.
+// instance renders each segment exactly once. Rendering itself is
+// hardened in lib/tts.js: a global per-instance concurrency limiter,
+// retries with backoff, a truncated-render guard, and failures are never
+// cached — this route returns 502 only after that whole ladder fails,
+// and the player then retries, degrades to browser speech for the one
+// segment, or skips it.
 //
 // Node runtime is required: Edge TTS runs over a WebSocket (the `ws`
 // package), which the Edge runtime cannot do.
@@ -38,8 +43,8 @@ export async function GET(request) {
         'Content-Type': 'audio/mpeg',
         'Content-Length': String(mp3.length),
         // The renders are constant-bitrate, so the duration follows from
-        // the byte size. The player reads this (a HEAD request is enough)
-        // to anchor its wall-clock timeline on real durations.
+        // the byte size. Reported for diagnostics and sampling audits;
+        // playback itself is sequential and never times on it.
         'X-Audio-Duration-Seconds': mp3DurationSeconds(mp3).toFixed(3),
         // Safe forever: the URL is the content's identity.
         'Cache-Control': 'public, max-age=31536000, immutable',
