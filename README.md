@@ -70,16 +70,31 @@ attribution ("From TechCrunch AI."). Story selection follows the no-repeat
 rotation in the Format rules below, so the same request inside the same
 window returns the same queue, and the queue advances as the clock advances.
 If a category pool has no fresh story left, blocks fall back through the
-other categories' fresh stories; if *everything* is down, a station-note
-filler segment keeps the stream alive.
+other categories' fresh stories; if *everything* is down, the chain fills
+with station material and the stream still never goes silent.
 
-Spoken times are always the block's true scheduled start on the Chicago
-clock (that date at the block's start hour:minute), never "now plus whole
-hours": a top-of-hour block that starts at 11:00 says "It is 11 AM Central
-Time" even when the playlist was generated at 10:59. On the hour, times
-are spoken radio-style without the ":00". Every segment carries `startMs`
-(its scheduled start epoch) and `slotEndMs` (the next block's scheduled
-start) so the player can drop stale segments instead of re-airing them.
+**The hour is a continuous chain with no holes.** Segments are laid end
+to end from the top of the hour inside three spans pinned by *anchors*:
+the segments that speak a time (the top-of-hour intro at :00, the station
+ID at :30, the hour tease at :57) start at their true wall-clock minute,
+exactly. Between anchors the content flexes to meet the next one: each
+show block draws stories until it reaches its target length (the format
+clock's `targetSeconds`; the old story counts are minimums), a span that
+still runs short is filled with short deterministic station material
+(station IDs, weather checks, producer's desk bits, station promos,
+composed by an exact solver to land within a couple of seconds of the
+anchor), and a span that would overrun has its trailing stories trimmed
+back into the pool. The next hour starts on the hour regardless.
+
+Spoken times are always the speaking segment's own chained start on the
+Chicago clock, never "now plus whole hours": the top-of-hour block that
+starts at 11:00 says "It is 11 AM Central Time" even when the playlist
+was generated at 10:59, and a filler station ID that starts at :47 says
+:47. On the hour, times are spoken radio-style without the ":00". Every
+segment carries `startMs` (its chained scheduled start epoch) and
+`slotEndMs` (the *next segment's* start: the chain tiles, so a segment's
+window ends exactly where its successor begins) so the player can drop
+stale segments instead of re-airing them.
 
 ## Format rules
 
@@ -102,17 +117,37 @@ of every show:
   mid-cycle, while no story can resurface inside a single long listening
   session.
 - If a block's fresh pool runs dry, the block draws a fresh story from a
-  fallback category; if nothing fresh remains anywhere, **the block runs
-  short rather than recycling an aired story**. No filler repeats.
-- Station IDs, intros, time checks, the producer's desk, and the music
-  block's fixed copy are not stories and are exempt.
+  fallback category; if nothing fresh remains anywhere, the block stops
+  drawing and **the span fills the shortfall with station material rather
+  than recycling an aired story**. No story ever repeats to fill time.
+- Station IDs, intros, time checks, the producer's desk, station promos,
+  and the music block's fixed copy are not stories and are exempt.
 - Implementation (stateless, deterministic): the aired set for the current
   cycle is reconstructed on every request by replaying the schedule from
-  the cycle anchor to the current block instance with the same draw rules.
-  An honesty rule applies in the replay: an instance may only draw stories
-  published by that instance's start, so a story published at 10:05 AM is
-  never retroactively "aired" by a 3 AM replay instance. The player keeps
-  its own session-level played sets as a backstop (see section 6).
+  the cycle anchor to the current hour through the *same* builder the
+  forward walk uses. An honesty rule applies identically in replay and in
+  emission: an instance may only draw stories published by that instance's
+  own start, so a story published at 10:05 AM is never retroactively
+  "aired" by a 3 AM replay instance, and never drawn into the 10:00
+  instance already on air. (An earlier version let the forward walk draw
+  the current instance with no publication cutoff while the replay used
+  the instance start; a story published mid-block could air live yet
+  never be counted as aired, and air again later in the cycle. That
+  asymmetry is fixed, and the cycle walk in `scripts/chain-audit.mjs`
+  verifies zero duplicate story links across a full 8-hour cycle.) The
+  player keeps its own session-level played sets as a backstop (see
+  section 6).
+
+**No dead air (the continuous chain).** The schedule tiles the hour end
+to end: there is no minute of the day when nothing is scheduled. Blocks
+sit in three spans pinned by time-speaking anchors (:00, :30, :57);
+show blocks draw stories to target lengths sized to their spans; spans
+that run short are padded with station material (never repeated
+stories), spans that overrun are trimmed, and every hour restarts its
+chain on the hour. `scripts/chain-audit.mjs` audits the result: zero
+gaps over 2 seconds between consecutive segment windows across the
+whole buffer, at several times of day including the thin overnight
+wire, plus exactly-one-segment-on-air sampling and an anchor audit.
 
 **Inside-out selection (the top-of-hour block).** General news runs
 inside-out, because selection weight follows direct control and impact
@@ -156,16 +191,23 @@ news facts are never touched.)
 
 ### 3. The rolling buffer (`app/api/playlist/route.js`)
 
-Returns the current segment plus upcoming segments totaling **at least 12
-minutes** of airtime. Segment durations are estimated from word count at a
-fixed 155 words/minute, so timing is deterministic. Each segment carries
-its scheduled window (`startMs`, plus `slotEndMs` for the end of its
-block's slot). The player refetches when the loaded schedule runs out
-within 5 minutes, appends only segments it has not already queued *or
-played* (see the backstop in section 6), and drops whole blocks whose slot
-has fully passed rather than airing stale content. The schedule itself is
-the stream: the player locks playback to these windows on the wall clock
-(see section 6).
+Returns the live segment plus upcoming segments covering **at least 12
+minutes of wall-clock time** ahead of now (always including the rest of
+the current hour and the next hour, so the top-of-hour anchor is loaded
+before the hour turns). Because the schedule is a continuous chain with
+no holes, `bufferSeconds` is true wall-clock coverage: seconds from now
+until the end of the last returned segment, with a segment scheduled at
+every instant in between. Segment durations are estimated from word
+count at a fixed 155 words/minute, so timing is deterministic. Each
+segment carries its scheduled window (`startMs`, plus `slotEndMs`, the
+next segment's start, for the end of its window). Segments whose window
+has fully passed are dropped from the response (their draws still count
+in the cycle's aired set). The player refetches when the loaded schedule
+runs out within 5 minutes, appends only segments it has not already
+queued *or played* (see the backstop in section 6), and drops whole
+blocks whose slot has fully passed rather than airing stale content.
+The schedule itself is the stream: the player locks playback to these
+windows on the wall clock (see section 6).
 
 ### 4. The voice: pre-rendered neural audio (`lib/voices.js`, `lib/tts.js`, `app/api/audio/route.js`)
 
@@ -229,9 +271,11 @@ from the audio elements' metadata and from the `X-Audio-Duration-Seconds`
 header `/api/audio` returns (the renders are constant-bitrate, so the
 header's byte-size math is near-exact, and the player HEAD-warms the next
 few segments, which also pre-renders them server-side) — with the
-word-count estimate as fallback only. A window never crosses its block's
-`slotEndMs`: an overrunning block is cut by the schedule, the way the next
-show starts on time at a real station.
+word-count estimate as fallback only. A window never crosses its
+`slotEndMs` (the next segment's scheduled start): an overrunning segment
+is cut by the schedule, the way the next show starts on time at a real
+station, and the time it was cut by does not push its successors late —
+the block resumes on schedule at the next segment.
 
 - **Tune-in at the live edge.** Play, a return to the page, and a resume
   all find the segment whose window contains *now* and start its MP3 at
@@ -244,10 +288,12 @@ show starts on time at a real station.
   throttling), the stale remainder is skipped and the live segment starts
   instead. At natural rate, an audio element lagging its wall-clock offset
   by more than 5 seconds is seeked forward in place.
-- **Gaps are real.** A block's copy usually runs shorter than its slot, so
-  the schedule itself has quiet stretches. The player waits them out and
-  starts the next segment at its true start (Now Playing shows what is on
-  air next, and when), rather than starting it early: a segment that
+- **The schedule has no gaps.** The server chain (see section 2) tiles
+  every hour end to end, so there is always a segment on air. The
+  player's wait-out-a-gap path remains only as a safety net for a
+  pathological schedule: if a gap ever did appear, the player would wait
+  for the next segment's true start (Now Playing shows what is on air
+  next, and when) rather than starting it early, because a segment that
   announces a time is only ever heard inside its true window, so **spoken
   times are correct by construction**.
 - **Pause is a deliberate hold.** It freezes the output where it is; the
