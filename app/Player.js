@@ -12,16 +12,41 @@
 // resume continues that same segment where it left off.
 //
 // Reliability rules (a segment must never become silence):
-//  - PRELOAD AHEAD. The next segment's MP3 is downloaded while the
-//    current one plays, and segments further ahead are HEAD-warmed
-//    (a HEAD on /api/audio renders server-side exactly like a GET),
-//    because a cold Edge TTS render takes seconds.
-//  - RETRY, THEN DEGRADE, THEN SKIP. If a segment's MP3 errors (the
-//    route 502s after its own server-side retry ladder) or stalls (no
-//    progress for 8 seconds: a stalled fetch fires no error event),
-//    the player reloads it up to 2 times with a short pause; then the
-//    browser's speechSynthesis reads that one segment; if even that
-//    is unavailable, the segment is skipped. The stream moves on.
+//  - PRELOAD AHEAD. The next TWO segments' MP3s are genuinely
+//    buffered (preload="auto" on hidden audio elements, not just
+//    metadata) while the current one plays, so a brief network gap
+//    does not stall the playhead; segments further ahead are
+//    HEAD-warmed (a HEAD on /api/audio renders server-side exactly
+//    like a GET), because a cold Edge TTS render takes seconds.
+//    Two segments is the bound, for mobile data's sake.
+//  - PATIENT RECOVERY LADDER (Nov 19 iOS finding: on David's iPhone
+//    in the WKWebView in-app browser, segments were still cutting out
+//    mid-story and skipping to the next one, while a server-side
+//    sample proved the MP3s themselves complete. iOS stalls are
+//    frequent and usually transient — WKWebView media throttling,
+//    network handoffs, screen lock, background timer throttling —
+//    and the old ladder judged them in about a second and moved on).
+//    Recovery for the current segment is now deliberately patient:
+//    Stage 0: on a stall signal, wait briefly and call play() again
+//    WITHOUT touching src; most iOS stalls self-recover here.
+//    Stage 1: if still frozen after ~4s of observed freeze, reload
+//    and seek to the last heard position (the resume machinery
+//    below), then wait a generous ~10s grace window for canplay /
+//    progress before judging the attempt. Up to 3 resume attempts,
+//    with backoff between them.
+//    Stage 2: skip to the next segment ONLY after 3 failed resume
+//    attempts at the same position, or a hard media error that
+//    survives those retries, or when only the last second of the
+//    segment is left. A freeze shorter than ~2s never counts as a
+//    failure at all. A segment nothing was heard from gets plain
+//    load retries with backoff, then the speech fallback (unchanged
+//    rule: speech only when nothing was heard).
+//    Watchdog hygiene: freezes are never counted while the document
+//    is hidden, and a long gap between watchdog samples (a throttled
+//    timer while backgrounded or locked) is discarded as evidence
+//    rather than counted as freeze time. Session stall counters are
+//    kept and shown in a small diagnostics line under the controls,
+//    so a field report carries numbers, not impressions.
 //  - NO REPLAY, EVER (Nov 19 production finding: 5 of 38 segments in
 //    a 15-minute listen had their audio restart from the beginning
 //    after a stall, cutting off mid-sentence — the old retryLoad
@@ -50,9 +75,17 @@ const REFILL_MIN_SEGMENTS = 12; // refill when fewer than this remain unplayed
 const REFILL_MIN_SECONDS = 600; // ...or when under 10 minutes remain
 const WARM_AHEAD_SECONDS = 300; // HEAD-warm this much audio ahead of the playhead
 const WARM_AHEAD_MAX = 24;
-const MAX_LOAD_ATTEMPTS = 2; // MP3 reloads per segment before the speech fallback
-const RETRY_PAUSE_MS = 1200;
-const STALL_LIMIT_MS = 8000; // no audio progress for this long = stalled
+const WATCHDOG_TICK_MS = 1000; // stall watchdog sampling interval
+const SAMPLE_GAP_MAX_MS = 3500; // a longer gap between samples = throttled timer, not freeze evidence
+const FREEZE_MIN_MS = 2000; // a freeze shorter than this never counts as a failure
+const STAGE0_AT_MS = 1500; // observed freeze this long -> stage 0 (play() nudge, src untouched)
+const STAGE0_DELAY_MS = 800; // stage 0 waits this long after a stall signal before nudging play()
+const STAGE1_AT_MS = 4000; // still frozen this long -> stage 1 (resume-reload)
+const RESUME_GRACE_MS = 10000; // after a resume-reload, wait this long for canplay/progress before judging it
+const MAX_RESUME_ATTEMPTS = 3; // stage-1 resume attempts at one position before stage 2 (skip)
+const RESUME_BACKOFF_MS = [1500, 3000, 6000]; // wait before resume attempt 2, 3 (index by attempts already made)
+const MAX_LOAD_ATTEMPTS = 3; // plain reloads of a never-heard segment before the speech fallback
+const LOAD_BACKOFF_MS = [1200, 2500, 5000]; // wait before load retry 2, 3
 const TIME_ZONE = 'America/Chicago';
 
 /** Split a script into speakable chunks of at most ~180 chars, by sentence. */
@@ -91,6 +124,14 @@ export default function Player() {
   const [rate, setRate] = useState(1);
   const [volume, setVolume] = useState(1);
   const [voiceLabel, setVoiceLabel] = useState('Edge neural TTS');
+  const [diagView, setDiagView] = useState({
+    stalls: 0,
+    stage0Recoveries: 0,
+    resumeAttempts: 0,
+    resumesOk: 0,
+    skips: 0,
+    loadErrors: 0,
+  });
 
   const queueRef = useRef([]);
   const indexRef = useRef(0); // playhead position in queueRef
@@ -98,10 +139,41 @@ export default function Player() {
   const queuedStoryKeysRef = useRef(new Set()); // story keys in the loaded queue
   const playedStoryKeysRef = useRef(new Set()); // story keys that started playing
   const warmedIdsRef = useRef(new Set()); // segment ids already HEAD-warmed
-  const loadAttemptsRef = useRef(new Map()); // segment id -> MP3 reload attempts
   const heardMaxRef = useRef(new Map()); // segment id -> max audio position (s) actually heard
   const finishedIdsRef = useRef(new Set()); // segment ids finished or skipped this session
   const pendingSeekRef = useRef(null); // 'canplay' seek handler armed by a resume-reload
+  // Recovery state machine for the CURRENT segment only (reset by
+  // startSegment). phase: 'idle' (progressing, or frozen < stage 0)
+  // -> 'stage0' (play() nudged, src untouched) -> 'grace' (a resume
+  // reload is inside its RESUME_GRACE_MS judgement window) ->
+  // 'backoff' (waiting to make the next resume attempt) -> 'idle'
+  // again on any progress. frozenMs accumulates ONLY timely, visible
+  // watchdog samples, so background/lock timer throttling can never
+  // inflate it. loadAttempts counts plain reloads of a segment
+  // nothing was heard from; resumeAttempts counts stage-1 reloads.
+  const recoveryRef = useRef({
+    id: null,
+    phase: 'idle',
+    viaResume: false,
+    frozenAt: 0,
+    lastSample: 0,
+    lastTickAt: 0,
+    frozenMs: 0,
+    countedStall: false,
+    resumeAttempts: 0,
+    loadAttempts: 0,
+    graceUntil: 0,
+  });
+  // Session stall diagnostics: rendered in the UI and mirrored to
+  // the console with segment ids, so the next field report is data.
+  const diagRef = useRef({
+    stalls: 0,
+    stage0Recoveries: 0,
+    resumeAttempts: 0,
+    resumesOk: 0,
+    skips: 0,
+    loadErrors: 0,
+  });
   const playingRef = useRef(false);
   const pausedModeRef = useRef(null); // mode held by Pause: 'audio' | 'speech' | null
   const rateRef = useRef(1);
@@ -110,10 +182,11 @@ export default function Player() {
   const fetchingRef = useRef(false);
   const startedRef = useRef(false);
   const currentIdRef = useRef(null);
-  const stallRef = useRef({ id: null, lastSample: 0, since: 0, nudges: 0 });
-  const retryTimerRef = useRef(null);
+  const retryTimerRef = useRef(null); // backoff timer for the recovery ladder
+  const stallTimerRef = useRef(null); // stage-0 delayed nudge timer
   const audioRef = useRef(null); // main MP3 element
-  const preloadRef = useRef(null); // next-segment MP3 preload element
+  const preloadRef = useRef(null); // next-segment MP3 buffer element
+  const preload2Ref = useRef(null); // next-next-segment MP3 buffer element
   const modeRef = useRef(null); // 'audio' | 'speech' | null (current segment)
   const speechGenRef = useRef(0); // bumped whenever speech is superseded/cancelled
   const startTokenRef = useRef(0); // bumped per segment start; stale handlers check it
@@ -253,12 +326,27 @@ export default function Player() {
     return audioRef.current;
   }, []);
 
-  const getPreload = useCallback(() => {
-    if (!preloadRef.current) {
-      preloadRef.current = new Audio();
-      preloadRef.current.preload = 'auto';
+  const getPreload = useCallback((which) => {
+    const ref = which === 2 ? preload2Ref : preloadRef;
+    if (!ref.current) {
+      ref.current = new Audio();
+      ref.current.preload = 'auto';
     }
-    return preloadRef.current;
+    return ref.current;
+  }, []);
+
+  // Bump one session diagnostics counter, mirror it to the UI state
+  // and to the console with the segment id attached.
+  const bumpDiag = useCallback((key, segId, note) => {
+    diagRef.current = { ...diagRef.current, [key]: (diagRef.current[key] || 0) + 1 };
+    setDiagView(diagRef.current);
+    try {
+      console.info(
+        `[kc-tech-radio] diag ${key} seg=${segId || '-'}${note ? ` ${note}` : ''} totals=${JSON.stringify(diagRef.current)}`
+      );
+    } catch {
+      /* console is best-effort */
+    }
   }, []);
 
   // Trigger server-side renders ahead of the playhead: HEAD each
@@ -286,15 +374,25 @@ export default function Player() {
     }
   }, []);
 
-  // Start downloading the next segment's MP3 while the current one plays.
+  // Genuinely buffer the next TWO segments' MP3s while the current
+  // one plays: one hidden preload="auto" element each, pointed at
+  // the segment after next as well as the next one, so a brief
+  // network gap (an iOS handoff, a tunnel, a lock-screen radio
+  // renegotiation) finds the upcoming audio already on the device.
+  // Bounded at two for mobile data. HEAD-warming continues further
+  // ahead for the server-side render cache.
   const preloadNext = useCallback(
     (index) => {
-      const next = queueRef.current[index + 1];
-      if (next?.audioUrl) {
-        const pre = getPreload();
-        const target = new URL(next.audioUrl, window.location.origin).href;
+      for (const [offset, which] of [
+        [1, 1],
+        [2, 2],
+      ]) {
+        const seg = queueRef.current[index + offset];
+        if (!seg?.audioUrl) continue;
+        const pre = getPreload(which);
+        const target = new URL(seg.audioUrl, window.location.origin).href;
         if (pre.src !== target) {
-          pre.src = next.audioUrl;
+          pre.src = seg.audioUrl;
           pre.load();
         }
       }
@@ -305,12 +403,21 @@ export default function Player() {
 
   // ---- playback engine -----------------------------------------------------------
   const advanceRef = useRef(null);
-  const retryLoadRef = useRef(null);
+  const performResumeRef = useRef(null);
+  const failAttemptRef = useRef(null);
+  const handleFailureRef = useRef(null);
 
   const clearRetryTimer = useCallback(() => {
     if (retryTimerRef.current) {
       clearTimeout(retryTimerRef.current);
       retryTimerRef.current = null;
+    }
+  }, []);
+
+  const clearStallTimer = useCallback(() => {
+    if (stallTimerRef.current) {
+      clearTimeout(stallTimerRef.current);
+      stallTimerRef.current = null;
     }
   }, []);
 
@@ -324,6 +431,83 @@ export default function Player() {
     }
     pendingSeekRef.current = null;
   }, []);
+
+  // Real forward progress on the current segment: update the
+  // no-replay heard record, and close out whatever recovery episode
+  // was open (crediting the stage that achieved the recovery).
+  const noteProgress = useCallback(
+    (segId, cur) => {
+      if (cur > (heardMaxRef.current.get(segId) || 0)) {
+        heardMaxRef.current.set(segId, cur);
+      }
+      const rec = recoveryRef.current;
+      if (rec.id !== segId) return;
+      rec.lastSample = cur;
+      // An open episode closes only on REAL advancement past the
+      // position where it began. A resume-reload's seek makes
+      // currentTime JUMP to the heard position and fires timeupdate
+      // before a single new frame has played; counting that as a
+      // successful resume would reset the attempt budget and let a
+      // segment stall at the same position forever.
+      const advanced = cur > (rec.frozenAt || 0) + 0.2;
+      if (!advanced && rec.phase !== 'idle') return;
+      if (rec.phase === 'stage0') {
+        // Stage 0 recovered the segment without touching src.
+        if (rec.countedStall) bumpDiag('stage0Recoveries', segId, 'recovered in place');
+        rec.phase = 'idle';
+        rec.frozenMs = 0;
+        rec.countedStall = false;
+        clearStallTimer();
+      } else if (rec.phase === 'grace' || rec.phase === 'backoff' || rec.phase === 'resuming') {
+        // A stage-1 resume attempt worked. (The initial load and
+        // pre-heard load retries also pass through a grace window,
+        // flagged viaResume=false: their success is just a load,
+        // not a resume, and is not credited as one.)
+        if (rec.viaResume) bumpDiag('resumesOk', segId, `resumed at ${cur.toFixed(1)}s`);
+        rec.viaResume = false;
+        rec.phase = 'idle';
+        rec.frozenMs = 0;
+        rec.countedStall = false;
+        rec.resumeAttempts = 0;
+        rec.loadAttempts = 0;
+        clearRetryTimer();
+      } else if (rec.frozenMs > 0 || rec.countedStall) {
+        rec.frozenMs = 0;
+        rec.countedStall = false;
+      }
+    },
+    [bumpDiag, clearRetryTimer, clearStallTimer]
+  );
+
+  // A stall signal for the current segment (a waiting/stalled event,
+  // or the watchdog's first frozen samples). Stage 0 only: wait a
+  // short delay, then call play() again WITHOUT touching src. Many
+  // iOS stalls self-recover; nothing here can skip or restart
+  // anything. The watchdog escalates to stage 1 only if the freeze
+  // persists to STAGE1_AT_MS of observed frozen time.
+  const signalStall = useCallback(
+    (seg, source) => {
+      if (!playingRef.current || currentIdRef.current !== seg.id) return;
+      const rec = recoveryRef.current;
+      if (rec.id !== seg.id) return;
+      if (rec.phase !== 'idle') return; // an episode is already open
+      rec.phase = 'stage0';
+      rec.frozenAt = rec.lastSample;
+      clearStallTimer();
+      stallTimerRef.current = setTimeout(() => {
+        stallTimerRef.current = null;
+        if (!playingRef.current || currentIdRef.current !== seg.id) return;
+        if (recoveryRef.current.phase !== 'stage0') return; // progress already closed it
+        if (!rec.countedStall) {
+          rec.countedStall = true;
+          bumpDiag('stalls', seg.id, `signal=${source}`);
+        }
+        const audio = audioRef.current;
+        if (audio && !audio.ended) audio.play().catch(() => {});
+      }, STAGE0_DELAY_MS);
+    },
+    [bumpDiag, clearStallTimer]
+  );
 
   const speakSegment = useCallback((seg, onDone) => {
     const synth = window.speechSynthesis;
@@ -369,6 +553,8 @@ export default function Player() {
     // Whatever led here (natural end, speech fallback done, skip),
     // the segment at the playhead is finished for this session: it
     // can never be started again (see finishedIdsRef).
+    clearRetryTimer();
+    clearStallTimer();
     if (currentIdRef.current) finishedIdsRef.current.add(currentIdRef.current);
     const nextIndex = indexRef.current + 1;
     if (nextIndex >= queueRef.current.length) {
@@ -389,92 +575,247 @@ export default function Player() {
       return;
     }
     startSegmentRef.current?.(nextIndex);
-  }, [fetchQueue, syncView]);
+  }, [clearRetryTimer, clearStallTimer, fetchQueue, syncView]);
 
   useEffect(() => {
     advanceRef.current = advance;
   }, [advance]);
 
-  // The MP3 for the current segment failed to load or stalled out.
-  // The ladder is bounded by the NO-REPLAY rule (see the header): a
-  // reload RESUMES at the maximum heard position, it never restarts
-  // the segment; a segment whose tail is all that is left (or whose
-  // duration is unknown while something was heard) is abandoned for
-  // the next segment rather than reloaded blind; and the browser
-  // voice, which would re-read the whole script, may only take over
-  // a segment nothing was heard from.
-  const retryLoad = useCallback(
-    (seg) => {
+  // ------------------------------------------------------------------
+  // THE PATIENT RECOVERY LADDER (see the header for the full spec).
+  // Stage 0 lives in signalStall/noteProgress above. Everything here
+  // is stage 1 (resume-reload), stage 2 (skip), and the separate
+  // pre-heard load-failure path. The NO-REPLAY rules bind every path:
+  // a reload of a partially heard segment seeks to the heard
+  // position before playing, never to 0; the speech fallback may
+  // only take over a segment nothing was heard from; a finished or
+  // skipped segment id never starts again.
+  // ------------------------------------------------------------------
+
+  // Stage 2 / load-path exhaustion: the current segment is over.
+  // Speech fallback only when nothing (beyond a breath) was heard;
+  // a heard segment is skipped, never re-read or restarted.
+  const exhaustSegment = useCallback(
+    (seg, why) => {
       if (!playingRef.current || currentIdRef.current !== seg.id) return;
       const heard = heardMaxRef.current.get(seg.id) || 0;
-      const attempts = (loadAttemptsRef.current.get(seg.id) || 0) + 1;
-      loadAttemptsRef.current.set(seg.id, attempts);
-      if (attempts > MAX_LOAD_ATTEMPTS) {
-        // Ladder exhausted. Speech fallback only when nothing (beyond
-        // a breath) was heard; otherwise skip — re-reading a segment
-        // the listener already heard is a replay.
-        if (heard <= 0.5 && window.speechSynthesis) {
-          speakSegment(seg, () => advanceRef.current?.());
-        } else {
-          advanceRef.current?.();
-        }
+      if (heard <= 0.5 && window.speechSynthesis) {
+        try {
+          console.info(`[kc-tech-radio] diag speech-fallback seg=${seg.id} why=${why}`);
+        } catch {}
+        speakSegment(seg, () => advanceRef.current?.());
+      } else {
+        bumpDiag('skips', seg.id, `why=${why} heard=${heard.toFixed(1)}s`);
+        advanceRef.current?.();
+      }
+    },
+    [bumpDiag, speakSegment]
+  );
+
+  // Stage 1: reload the current segment and seek to the last heard
+  // position, then give it RESUME_GRACE_MS to produce canplay /
+  // progress before the watchdog judges the attempt. Entering stage
+  // 1 with the attempt budget already spent is stage 2.
+  const performResume = useCallback(
+    (seg, why) => {
+      if (!playingRef.current || currentIdRef.current !== seg.id) return;
+      const rec = recoveryRef.current;
+      if (rec.id !== seg.id) return;
+      const heard = heardMaxRef.current.get(seg.id) || 0;
+      if (heard <= 0.5) {
+        // Nothing heard: this is a load problem, not a resume.
+        handleFailureRef.current?.(seg, 'resume-without-progress');
         return;
       }
-      if (heard > 0) {
-        // Something was already heard. If only the last second is
-        // left, it is not worth a reload: move on. If the duration is
-        // unknown, a reload cannot be aimed at the heard position
-        // reliably either: move on rather than risk a restart.
-        const dur = audioRef.current?.duration;
-        const durKnown = Number.isFinite(dur) && dur > 0;
-        if (!durKnown || dur - heard <= 1) {
-          advanceRef.current?.();
+      const audio = getAudio();
+      const dur = audio?.duration;
+      const durKnown = Number.isFinite(dur) && dur > 0;
+      if (durKnown && dur - heard <= 1) {
+        // Only the last second is left: not worth a reload, and the
+        // segment is effectively finished. Move on (existing rule);
+        // this is a completion, not a failure skip.
+        advanceRef.current?.();
+        return;
+      }
+      if (rec.resumeAttempts >= MAX_RESUME_ATTEMPTS) {
+        exhaustSegment(seg, `resume-budget-spent:${why}`);
+        return;
+      }
+      rec.resumeAttempts += 1;
+      rec.phase = 'grace';
+      rec.viaResume = true;
+      rec.frozenAt = heard;
+      rec.graceUntil = Date.now() + RESUME_GRACE_MS;
+      bumpDiag('resumeAttempts', seg.id, `attempt=${rec.resumeAttempts} at=${heard.toFixed(1)}s why=${why}`);
+      clearStallTimer();
+      modeRef.current = 'audio';
+      // Reassigning src restarts the element at 0; seek back to the
+      // last heard position as soon as the reload can accept a seek,
+      // BEFORE playing. Clamped to duration - 0.3s when the duration
+      // is known, so the seek lands inside the file. The handler is
+      // registered in pendingSeekRef so a segment change (or Stop)
+      // can disarm it: the element is shared, and a stale handler
+      // firing on the next segment's load would seek THAT segment
+      // to this one's position.
+      clearPendingSeek();
+      const onCanPlay = () => {
+        if (pendingSeekRef.current === onCanPlay) pendingSeekRef.current = null;
+        audio.removeEventListener('canplay', onCanPlay);
+        if (currentIdRef.current !== seg.id) return;
+        const d = audio.duration;
+        if (!(Number.isFinite(d) && d > 0)) {
+          // The duration is still unknown, so the seek cannot be
+          // aimed: letting the reload play would risk restarting a
+          // partially heard segment from 0, which the no-replay
+          // rule forbids absolutely. Fail this attempt instead;
+          // the ladder retries, and stage 2 skips if it never
+          // becomes aimable. (Served MP3s are complete files with
+          // known durations, so this path should be rare.)
+          try {
+            audio.pause();
+          } catch {
+            /* nothing to pause */
+          }
+          failAttemptRef.current?.(seg, 'seek-unaimable');
           return;
         }
-      }
-      clearRetryTimer();
-      retryTimerRef.current = setTimeout(() => {
-        if (!playingRef.current || currentIdRef.current !== seg.id) return;
-        const audio = getAudio();
-        modeRef.current = 'audio';
-        const resumeAt = heardMaxRef.current.get(seg.id) || 0;
-        stallRef.current = { id: seg.id, lastSample: resumeAt, since: Date.now(), nudges: 0 };
-        if (resumeAt > 0) {
-          // Reassigning src restarts the element at 0; seek back to
-          // the last heard position as soon as the reload can accept
-          // a seek, BEFORE playing. Clamped to duration - 0.3s when
-          // the duration is known, so the seek lands inside the file.
-          // The handler is registered in pendingSeekRef so a segment
-          // change (or Stop) can disarm it: the element is shared,
-          // and a stale handler firing on the next segment's load
-          // would seek THAT segment to this one's position.
-          clearPendingSeek();
-          const onCanPlay = () => {
-            if (pendingSeekRef.current === onCanPlay) pendingSeekRef.current = null;
-            audio.removeEventListener('canplay', onCanPlay);
-            const d = audio.duration;
-            const target =
-              Number.isFinite(d) && d > 0 ? Math.min(resumeAt, Math.max(0, d - 0.3)) : resumeAt;
-            try {
-              audio.currentTime = target;
-            } catch {
-              /* element not seekable yet; the watchdog still guards */
-            }
-          };
-          pendingSeekRef.current = onCanPlay;
-          audio.addEventListener('canplay', onCanPlay);
+        const target = Math.min(heard, Math.max(0, d - 0.3));
+        try {
+          audio.currentTime = target;
+        } catch {
+          /* element not seekable yet; the grace window still guards */
         }
-        audio.src = seg.audioUrl;
-        audio.load();
-        audio.play().catch(() => retryLoadRef.current?.(seg));
-      }, RETRY_PAUSE_MS);
+      };
+      pendingSeekRef.current = onCanPlay;
+      audio.addEventListener('canplay', onCanPlay);
+      audio.src = seg.audioUrl;
+      audio.load();
+      // A rejected play() here is NOT judged instantly: the grace
+      // window and the watchdog decide, because iOS rejects play()
+      // transiently during exactly the stalls this ladder exists
+      // to survive.
+      audio.play().catch(() => {});
     },
-    [clearPendingSeek, clearRetryTimer, getAudio, speakSegment]
+    [bumpDiag, clearPendingSeek, clearStallTimer, exhaustSegment, getAudio]
   );
 
   useEffect(() => {
-    retryLoadRef.current = retryLoad;
-  }, [retryLoad]);
+    performResumeRef.current = performResume;
+  }, [performResume]);
+
+  // The current resume attempt (or load retry) has failed: either
+  // its grace window expired with no progress, or a hard media
+  // error cut it short. Back off, then try the next attempt; spend
+  // the budget and it is stage 2.
+  const failAttempt = useCallback(
+    (seg, why) => {
+      if (!playingRef.current || currentIdRef.current !== seg.id) return;
+      const rec = recoveryRef.current;
+      if (rec.id !== seg.id) return;
+      if (rec.phase === 'backoff') return; // already judged
+      const heard = heardMaxRef.current.get(seg.id) || 0;
+      clearRetryTimer();
+      if (heard <= 0.5) {
+        // Pre-heard path: plain load retries with backoff, counted
+        // separately; exhaustion goes to speech / skip.
+        if (rec.loadAttempts >= MAX_LOAD_ATTEMPTS) {
+          exhaustSegment(seg, `load-budget-spent:${why}`);
+          return;
+        }
+        rec.phase = 'backoff';
+        const wait = LOAD_BACKOFF_MS[Math.min(rec.loadAttempts - 1, LOAD_BACKOFF_MS.length - 1)] || 1200;
+        retryTimerRef.current = setTimeout(() => {
+          retryTimerRef.current = null;
+          if (!playingRef.current || currentIdRef.current !== seg.id) return;
+          if (recoveryRef.current.id !== seg.id) return;
+          recoveryRef.current.phase = 'idle';
+          handleFailureRef.current?.(seg, 'load-retry-timer');
+        }, wait);
+        return;
+      }
+      if (rec.resumeAttempts >= MAX_RESUME_ATTEMPTS) {
+        exhaustSegment(seg, `attempt-failed:${why}`);
+        return;
+      }
+      rec.phase = 'backoff';
+      const wait =
+        RESUME_BACKOFF_MS[Math.min(Math.max(rec.resumeAttempts - 1, 0), RESUME_BACKOFF_MS.length - 1)];
+      try {
+        console.info(
+          `[kc-tech-radio] diag attempt-failed seg=${seg.id} why=${why} attempts=${rec.resumeAttempts} next-in=${wait}ms`
+        );
+      } catch {}
+      retryTimerRef.current = setTimeout(() => {
+        retryTimerRef.current = null;
+        if (!playingRef.current || currentIdRef.current !== seg.id) return;
+        performResumeRef.current?.(seg, 'backoff-expired');
+      }, wait);
+    },
+    [clearRetryTimer, exhaustSegment]
+  );
+
+  useEffect(() => {
+    failAttemptRef.current = failAttempt;
+  }, [failAttempt]);
+
+  // Entry point for hard failures: a media 'error' event, or a
+  // rejected initial play(). Routing depends on how much was heard
+  // and what the ladder is already doing — an error during a grace
+  // window fails that attempt early instead of escalating blindly,
+  // and an error with a partially heard segment goes straight to
+  // stage 1 (a play() nudge cannot fix a hard error).
+  const handleFailure = useCallback(
+    (seg, source) => {
+      if (!playingRef.current || currentIdRef.current !== seg.id) return;
+      const rec = recoveryRef.current;
+      if (rec.id !== seg.id) return;
+      const heard = heardMaxRef.current.get(seg.id) || 0;
+      if (source === 'media-error') bumpDiag('loadErrors', seg.id, `heard=${heard.toFixed(1)}s`);
+      if (rec.phase === 'grace' || rec.phase === 'resuming') {
+        failAttemptRef.current?.(seg, `error-during-grace:${source}`);
+        return;
+      }
+      if (rec.phase === 'backoff') return; // a retry is already scheduled
+      if (heard <= 0.5) {
+        rec.loadAttempts += 1;
+        if (rec.loadAttempts > MAX_LOAD_ATTEMPTS) {
+          exhaustSegment(seg, `load-failed:${source}`);
+          return;
+        }
+        // Plain reload of a segment nothing was heard from: no seek
+        // is armed, position 0 IS the start. Backoff first.
+        rec.phase = 'backoff';
+        clearRetryTimer();
+        const wait =
+          LOAD_BACKOFF_MS[Math.min(rec.loadAttempts - 1, LOAD_BACKOFF_MS.length - 1)] || 1200;
+        retryTimerRef.current = setTimeout(() => {
+          retryTimerRef.current = null;
+          if (!playingRef.current || currentIdRef.current !== seg.id) return;
+          if (recoveryRef.current.id !== seg.id) return;
+          recoveryRef.current.phase = 'grace';
+          recoveryRef.current.viaResume = false;
+          recoveryRef.current.graceUntil = Date.now() + RESUME_GRACE_MS;
+          const audio = getAudio();
+          modeRef.current = 'audio';
+          audio.src = seg.audioUrl;
+          audio.load();
+          audio.play().catch(() => {});
+        }, wait);
+        return;
+      }
+      // Partially heard + hard failure: stage 1, now.
+      if (!rec.countedStall) {
+        rec.countedStall = true;
+        bumpDiag('stalls', seg.id, `signal=${source}`);
+      }
+      performResumeRef.current?.(seg, `hard-failure:${source}`);
+    },
+    [bumpDiag, clearRetryTimer, exhaustSegment, getAudio]
+  );
+
+  useEffect(() => {
+    handleFailureRef.current = handleFailure;
+  }, [handleFailure]);
 
   const startSegment = useCallback(
     (index) => {
@@ -495,7 +836,25 @@ export default function Player() {
       indexRef.current = index;
       currentIdRef.current = seg.id;
       clearPendingSeek(); // a previous segment's resume-seek must not fire here
-      stallRef.current = { id: seg.id, lastSample: 0, since: Date.now(), nudges: 0 };
+      clearRetryTimer();
+      clearStallTimer();
+      recoveryRef.current = {
+        id: seg.id,
+        // The initial load gets the same generous grace window as a
+        // resume attempt: a cold Edge TTS render takes seconds, and
+        // judging the first load before 10s would manufacture the
+        // very cutouts this ladder exists to prevent.
+        phase: 'grace',
+        viaResume: false,
+        frozenAt: 0,
+        lastSample: 0,
+        lastTickAt: Date.now(),
+        frozenMs: 0,
+        countedStall: false,
+        resumeAttempts: 0,
+        loadAttempts: 0,
+        graceUntil: Date.now() + RESUME_GRACE_MS,
+      };
       // Session no-repeat backstop: once a story starts, it can never
       // be re-queued by a refill this session.
       const key = storyKey(seg);
@@ -519,30 +878,45 @@ export default function Player() {
         }
       };
       audio.ontimeupdate = () => {
-        // Stall watchdog evidence: the last position the audio element
-        // actually reached. A stalled fetch leaves this frozen while
-        // producing no 'error' and no 'ended'. The same samples feed
-        // heardMaxRef, the no-replay record of how much of this
-        // segment the listener has actually heard.
-        if (currentIdRef.current === seg.id) {
-          const cur = audio.currentTime || 0;
-          stallRef.current.lastSample = cur;
-          if (cur > (heardMaxRef.current.get(seg.id) || 0)) {
-            heardMaxRef.current.set(seg.id, cur);
-          }
+        // Progress evidence: the position the audio element actually
+        // reached. A stalled fetch leaves this frozen while producing
+        // no 'error' and no 'ended'. The samples feed heardMaxRef
+        // (the no-replay record) and close out recovery episodes.
+        if (currentIdRef.current === seg.id && token === startTokenRef.current) {
+          noteProgress(seg.id, audio.currentTime || 0);
         }
       };
+      audio.onwaiting = () => {
+        if (token === startTokenRef.current) signalStall(seg, 'waiting');
+      };
+      audio.onstalled = () => {
+        if (token === startTokenRef.current) signalStall(seg, 'stalled');
+      };
       audio.onerror = () => {
-        if (token === startTokenRef.current) retryLoadRef.current?.(seg);
+        if (token === startTokenRef.current) handleFailureRef.current?.(seg, 'media-error');
       };
       audio.playbackRate = rateRef.current;
       audio.volume = volumeRef.current;
       audio.src = seg.audioUrl;
       audio.play().catch(() => {
-        if (token === startTokenRef.current) retryLoadRef.current?.(seg);
+        // Not judged instantly: a transient iOS rejection routes to
+        // the same patient failure path as a media error.
+        if (token === startTokenRef.current) handleFailureRef.current?.(seg, 'play-rejected');
       });
     },
-    [clearPendingSeek, getAudio, maybeRefill, preloadNext, speakSegment, storyKey, syncView]
+    [
+      clearPendingSeek,
+      clearRetryTimer,
+      clearStallTimer,
+      getAudio,
+      maybeRefill,
+      noteProgress,
+      preloadNext,
+      signalStall,
+      speakSegment,
+      storyKey,
+      syncView,
+    ]
   );
 
   const startSegmentRef = useRef(null);
@@ -550,61 +924,112 @@ export default function Player() {
     startSegmentRef.current = startSegment;
   }, [startSegment]);
 
-  // Stall watchdog: an audio element that has stopped progressing (a
-  // slow cold render, a stalled fetch) produces no 'error' event and
-  // no 'ended' — it just sits silent. Watch for exactly that: nudge
-  // play() once, then hand the segment to the retry ladder (reload,
-  // speech fallback, skip). A progressing segment is never touched.
+  // Stall watchdog: an audio element that has stopped progressing
+  // (a slow cold render, a stalled fetch, an iOS media throttle)
+  // produces no 'error' event and no 'ended' — it just sits silent.
+  // The watchdog samples currentTime once a second and drives the
+  // recovery state machine, with two iOS hygiene rules: samples
+  // taken while the document is hidden never count, and a sample
+  // gap longer than SAMPLE_GAP_MAX_MS (the interval timer itself
+  // was throttled while backgrounded or locked) is discarded as
+  // evidence instead of being counted as freeze time. Only timely,
+  // visible, frozen samples accumulate frozenMs.
   useEffect(() => {
     const t = setInterval(() => {
       if (!playingRef.current || !currentIdRef.current) return;
       if (modeRef.current !== 'audio' || !audioRef.current) return;
       const audio = audioRef.current;
       if (audio.ended) return;
-      const stall = stallRef.current;
-      if (stall.id !== currentIdRef.current) return;
-      if (audio.paused) {
-        // A browser-side pause we did not ask for (autoplay policy,
-        // interruption): try to resume rather than sit silent.
-        if (audio.readyState >= 2) audio.play().catch(() => {});
+      const rec = recoveryRef.current;
+      if (rec.id !== currentIdRef.current) return;
+      const now = Date.now();
+      const gap = rec.lastTickAt ? now - rec.lastTickAt : WATCHDOG_TICK_MS;
+      rec.lastTickAt = now;
+      if (document.hidden) {
+        // Backgrounded or locked: re-baseline and count nothing.
+        rec.lastSample = audio.currentTime || 0;
         return;
       }
       const cur = audio.currentTime || 0;
-      if (cur > stall.lastSample + 0.2) {
-        stall.lastSample = cur;
-        stall.since = Date.now();
-        stall.nudges = 0;
-        // Keep the heard record current even if timeupdate events
-        // were throttled while the tab was backgrounded.
-        if (cur > (heardMaxRef.current.get(stall.id) || 0)) {
-          heardMaxRef.current.set(stall.id, cur);
+      if (cur > rec.lastSample + 0.2) {
+        noteProgress(rec.id, cur);
+        return;
+      }
+      rec.lastSample = cur;
+      if (rec.phase === 'grace' || rec.phase === 'resuming') {
+        // A resume (or load) attempt is inside its judgement window:
+        // frozen samples are expected and count for nothing until
+        // the window closes. The element may also sit paused in
+        // this phase (a seek that could not be aimed): never nudge
+        // play() here, it could restart the segment from 0.
+        if (now >= rec.graceUntil) {
+          const seg = queueRef.current.find((s) => s.id === currentIdRef.current);
+          if (seg) failAttemptRef.current?.(seg, 'grace-expired');
         }
         return;
       }
-      if (Date.now() - stall.since < STALL_LIMIT_MS) return;
-      stall.since = Date.now();
-      stall.nudges += 1;
-      if (stall.nudges === 1) {
-        audio.play().catch(() => {});
-      } else {
-        const seg = queueRef.current.find((s) => s.id === currentIdRef.current);
-        if (seg) retryLoadRef.current?.(seg);
+      if (rec.phase === 'backoff') return; // a retry is already scheduled
+      if (gap > SAMPLE_GAP_MAX_MS) {
+        // The timer was throttled (background, lock screen): this
+        // gap says nothing about playback. Discard it.
+        return;
       }
-    }, 2000);
+      // A timely, visible, frozen sample in phase idle or stage0.
+      rec.frozenMs += gap;
+      if (rec.frozenMs >= FREEZE_MIN_MS && !rec.countedStall) {
+        rec.countedStall = true;
+        bumpDiag('stalls', rec.id, 'signal=watchdog');
+      }
+      const seg = queueRef.current.find((s) => s.id === currentIdRef.current);
+      if (!seg) return;
+      if (audio.paused) {
+        // A browser-side pause we did not ask for (autoplay policy,
+        // interruption, an iOS freeze that parks the element):
+        // nudge play() while the freeze is young; if the pause
+        // itself persists to STAGE1_AT_MS it is a hard stall, so
+        // escalate instead of nudging forever.
+        if (audio.readyState >= 2) audio.play().catch(() => {});
+        if (rec.frozenMs >= STAGE1_AT_MS) {
+          if ((heardMaxRef.current.get(seg.id) || 0) > 0.5) {
+            performResumeRef.current?.(seg, 'paused-freeze');
+          } else {
+            handleFailureRef.current?.(seg, 'paused-freeze');
+          }
+        }
+        return;
+      }
+      if (rec.phase === 'idle' && rec.frozenMs >= STAGE0_AT_MS) {
+        signalStall(seg, 'watchdog');
+      } else if (rec.phase === 'stage0' && rec.frozenMs >= STAGE1_AT_MS) {
+        // Stage 0 did not recover it in ~4s of observed freeze:
+        // escalate to a resume-reload.
+        performResumeRef.current?.(seg, 'stall-escalation');
+      }
+    }, WATCHDOG_TICK_MS);
     return () => clearInterval(t);
-  }, []);
+  }, [bumpDiag, noteProgress, signalStall]);
 
   // Returning to the page: if the stream is playing but the browser
-  // throttled the audio while backgrounded, nudge it back to life.
+  // throttled the audio while backgrounded, resume it rather than
+  // letting recovery escalate. The return also re-baselines the
+  // watchdog, so the hidden interval is never counted as a freeze.
   useEffect(() => {
     const onVis = () => {
       if (document.visibilityState !== 'visible' || !playingRef.current) return;
+      const rec = recoveryRef.current;
+      rec.lastTickAt = Date.now();
+      if (audioRef.current) rec.lastSample = audioRef.current.currentTime || 0;
       if (
         modeRef.current === 'audio' &&
         audioRef.current &&
-        audioRef.current.paused &&
-        !audioRef.current.ended
+        !audioRef.current.ended &&
+        currentIdRef.current &&
+        rec.phase !== 'grace' &&
+        rec.phase !== 'backoff'
       ) {
+        // play() whether the element reports paused or merely
+        // frozen: on iOS a backgrounded element can claim to be
+        // playing while producing nothing.
         audioRef.current.play().catch(() => {});
       }
     };
@@ -638,6 +1063,18 @@ export default function Player() {
     // Resume a deliberate hold where it froze, if there is one.
     if (pausedModeRef.current === 'audio' && currentIdRef.current && audioRef.current?.src) {
       pausedModeRef.current = null;
+      // Re-baseline the recovery machine for the resumed segment:
+      // the pause cleared its timers, so a 'backoff' phase would
+      // otherwise wait forever, and a stale grace deadline would
+      // fail an attempt the listener never gave a chance.
+      const rec = recoveryRef.current;
+      if (rec.id === currentIdRef.current) {
+        rec.lastTickAt = Date.now();
+        rec.lastSample = audioRef.current.currentTime || 0;
+        rec.frozenMs = 0;
+        if (rec.phase === 'backoff') rec.phase = 'idle';
+        if (rec.phase === 'grace') rec.graceUntil = Date.now() + RESUME_GRACE_MS;
+      }
       audioRef.current.play().catch(() => {});
       return;
     }
@@ -655,6 +1092,7 @@ export default function Player() {
     // continues the same segment; nothing is skipped or caught up.
     playingRef.current = false;
     clearRetryTimer();
+    clearStallTimer();
     pausedModeRef.current = modeRef.current;
     setStatus('paused');
     if (modeRef.current === 'audio') audioRef.current?.pause();
@@ -671,6 +1109,7 @@ export default function Player() {
     if (currentIdRef.current) heardMaxRef.current.delete(currentIdRef.current);
     playingRef.current = false;
     clearRetryTimer();
+    clearStallTimer();
     clearPendingSeek();
     pausedModeRef.current = null;
     speechGenRef.current += 1;
@@ -702,6 +1141,7 @@ export default function Player() {
       window.speechSynthesis?.cancel();
       audioRef.current?.pause();
       preloadRef.current?.pause();
+      preload2Ref.current?.pause();
     },
     []
   );
@@ -766,6 +1206,15 @@ export default function Player() {
             Queue: {(queueSeconds / 60).toFixed(1)} min
           </span>
         </div>
+
+        <p
+          className="diag-line"
+          title="This session's stall recovery counters. Stalls: freezes detected. In place: recovered by a play() nudge without reloading. Resumes: reload-and-seek attempts, and how many worked. Skips: segments abandoned after 3 failed resumes."
+        >
+          Playback health: stalls {diagView.stalls} · recovered in place {diagView.stage0Recoveries}{' '}
+          · resume attempts {diagView.resumeAttempts} · resumes ok {diagView.resumesOk} · skips{' '}
+          {diagView.skips} · load errors {diagView.loadErrors}
+        </p>
       </section>
 
       <section className="now-playing">
