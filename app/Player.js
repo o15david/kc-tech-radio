@@ -20,11 +20,15 @@
 //    recomputed from the wall clock. If playback fell behind the live
 //    edge (drift, a buffering stall, background-tab throttling), the
 //    stale remainder is skipped and the live segment starts instead.
-//  - GAPS ARE REAL. Where the schedule itself is quiet (a block's copy
-//    ran shorter than its slot), the player waits for the next segment's
-//    start rather than starting it early: a segment that announces a
-//    time is only ever heard inside its true window, so spoken times
-//    are correct by construction.
+//  - GAPS SHOULD NOT EXIST. The server schedule is a continuous chain
+//    (blocks drawn to target lengths, shortfalls filled with station
+//    material, anchors pinned at :00/:30/:57), so segment windows tile
+//    with no holes. The wait-for-the-next-start path below remains as a
+//    safety net for pathological schedules: if a gap ever does appear,
+//    the player waits for the next segment's true start rather than
+//    starting it early, because a segment that announces a time is only
+//    ever heard inside its true window, so spoken times stay correct
+//    by construction.
 //  - PAUSE IS A DELIBERATE HOLD. It freezes the output where it is; on
 //    resume the player re-anchors to the live edge (you rejoin the
 //    stream, you do not catch up on what aired while you were gone).
