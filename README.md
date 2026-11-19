@@ -53,8 +53,8 @@ A fixed hourly wheel, like a real station:
 | Time | Block |
 | --- | --- |
 | :00 | **News at the Top of the Hour** (general news, inside-out: local x2, state, regional, national, global) |
-| :08 | **Kansas City Tech & Business Report** (local; one story gets a two-host banter exchange) |
-| :20 | **The AI Report** (ai; one story gets a two-host banter exchange) |
+| :08 | **Kansas City Tech & Business Report** (local; two-host banter after every 4th story) |
+| :20 | **The AI Report** (ai; two-host banter after every 4th story) |
 | :30 | Station ID + Kansas City time/weather check |
 | :33 | **Tech Headlines** (tech; newsletter items are the secondary pool) |
 | :37 | **Kansas City Music Scene** (tonight's shows, announcements, weekend and jazz picks; silent when the music feed is empty) |
@@ -80,11 +80,42 @@ ID at :30, the hour tease at :57) start at their true wall-clock minute,
 exactly. Between anchors the content flexes to meet the next one: each
 show block draws stories until it reaches its target length (the format
 clock's `targetSeconds`; the old story counts are minimums), a span that
-still runs short is filled with short deterministic station material
-(station IDs, weather checks, producer's desk bits, station promos,
-composed by an exact solver to land within a couple of seconds of the
-anchor), and a span that would overrun has its trailing stories trimmed
-back into the pool. The next hour starts on the hour regardless.
+still runs short draws **more stories first** (a "More Headlines" run
+pulled freshest-first from the widest fallback pools, under the same
+no-repeat rules, until the shortfall is down to a 60-second allowance),
+and only the small remainder is filled with station material under the
+filler rules below. A span that would overrun has its trailing stories
+trimmed back into the pool. The next hour starts on the hour regardless.
+
+**Filler is seasoning, never the meal** (David's fill rules, Nov 19,
+after a live screenshot showed roughly 100 seconds of consecutive
+station bits with the first story at position 8). One filler chunk is at
+most 5 segments and at most 60 seconds, each filler *type* (station ID,
+weather, producer's desk, promo, signoff) appears at most once per
+chunk, and a type does not recur within 3 minutes of its last use inside
+the same span (the station-id anchors and the producer's desk block
+count as uses of their types). The composer is a small exact solver
+(knapsack over seconds and type mask, plus a same-type landing swap)
+that lands within a couple of seconds of the anchor. Only when the wire
+itself runs dry in a span (story-fill found nothing fresh left to draw)
+may the solver top up past the caps so the chain never breaks; those
+segments are marked `wireExhausted` in the playlist, and
+`scripts/chain-audit.mjs` reports the exhausted hour and its numbers
+instead of treating it as a discipline failure. In the audit's fixed
+snapshot model that happens in the small hours: at 03:00 the overnight
+pool (about 620 items published by then, against a cycle that has been
+drawing since midnight) runs dry during the 04:00 hour, which aired
+about 280 seconds of marked exhaustion filler across two spans; live,
+the pool keeps refreshing as new stories publish.
+
+Segment durations in the chain are word-count estimates. The estimate
+rate is calibrated to the real voices: a sample of 38 rendered MP3s ran
+on average 1.12x their estimates at the old 155 wpm rate (two thirds of
+stories overran, worst +6.8s), so the rate is now 136 wpm (measured true
+rate about 138), which centers the residual error and biases estimates
+slightly long. The player treats each loaded MP3's real duration as
+authoritative anyway (see section 6), so the estimate only shapes the
+schedule, never a cut.
 
 Spoken times are always the speaking segment's own chained start on the
 Chicago clock, never "now plus whole hours": the top-of-hour block that
@@ -112,10 +143,13 @@ of every show:
   fully cycled (the next cycle window begins), or when a genuinely new
   edition of the story arrives: a new link/GUID is a new item, and it
   enters at the front of its newest-first pool, eligible immediately.
-  Eight hours is sized to the wire: a cycle consumes at most ~185 story
-  slots against a live pool of ~1,000 stories, so blocks do not run dry
-  mid-cycle, while no story can resurface inside a single long listening
-  session.
+  Eight hours is sized to the wire: with span-fill drawing stories
+  aggressively, a full cycle airs on the order of 1,000 story segments
+  against a live pool of ~1,000 stories, so the last hour or two of a
+  cycle can run dry on a thin wire (overnight especially); when that
+  happens the chain fills with marked station material rather than
+  repeating a story (see the filler rules in section 2), and no story
+  can resurface inside a single long listening session.
 - If a block's fresh pool runs dry, the block draws a fresh story from a
   fallback category; if nothing fresh remains anywhere, the block stops
   drawing and **the span fills the shortfall with station material rather
@@ -142,12 +176,19 @@ of every show:
 to end: there is no minute of the day when nothing is scheduled. Blocks
 sit in three spans pinned by time-speaking anchors (:00, :30, :57);
 show blocks draw stories to target lengths sized to their spans; spans
-that run short are padded with station material (never repeated
-stories), spans that overrun are trimmed, and every hour restarts its
-chain on the hour. `scripts/chain-audit.mjs` audits the result: zero
-gaps over 2 seconds between consecutive segment windows across the
-whole buffer, at several times of day including the thin overnight
-wire, plus exactly-one-segment-on-air sampling and an anchor audit.
+that run short draw more stories, then a capped amount of station
+material (never repeated stories); spans that overrun are trimmed, and
+every hour restarts its chain on the hour. `scripts/chain-audit.mjs`
+audits the result: zero gaps over 2 seconds between consecutive segment
+windows across the whole buffer, at several times of day including the
+thin overnight wire, plus exactly-one-segment-on-air sampling, an
+anchor audit, a span-composition audit (filler run caps, the 3-minute
+type cooldown, first story within 90 seconds of each span start), and a
+mix census. The census is story-dominant by design: in the Nov 19 audit
+runs a typical daytime buffer of about 180 segments held about 120
+stories, 15 to 20 banter segments, and under 20 filler segments (about
+10% of segments, 6% of seconds), against the live buffer David counted
+that morning at 133 filler to 105 stories and 4 banter.
 
 **Inside-out selection (the top-of-hour block).** General news runs
 inside-out, because selection weight follows direct control and impact
@@ -162,15 +203,20 @@ close to home as the wire allows. Fallback order everywhere also runs
 inside-out: local, state, regional, ai, tech, business, national,
 global, newsletter.
 
-**Two-host banter.** The KC Tech & Business Report and The AI Report are
-two-host shows. One story per airing (picked by hash of the block
-instance, so it moves around) gets a short exchange right after it: the
-anchor reads the story exactly as usual, the co-host (Aria) reacts with a
-line from `BANTER_REACTIONS` in `lib/gonzo.js`, and the anchor counters
-from `BANTER_COUNTERS`. The exchange is three consecutive segments typed
-`story` / `banter` (role `reaction`) / `banter` (role `counter`) with
-alternating voices. The story counts once in the aired set; the banter
-lines are framing copy and draw nothing.
+**Two-host banter.** Banter runs through every story block, not just
+the talk shows: the two talk shows (KC Tech & Business Report, The AI
+Report) trade an exchange after every 4th story unit, and every other
+story block after every 8th, which works out to roughly 8 to 20
+exchanges an hour (the audit asserts at least 6 in every covered hour).
+The anchor reads the story exactly as usual, the co-host (Aria) reacts
+with a line from `BANTER_REACTIONS` in `lib/gonzo.js`, and the anchor
+counters from `BANTER_COUNTERS`. Lines rotate without replacement
+inside each hour from an hour-seeded offset, so no line repeats within
+the hour and the rotation shifts every hour. The exchange is three
+consecutive segments typed `story` / `banter` (role `reaction`) /
+`banter` (role `counter`) with alternating voices. The story counts
+once in the aired set; banter counts as content, not filler, for the
+fill rules, and its seconds count toward block totals.
 
 **Editorial stance.** "Snarky and funny, self-deprecating to KC and tech,
 but should not be a tech curmudgeon. This is a pro-KC, pro-tech radio
@@ -198,7 +244,8 @@ before the hour turns). Because the schedule is a continuous chain with
 no holes, `bufferSeconds` is true wall-clock coverage: seconds from now
 until the end of the last returned segment, with a segment scheduled at
 every instant in between. Segment durations are estimated from word
-count at a fixed 155 words/minute, so timing is deterministic. Each
+count at a fixed 136 words/minute (calibrated to the rendered voices;
+see section 2), so timing is deterministic. Each
 segment carries its scheduled window (`startMs`, plus `slotEndMs`, the
 next segment's start, for the end of its window). Segments whose window
 has fully passed are dropped from the response (their draws still count
@@ -206,8 +253,9 @@ in the cycle's aired set). The player refetches when the loaded schedule
 runs out within 5 minutes, appends only segments it has not already
 queued *or played* (see the backstop in section 6), and drops whole
 blocks whose slot has fully passed rather than airing stale content.
-The schedule itself is the stream: the player locks playback to these
-windows on the wall clock (see section 6).
+The schedule is the stream's spine: tune-in locks to these windows on
+the wall clock, and playback then runs sequentially through them (see
+section 6).
 
 ### 4. The voice: pre-rendered neural audio (`lib/voices.js`, `lib/tts.js`, `app/api/audio/route.js`)
 
@@ -262,50 +310,61 @@ Playing, Up Next, a live script view showing exactly what is being read,
 volume and voice-rate controls, and a status footer (last wire fetch, story
 counts per category, server buffer depth).
 
-**Playback is wall-clock-locked: one constant stream, not a personal
-queue.** The pure selection logic lives in `lib/liveEdge.js` (shared with
-the verification harness in `scripts/live-edge-check.mjs`). Each segment's
-scheduled `startMs` anchors a timeline of *effective windows*: within a
-block, segments tile back-to-back using **real MP3 durations** — learned
-from the audio elements' metadata and from the `X-Audio-Duration-Seconds`
+**One constant stream, not a personal queue; and a story always
+finishes.** The pure selection logic lives in `lib/liveEdge.js` (shared
+with the verification harness in `scripts/live-edge-check.mjs`). Each
+segment's scheduled `startMs` anchors a timeline of *effective windows*:
+segments tile back-to-back using **real MP3 durations** — learned from
+the audio elements' metadata and from the `X-Audio-Duration-Seconds`
 header `/api/audio` returns (the renders are constant-bitrate, so the
-header's byte-size math is near-exact, and the player HEAD-warms the next
-few segments, which also pre-renders them server-side) — with the
-word-count estimate as fallback only. A window never crosses its
-`slotEndMs` (the next segment's scheduled start): an overrunning segment
-is cut by the schedule, the way the next show starts on time at a real
-station, and the time it was cut by does not push its successors late —
-the block resumes on schedule at the next segment.
+header's byte-size math is near-exact) — with the word-count estimate as
+fallback only. The difference between a segment's real and estimated
+length accumulates inside its span, so a window can extend past its
+`slotEndMs`: **a segment that is playing is never cut at an estimated
+boundary.** (The previous build did exactly that: real MP3s run about
+1.12x their estimates, and the old player advanced on schedule time, so
+stories were amputated mid-sentence at span boundaries.)
 
 - **Tune-in at the live edge.** Play, a return to the page, and a resume
-  all find the segment whose window contains *now* and start its MP3 at
-  offset `now - window start` via `currentTime`. Nobody hears the queue
-  from the top, and a returning listener lands on whatever is live then —
-  never on a replay of the current block.
-- **Re-anchoring.** Every segment transition recomputes position from the
-  wall clock, and a watchdog does the same every few seconds. If playback
-  fell behind the live edge (drift, a buffering stall, background-tab
-  throttling), the stale remainder is skipped and the live segment starts
-  instead. At natural rate, an audio element lagging its wall-clock offset
-  by more than 5 seconds is seeked forward in place.
-- **The schedule has no gaps.** The server chain (see section 2) tiles
-  every hour end to end, so there is always a segment on air. The
-  player's wait-out-a-gap path remains only as a safety net for a
-  pathological schedule: if a gap ever did appear, the player would wait
-  for the next segment's true start (Now Playing shows what is on air
-  next, and when) rather than starting it early, because a segment that
-  announces a time is only ever heard inside its true window, so **spoken
-  times are correct by construction**.
+  all find the segment whose effective window contains *now* and start
+  its MP3 at offset `now - window start` via `currentTime`. Nobody hears
+  the queue from the top, and a returning listener lands on whatever is
+  live then — never on a replay of the current block.
+- **Once playing, playback is sequential.** A segment plays to its
+  natural end (`ended`, or the speech fallback finishing), and the next
+  segment in the chain starts immediately at offset 0, butt-joined: a
+  long story makes the rest of its span start late, never truncated,
+  and the span's later padding absorbs the drift. Transitions never
+  re-anchor to the wall clock mid-stream.
+- **Anchors absorb drift, stories never pay for it.** When the sequence
+  reaches an anchor (a time-speaking segment pinned to :00, :30, or
+  :57): if it arrives within a couple of seconds of its minute it
+  starts on its minute; if it arrives *early* the player waits the few
+  seconds out; if a story overran so far that the anchor's minute has
+  passed, the anchor is **skipped, never aired late** — a time check
+  that speaks the wrong time is worse than none, and skipping keeps
+  every spoken time correct by construction. The chain then continues
+  with the segments after the anchor.
+- **Preload runs minutes ahead.** The player HEAD-warms segments until
+  at least 300 seconds of audio ahead is rendering or rendered (up to
+  24 segments), because a cold Edge TTS render is slow and flaky:
+  measured about 5.4 seconds per attempt on the local server, with
+  outright failures (stream closed, 30-second timeouts) on a minority
+  of segments. Four segments of warming, the old depth, was under a
+  minute of runway and could not cover a slow render.
+- **A stall is never silent.** A watchdog ticks every 2 seconds: if the
+  playing audio's `currentTime` has not advanced for 8 seconds (a
+  stalled fetch produces no `error` event and no `ended`; the old code
+  sat in exactly that silence), recovery escalates: nudge `play()`,
+  then reload the segment and seek back to the last heard position,
+  then fall back to `speechSynthesis` for that segment. Audio failure
+  is otherwise per-segment: an MP3 that errors falls back to speech for
+  its one segment (sentence-chunked, with a periodic `resume()` nudge
+  for Chrome's long-session stalls), and the next segment tries MP3
+  again. A TTS outage degrades the voice, never the stream.
 - **Pause is a deliberate hold.** It freezes the output where it is; the
   wall clock keeps moving, and resume re-anchors to the live edge — you
   rejoin the stream, you do not catch up on what aired while you were gone.
-- **Audio failure is per-segment.** Playback is MP3-first, with the next
-  segment's MP3 preloaded while the current one plays. Only if a segment's
-  MP3 fails to load or play does that segment fall back to the browser's
-  `speechSynthesis` (sentence-chunked, with a periodic `resume()` nudge for
-  Chrome's long-session stalls; speech cannot seek, so the fallback reads
-  its one segment from the top), and the next segment re-anchors and tries
-  MP3 again. A TTS outage degrades the voice, never the stream.
 
 The Now Playing / Up Next display always reflects the live position — what
 is on air now — not where a personal queue happens to sit. Repeat
