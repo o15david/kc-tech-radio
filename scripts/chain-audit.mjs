@@ -112,13 +112,20 @@ function auditPlaylist(label, segments, sampleFromMs, sampleToMs) {
       anchors++;
       if (chicagoMinuteOf(seg.startMs) !== pinnedMinute || seg.startMs % 60000 !== 0) anchorBad++;
     }
-    const m = /It is (\d{1,2}(?::\d{2})? [AP]M)/.exec(seg.script || '');
-    if (m) {
+    // EVERY spoken time phrase in the script (anchors and fillers
+    // alike) must be the minute of the segment's own startMs. All
+    // matches are checked, not just the first: a filler composed
+    // before its chain position was final once shipped with a time
+    // phrase a minute off its true start.
+    const phrases = [...(seg.script || '').matchAll(/It is (\d{1,2}(?::\d{2})? [AP]M)/g)];
+    if (phrases.length) {
       timeSpeakers++;
-      if (m[1] !== spokenTimeOf(seg.startMs)) {
-        timeBad++;
-        if (timeBad <= 3) {
-          console.log(`    time mismatch: seg ${seg.id} starts ${new Date(seg.startMs).toISOString()} speaks "${m[1]}" expected "${spokenTimeOf(seg.startMs)}"`);
+      for (const m of phrases) {
+        if (m[1] !== spokenTimeOf(seg.startMs)) {
+          timeBad++;
+          if (timeBad <= 3) {
+            console.log(`    time mismatch: seg ${seg.id} starts ${new Date(seg.startMs).toISOString()} speaks "${m[1]}" expected "${spokenTimeOf(seg.startMs)}"`);
+          }
         }
       }
     }
@@ -172,6 +179,8 @@ const TIMES = [
   ['03:00 (thin overnight wire)', epochForChicagoWall(2026, 11, 19, 3, 0), false],
   ['03:00 SPARSE (every 6th item)', epochForChicagoWall(2026, 11, 19, 3, 0), true],
   ["10:54 (David's dead-air check time)", epochForChicagoWall(2026, 11, 19, 10, 54), false],
+  ['12:52 (top-of-hour approach: pre-anchor fill run before 13:00)', epochForChicagoWall(2026, 11, 19, 12, 52), false],
+  ['18:52:37 (top-of-hour approach, live-style odd seconds)', epochForChicagoWall(2026, 11, 19, 18, 52) + 37000, false],
   ['17:20 (drive time)', epochForChicagoWall(2026, 11, 19, 17, 20), false],
   ['23:40 (late night, cycle edge)', epochForChicagoWall(2026, 11, 19, 23, 40), false],
 ];
