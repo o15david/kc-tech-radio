@@ -13,6 +13,20 @@
 // in Chrome) and try MP3 again on the next segment. When the unplayed tail
 // of the queue drops under REFILL_THRESHOLD_SECONDS we fetch /api/playlist
 // again and append only segments we have not already queued.
+//
+// No repeats, guaranteed on this side too (the server also rotates without
+// replacement; this is the session backstop): a refill restarts from the
+// beginning of the CURRENT block instance, so segments already played
+// would be offered again. We keep session-level sets of played/current
+// segment ids and of played story keys (link/headline), and never
+// re-queue anything in them, even if a pool refresh changed the segment
+// ids a story wears. Segments also carry their scheduled window
+// (startMs + estSeconds, slotEndMs); unplayed segments whose window has
+// fully passed are pruned at refill time instead of airing stale, and a
+// fresh fetch never appends a segment whose slot has already ended.
+// Position tracking is driven by real audio end events (onended /
+// utterance onend), never by the duration estimates, so playback cannot
+// drift out of the server's schedule and "resync" by restarting a block.
 
 import { useCallback, useEffect, useRef, useState } from 'react';
 
@@ -58,7 +72,9 @@ export default function Player() {
 
   const queueRef = useRef([]);
   const posRef = useRef(0);
-  const seenIdsRef = useRef(new Set());
+  const seenIdsRef = useRef(new Set()); // every segment id ever queued
+  const playedIdsRef = useRef(new Set()); // ids that started/finished playing
+  const playedStoryKeysRef = useRef(new Set()); // link/headline of played stories
   const playingRef = useRef(false);
   const rateRef = useRef(1);
   const volumeRef = useRef(1);
@@ -112,16 +128,54 @@ export default function Player() {
     setBufferSeconds(Math.round(remainingSeconds()));
   }, [remainingSeconds]);
 
+  // Identity of a story segment independent of its segment id: if a pool
+  // refresh reassigns slots, the same story can come back wearing a new
+  // segment id, but its link (or headline) gives it away.
+  const storyKey = useCallback((seg) => {
+    if (seg.kind !== 'story') return null;
+    return seg.link || seg.headline || seg.id;
+  }, []);
+
+  // Drop unplayed segments whose scheduled window has fully passed (the
+  // listener paused through their slot, or the tab sat open for hours).
+  // The current segment and the one right after it are protected: real
+  // MP3 durations differ from the estimates, and the next-up segment must
+  // never be pruned out from under the playhead. Pruned ids stay in
+  // seenIds, so a later refill cannot resurrect them.
+  const pruneStale = useCallback(() => {
+    const nowMs = Date.now();
+    const q = queueRef.current;
+    let removed = 0;
+    for (let i = q.length - 1; i > posRef.current + 1; i--) {
+      const seg = q[i];
+      if (seg.startMs && seg.startMs + seg.estSeconds * 1000 <= nowMs) {
+        q.splice(i, 1);
+        removed++;
+      }
+    }
+    if (removed) syncView();
+    return removed;
+  }, [syncView]);
+
   const fetchPlaylist = useCallback(async () => {
     if (fetchingRef.current) return;
     fetchingRef.current = true;
     try {
+      pruneStale();
       const res = await fetch('/api/playlist', { cache: 'no-store' });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data = await res.json();
+      const nowMs = Date.now();
       let added = 0;
       for (const seg of data.segments) {
+        // Never re-queue: already queued, already played, or the same
+        // story under a new segment id.
         if (seenIdsRef.current.has(seg.id)) continue;
+        if (playedIdsRef.current.has(seg.id)) continue;
+        const key = storyKey(seg);
+        if (key && playedStoryKeysRef.current.has(key)) continue;
+        // Never append a segment whose slot has already ended.
+        if (seg.slotEndMs && seg.slotEndMs <= nowMs) continue;
         seenIdsRef.current.add(seg.id);
         queueRef.current.push(seg);
         added++;
@@ -133,7 +187,7 @@ export default function Player() {
     } finally {
       fetchingRef.current = false;
     }
-  }, [syncView]);
+  }, [pruneStale, storyKey, syncView]);
 
   // Initial queue load (so Up Next is populated before Play is pressed).
   useEffect(() => {
@@ -242,6 +296,11 @@ export default function Player() {
       return;
     }
     currentRef.current = seg;
+    // Session no-repeat sets: once a segment starts, neither it nor its
+    // story (under any segment id) can be queued again this session.
+    playedIdsRef.current.add(seg.id);
+    const playedKey = storyKey(seg);
+    if (playedKey) playedStoryKeysRef.current.add(playedKey);
     syncView();
     preloadNext();
 
@@ -276,7 +335,7 @@ export default function Player() {
     audio.volume = volumeRef.current;
     audio.src = seg.audioUrl;
     audio.play().catch(fallBack);
-  }, [fetchPlaylist, getAudio, preloadNext, remainingSeconds, speakSegment, syncView]);
+  }, [fetchPlaylist, getAudio, preloadNext, remainingSeconds, speakSegment, storyKey, syncView]);
 
   useEffect(() => {
     playCurrentRef.current = playCurrent;
@@ -300,6 +359,11 @@ export default function Player() {
   // ---- controls ---------------------------------------------------------------------
   const onPlay = async () => {
     if (!queueRef.current.length) await fetchPlaylist();
+    // If the tab sat open (or paused) across block boundaries, drop the
+    // unplayed segments whose scheduled windows have passed before
+    // rolling, then top up with fresh segments if the tail ran low.
+    pruneStale();
+    if (remainingSeconds() < REFILL_THRESHOLD_SECONDS) await fetchPlaylist();
     playingRef.current = true;
     setStatus('playing');
     if (suspendedRef.current) {
