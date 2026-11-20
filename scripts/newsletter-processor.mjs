@@ -37,6 +37,20 @@
 //   Startland News 3-5x/week. The Batch (DeepLearning.AI) was subscribed
 //   under the name "Fairbanks Muse" with David's approval; its mail
 //   arrives under The Batch's own From name, which is what we match.
+//
+// SENDER ADDRESSES: display names proved unreliable in the real inbox
+// (Startland News issues arrive as "Tommy Felts", TLDR as bare "TLDR"),
+// so matching tries the sender ADDRESS first (KNOWN_SENDER_ADDRESSES,
+// observed in the fairbanks@muse.ai inbox on Nov 19, 2026) and falls
+// back to the display-name test. dan@tldrnewsletter.com sends both
+// TLDR lists; the subject line decides which one an issue belongs to.
+//
+// ONBOARDING MAIL: welcome and confirm-your-subscription messages are
+// not issues. Mail whose subject matches ONBOARDING_SUBJECT_RE is
+// skipped (and logged), never mined for stories.
+//
+// The inbox half of the pipeline is scripts/newsletter-export.mjs,
+// which pulls new mail from the Muse Mail CLI into .eml files here.
 // ---------------------------------------------------------------------------
 
 import { readFileSync, writeFileSync, readdirSync, statSync, existsSync } from 'node:fs';
@@ -231,8 +245,11 @@ export function parseEml(raw) {
   }
 
   const dateMs = Date.parse(header('Date'));
+  const fromHeader = header('From');
+  const fromEmail = /<([^>]+)>/.exec(fromHeader)?.[1] || (fromHeader.includes('@') ? fromHeader.trim() : '');
   return {
-    fromName: parseFromDisplayName(header('From')),
+    fromName: parseFromDisplayName(fromHeader),
+    fromEmail: fromEmail.toLowerCase(),
     subject: header('Subject'),
     publishedAt: Number.isNaN(dateMs) ? null : dateMs,
     html,
@@ -248,6 +265,38 @@ export function matchKnownSender(fromName) {
     ) || null
   );
 }
+
+// Sender addresses observed in the fairbanks@muse.ai inbox (Nov 19,
+// 2026). A null value means the address serves more than one list and
+// the subject line decides (see matchKnownSenderForMail).
+export const KNOWN_SENDER_ADDRESSES = {
+  'dan@tldrnewsletter.com': null, // TLDR Tech and TLDR AI share this sender
+  'importai@substack.com': 'Import AI',
+  'bensbites@substack.com': "Ben's Bites",
+  'crew@morningbrew.com': 'Morning Brew',
+  'news@thehustle.co': 'The Hustle',
+  'news@daily.therundown.ai': 'The Rundown AI',
+  'news@startlandnews.com': 'Startland News',
+};
+
+// Full sender match for one mail message: address first (display names
+// are unreliable, e.g. Startland issues arrive as "Tommy Felts"), then
+// the display-name test. Returns the canonical source name or null.
+export function matchKnownSenderForMail({ fromName = '', fromEmail = '', subject = '' } = {}) {
+  const email = (fromEmail || '').toLowerCase();
+  if (email && email in KNOWN_SENDER_ADDRESSES) {
+    const byAddress = KNOWN_SENDER_ADDRESSES[email];
+    if (byAddress) return byAddress;
+    // dan@tldrnewsletter.com sends both TLDR Tech and TLDR AI; TLDR AI
+    // issues carry the list name in the subject, Tech is the default.
+    return /tldr\s*ai/i.test(subject) ? 'TLDR AI' : 'TLDR Tech';
+  }
+  return matchKnownSender(fromName);
+}
+
+// Welcome and confirm-your-subscription mail is onboarding furniture,
+// not an issue: never mined for stories.
+export const ONBOARDING_SUBJECT_RE = /\b(welcome|confirm your|confirm signup|please confirm|verify your)\b/i;
 
 // ---------------------------------------------------------------------------
 // Main
@@ -288,16 +337,24 @@ function main(argv) {
   for (const file of files) {
     const raw = readFileSync(file, 'utf8');
     let fromName = args.from || '';
+    let fromEmail = '';
+    let subject = '';
     let html = raw;
     let publishedAt = Math.round(statSync(file).mtimeMs);
 
     if (/\.eml$/i.test(file)) {
       const parsed = parseEml(raw);
       fromName = parsed.fromName || fromName;
+      fromEmail = parsed.fromEmail || '';
+      subject = parsed.subject || '';
       html = parsed.html;
       if (parsed.publishedAt) publishedAt = parsed.publishedAt;
       if (!html) {
         console.log(`skip ${basename(file)}: no HTML part`);
+        continue;
+      }
+      if (ONBOARDING_SUBJECT_RE.test(subject)) {
+        console.log(`skip ${basename(file)}: onboarding mail, not an issue ("${subject}")`);
         continue;
       }
     } else {
@@ -307,9 +364,9 @@ function main(argv) {
       fromName = metaFrom || fromName || basename(file, extname(file));
     }
 
-    const known = matchKnownSender(fromName);
+    const known = matchKnownSenderForMail({ fromName, fromEmail, subject });
     if (!known && !args.allowUnknown) {
-      console.log(`skip ${basename(file)}: sender "${fromName}" not on the known-senders list (use --allow-unknown to force)`);
+      console.log(`skip ${basename(file)}: sender "${fromName}" <${fromEmail}> not on the known-senders list (use --allow-unknown to force)`);
       continue;
     }
     const source = known || fromName;
