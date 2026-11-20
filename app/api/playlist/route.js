@@ -28,6 +28,7 @@ export async function GET() {
     topicGuardSkipped,
     entityBudgetSkipped,
     expiredStories,
+    ageCappedStories,
     neverAiredStories,
     recycledStories,
     poolNeverAired,
@@ -70,6 +71,9 @@ export async function GET() {
     // "Election Day is here" items, stale tonight claims). The drop is
     // never silent; the count rides every response.
     expiredStories,
+    // Age-cap observability: recycled stories this build dropped for
+    // being older than 72 hours (David's Nov 20, 2026 ruling).
+    ageCappedStories,
     // Consume-and-replace observability: the served mix (stories
     // in this queue that are never-aired vs recycled from the
     // aired fallback, oldest-aired first) and the pool split at
