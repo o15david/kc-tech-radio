@@ -89,7 +89,7 @@
 //    now persists what it has heard in localStorage: a story key
 //    is recorded the moment the story genuinely starts, and heard
 //    means RETIRED: the story is filtered out of later queues, on
-//    load and on refill alike, for 12 hours — with a floor: if
+//    load and on refill alike, for 24 hours — with a floor: if
 //    filtering would leave fewer than ~40 stories, the OLDEST
 //    heard stories are let back in until the floor is met, so a
 //    listener never faces an empty or tiny queue. The current
@@ -116,7 +116,7 @@ const MAX_LOAD_ATTEMPTS = 3; // plain reloads of a never-heard segment before th
 const LOAD_BACKOFF_MS = [1200, 2500, 5000]; // wait before load retry 2, 3
 const HEARD_STORAGE_KEY = 'kctr-heard-v1'; // localStorage: story key -> last-heard epoch ms
 const RESUME_STORAGE_KEY = 'kctr-resume-v1'; // localStorage: { key, segId, position }
-const HEARD_TTL_MS = 12 * 60 * 60 * 1000; // a heard story is filtered out for 12 hours
+const HEARD_TTL_MS = 24 * 60 * 60 * 1000; // a heard story is filtered out for 24 hours (David's ruling, Nov 20, 2026: the 12-hour window let an evening's early stories return the next morning; 48 hours is the documented step-up if repeats persist)
 const HEARD_CAP = 800; // most keys the registry keeps; oldest evicted first
 const REGISTRY_MIN_SEGMENTS = 40; // the heard filter never starves a fresh queue below this
 const RESUME_PERSIST_MIN_MS = 5000; // throttle for resume-position writes during playback
