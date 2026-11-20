@@ -55,6 +55,15 @@ try {
       const musicIntro = q.segments.find((s) => s.blockKey === 'kc-music' && s.kind === 'intro');
       if (musicIntro) check('music open names the Wasteland Jukebox', /Wasteland Jukebox/.test(musicIntro.script));
       console.log('sample station ID:', ids[0]);
+      const jingles = q.segments.filter((s) => s.kind === 'jingle');
+      const jingleFiles = jingles.map((s) => s.audioUrl);
+      check(`jingles present (${jingles.length}), static audio, rotated`,
+        jingles.length >= 3 &&
+        jingleFiles.every((f) => /^\/jingles\/jingle-\d\.mp3$/.test(f)) &&
+        jingleFiles.every((v, i) => i === 0 || v !== jingleFiles[i - 1]));
+      const musicIdx = q.segments.findIndex((s) => s.blockKey === 'kc-music' && s.kind === 'intro');
+      check('a jingle opens the Wasteland Jukebox',
+        musicIdx > 0 && q.segments[musicIdx - 1].kind === 'jingle');
     }
   }
 } finally {
