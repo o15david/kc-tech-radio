@@ -221,6 +221,12 @@ function persistResumeRecord(rec) {
   }
 }
 
+// In-world block names for categories whose on-page label differs from
+// the wire category (Fallout reskin, Nov 20, 2026). Audio scripts and
+// the news machinery keep the plain category; only the page dresses it.
+const CATEGORY_LABELS = { newsletter: 'Papers from the Surface' };
+const categoryLabel = (c) => CATEGORY_LABELS[c] || c;
+
 export default function Player() {
   const [status, setStatus] = useState('loading'); // loading|ready|playing|paused
   const [nowPlaying, setNowPlaying] = useState(null); // segment at the playhead
@@ -1565,6 +1571,20 @@ export default function Player() {
     []
   );
 
+  // Signal Strength, from the real station numbers: the server queue
+  // buffer is the honest proxy for how strong the signal is right now.
+  const signalBars = !health
+    ? 0
+    : health.bufferMinutes >= 230
+      ? 5
+      : health.bufferMinutes >= 180
+        ? 4
+        : health.bufferMinutes >= 120
+          ? 3
+          : health.bufferMinutes >= 60
+            ? 2
+            : 1;
+
   const upcoming = queueView.slice(1);
 
   return (
@@ -1573,7 +1593,8 @@ export default function Player() {
         <div>
           <h1>KC Tech Radio</h1>
           <p className="tagline">
-            Kansas City tech &amp; business · AI news · world news, around the clock
+            The last clear signal in the Midwest · broadcasting from the Bunker beneath
+            Union Station
           </p>
         </div>
         <div className="clock" aria-label="Kansas City time">
@@ -1598,6 +1619,16 @@ export default function Player() {
           <button className="stop-btn" onClick={onStop} disabled={status === 'loading'}>
             ■ Stop
           </button>
+        </div>
+
+        <div className={`dial ${status === 'playing' ? 'locked' : ''}`} aria-hidden="true">
+          <div className="dial-face">
+            <span className="dial-needle" />
+            <span className="dial-hub" />
+          </div>
+          <span className="dial-label">
+            {status === 'playing' ? 'Signal Lock' : 'Tuning'}
+          </span>
         </div>
 
         <div className="sliders">
@@ -1628,7 +1659,7 @@ export default function Player() {
 
         <p
           className="diag-line"
-          title="This session's stall recovery counters. Stalls: freezes detected. In place: recovered by a play() nudge without reloading. Resumes: reload-and-seek attempts, and how many worked. Skips: segments abandoned after 3 failed resumes. Heard earlier: stories filtered out of fetched queues because this listener already heard them (listening memory, 12h)."
+          title="This session's stall recovery counters. Stalls: freezes detected. In place: recovered by a play() nudge without reloading. Resumes: reload-and-seek attempts, and how many worked. Skips: segments abandoned after 3 failed resumes. Heard earlier: stories filtered out of fetched queues because this listener already heard them (listening memory, 24h)."
         >
           Playback health: stalls {diagView.stalls} · recovered in place {diagView.stage0Recoveries}{' '}
           · resume attempts {diagView.resumeAttempts} · resumes ok {diagView.resumesOk} · skips{' '}
@@ -1656,6 +1687,26 @@ export default function Player() {
         </p>
       </section>
 
+      <section className="signal-panel">
+        <div className="signal-head">
+          <h2>Signal Strength</h2>
+          <div className="signal-bars" aria-hidden="true">
+            {[1, 2, 3, 4, 5].map((n) => (
+              <span key={n} className={`bar${n <= signalBars ? ' lit' : ''}`} />
+            ))}
+          </div>
+        </div>
+        {health ? (
+          <p className="signal-readout">
+            Wire pool {health.totalItems} stories · queue buffer {health.bufferMinutes} min
+            · Voices on the Wire: {health.socialFeedItems} on deck, {health.callerCount} in
+            this queue · transmitter: the Bunker, beneath Union Station
+          </p>
+        ) : (
+          <p className="signal-readout">Warming up the tubes…</p>
+        )}
+      </section>
+
       <section className="now-playing">
         <h2>{status === 'playing' || status === 'paused' ? 'Now Playing' : 'Up First'}</h2>
         {nowPlaying ? (
@@ -1663,7 +1714,7 @@ export default function Player() {
             <p className="np-title">{nowPlaying.title}</p>
             <p className="np-headline">{nowPlaying.headline}</p>
             <p className="np-meta">
-              {nowPlaying.category} · {nowPlaying.source} · ~
+              {categoryLabel(nowPlaying.category)} · {nowPlaying.source} · ~
               {Math.round(nowPlaying.estSeconds)}s
             </p>
           </>
@@ -1682,7 +1733,7 @@ export default function Player() {
                   <span className="un-title">{seg.title}</span>
                   <span className="un-headline">{seg.headline}</span>
                   <span className="un-meta">
-                    {seg.category} · ~{Math.round(seg.estSeconds)}s
+                    {categoryLabel(seg.category)} · ~{Math.round(seg.estSeconds)}s
                   </span>
                 </li>
               ))}
