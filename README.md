@@ -607,7 +607,7 @@ never an error and never filler.
   ] }
 ```
 
-`platform` is one of `Reddit`, `X`, `Facebook`; `engagement` is the
+`platform` is one of `Reddit`, `X`, `Facebook`, `Bluesky`, `Hacker News`; `engagement` is the
 post's public score/like count where the platform exposes one, else
 `null`; `storyLink` is the pool story the reaction answers (tracking
 parameters are stripped before matching, the way ingestion normalizes
@@ -617,7 +617,7 @@ story links).
 dropped when its text (after cleaning) is under 20 or over 280
 characters, contains a URL, or contains a word from a basic profanity
 blocklist; when its story link is not a plausible http(s) URL; when
-its platform is not one of the three above; or when its text
+its platform is not one of the five above; or when its text
 duplicates an earlier item's. Usernames face the same URL/blocklist
 rules.
 
@@ -644,6 +644,28 @@ Reddit's public JSON endpoints bot-wall many datacenter networks
 whatever it genuinely found, possibly an empty feed. An honest empty
 feed beats a fabricated full one, and the station airs zero callers
 until a feed with real reactions is published.
+
+Two more channels are wired into the same harvest (Nov 19, David's
+pick to diversify beyond Reddit). `scripts/bluesky-harvest.mjs`
+searches Bluesky's public searchPosts API for the ~15 most
+discussable stories in the live playlist (discussability-scored,
+local first) and keeps only genuine reactions: a post must embed the
+story URL or share at least 3 significant tokens and a headline
+phrase with it, name a distinctive proper noun from the headline,
+and add words of its own (headline restatements, crosspost mirrors,
+commerce spam, bot accounts, and the story outlet's own posts are
+all filtered out before the station validator runs). Channel fact:
+the documented public host public.api.bsky.com is walled from this
+network (TLS completes, then the connection is cut), so the script
+calls the same XRPC method on api.bsky.app, which answers.
+`scripts/hn-harvest.mjs` covers tech stories through the Hacker
+News Algolia API, matched by URL only (a story qualifies when an HN
+submission's URL is the story's URL; top-level comments only;
+engagement is null because Algolia exposes no comment scores).
+Each writes a candidates file, and `scripts/social-feed-merge.mjs`
+merges them into the feed under the harvest rule: existing callers
+stay only while their story is still in the live playlist, new
+items first, dedupe by text, cap 16.
 
 ## Feeds
 
