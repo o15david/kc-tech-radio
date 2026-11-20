@@ -1,0 +1,33 @@
+{
+  "run": "kc-tech-radio-social-harvest hackernews 2026-11-20T05:16:38.586Z",
+  "harvestedAt": "2026-11-20T05:16:38.586Z",
+  "candidates": [
+    {
+      "storyHeadline": "IRA Velinsky, industrial designer for Commodore and Atari",
+      "storyLink": "https://dfarq.homeip.net/ira-velinsky-industrial-designer-of-the-commodore-64/",
+      "platform": "Hacker News",
+      "username": "seemaze",
+      "text": "Why is the name 'Ira' capitalized in the title..?",
+      "engagement": null,
+      "sourceUrl": "https://news.ycombinator.com/item?id=50569916"
+    },
+    {
+      "storyHeadline": "How to CAD Almost Anything",
+      "storyLink": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
+      "platform": "Hacker News",
+      "username": "Buttons840",
+      "text": "I'm interested in 3D modelling, and I'm wondering if something like this would be adjacent enough to offer a new perspective but still be useful in art rather than just technical CAD?",
+      "engagement": null,
+      "sourceUrl": "https://news.ycombinator.com/item?id=50569550"
+    },
+    {
+      "storyHeadline": "How to CAD Almost Anything",
+      "storyLink": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
+      "platform": "Hacker News",
+      "username": "analog8374",
+      "text": "I really do prefer using a programming language for describing 3D models. Like openscad. Yes, the openscad language is weird. Considering switching to python. Do you relate?",
+      "engagement": null,
+      "sourceUrl": "https://news.ycombinator.com/item?id=50568931"
+    }
+  ]
+}
