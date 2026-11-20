@@ -33,6 +33,7 @@ export async function GET() {
     recycledStories,
     poolNeverAired,
     poolRecycled,
+    mix,
   } = buildPlaylist(pool, weather, Date.now(), socialItems);
   // Server-side pre-render (lib/tts.js): warm the audio cache for the
   // segments at the head of the queue so a listener's player finds them
@@ -83,6 +84,11 @@ export async function GET() {
     recycledStories,
     poolNeverAired,
     poolRecycled,
+    // Programming mix observability (David, Nov 20, 2026): the
+    // achieved mix for this queue per band (target, story count and
+    // airtime shares, candidate pool, shortfall flag), the same
+    // never-silent pattern as the counts above.
+    mix,
     segments,
   });
 }
