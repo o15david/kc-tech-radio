@@ -27,6 +27,7 @@ export async function GET() {
     callerCount,
     topicGuardSkipped,
     entityBudgetSkipped,
+    expiredStories,
     neverAiredStories,
     recycledStories,
     poolNeverAired,
@@ -64,6 +65,11 @@ export async function GET() {
     // invisible in the response.
     topicGuardSkipped,
     entityBudgetSkipped,
+    // Time-bound expiry observability: stories this build dropped
+    // because their date had passed (voter guides for a past election,
+    // "Election Day is here" items, stale tonight claims). The drop is
+    // never silent; the count rides every response.
+    expiredStories,
     // Consume-and-replace observability: the served mix (stories
     // in this queue that are never-aired vs recycled from the
     // aired fallback, oldest-aired first) and the pool split at
