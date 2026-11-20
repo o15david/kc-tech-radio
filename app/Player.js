@@ -63,6 +63,19 @@
 //    the next segment instead. And a segment that has finished or
 //    been skipped is recorded (finishedIdsRef) and can never be
 //    started again this session, whatever path leads to it.
+//  - EVERY TRANSITION ACCOUNTED FOR (Nov 19, later field failure:
+//    skipping resumed with ZERO movement on the health counters,
+//    because the natural 'ended' handler advanced without touching
+//    any of them). Every move to the next segment now records a
+//    reason (natural-end, speech-end, recovery-skip, tail-end,
+//    already-finished) plus the last transition's played-vs-expected
+//    seconds in the diagnostics line. The duration audit
+//    (scripts/duration-audit.mjs) proved the served MP3s complete
+//    (40/40: server header duration equals ffprobe exactly, local
+//    re-synthesis byte-identical, files end in natural trailing
+//    silence), so a natural end that arrives early is the device
+//    ending a partially buffered file, and the early-end counter is
+//    what proves it in the field.
 //  - REFILL BEFORE THE END. When the loaded queue runs low, the
 //    player fetches the next queue and appends only segments it has
 //    not already queued or played this session (segment ids, plus
@@ -226,6 +239,9 @@ export default function Player() {
     skips: 0,
     loadErrors: 0,
     registrySkipped: 0,
+    transitions: {},
+    earlyEnds: 0,
+    lastTransition: null,
   });
 
   const queueRef = useRef([]);
@@ -269,6 +285,15 @@ export default function Player() {
     skips: 0,
     loadErrors: 0,
     registrySkipped: 0,
+    // Transition ledger (Nov 19 field failure: segments advanced
+    // with ZERO movement on the counters above, because the natural
+    // 'ended' path was never instrumented). Every move to the next
+    // segment now records a reason here, plus the last transition's
+    // played-vs-expected seconds, so the next field report says WHY
+    // the player moved on. See recordTransition below.
+    transitions: {},
+    earlyEnds: 0,
+    lastTransition: null,
   });
   // Listening memory state (persisted; see the localStorage helpers
   // above). heardRegistryRef mirrors the stored heard map for this
@@ -584,6 +609,56 @@ export default function Player() {
     return ref.current;
   }, []);
 
+  // Record a transition to the next segment: WHICH path advanced
+  // the playhead, and how much of the segment was actually heard
+  // versus how long it was expected to run. Called at every advance
+  // call site (the advance() continuation for an exhausted queue
+  // deliberately does not re-record: the original site already did).
+  // Reasons: 'natural-end' (the audio element fired 'ended'),
+  // 'speech-end' (the browser-speech fallback finished the script),
+  // 'recovery-skip' (stage 2 of the ladder, also counted in skips),
+  // 'tail-end' (a resume found only the last second left and moved
+  // on), 'already-finished' (the no-replay backstop stepped over a
+  // finished segment). A 'natural-end' whose played time is under
+  // 85% of the expected duration is also counted as an early end:
+  // the served MP3s are verified complete (see
+  // scripts/duration-audit.mjs), so an early end is the element
+  // ending a partially buffered file on the device, and this counter
+  // is what proves it in the field.
+  const recordTransition = useCallback((reason, seg, played, expected) => {
+    const prev = diagRef.current;
+    const transitions = {
+      ...(prev.transitions || {}),
+      [reason]: ((prev.transitions || {})[reason] || 0) + 1,
+    };
+    const ratio = played != null && expected > 0 ? played / expected : null;
+    const early = reason === 'natural-end' && ratio != null && ratio < 0.85;
+    const lastTransition = {
+      reason,
+      title: seg?.title || seg?.headline || '',
+      category: seg?.category || '',
+      played: played != null ? Math.round(played * 10) / 10 : null,
+      expected: expected ? Math.round(expected * 10) / 10 : null,
+      early,
+    };
+    diagRef.current = {
+      ...prev,
+      transitions,
+      earlyEnds: (prev.earlyEnds || 0) + (early ? 1 : 0),
+      lastTransition,
+    };
+    setDiagView(diagRef.current);
+    try {
+      console.info(
+        `[kc-tech-radio] transition reason=${reason} seg=${seg?.id || '-'} ` +
+          `played=${lastTransition.played}s expected=${lastTransition.expected}s` +
+          `${early ? ' EARLY-END' : ''} totals=${JSON.stringify(transitions)}`
+      );
+    } catch {
+      /* console is best-effort */
+    }
+  }, []);
+
   // Bump one session diagnostics counter, mirror it to the UI state
   // and to the console with the segment id attached.
   const bumpDiag = useCallback((key, segId, note) => {
@@ -773,6 +848,7 @@ export default function Player() {
   const speakSegment = useCallback((seg, onDone) => {
     const synth = window.speechSynthesis;
     if (!synth) {
+      recordTransition('speech-end', seg, null, seg.estSeconds);
       onDone();
       return;
     }
@@ -788,6 +864,7 @@ export default function Player() {
     const speakChunk = () => {
       if (!playingRef.current || gen !== speechGenRef.current) return;
       if (chunkIdx >= chunks.length) {
+        recordTransition('speech-end', seg, null, seg.estSeconds);
         onDone();
         return;
       }
@@ -807,7 +884,7 @@ export default function Player() {
       synth.speak(utter);
     };
     speakChunk();
-  }, []);
+  }, [recordTransition]);
 
   const advance = useCallback(() => {
     if (!playingRef.current) return;
@@ -867,10 +944,11 @@ export default function Player() {
         speakSegment(seg, () => advanceRef.current?.());
       } else {
         bumpDiag('skips', seg.id, `why=${why} heard=${heard.toFixed(1)}s`);
+        recordTransition('recovery-skip', seg, heard, seg.estSeconds);
         advanceRef.current?.();
       }
     },
-    [bumpDiag, speakSegment]
+    [bumpDiag, recordTransition, speakSegment]
   );
 
   // Stage 1: reload the current segment and seek to the last heard
@@ -894,7 +972,9 @@ export default function Player() {
       if (durKnown && dur - heard <= 1) {
         // Only the last second is left: not worth a reload, and the
         // segment is effectively finished. Move on (existing rule);
-        // this is a completion, not a failure skip.
+        // this is a completion, not a failure skip. Recorded as a
+        // transition (it used to advance invisibly).
+        recordTransition('tail-end', seg, heard, dur);
         advanceRef.current?.();
         return;
       }
@@ -957,7 +1037,7 @@ export default function Player() {
       // to survive.
       audio.play().catch(() => {});
     },
-    [bumpDiag, clearPendingSeek, clearStallTimer, exhaustSegment, getAudio]
+    [bumpDiag, clearPendingSeek, clearStallTimer, exhaustSegment, getAudio, recordTransition]
   );
 
   useEffect(() => {
@@ -1089,6 +1169,7 @@ export default function Player() {
         // No-replay backstop: a segment that finished or was skipped
         // this session never starts again, whatever path led here.
         indexRef.current = index;
+        recordTransition('already-finished', seg, null, seg.estSeconds);
         advanceRef.current?.();
         return;
       }
@@ -1164,6 +1245,17 @@ export default function Player() {
       const audio = getAudio();
       audio.onended = () => {
         if (playingRef.current && currentIdRef.current === seg.id && token === startTokenRef.current) {
+          // THE transition the Nov 19 field failure exposed: this
+          // handler used to advance with no counter, no log, no
+          // record of how much was actually heard, so a segment
+          // ending early on the device was indistinguishable from
+          // one that played in full. Record played vs expected
+          // (the element's real duration when it is known, else the
+          // queue estimate) BEFORE advancing; recordTransition
+          // flags it as an early end when played < 85% of expected.
+          const dur = audio.duration;
+          const expected = Number.isFinite(dur) && dur > 0 ? dur : seg.estSeconds;
+          recordTransition('natural-end', seg, audio.currentTime || 0, expected);
           advanceRef.current?.();
         }
       };
@@ -1231,6 +1323,7 @@ export default function Player() {
       noteProgress,
       preloadNext,
       recordHeard,
+      recordTransition,
       signalStall,
       speakSegment,
       storyKey,
@@ -1541,6 +1634,25 @@ export default function Player() {
           · resume attempts {diagView.resumeAttempts} · resumes ok {diagView.resumesOk} · skips{' '}
           {diagView.skips} · load errors {diagView.loadErrors} · heard earlier{' '}
           {diagView.registrySkipped}
+        </p>
+
+        <p
+          className="diag-line"
+          title="Every move to the next segment, by reason. Natural end: the audio element reported the segment finished (an early end, played under 85% of the file's real duration, is counted separately: the served MP3s are verified complete, so an early end means the device ended a partially buffered file). Recovery skip: the stall ladder gave up after 3 resumes. Speech end: the browser-voice fallback finished reading. Tail end: a resume found only the last second left. Last: the most recent transition, with seconds actually played versus the segment's real duration."
+        >
+          Transitions: natural end {diagView.transitions['natural-end'] || 0} (early{' '}
+          {diagView.earlyEnds}) · recovery skip {diagView.transitions['recovery-skip'] || 0} ·
+          speech end {diagView.transitions['speech-end'] || 0} · tail end{' '}
+          {diagView.transitions['tail-end'] || 0}
+          {diagView.lastTransition
+            ? ` · Last: ${diagView.lastTransition.reason}, played ${
+                diagView.lastTransition.played != null ? `${diagView.lastTransition.played}s` : '?'
+              } of ${
+                diagView.lastTransition.expected != null
+                  ? `${diagView.lastTransition.expected}s`
+                  : '?'
+              }, ${diagView.lastTransition.title} (${diagView.lastTransition.category})`
+            : ''}
         </p>
       </section>
 
