@@ -93,6 +93,15 @@ body::after {
   font-style: italic;
 }
 
+.callsign {
+  margin: 6px 0 0;
+  color: var(--brass);
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+}
+
 .clock {
   text-align: right;
   font-variant-numeric: tabular-nums;
@@ -389,6 +398,48 @@ body::after {
 @media (max-width: 760px) {
   .columns {
     grid-template-columns: 1fr;
+  }
+}
+
+/* Narrow screens (David's field report, Nov 20, 2026: the masthead
+   jumbled at iPhone width, clock squeezed beside the title and the
+   ON AIR pill half off the viewport). Stack the masthead: title and
+   tagline first, clock and lamp on their own row under them. */
+@media (max-width: 640px) {
+  .masthead {
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .masthead h1 {
+    font-size: 1.5rem;
+    letter-spacing: 2px;
+  }
+
+  .tagline {
+    font-size: 0.92rem;
+  }
+
+  .callsign {
+    letter-spacing: 3px;
+  }
+
+  .clock {
+    text-align: left;
+    font-size: 0.95rem;
+    white-space: normal;
+  }
+
+  .live-dot {
+    margin-top: 6px;
+  }
+
+  .deck {
+    padding: 14px 14px;
+  }
+
+  .signal-head {
+    flex-wrap: wrap;
   }
 }
 
