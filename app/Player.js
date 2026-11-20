@@ -1596,6 +1596,7 @@ export default function Player() {
             The last clear signal in the Midwest · broadcasting from the Bunker beneath
             Union Station
           </p>
+          <p className="callsign">KBUNKC · The Bunker</p>
         </div>
         <div className="clock" aria-label="Kansas City time">
           {clock}
