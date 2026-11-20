@@ -138,7 +138,14 @@ local and relevant the more info"): ai, tech, business, local,
 state, and regional get the full treatment (scripts target roughly
 60-90 seconds); national and global stay in the summarized
 headline+summary form, and any story whose extraction failed falls
-back to that form rather than being padded. No text is generated:
+back to that form rather than being padded. One cross-category
+addition (David, later Nov 19): startup stories are expanded
+wherever they appear. A deterministic classifier
+(`classifyStartup` in `lib/article.js`, rules documented there)
+promotes a national, global, or newsletter story to full depth
+when its source is a startup-focused outlet (Startland News,
+Silicon Prairie News) or its headline/summary carries a funding,
+founder/accelerator, or launch-with-startup-context signal. No text is generated:
 scripts are the article's own words, trimmed at sentence
 boundaries. Coverage of the served pool is surfaced as `articles`
 by `/api/health`. Measured on the live wire at build time (Nov 19):
