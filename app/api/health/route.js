@@ -54,5 +54,12 @@ export async function GET() {
     // last accepted refresh arrived with, how many survived headline
     // dedupe, and how many syndicated copies were dropped (lib/ingest.js).
     dedupe: pool.dedupe || null,
+    // Article-body coverage of the pool being served (lib/ingest.js):
+    // of the full-depth categories (ai, tech, business, local, state,
+    // regional), how many stories carry an extracted article body,
+    // split by where the body came from (the feed's own full content
+    // vs the background article-fetch pass), and how many fell back
+    // to the headline+summary script.
+    articles: pool.enrich || null,
   });
 }
