@@ -555,7 +555,8 @@ never an error and never filler.
   "items": [
     { "kind": "tonight", "artist": "Example Band", "venue": "recordBar",
       "when": "tonight, doors 7:00 PM, show 8:00 PM",
-      "url": "https://venue.example/events/example" }
+      "url": "https://venue.example/events/example",
+      "date": "2026-11-19" }
   ] }
 ```
 
@@ -563,10 +564,17 @@ never an error and never filler.
 across the tracked venues: miniBar, recordBar, Warehouse on Broadway, The
 Truman, Knuckleheads, Howdy, Farewell, The RINO, Uptown Theater),
 `weekend` (weekend highlights), or `jazz` (picks from David's KC jazz and
-big band watch). The rundown airs a gonzo-framed intro (pools in
-`lib/gonzo.js`) then the listings in fixed kind order (tonight, announced,
-weekend, jazz), up to 6, each scripted as
-`<lead-in> <artist> at <venue>, <when>.`
+big band watch). `date` is the show's calendar date (YYYY-MM-DD); feeds
+built before it existed are dated by parsing `when` at ingest. The
+rundown airs a gonzo-framed intro (pools in `lib/gonzo.js`) then the
+listings soonest first (kind order breaks same-date ties), up to 6, each
+scripted as `<lead-in> <artist> at <venue>, <when>.`
+
+**Event dates are enforced at queue build (David's rule, Nov 20, 2026):**
+a dated listing whose date is before today (America/Chicago) never
+airs, however stale the feed file is, and "tonight" copy airs only for
+a listing dated today. The feed itself is rebuilt daily so the
+`tonight` classification stays same-day.
 
 **Venue is the primary source (David's standing rule):** when listings
 conflict, the venue's own calendar wins. The assistant therefore writes
