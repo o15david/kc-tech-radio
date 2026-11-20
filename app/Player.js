@@ -110,6 +110,13 @@ const STAGE0_AT_MS = 1500; // observed freeze this long -> stage 0 (play() nudge
 const STAGE0_DELAY_MS = 800; // stage 0 waits this long after a stall signal before nudging play()
 const STAGE1_AT_MS = 4000; // still frozen this long -> stage 1 (resume-reload)
 const RESUME_GRACE_MS = 10000; // after a resume-reload, wait this long for canplay/progress before judging it
+// Download-then-play (delegated build, Nov 20, 2026): segments at or
+// above this length are fully downloaded to a local blob ahead of
+// the playhead and played from the local copy, so the device cannot
+// end them early from partial buffering (the Nov 19 skip failure).
+// Short segments stream as before.
+const LONG_SEGMENT_SECONDS = 40;
+const BLOB_WAIT_MS = 3500; // max time a long segment's start waits for its download
 const MAX_RESUME_ATTEMPTS = 3; // stage-1 resume attempts at one position before stage 2 (skip)
 const RESUME_BACKOFF_MS = [1500, 3000, 6000]; // wait before resume attempt 2, 3 (index by attempts already made)
 const MAX_LOAD_ATTEMPTS = 3; // plain reloads of a never-heard segment before the speech fallback
@@ -321,6 +328,8 @@ export default function Player() {
   const audioRef = useRef(null); // main MP3 element
   const preloadRef = useRef(null); // next-segment MP3 buffer element
   const preload2Ref = useRef(null); // next-next-segment MP3 buffer element
+  const blobCacheRef = useRef(new Map()); // segId -> object URL of a fully downloaded MP3
+  const blobPendingRef = useRef(new Map()); // segId -> in-flight download promise
   const modeRef = useRef(null); // 'audio' | 'speech' | null (current segment)
   const speechGenRef = useRef(0); // bumped whenever speech is superseded/cancelled
   const startTokenRef = useRef(0); // bumped per segment start; stale handlers check it
@@ -704,6 +713,47 @@ export default function Player() {
     }
   }, []);
 
+  // Fully download a long segment's MP3 to a local blob (see
+  // LONG_SEGMENT_SECONDS). Resolves to the object URL, or null when
+  // the segment is not a download candidate or the fetch failed.
+  // Never rejects. Bounded cache: at most 5 blobs, oldest revoked
+  // first (never the one currently playing).
+  const ensureBlob = useCallback((seg) => {
+    if (
+      !seg?.audioUrl ||
+      seg.kind === 'jingle' ||
+      (seg.estSeconds || 0) < LONG_SEGMENT_SECONDS
+    ) {
+      return Promise.resolve(null);
+    }
+    const cache = blobCacheRef.current;
+    if (cache.has(seg.id)) return Promise.resolve(cache.get(seg.id));
+    const pending = blobPendingRef.current;
+    if (pending.has(seg.id)) return pending.get(seg.id);
+    const p = (async () => {
+      try {
+        const res = await fetch(seg.audioUrl);
+        if (!res.ok) return null;
+        const blob = await res.blob();
+        const url = URL.createObjectURL(blob);
+        cache.set(seg.id, url);
+        while (cache.size > 5) {
+          const oldest = cache.keys().next().value;
+          if (oldest === currentIdRef.current) break;
+          URL.revokeObjectURL(cache.get(oldest));
+          cache.delete(oldest);
+        }
+        return url;
+      } catch {
+        return null;
+      } finally {
+        pending.delete(seg.id);
+      }
+    })();
+    pending.set(seg.id, p);
+    return p;
+  }, []);
+
   // Genuinely buffer the next TWO segments' MP3s while the current
   // one plays: one hidden preload="auto" element each, pointed at
   // the segment after next as well as the next one, so a brief
@@ -725,10 +775,13 @@ export default function Player() {
           pre.src = seg.audioUrl;
           pre.load();
         }
+        // Long segments also get the full download treatment, so by
+        // the time the playhead reaches them the file is local.
+        void ensureBlob(seg);
       }
       warmAhead(index + 1);
     },
-    [getPreload, warmAhead]
+    [ensureBlob, getPreload, warmAhead]
   );
 
   // ---- playback engine -----------------------------------------------------------
@@ -1035,7 +1088,11 @@ export default function Player() {
       };
       pendingSeekRef.current = onCanPlay;
       audio.addEventListener('canplay', onCanPlay);
-      audio.src = seg.audioUrl;
+      // Resume from the fully downloaded local copy when one exists:
+      // a local file cannot stall on the network mid-resume. Kick a
+      // download for the next stall either way.
+      void ensureBlob(seg);
+      audio.src = blobCacheRef.current.get(seg.id) || seg.audioUrl;
       audio.load();
       // A rejected play() here is NOT judged instantly: the grace
       // window and the watchdog decide, because iOS rejects play()
@@ -1043,7 +1100,7 @@ export default function Player() {
       // to survive.
       audio.play().catch(() => {});
     },
-    [bumpDiag, clearPendingSeek, clearStallTimer, exhaustSegment, getAudio, recordTransition]
+    [bumpDiag, clearPendingSeek, clearStallTimer, ensureBlob, exhaustSegment, getAudio, recordTransition]
   );
 
   useEffect(() => {
@@ -1165,7 +1222,7 @@ export default function Player() {
   }, [handleFailure]);
 
   const startSegment = useCallback(
-    (index) => {
+    async (index) => {
       const seg = queueRef.current[index];
       if (!seg) {
         advanceRef.current?.();
@@ -1217,7 +1274,7 @@ export default function Player() {
         playedStoryKeysRef.current.add(key);
         // The same moment writes the cross-session record: this
         // story is now heard, for this and every later queue,
-        // until its registry entry expires (12h).
+        // until its registry entry expires (24h).
         recordHeard(key);
         const prevResume = resumeTargetRef.current;
         if (prevResume && prevResume.key === key && prevResume.position > 0.5) {
@@ -1313,7 +1370,24 @@ export default function Player() {
         pendingSeekRef.current = onResumeCanPlay;
         audio.addEventListener('canplay', onResumeCanPlay);
       }
-      audio.src = seg.audioUrl;
+      // Download-then-play for long segments: play the fully
+      // downloaded local copy when it is ready. If the download is
+      // still running, give it a short bounded wait (the token
+      // guard below keeps a stale start from landing), then fall
+      // back to the network URL and the recovery ladder.
+      const cachedBlob = blobCacheRef.current.get(seg.id);
+      if (cachedBlob) {
+        audio.src = cachedBlob;
+      } else if ((seg.estSeconds || 0) >= LONG_SEGMENT_SECONDS && seg.kind !== 'jingle') {
+        const ready = await Promise.race([
+          ensureBlob(seg),
+          new Promise((resolve) => setTimeout(() => resolve(null), BLOB_WAIT_MS)),
+        ]);
+        if (token !== startTokenRef.current || currentIdRef.current !== seg.id) return;
+        audio.src = ready || seg.audioUrl;
+      } else {
+        audio.src = seg.audioUrl;
+      }
       audio.play().catch(() => {
         // Not judged instantly: a transient iOS rejection routes to
         // the same patient failure path as a media error.
@@ -1324,6 +1398,7 @@ export default function Player() {
       clearPendingSeek,
       clearRetryTimer,
       clearStallTimer,
+      ensureBlob,
       getAudio,
       maybeRefill,
       noteProgress,
