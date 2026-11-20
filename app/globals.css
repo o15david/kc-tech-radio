@@ -1,12 +1,21 @@
+/* ============================================================================
+   KC TECH RADIO — the Bunker set (Fallout / atomic-age reskin, Nov 20, 2026).
+   Brass and amber on black, vacuum-tube glow, riveted panels. All class
+   names are the player's own; this file only dresses them.
+   ============================================================================ */
+
 :root {
-  --bg: #0d1117;
-  --panel: #161b22;
-  --panel-2: #1c2330;
-  --line: #2b3444;
-  --text: #e8edf4;
-  --muted: #93a1b5;
+  --bg: #0a0705;
+  --panel: #171106;
+  --panel-2: #211806;
+  --line: #7a5c1e;
+  --line-dark: #4a380f;
+  --text: #f4ead2;
+  --muted: #b39b64;
   --accent: #ffb43a; /* broadcast amber */
-  --accent-2: #4cc2ff;
+  --brass: #d8b34a;
+  --tube: #ff8c2e;
+  --accent-2: #ffd97a;
 }
 
 * {
@@ -15,9 +24,22 @@
 
 body {
   margin: 0;
-  background: var(--bg);
+  background:
+    radial-gradient(90% 60% at 50% -10%, rgba(255, 150, 50, 0.08), transparent 60%),
+    var(--bg);
   color: var(--text);
   font-family: ui-sans-system, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* Light static over everything: a fine noise tile, barely there. */
+body::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 50;
+  opacity: 0.05;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='140' height='140' filter='url(%23n)' opacity='0.9'/%3E%3C/svg%3E");
 }
 
 .page {
@@ -26,25 +48,49 @@ body {
   padding: 24px 16px 48px;
 }
 
+/* Riveted panel dressing, shared by every set piece. */
+.deck,
+.now-playing,
+.up-next,
+.transcript,
+.signal-panel {
+  border: 1px solid var(--line);
+  box-shadow:
+    inset 0 0 0 1px rgba(0, 0, 0, 0.65),
+    inset 0 1px 0 rgba(255, 200, 90, 0.12),
+    0 2px 14px rgba(0, 0, 0, 0.55);
+  background-image:
+    radial-gradient(circle at 9px 9px, #e8c860 1.4px, rgba(0, 0, 0, 0.7) 2.4px, transparent 3.4px),
+    radial-gradient(circle at calc(100% - 9px) 9px, #e8c860 1.4px, rgba(0, 0, 0, 0.7) 2.4px, transparent 3.4px),
+    radial-gradient(circle at 9px calc(100% - 9px), #e8c860 1.4px, rgba(0, 0, 0, 0.7) 2.4px, transparent 3.4px),
+    radial-gradient(circle at calc(100% - 9px) calc(100% - 9px), #e8c860 1.4px, rgba(0, 0, 0, 0.7) 2.4px, transparent 3.4px);
+  background-repeat: no-repeat;
+}
+
 .masthead {
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
   gap: 16px;
-  border-bottom: 3px solid var(--accent);
+  border-bottom: 3px double var(--brass);
   padding-bottom: 14px;
 }
 
 .masthead h1 {
   margin: 0;
   font-size: 2.1rem;
-  letter-spacing: 0.5px;
+  letter-spacing: 3px;
   text-transform: uppercase;
+  color: var(--brass);
+  text-shadow:
+    0 0 14px rgba(255, 170, 50, 0.35),
+    0 2px 0 rgba(0, 0, 0, 0.8);
 }
 
 .tagline {
   margin: 4px 0 0;
   color: var(--muted);
+  font-style: italic;
 }
 
 .clock {
@@ -52,19 +98,36 @@ body {
   font-variant-numeric: tabular-nums;
   font-size: 1.05rem;
   white-space: nowrap;
+  color: var(--accent-2);
 }
 
+/* The ON AIR lamp. */
 .live-dot {
-  display: block;
-  margin-top: 6px;
+  display: inline-block;
+  margin-top: 8px;
+  padding: 4px 12px;
+  border: 1px solid var(--line-dark);
+  border-radius: 999px;
   font-size: 0.75rem;
   letter-spacing: 2px;
   color: var(--muted);
+  background: radial-gradient(circle at 50% 40%, #2a1f0c, #171106);
 }
 
 .live-dot.on {
-  color: #ff5347;
+  color: #ffe9c4;
   font-weight: 700;
+  border-color: #a03d12;
+  background: radial-gradient(circle at 50% 40%, #ffab4a, #e2541e 70%, #8f2f0e);
+  box-shadow:
+    0 0 18px 5px rgba(255, 110, 30, 0.45),
+    inset 0 0 6px rgba(255, 220, 160, 0.7);
+  animation: lamp-pulse 2.4s ease-in-out infinite;
+}
+
+@keyframes lamp-pulse {
+  0%, 100% { box-shadow: 0 0 18px 5px rgba(255, 110, 30, 0.45), inset 0 0 6px rgba(255, 220, 160, 0.7); }
+  50% { box-shadow: 0 0 26px 8px rgba(255, 110, 30, 0.6), inset 0 0 8px rgba(255, 230, 180, 0.85); }
 }
 
 .deck {
@@ -72,10 +135,9 @@ body {
   flex-wrap: wrap;
   gap: 18px;
   align-items: center;
-  background: var(--panel);
-  border: 1px solid var(--line);
-  border-radius: 12px;
-  padding: 16px;
+  background-color: var(--panel);
+  border-radius: 10px;
+  padding: 16px 20px;
   margin-top: 18px;
 }
 
@@ -85,14 +147,17 @@ body {
 }
 
 .play-btn {
-  background: var(--accent);
-  color: #14100a;
-  border: 0;
+  background: linear-gradient(180deg, #ffc95e, var(--accent) 55%, #e09a1c);
+  color: #241703;
+  border: 1px solid #8a6414;
   border-radius: 999px;
   padding: 12px 28px;
   font-size: 1.05rem;
   font-weight: 700;
   cursor: pointer;
+  box-shadow:
+    0 0 16px rgba(255, 170, 40, 0.35),
+    inset 0 1px 0 rgba(255, 255, 255, 0.45);
 }
 
 .play-btn:disabled {
@@ -110,6 +175,68 @@ body {
   cursor: pointer;
 }
 
+/* The tuning dial: sweeps while tuning, locks when the signal does. */
+.dial {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+}
+
+.dial-face {
+  position: relative;
+  width: 76px;
+  height: 76px;
+  border-radius: 50%;
+  border: 2px solid var(--line);
+  background:
+    repeating-conic-gradient(from -130deg, rgba(216, 179, 74, 0.55) 0deg 2deg, transparent 2deg 26deg),
+    radial-gradient(circle at 50% 45%, #2b1f0a, #120c04 75%);
+  box-shadow:
+    inset 0 0 12px rgba(0, 0, 0, 0.8),
+    0 0 10px rgba(255, 160, 50, 0.12);
+}
+
+.dial-needle {
+  position: absolute;
+  left: calc(50% - 1.5px);
+  top: 7px;
+  width: 3px;
+  height: 29px;
+  border-radius: 2px;
+  background: linear-gradient(180deg, #ffd97a, var(--tube));
+  box-shadow: 0 0 7px rgba(255, 150, 50, 0.7);
+  transform-origin: 50% 31px;
+  transform: rotate(-52deg);
+  transition: transform 0.9s cubic-bezier(0.22, 1.4, 0.36, 1);
+}
+
+.dial.locked .dial-needle {
+  transform: rotate(41deg);
+}
+
+.dial-hub {
+  position: absolute;
+  left: calc(50% - 6px);
+  top: calc(50% - 6px);
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: radial-gradient(circle at 40% 35%, #ffe9a8, #a87f22 70%, #6d5212);
+  border: 1px solid rgba(0, 0, 0, 0.6);
+}
+
+.dial-label {
+  font-size: 0.68rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.dial.locked .dial-label {
+  color: var(--accent);
+}
+
 .sliders {
   display: flex;
   flex-wrap: wrap;
@@ -125,6 +252,18 @@ body {
   align-items: center;
 }
 
+.sliders select {
+  background: var(--panel-2);
+  color: var(--text);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 3px 6px;
+}
+
+.sliders input[type='range'] {
+  accent-color: var(--accent);
+}
+
 .buffer {
   color: var(--accent-2);
   font-variant-numeric: tabular-nums;
@@ -135,14 +274,75 @@ body {
   color: var(--muted);
   font-size: 0.78rem;
   font-variant-numeric: tabular-nums;
+  flex-basis: 100%;
+}
+
+/* Signal Strength: the station's real numbers, dressed in-world. */
+.signal-panel {
+  background-color: var(--panel);
+  border-radius: 10px;
+  padding: 14px 20px;
+  margin-top: 18px;
+}
+
+.signal-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 16px;
+}
+
+.signal-head h2 {
+  margin: 0;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: var(--muted);
+}
+
+.signal-bars {
+  display: flex;
+  align-items: flex-end;
+  gap: 4px;
+}
+
+.signal-bars .bar {
+  width: 11px;
+  background: #3a2a0d;
+  border: 1px solid rgba(0, 0, 0, 0.6);
+  border-radius: 2px 2px 0 0;
+}
+
+.signal-bars .bar:nth-child(1) { height: 8px; }
+.signal-bars .bar:nth-child(2) { height: 12px; }
+.signal-bars .bar:nth-child(3) { height: 16px; }
+.signal-bars .bar:nth-child(4) { height: 21px; }
+.signal-bars .bar:nth-child(5) { height: 26px; }
+
+.signal-bars .bar.lit {
+  background: linear-gradient(180deg, #ffd97a, var(--tube));
+  box-shadow: 0 0 9px rgba(255, 150, 50, 0.55);
+}
+
+.signal-readout {
+  margin: 10px 0 0;
+  color: var(--accent-2);
+  font-size: 0.92rem;
+  font-variant-numeric: tabular-nums;
 }
 
 .now-playing {
-  background: linear-gradient(135deg, var(--panel-2), var(--panel));
-  border: 1px solid var(--line);
+  /* Tube glow from the top, layered over the shared rivet dressing. */
+  background-image:
+    radial-gradient(120% 90% at 50% 0%, rgba(255, 150, 50, 0.15), transparent 60%),
+    radial-gradient(circle at 9px 9px, #e8c860 1.4px, rgba(0, 0, 0, 0.7) 2.4px, transparent 3.4px),
+    radial-gradient(circle at calc(100% - 9px) 9px, #e8c860 1.4px, rgba(0, 0, 0, 0.7) 2.4px, transparent 3.4px),
+    radial-gradient(circle at 9px calc(100% - 9px), #e8c860 1.4px, rgba(0, 0, 0, 0.7) 2.4px, transparent 3.4px),
+    radial-gradient(circle at calc(100% - 9px) calc(100% - 9px), #e8c860 1.4px, rgba(0, 0, 0, 0.7) 2.4px, transparent 3.4px),
+    linear-gradient(135deg, var(--panel-2), var(--panel));
   border-left: 5px solid var(--accent);
-  border-radius: 12px;
-  padding: 18px;
+  border-radius: 10px;
+  padding: 18px 20px;
   margin-top: 18px;
 }
 
@@ -163,6 +363,7 @@ body {
   text-transform: uppercase;
   letter-spacing: 1px;
   font-size: 0.9rem;
+  text-shadow: 0 0 10px rgba(255, 170, 50, 0.3);
 }
 
 .np-headline {
@@ -193,10 +394,9 @@ body {
 
 .up-next,
 .transcript {
-  background: var(--panel);
-  border: 1px solid var(--line);
-  border-radius: 12px;
-  padding: 16px;
+  background-color: var(--panel);
+  border-radius: 10px;
+  padding: 16px 20px;
 }
 
 .up-next ol {
@@ -241,7 +441,7 @@ body {
 
 .status-footer {
   margin-top: 22px;
-  border-top: 1px solid var(--line);
+  border-top: 1px solid var(--line-dark);
   padding-top: 12px;
   color: var(--muted);
   font-size: 0.85rem;
