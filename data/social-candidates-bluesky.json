@@ -1,0 +1,60 @@
+{
+  "run": "kc-tech-radio-social-harvest bluesky 2026-11-20T05:13:24.044Z",
+  "harvestedAt": "2026-11-20T05:13:24.044Z",
+  "candidates": [
+    {
+      "storyHeadline": "Royals add RHP Bastardo in trade with Red Sox",
+      "storyLink": "https://www.mlb.com/royals/news/angel-bastardo-traded-to-royals-from-red-sox",
+      "platform": "Bluesky",
+      "username": "alexspeier.bsky.social",
+      "text": "As @francysromero.bsky.social is reporting, the Red Sox are trading RHP Angel Bastardo to the Royals. In exchange, they’ll get minor league IF Jack Pineda, a 27-year-old who hit .351/.413/.530 in Double-A and Triple-A last year.",
+      "engagement": 26,
+      "sourceUrl": "https://bsky.app/profile/alexspeier.bsky.social/post/3n2jr6l6vus2u"
+    },
+    {
+      "storyHeadline": "Royals add RHP Bastardo in trade with Red Sox",
+      "storyLink": "https://www.mlb.com/royals/news/angel-bastardo-traded-to-royals-from-red-sox",
+      "platform": "Bluesky",
+      "username": "royals.com",
+      "text": "We have acquired RHP Angel Bastardo from the Boston Red Sox for INF Jack Pineda. Bastardo has been added to the 40-man roster, which now includes 39 players.",
+      "engagement": 23,
+      "sourceUrl": "https://bsky.app/profile/royals.com/post/3n2jsm232qs2i"
+    },
+    {
+      "storyHeadline": "Royals closers Davis, Soria debut on 2027 Hall of Fame ballot",
+      "storyLink": "https://www.mlb.com/royals/news/baseball-hall-of-fame-ballot-2027",
+      "platform": "Bluesky",
+      "username": "craigbrownkc.bsky.social",
+      "text": "Wade Davis, Erv Santana and Joakim Soria are on the HoF ballot.",
+      "engagement": 3,
+      "sourceUrl": "https://bsky.app/profile/craigbrownkc.bsky.social/post/3n2gzpylsnk2g"
+    },
+    {
+      "storyHeadline": "Royals closers Davis, Soria debut on 2027 Hall of Fame ballot",
+      "storyLink": "https://www.mlb.com/royals/news/baseball-hall-of-fame-ballot-2027",
+      "platform": "Bluesky",
+      "username": "ashmcgonigal.com",
+      "text": "Wade Davis Francisco Rodriguez Joakim Soria send ballot",
+      "engagement": 1,
+      "sourceUrl": "https://bsky.app/profile/ashmcgonigal.com/post/3n2ha7q375s2x"
+    },
+    {
+      "storyHeadline": "Witt nabs third career Silver Slugger Award",
+      "storyLink": "https://www.mlb.com/royals/news/2026-silver-slugger-award-winners",
+      "platform": "Bluesky",
+      "username": "royals.com",
+      "text": "Bobby's bringing home the silver again! For a third straight season, Bobby Witt Jr. is a Silver Slugger Award winner!",
+      "engagement": 70,
+      "sourceUrl": "https://bsky.app/profile/royals.com/post/3n2k7bxto6s2i"
+    },
+    {
+      "storyHeadline": "Witt nabs third career Silver Slugger Award",
+      "storyLink": "https://www.mlb.com/royals/news/2026-silver-slugger-award-winners",
+      "platform": "Bluesky",
+      "username": "mikeasti11.bsky.social",
+      "text": "Bobby Witt Jr. makes Royals history by winning third straight Silver Slugger award",
+      "engagement": 0,
+      "sourceUrl": "https://bsky.app/profile/mikeasti11.bsky.social/post/3n2lsi7vdok2o"
+    }
+  ]
+}
