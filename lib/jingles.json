@@ -1,0 +1,32 @@
+[
+  {
+    "file": "/jingles/jingle-1.mp3",
+    "script": "K-B-U-N-K-C! The Bunker! KC Tech Radio, the last clear signal in the Midwest!",
+    "seconds": 10
+  },
+  {
+    "file": "/jingles/jingle-2.mp3",
+    "script": "From under Union Station, up through the static: K-B-U-N-K-C, KC Tech Radio!",
+    "seconds": 8.5
+  },
+  {
+    "file": "/jingles/jingle-3.mp3",
+    "script": "Turn that dial and lock it in: K-B-U-N-K-C, the last clear signal in the Midwest!",
+    "seconds": 8.3
+  },
+  {
+    "file": "/jingles/jingle-4.mp3",
+    "script": "No fallout, just the facts: K-B-U-N-K-C, KC Tech Radio!",
+    "seconds": 7.8
+  },
+  {
+    "file": "/jingles/jingle-5.mp3",
+    "script": "Tubes are warm and the signal is strong: K-B-U-N-K-C, the Bunker, KC Tech Radio!",
+    "seconds": 8.7
+  },
+  {
+    "file": "/jingles/jingle-6.mp3",
+    "script": "Kay-Bun, Kay-Cee! K-B-U-N-K-C! Kansas City’s own, KC Tech Radio!",
+    "seconds": 10
+  }
+]
