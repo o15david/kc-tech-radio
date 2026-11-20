@@ -4,3 +4,6 @@ out/
 .env*.local
 *.log
 .DS_Store
+# Newsletter pipeline working dir: raw inbox exports (.eml) and the
+# processor's emitted-links state live here, never in the repo.
+.newsletter-work/
