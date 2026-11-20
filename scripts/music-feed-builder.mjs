@@ -155,11 +155,15 @@ const shows = Array.isArray(showsDoc.shows) ? showsDoc.shows : [];
 const weekend = weekendDates(today);
 const items = [];
 const seen = new Set();
-const pushItem = (kind, artist, venue, when, url) => {
+const pushItem = (kind, artist, venue, when, url, date) => {
   const key = `${artist}|${venue}|${when}`;
   if (seen.has(key)) return false;
   seen.add(key);
-  items.push({ kind, artist, venue, when, url: url || '' });
+  // `date` (YYYY-MM-DD, the show's calendar date) rides along so the
+  // queue builder can enforce David's rule (Nov 20, 2026) at queue-build
+  // time: dated events air only when current or future, regardless of
+  // how old this feed file is when the queue is built.
+  items.push({ kind, artist, venue, when, url: url || '', date });
   return true;
 };
 const usable = (s) =>
@@ -177,7 +181,7 @@ let n = 0;
 for (const s of shows) {
   if (n >= CAPS.tonight) break;
   if (usable(s) && s.date === today) {
-    if (pushItem('tonight', s.headliner, s.venue, `tonight, ${dateInWords(s.date)}`, s.url)) n++;
+    if (pushItem('tonight', s.headliner, s.venue, `tonight, ${dateInWords(s.date)}`, s.url, s.date)) n++;
   }
 }
 // weekend: upcoming Fri-Sun window, excluding today, date order.
@@ -185,7 +189,7 @@ n = 0;
 for (const s of [...shows].sort(byDate)) {
   if (n >= CAPS.weekend) break;
   if (usable(s) && s.date !== today && weekend.has(s.date)) {
-    if (pushItem('weekend', s.headliner, s.venue, dateInWords(s.date), s.url)) n++;
+    if (pushItem('weekend', s.headliner, s.venue, dateInWords(s.date), s.url, s.date)) n++;
   }
 }
 // announced: newly added by the snapshot's latest refresh, beyond the
@@ -194,7 +198,7 @@ n = 0;
 for (const s of [...shows].sort(byDate)) {
   if (n >= CAPS.announced) break;
   if (usable(s) && s.date !== today && !weekend.has(s.date) && s.calendarStatus === 'added') {
-    if (pushItem('announced', s.headliner, s.venue, dateInWords(s.date), s.url)) n++;
+    if (pushItem('announced', s.headliner, s.venue, dateInWords(s.date), s.url, s.date)) n++;
   }
 }
 
@@ -211,7 +215,7 @@ try {
     const venueName = String(s.venue).split(',')[0].trim();
     const base = s.date === today ? `tonight, ${dateInWords(s.date)}` : dateInWords(s.date);
     const when = s.time ? `${base}, ${s.time}` : base;
-    if (pushItem('jazz', s.band, venueName, when, s.url)) n++;
+    if (pushItem('jazz', s.band, venueName, when, s.url, s.date)) n++;
   }
   jazzNote = `jazz watch: ${jazzShows.length} upcoming shows`;
 } catch (err) {
