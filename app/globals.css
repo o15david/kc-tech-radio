@@ -406,32 +406,47 @@ body::after {
    ON AIR pill half off the viewport). Stack the masthead: title and
    tagline first, clock and lamp on their own row under them. */
 @media (max-width: 640px) {
+  /* Phone masthead as a composed nameplate (third pass, Nov 20,
+     2026): the whole stack centers, title on its own line, tagline
+     and callsign centered under it, and the clock plus the ON AIR /
+     STANDBY lamp seated together as one centered unit on their own
+     row. Even vertical rhythm throughout; the masthead's double
+     rule seats the block. The first pass fixed the overflow; this
+     one fixes the composition. */
   .masthead {
     flex-direction: column;
-    gap: 8px;
+    align-items: center;
+    text-align: center;
+    gap: 9px;
+    padding: 24px 0 18px;
   }
 
   .masthead h1 {
-    font-size: 1.5rem;
-    letter-spacing: 2px;
+    font-size: 1.65rem;
+    letter-spacing: 3px;
   }
 
   .tagline {
-    font-size: 0.92rem;
+    font-size: 0.95rem;
   }
 
   .callsign {
+    margin-top: 5px;
     letter-spacing: 3px;
   }
 
   .clock {
-    text-align: left;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 7px;
     font-size: 0.95rem;
     white-space: normal;
   }
 
   .live-dot {
-    margin-top: 6px;
+    margin-top: 0;
   }
 
   .deck {
