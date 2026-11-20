@@ -124,6 +124,28 @@ pool and the collapse state live in module memory, so the guard
 protects warm instances (the normal case under constant playlist
 traffic); a cold instance's first refresh is simply its pool.
 
+**Article bodies (longer stories).** Story scripts for the
+full-depth categories are built from article substance, not the
+wire's summary: `lib/article.js` extracts the article's own
+paragraphs (bylines, photo credits, subscription and cookie
+boilerplate stripped) from the feed's full content
+(`content:encoded` / Atom `content`, captured by `lib/rss.js`) or,
+failing that, from the article page, fetched by a bounded
+background pass in `lib/ingest.js` (per-pass attempt cap, small
+concurrency, negative cache; bodies cached by link across
+refreshes). Depth is tiered by relevance (David's rule: "the more
+local and relevant the more info"): ai, tech, business, local,
+state, and regional get the full treatment (scripts target roughly
+60-90 seconds); national and global stay in the summarized
+headline+summary form, and any story whose extraction failed falls
+back to that form rather than being padded. No text is generated:
+scripts are the article's own words, trimmed at sentence
+boundaries. Coverage of the served pool is surfaced as `articles`
+by `/api/health`. Measured on the live wire at build time (Nov 19):
+86% of full-depth stories carried a body; the full-depth queue
+average rose from ~19s to ~66s per story and blended consumption
+fell from ~171 to ~71 stories per hour.
+
 ### 2. The continuous queue (`lib/format.js`)
 
 There is no format clock. `buildPlaylist` deals the deduped pool into
@@ -453,11 +475,15 @@ The assistant is subscribed to AI/tech/business newsletters with the
 fairbanks@muse.ai address. Newsletters are a station source alongside
 RSS, but the mailbox lives outside Vercel, so the pipeline has two halves:
 
-1. **Processor (outside Vercel).** `scripts/newsletter-processor.mjs`
-   reads newsletter email (`.eml` files, or `.html` files, or a folder of
-   them) and writes `newsletter-feed.json`. The assistant runs it when new
-   issues arrive and publishes the updated feed (the committed copy lives
-   at `data/newsletter-feed.json`).
+1. **Export + processor (outside Vercel).** `scripts/newsletter-export.mjs`
+   pulls new newsletter mail from the fairbanks@muse.ai inbox (Muse Mail
+   CLI) into `.eml` files under `.newsletter-work/inbox/` (gitignored,
+   along with the pipeline's state files). `scripts/newsletter-processor.mjs`
+   then reads those files (`.eml`, `.html`, or a folder of them) and writes
+   `newsletter-feed.json`. A scheduled job (`kc-tech-radio-newsletter-pipeline`,
+   early morning and mid-afternoon CT) runs both, commits the updated feed
+   (the committed copy lives at `data/newsletter-feed.json`), and uploads
+   it to GitHub, which is where the station reads it from.
 2. **Station (on Vercel).** Ingestion fetches the feed from
    `NEWSLETTER_FEED_URL` (default: that file's raw GitHub URL) with the
    same caching and forgiving failure handling as RSS: unreachable or
@@ -475,15 +501,20 @@ are stripped and links are deduped against a persistent state file of
 every link ever emitted, so re-processing an issue never re-airs a story;
 the feed itself is merged, newest first, capped at 50 items.
 
-**Sender allowlist:** the processor only accepts mail whose From display
-name matches `KNOWN_SENDERS` in the script (case-insensitive substring),
-and the item's source attribution is that newsletter's name. Seeded with
-the 9 actual subscriptions: **TLDR Tech, TLDR AI, The Rundown AI, Ben's
-Bites, Morning Brew, The Hustle, Startland News, Import AI, The Batch**.
-Edit the list in the script as subscriptions change; `--allow-unknown`
-overrides for one-off tests. (The Batch, from DeepLearning.AI, is
-subscribed under the name "Fairbanks Muse" with David's approval and
-arrives weekly.)
+**Sender allowlist:** the processor only accepts mail from the 9 actual
+subscriptions: **TLDR Tech, TLDR AI, The Rundown AI, Ben's Bites, Morning
+Brew, The Hustle, Startland News, Import AI, The Batch**. Matching tries
+the sender address first (`KNOWN_SENDER_ADDRESSES` in the script:
+display names proved unreliable, e.g. Startland issues arrive as "Tommy
+Felts" and both TLDR lists share dan@tldrnewsletter.com, with the
+subject line deciding between them), then the From display name against
+`KNOWN_SENDERS` (case-insensitive substring). The item's source
+attribution is the canonical newsletter name. Welcome and
+confirm-your-subscription mail is onboarding, never an issue: subjects
+matching `ONBOARDING_SUBJECT_RE` are skipped. Edit the lists in the
+script as subscriptions change; `--allow-unknown` overrides for one-off
+tests. (The Batch, from DeepLearning.AI, is subscribed under the name
+"Fairbanks Muse" with David's approval and arrives weekly.)
 
 **Feed contract** (what the processor emits and ingestion reads):
 
