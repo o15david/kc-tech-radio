@@ -1,5 +1,5 @@
 import { NextResponse, after } from 'next/server';
-import { getNewsPool } from '../../../lib/ingest';
+import { getNewsPool, kickBodyEnrichment } from '../../../lib/ingest';
 import { getKansasCityWeather } from '../../../lib/weather';
 import { getSocialItems } from '../../../lib/social';
 import { buildPlaylist, TIME_ZONE } from '../../../lib/format';
@@ -48,6 +48,16 @@ export async function GET() {
     after(() => warming);
   } catch {
     // Not a request context that supports after(): the renders are
+    // already running; nothing else to do.
+  }
+  // Article-body enrichment gets the same protected window: the
+  // fetch pass (lib/ingest.js) runs under after() so a serverless
+  // freeze after the response cannot strand it mid-pass.
+  const enriching = kickBodyEnrichment(pool.items);
+  try {
+    after(() => enriching);
+  } catch {
+    // Not a request context that supports after(): the pass is
     // already running; nothing else to do.
   }
   return NextResponse.json({
