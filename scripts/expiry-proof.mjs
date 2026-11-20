@@ -69,6 +69,23 @@ try {
   check('Prop A advocacy not in queue', !headlines.some((h) => /Voting NO on Prop A/.test(h)));
   check('No "Election Day is finally here" segment script',
     !queue.segments.some((s) => /Election Day is finally here/.test(s.script || '')));
+
+  // Age cap acceptance test (David's condition: "as long as it filters
+  // out stale items"): no story in the built queue may be older than
+  // 72 hours, and the drop count must be visible on the response.
+  const byLink = new Map(pool.items.map((i) => [i.link, i]));
+  const nowMs = Date.now();
+  let tooOld = 0;
+  let undated = 0;
+  for (const s of queue.segments) {
+    if (s.kind !== 'story') continue;
+    const it = byLink.get(s.link);
+    if (!it || !it.publishedAt) { undated += 1; continue; }
+    if (nowMs - it.publishedAt > 72 * 3600000) tooOld += 1;
+  }
+  console.log(`age cap: ageCappedStories = ${queue.ageCappedStories}, queued stories older than 72h = ${tooOld}, undated queued = ${undated}`);
+  check('ageCappedStories is reported (not undefined)', typeof queue.ageCappedStories === 'number');
+  check('No queued story older than 72 hours', tooOld === 0);
 } finally {
   server.close();
 }
