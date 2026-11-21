@@ -70,9 +70,15 @@ try {
   check('No "Election Day is finally here" segment script',
     !queue.segments.some((s) => /Election Day is finally here/.test(s.script || '')));
 
-  // Age cap acceptance test (David's condition: "as long as it filters
-  // out stale items"): no story in the built queue may be older than
-  // 72 hours, and the drop count must be visible on the response.
+  // Age cap: RETIRED Nov 21, 2026. The 72-hour cap governed which
+  // RECYCLED stories could re-air; David's no-repeats ruling
+  // abolished recycling, so age alone no longer excludes a story:
+  // a never-played story older than 72 hours may air exactly once,
+  // and a played story of any age may never air again. The
+  // guarantee that replaced the cap is played-exclusion, proven in
+  // scripts/no-repeats-proof.mjs. What this proof still asserts:
+  // the retired field is reported and stays 0, and the time-bound
+  // class expiry above (the Defender items) still holds.
   const byLink = new Map(pool.items.map((i) => [i.link, i]));
   const nowMs = Date.now();
   let tooOld = 0;
@@ -83,9 +89,10 @@ try {
     if (!it || !it.publishedAt) { undated += 1; continue; }
     if (nowMs - it.publishedAt > 72 * 3600000) tooOld += 1;
   }
-  console.log(`age cap: ageCappedStories = ${queue.ageCappedStories}, queued stories older than 72h = ${tooOld}, undated queued = ${undated}`);
+  console.log(`age cap (retired): ageCappedStories = ${queue.ageCappedStories}, queued never-played stories older than 72h = ${tooOld} (allowed once under no-repeats), undated queued = ${undated}`);
   check('ageCappedStories is reported (not undefined)', typeof queue.ageCappedStories === 'number');
-  check('No queued story older than 72 hours', tooOld === 0);
+  check('ageCappedStories is 0 (cap retired with recycling)', queue.ageCappedStories === 0);
+  check('recycledStories is 0 (no repeats era)', queue.recycledStories === 0);
 } finally {
   server.close();
 }
