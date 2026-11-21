@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-11-21T00:43:23.716Z",
+  "generatedAt": "2026-11-21T12:43:20.224Z",
   "source": "kc-tech-radio newsletter processor",
   "items": [
+    {
+      "id": "https://links.morningbrew.com/c/Zx0?mbcid=48544798.3238030&mid=1e8203ce88986da9aabbf2faa16b5ab0&mbuuid=enwFAdGao8KESKxNukTu1EGE",
+      "title": "AI anxieties didn’t go anywhere",
+      "link": "https://links.morningbrew.com/c/Zx0?mbcid=48544798.3238030&mid=1e8203ce88986da9aabbf2faa16b5ab0&mbuuid=enwFAdGao8KESKxNukTu1EGE",
+      "summary": "Despite hopes that Anthropic’s blockbuster IPO signaled renewed investor appetite for the AI industry, jitters remain following Jensen Huang’s scandal-prompted resignation from Nvidia, which led to tightened US chip export controls.",
+      "source": "Morning Brew",
+      "publishedAt": 1795256339000
+    },
+    {
+      "id": "https://links.morningbrew.com/c/Zx3?mblid=8765dc6a269d&mbcid=48544798.3238030&mid=1e8203ce88986da9aabbf2faa16b5ab0&mbuuid=enwFAdGao8KESKxNukTu1EGE",
+      "title": "This week’s question",
+      "link": "https://links.morningbrew.com/c/Zx3?mblid=8765dc6a269d&mbcid=48544798.3238030&mid=1e8203ce88986da9aabbf2faa16b5ab0&mbuuid=enwFAdGao8KESKxNukTu1EGE",
+      "summary": "What’s the most awkward gift you’ve ever received?",
+      "source": "Morning Brew",
+      "publishedAt": 1795256339000
+    },
     {
       "id": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsambanova.ai%2Fblog%2Fthe-air-cooled-token-factory-intel-gpu-d-series-sambarack-sn50%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=nov20-2026%26utm_content=header_data_centers_delayed%26utm_term=2026-11-20_tldr_ai/2/010001a1f974c898-f01bc960-b703-4268-a9a8-8c400c28bbed-000000/-Bet6rS-FVGKGUzBCq7q39pXedy_0Pl_cfV-FU9Yoqk=452",
       "title": "TLDR AI 2026-11-20",
