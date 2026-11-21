@@ -2,6 +2,7 @@ import { NextResponse, after } from 'next/server';
 import { getNewsPool, kickBodyEnrichment } from '../../../lib/ingest';
 import { getKansasCityWeather } from '../../../lib/weather';
 import { getSocialItems } from '../../../lib/social';
+import { getPlayedMap } from '../../../lib/played';
 import { buildPlaylist, TIME_ZONE } from '../../../lib/format';
 import { warmSegmentAudio } from '../../../lib/tts';
 
@@ -14,10 +15,11 @@ export const dynamic = 'force-dynamic';
 export const maxDuration = 60;
 
 export async function GET() {
-  const [pool, weather, socialItems] = await Promise.all([
+  const [pool, weather, socialItems, playedMap] = await Promise.all([
     getNewsPool(),
     getKansasCityWeather(),
     getSocialItems(),
+    getPlayedMap(),
   ]);
   const {
     generatedAt,
@@ -33,8 +35,11 @@ export async function GET() {
     recycledStories,
     poolNeverAired,
     poolRecycled,
+    playedExcludedStories,
+    playedStoreSize,
+    timeline,
     mix,
-  } = buildPlaylist(pool, weather, Date.now(), socialItems);
+  } = buildPlaylist(pool, weather, Date.now(), socialItems, playedMap);
   // Server-side pre-render (lib/tts.js): warm the audio cache for the
   // segments at the head of the queue so a listener's player finds them
   // already rendered. Pure side effect: it never alters the response, and
@@ -85,15 +90,23 @@ export async function GET() {
     // Age-cap observability: recycled stories this build dropped for
     // being older than 72 hours (David's Nov 20, 2026 ruling).
     ageCappedStories,
-    // Consume-and-replace observability: the served mix (stories
-    // in this queue that are never-aired vs recycled from the
-    // aired fallback, oldest-aired first) and the pool split at
-    // build time. Recycling is never quiet: if fresh inflow ever
-    // falls behind consumption, recycledStories climbs visibly.
+    // No-repeats observability (David, Nov 21, 2026): every story
+    // in this queue is never-played (neverAiredStories), recycling
+    // no longer exists (recycledStories is structurally 0 and is
+    // reported so its absence is measured, not asserted), and
+    // playedExcludedStories counts the pool stories this build
+    // held out because the shared timeline already aired them.
+    // poolRecycled keeps its slot as that same exclusion count for
+    // older consumers. playedStoreSize is the persisted played
+    // store's entry count; timeline is the shared broadcast
+    // position the thin-client player joins at.
     neverAiredStories,
     recycledStories,
     poolNeverAired,
     poolRecycled,
+    playedExcludedStories,
+    playedStoreSize,
+    timeline,
     // Programming mix observability (David, Nov 20, 2026): the
     // achieved mix for this queue per band (target, story count and
     // airtime shares, candidate pool, shortfall flag), the same
