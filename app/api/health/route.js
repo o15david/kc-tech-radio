@@ -2,22 +2,25 @@ import { NextResponse } from 'next/server';
 import { getNewsPool, countByCategory } from '../../../lib/ingest';
 import { getKansasCityWeather } from '../../../lib/weather';
 import { getSocialItems } from '../../../lib/social';
+import { getPlayedMap } from '../../../lib/played';
 import { buildPlaylist } from '../../../lib/format';
 import { warmSegmentAudio } from '../../../lib/tts';
 
 export const dynamic = 'force-dynamic';
 
 export async function GET() {
-  const [pool, weather, socialItems] = await Promise.all([
+  const [pool, weather, socialItems, playedMap] = await Promise.all([
     getNewsPool(),
     getKansasCityWeather(),
     getSocialItems(),
+    getPlayedMap(),
   ]);
   const { segments, bufferSeconds, callerCount } = buildPlaylist(
     pool,
     weather,
     Date.now(),
-    socialItems
+    socialItems,
+    playedMap
   );
   // Health checks build the queue anyway; use the pass to warm the
   // audio cache for the queue's head too (fire-and-forget, deduped
