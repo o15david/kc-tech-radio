@@ -1,7 +1,95 @@
 {
-  "generatedAt": "2026-11-20T12:43:26.015Z",
+  "generatedAt": "2026-11-21T00:43:23.716Z",
   "source": "kc-tech-radio newsletter processor",
   "items": [
+    {
+      "id": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsambanova.ai%2Fblog%2Fthe-air-cooled-token-factory-intel-gpu-d-series-sambarack-sn50%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=nov20-2026%26utm_content=header_data_centers_delayed%26utm_term=2026-11-20_tldr_ai/2/010001a1f974c898-f01bc960-b703-4268-a9a8-8c400c28bbed-000000/-Bet6rS-FVGKGUzBCq7q39pXedy_0Pl_cfV-FU9Yoqk=452",
+      "title": "TLDR AI 2026-11-20",
+      "link": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsambanova.ai%2Fblog%2Fthe-air-cooled-token-factory-intel-gpu-d-series-sambarack-sn50%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=nov20-2026%26utm_content=header_data_centers_delayed%26utm_term=2026-11-20_tldr_ai/2/010001a1f974c898-f01bc960-b703-4268-a9a8-8c400c28bbed-000000/-Bet6rS-FVGKGUzBCq7q39pXedy_0Pl_cfV-FU9Yoqk=452",
+      "summary": "",
+      "source": "TLDR Tech",
+      "publishedAt": 1795186542000
+    },
+    {
+      "id": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.google%2Finnovation-and-ai%2Ftechnology%2Fdevelopers-tools%2Fgemini-api-tool-retrieval%2F%3Futm_source=tldrai/1/010001a1f974c898-f01bc960-b703-4268-a9a8-8c400c28bbed-000000/KLe_uaOPgN3jZd0ru1IMH7Thv60UTzb0bnG-5jMfotM=452",
+      "title": "Headlines & Launches",
+      "link": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.google%2Finnovation-and-ai%2Ftechnology%2Fdevelopers-tools%2Fgemini-api-tool-retrieval%2F%3Futm_source=tldrai/1/010001a1f974c898-f01bc960-b703-4268-a9a8-8c400c28bbed-000000/KLe_uaOPgN3jZd0ru1IMH7Thv60UTzb0bnG-5jMfotM=452",
+      "summary": "",
+      "source": "TLDR Tech",
+      "publishedAt": 1795186542000
+    },
+    {
+      "id": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinch.substack.com%2Fp%2Fai-is-already-massively-speeding%3Futm_source=tldrai/1/010001a1f974c898-f01bc960-b703-4268-a9a8-8c400c28bbed-000000/4zaVb0EvovHt0LW7s23cuRT_WZC0MBZGNx9FUuHvkQM=452",
+      "title": "Deep Dives & Analysis",
+      "link": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinch.substack.com%2Fp%2Fai-is-already-massively-speeding%3Futm_source=tldrai/1/010001a1f974c898-f01bc960-b703-4268-a9a8-8c400c28bbed-000000/4zaVb0EvovHt0LW7s23cuRT_WZC0MBZGNx9FUuHvkQM=452",
+      "summary": "",
+      "source": "TLDR Tech",
+      "publishedAt": 1795186542000
+    },
+    {
+      "id": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdeveloper.godaddy.com%2Fen%2Fdocs%2Fapi-users%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=explore%26utm_id=secondary/1/010001a1f974c898-f01bc960-b703-4268-a9a8-8c400c28bbed-000000/B2h8BuHbvlh1rQ2DdnGtFhHcR-3ZOuOCk7N0vGZ-qLU=452",
+      "title": "Engineering & Research",
+      "link": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdeveloper.godaddy.com%2Fen%2Fdocs%2Fapi-users%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=explore%26utm_id=secondary/1/010001a1f974c898-f01bc960-b703-4268-a9a8-8c400c28bbed-000000/B2h8BuHbvlh1rQ2DdnGtFhHcR-3ZOuOCk7N0vGZ-qLU=452",
+      "summary": "",
+      "source": "TLDR Tech",
+      "publishedAt": 1795186542000
+    },
+    {
+      "id": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcommunity.tldr.tech%2Ft%2Fweekly-what-s-your-unpopular-opinion-about-ai%3Futm_source=tldrai%26utm_medium=newsletter/1/010001a1f974c898-f01bc960-b703-4268-a9a8-8c400c28bbed-000000/1-B0ogt3qKDuDHAyvisA7ybNe1jpDsaV7KutQWnEY08=452",
+      "title": "Miscellaneous",
+      "link": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcommunity.tldr.tech%2Ft%2Fweekly-what-s-your-unpopular-opinion-about-ai%3Futm_source=tldrai%26utm_medium=newsletter/1/010001a1f974c898-f01bc960-b703-4268-a9a8-8c400c28bbed-000000/1-B0ogt3qKDuDHAyvisA7ybNe1jpDsaV7KutQWnEY08=452",
+      "summary": "",
+      "source": "TLDR Tech",
+      "publishedAt": 1795186542000
+    },
+    {
+      "id": "https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VW0SmB92lHxGW5fb8fr5Jq-mtW6G5rDL5XBKbPN3kz7Dd3qgz0W6N1vHY6lZ3pSMkBjh79ZDRdW2-56F06f0xhpW1tQ0_y7xRwXlN7q3qCRzJH6nW7D2y5N5CMDFQW1gLl_Q2tQZwrW16z__D4DDQ1GN8rwQfRrqyS8W8wwq-B51DqvDW2hD0FS2JSq17W8MWv5w7vBD0TW75pHdV1_xzzYW4Rbq6L57KJpvW7G9gwg6Ck9xSW6sTJDk96CqSpW8f5MX02L_kcNW1WtMCL4FjKNfW57ltLT1RyxH9W5XDJ4t273S1kW4dHdth2xJxNzW1vSqdv576Z48W76vtJV41gMh8f33VY8j04",
+      "title": "A MESSAGE FROM DEEPLEARNING.AI",
+      "link": "https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VW0SmB92lHxGW5fb8fr5Jq-mtW6G5rDL5XBKbPN3kz7Dd3qgz0W6N1vHY6lZ3pSMkBjh79ZDRdW2-56F06f0xhpW1tQ0_y7xRwXlN7q3qCRzJH6nW7D2y5N5CMDFQW1gLl_Q2tQZwrW16z__D4DDQ1GN8rwQfRrqyS8W8wwq-B51DqvDW2hD0FS2JSq17W8MWv5w7vBD0TW75pHdV1_xzzYW4Rbq6L57KJpvW7G9gwg6Ck9xSW6sTJDk96CqSpW8f5MX02L_kcNW1WtMCL4FjKNfW57ltLT1RyxH9W5XDJ4t273S1kW4dHdth2xJxNzW1vSqdv576Z48W76vtJV41gMh8f33VY8j04",
+      "summary": "Every AI Dev NYC ticket comes with the AI Dev Field Kit: $850+ in free credits, plans and trials from 13 tools, including Oracle, Neo4j, Anchor Browser and Elastic. Join us Nov 30 - Dec 1 at Chelsea Piers. Readers of The Batch get an exclusive 20 percent off .",
+      "source": "The Batch",
+      "publishedAt": 1795183408000
+    },
+    {
+      "id": "https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VW0SmB92lHxGW5fb8fr5Jq-mtW6G5rDL5XBKbPN3kz7F63qgz0W8wLKSR6lZ3nDW73dSgh4JzD5wW7zhfVy4KPz7pW2lCrtt4BHB-HW1VVMQR4wbgGnN572XNCMrnM4N2t9YPr3hb6FW4dhG0S5LKQlgW8T41hH2xxx5WM8dVHQcQ2JJVynq-G31RslPW5XYsPx2N4TfWW8qM8XS4qlTT8W28MSSv8RVr89Vq7pnt5wV-HwN8F6mJnBsn0sW29QDXH80RXs3W7wJ7Ps1nqcrLW17SpH22Hg12SW3DgFVf84sJ9pW7T0--h1PZJvsW916mFq5vSxfzW8KtZ5G5tqRG_W7MwM0y6MCm9lW1HTjcY5tZQQPW27ZjFN1zDSsXW6xzVd344KmfLVRh6Q16_ln7GN2lMpGQsFjXKf3jVFh604",
+      "title": "Jensen Huang Resigns as Nvidia CEO",
+      "link": "https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VW0SmB92lHxGW5fb8fr5Jq-mtW6G5rDL5XBKbPN3kz7F63qgz0W8wLKSR6lZ3nDW73dSgh4JzD5wW7zhfVy4KPz7pW2lCrtt4BHB-HW1VVMQR4wbgGnN572XNCMrnM4N2t9YPr3hb6FW4dhG0S5LKQlgW8T41hH2xxx5WM8dVHQcQ2JJVynq-G31RslPW5XYsPx2N4TfWW8qM8XS4qlTT8W28MSSv8RVr89Vq7pnt5wV-HwN8F6mJnBsn0sW29QDXH80RXs3W7wJ7Ps1nqcrLW17SpH22Hg12SW3DgFVf84sJ9pW7T0--h1PZJvsW916mFq5vSxfzW8KtZ5G5tqRG_W7MwM0y6MCm9lW1HTjcY5tZQQPW27ZjFN1zDSsXW6xzVd344KmfLVRh6Q16_ln7GN2lMpGQsFjXKf3jVFh604",
+      "summary": "",
+      "source": "The Batch",
+      "publishedAt": 1795183408000
+    },
+    {
+      "id": "https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VW0SmB92lHxGW5fb8fr5Jq-mtW6G5rDL5XBKbPN3kz7DR3qgz0W7Y8-PT6lZ3n1W1w5NP379CHcYW98Jm_93gMbSKW2jT9FM3VKM7gW5rV7C38k1Jh5W6yMVL25wxtK_VNZsDT8TXdjyW2LPlFl1PJBN_W8QVm0l4xdlB5W7gNDKq8GWFZ_W7rSjMw6H74mjN4K9M59m9MLxW8sqbRt5GZQh4VYyVK45kDpwcW98vfMl5TMYbPW5DZbTy2zkyJ4W5hp7th8C2KThW5PHpq35jgnPQW44vxsQ3zF-m8W9hk6jS3VHMfQW3y-VcY1p12WNV79YYP5bR0JSW7LN68B5QxYV6W1FQ54Z4jBSd1W7zyKHr1YXgtNW65l_Cf7V20syW77G_mD2tx_7Gf6KQHyP04",
+      "title": "Claude Fable Gets a Price Cut",
+      "link": "https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VW0SmB92lHxGW5fb8fr5Jq-mtW6G5rDL5XBKbPN3kz7DR3qgz0W7Y8-PT6lZ3n1W1w5NP379CHcYW98Jm_93gMbSKW2jT9FM3VKM7gW5rV7C38k1Jh5W6yMVL25wxtK_VNZsDT8TXdjyW2LPlFl1PJBN_W8QVm0l4xdlB5W7gNDKq8GWFZ_W7rSjMw6H74mjN4K9M59m9MLxW8sqbRt5GZQh4VYyVK45kDpwcW98vfMl5TMYbPW5DZbTy2zkyJ4W5hp7th8C2KThW5PHpq35jgnPQW44vxsQ3zF-m8W9hk6jS3VHMfQW3y-VcY1p12WNV79YYP5bR0JSW7LN68B5QxYV6W1FQ54Z4jBSd1W7zyKHr1YXgtNW65l_Cf7V20syW77G_mD2tx_7Gf6KQHyP04",
+      "summary": "",
+      "source": "The Batch",
+      "publishedAt": 1795183408000
+    },
+    {
+      "id": "https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VW0SmB92lHxGW5fb8fr5Jq-mtW6G5rDL5XBKbPN3kz7Dd3qgz0W6N1vHY6lZ3nkW1Fg03S3KBc9lW2Q3jcG8ltXcCW8bmBh57T5PgDW3ZhQ0Q33rgpqW7Qjy5z1s-LX5VD2_Z18llcRbW6p5cjN8HgXwmW3SycrH6C-j7nW3kFqgg3zGfHPW88GFTy5J6KyyN6-KM-RMxqGvW2gw52T66k1dCW46WMdB2FM_hZW3cRfjX6CLpDgW6CcRyq4Zt8WZV9sXxr89Fj4HW5YLDy-6fmjqqN8L0vpSTLrsQN3s4RLVXcjD6W33DTMF8kr9sgN24S99fs71PzW48xTk53NPqK6f2vNF2n04",
+      "title": "AMD’s World Model Arrives",
+      "link": "https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VW0SmB92lHxGW5fb8fr5Jq-mtW6G5rDL5XBKbPN3kz7Dd3qgz0W6N1vHY6lZ3nkW1Fg03S3KBc9lW2Q3jcG8ltXcCW8bmBh57T5PgDW3ZhQ0Q33rgpqW7Qjy5z1s-LX5VD2_Z18llcRbW6p5cjN8HgXwmW3SycrH6C-j7nW3kFqgg3zGfHPW88GFTy5J6KyyN6-KM-RMxqGvW2gw52T66k1dCW46WMdB2FM_hZW3cRfjX6CLpDgW6CcRyq4Zt8WZV9sXxr89Fj4HW5YLDy-6fmjqqN8L0vpSTLrsQN3s4RLVXcjD6W33DTMF8kr9sgN24S99fs71PzW48xTk53NPqK6f2vNF2n04",
+      "summary": "",
+      "source": "The Batch",
+      "publishedAt": 1795183408000
+    },
+    {
+      "id": "https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VW0SmB92lHxGW5fb8fr5Jq-mtW6G5rDL5XBKbPN3kz7Dd3qgz0W6N1vHY6lZ3mgW5P6_Kt6kQK6FW3YBc_75WQqlsN8DrQfBZ02l-W5jKZmv1MDV72W1RNJ_-28HlTPW7Kzt2r2jx2q_W7WDY2K1-47bFW2XJHmd2WgJjDW2q0-Zs6Bd1ZWW694-Nf8yYdxwW5fBGZz12wg2FN7ZnSHq3XvllW6HMgT75ZfNwgW6G4d6T1q7N0pW6kWw_S3fJrVCW3ByjZv8JhGhnW917rNT5kQDBqW6MNfLh7rDmDQN8gDv6yLCNSXW2r6hxW6kMM7DW1YMbCw8LYNmjVqzt0R6dtJzdf1zN5ZY04",
+      "title": "Adaptive Memory Management",
+      "link": "https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VW0SmB92lHxGW5fb8fr5Jq-mtW6G5rDL5XBKbPN3kz7Dd3qgz0W6N1vHY6lZ3mgW5P6_Kt6kQK6FW3YBc_75WQqlsN8DrQfBZ02l-W5jKZmv1MDV72W1RNJ_-28HlTPW7Kzt2r2jx2q_W7WDY2K1-47bFW2XJHmd2WgJjDW2q0-Zs6Bd1ZWW694-Nf8yYdxwW5fBGZz12wg2FN7ZnSHq3XvllW6HMgT75ZfNwgW6G4d6T1q7N0pW6kWw_S3fJrVCW3ByjZv8JhGhnW917rNT5kQDBqW6MNfLh7rDmDQN8gDv6yLCNSXW2r6hxW6kMM7DW1YMbCw8LYNmjVqzt0R6dtJzdf1zN5ZY04",
+      "summary": "",
+      "source": "The Batch",
+      "publishedAt": 1795183408000
+    },
+    {
+      "id": "https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VW0SmB92lHxGW5fb8fr5Jq-mtW6G5rDL5XBKbPN3kz7Dd3qgz0W6N1vHY6lZ3l4W62w7FC8qLt-GW2sqxjz7DTJTRN53SPVDFgmMvW7nvhKZ8B4X-zW3PS_xT64RKmRW1yTqTq8jtdx3V5m47y2z9lq8W1Km2vx9bLhthW3H71dX99YpZZW58lGzV7MnjrtW5_wXgS5gPlN-N1X4S4Yx0LbcW9f_mfp2cDdFVW5nQhMC3QvR--VWdPhc57597PW6jtPF74nnBHpN8zk18vtSk9QVwgc-L3kTP6MW120cw33jlVQpW2ZNHrw8HJbQnN73lKV9gt8mwW4R8rBk6C5_GQf5yhXNz04",
+      "title": "Work With Andrew Ng",
+      "link": "https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VW0SmB92lHxGW5fb8fr5Jq-mtW6G5rDL5XBKbPN3kz7Dd3qgz0W6N1vHY6lZ3l4W62w7FC8qLt-GW2sqxjz7DTJTRN53SPVDFgmMvW7nvhKZ8B4X-zW3PS_xT64RKmRW1yTqTq8jtdx3V5m47y2z9lq8W1Km2vx9bLhthW3H71dX99YpZZW58lGzV7MnjrtW5_wXgS5gPlN-N1X4S4Yx0LbcW9f_mfp2cDdFVW5nQhMC3QvR--VWdPhc57597PW6jtPF74nnBHpN8zk18vtSk9QVwgc-L3kTP6MW120cw33jlVQpW2ZNHrw8HJbQnN73lKV9gt8mwW4R8rBk6C5_GQf5yhXNz04",
+      "summary": "",
+      "source": "The Batch",
+      "publishedAt": 1795183408000
+    },
     {
       "id": "https://thehustle.co/e3t/Ctc/UB+113/d2q-Vf04/VWKtTP6hh4KBV5cGKx4WBvY1W3yn_R_5XBw5YN5BW0R62-ZW0W5BW0B06lZ3mgVHTcJX371gFxW4yFYGc4bBm4pW30rV0L3GTfTrW3j5J0z3L0Ql_W871ZPW1RmRh0W74cHbH2mjvY6V7m4lp8fhX5kW5NnmBJ6Nq7KFW2pJF_D4xsBr1N39Fh65z2HK6W1930147NPLhtN7jv_8sRQJlWN6sJGc2k_MLbW6-bQ9D5N27K7W2F06qL5LSGd4W5TgWt613ddKCW4H0T0N4C-t5dN318mY7sQQbbf7Sd9Jz04",
       "title": "A little help?",
