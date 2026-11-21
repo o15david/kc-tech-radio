@@ -81,21 +81,17 @@
 //    not already queued or played this session (segment ids, plus
 //    story keys — link, falling back to headline — so a story can
 //    never repeat inside a session even across queue rotations).
-//  - LISTENING MEMORY (Nov 19, second repeat fix). The queue itself
-//    has no memory: the next 4-hour queue is built from the same
-//    pool and happily re-airs stories the last one played, and a
-//    page reload used to restart at queue position 1, so the same
-//    lead stories greeted the listener again and again. The player
-//    now persists what it has heard in localStorage: a story key
-//    is recorded the moment the story genuinely starts, and heard
-//    means RETIRED: the story is filtered out of later queues, on
-//    load and on refill alike, for 24 hours — with a floor: if
-//    filtering would leave fewer than ~40 stories, the OLDEST
-//    heard stories are let back in until the floor is met, so a
-//    listener never faces an empty or tiny queue. The current
-//    story and position are persisted as well, so a reload resumes
-//    mid-story where the listener left off instead of restarting
-//    the queue at its head.
+//  - LISTENING MEMORY (Nov 19, second repeat fix; RETIRED Nov 21,
+//    2026 by David's global-broadcast ruling). This player used to
+//    persist a per-listener heard registry in localStorage (heard
+//    stories filtered out of later queues for 24 hours, with a
+//    40-story floor that let the oldest heard stories back in) and
+//    a personal resume record (a reload resumed mid-story where
+//    the listener left off). Both are gone: the station is ONE
+//    shared broadcast, the no-repeat record is the station's
+//    played store, and tuning in (or reloading) joins the shared
+//    timeline at its live offset. See the localStorage note at
+//    loadHeardRegistry and the placement code in fetchQueue.
 
 import { useCallback, useEffect, useRef, useState } from 'react';
 
@@ -155,22 +151,22 @@ function pickVoice() {
   );
 }
 
-// ---- listening memory (localStorage) ---------------------------------------
-// The server cannot remember a listener: every /api/playlist queue
-// is built from the same pool for everyone. The cross-queue,
-// cross-session no-repeat memory therefore lives here, in the
-// browser, in two records:
-//   HEARD: story key -> epoch ms when the story last STARTED
-//   playing (the same moment the in-session playedStoryKeys record
-//   is written). Entries expire after HEARD_TTL_MS; the map is
-//   capped at HEARD_CAP keys, oldest evicted first, so it cannot
-//   grow without bound.
-//   RESUME: { key, segId, position } for the story playing when
-//   the page was last left, its position kept current as playback
-//   progresses, so a reload resumes mid-story.
-// Every access is guarded: WKWebView and private modes may deny or
-// clear storage, and the player must degrade to in-session memory
-// only, never break.
+// ---- listening memory (localStorage) — RETIRED Nov 21, 2026 ----------------
+// David's global-broadcast ruling: "it's not a per person station
+// it's a global station where everyone should be hearing the same
+// thing." The per-listener heard registry (24h filter) and the
+// personal resume-at-left-off record are retired, not patched:
+// the no-repeat record now lives station-side in the shared played
+// store (lib/played.js), and a listener joins the ONE shared
+// timeline at its live offset (see fetchQueue's placement), never
+// at a personal position. The helpers below are kept as inert
+// shims so the rest of the player's call sites stay untouched:
+// the registry always loads empty, the resume record always loads
+// null, and persisting a resume record only ever CLEARS the stored
+// key, so a pre-ruling browser record can never resurrect the old
+// behavior. In-session no-replay (playedStoryKeysRef and the
+// finished-segment backstop) is a different mechanism and stays:
+// within one session a segment still plays at most once.
 function pruneHeardMap(map, now = Date.now()) {
   for (const [k, ts] of map) {
     if (!ts || now - ts > HEARD_TTL_MS) map.delete(k);
@@ -184,47 +180,38 @@ function pruneHeardMap(map, now = Date.now()) {
 }
 
 function loadHeardRegistry() {
+  // Retired (see the note above): the heard registry always loads
+  // empty, and any pre-ruling stored copy is dropped.
   try {
-    const raw = window.localStorage.getItem(HEARD_STORAGE_KEY);
-    if (!raw) return new Map();
-    const obj = JSON.parse(raw);
-    if (!obj || typeof obj !== 'object') return new Map();
-    return pruneHeardMap(new Map(Object.entries(obj)));
+    window.localStorage.removeItem(HEARD_STORAGE_KEY);
   } catch {
-    return new Map();
+    /* storage denied: an unread registry is an empty one */
   }
+  return new Map();
 }
 
-function persistHeardRegistry(map) {
+function persistHeardRegistry() {
+  // Retired: persisting only ever clears the stored key.
   try {
-    window.localStorage.setItem(HEARD_STORAGE_KEY, JSON.stringify(Object.fromEntries(map)));
+    window.localStorage.removeItem(HEARD_STORAGE_KEY);
   } catch {
-    /* storage denied or full: in-session memory still applies */
+    /* storage denied: nothing to clear */
   }
 }
 
 function loadResumeRecord() {
-  try {
-    const raw = window.localStorage.getItem(RESUME_STORAGE_KEY);
-    if (!raw) return null;
-    const rec = JSON.parse(raw);
-    if (!rec || typeof rec.key !== 'string' || !rec.key) return null;
-    return {
-      key: rec.key,
-      segId: typeof rec.segId === 'string' ? rec.segId : null,
-      position: Number.isFinite(rec.position) && rec.position > 0 ? rec.position : 0,
-    };
-  } catch {
-    return null;
-  }
+  // Retired (see the note above): there is no personal position to
+  // resume. A reload rejoins the shared timeline at its live
+  // offset, like turning a radio off and back on.
+  return null;
 }
 
-function persistResumeRecord(rec) {
+function persistResumeRecord() {
+  // Retired: persisting only ever clears the stored key.
   try {
-    if (!rec) window.localStorage.removeItem(RESUME_STORAGE_KEY);
-    else window.localStorage.setItem(RESUME_STORAGE_KEY, JSON.stringify(rec));
+    window.localStorage.removeItem(RESUME_STORAGE_KEY);
   } catch {
-    /* storage denied: resume simply will not survive a reload */
+    /* storage denied: nothing to clear */
   }
 }
 
@@ -314,6 +301,11 @@ export default function Player() {
   // should resume from, rewritten as playback moves.
   const heardRegistryRef = useRef(new Map()); // story key -> last-heard epoch ms
   const resumeTargetRef = useRef(null); // { key, segId, position } | null
+  // Live-join state (Nov 21, 2026): where the shared broadcast is
+  // right now, from the playlist response's timeline block:
+  // { segId, position } for the on-air segment. Consumed by
+  // startSegment as its initial seek, exactly once per load.
+  const liveSeekRef = useRef(null);
   const resumePersistRef = useRef({ segId: null, at: 0 }); // position-write throttle
   const playingRef = useRef(false);
   const pausedModeRef = useRef(null); // mode held by Pause: 'audio' | 'speech' | null
@@ -396,15 +388,11 @@ export default function Player() {
     }
   }, []);
 
-  // Record a story key in the persisted heard registry, with its
-  // TTL/cap pruning, at the moment the story genuinely starts.
-  const recordHeard = useCallback((key) => {
-    if (!key) return;
-    const map = heardRegistryRef.current;
-    map.set(key, Date.now());
-    pruneHeardMap(map);
-    persistHeardRegistry(map);
-  }, []);
+  // Retired Nov 21, 2026: starting a story no longer writes any
+  // per-listener record. Played-marking is the station's job (the
+  // shared timeline and played store), never the listener's. Kept
+  // as a no-op so startSegment's call site stays untouched.
+  const recordHeard = useCallback(() => {}, []);
 
   // ---- queue fetching -----------------------------------------------------
   const fetchQueue = useCallback(
@@ -520,34 +508,32 @@ export default function Player() {
         }
 
         if (!append) {
-          // Playhead placement: never blindly position 1. The
-          // resume target when it survived filtering; else the
-          // first unheard story; else the head of the queue.
+          // Playhead placement (ONE GLOBAL BROADCAST, Nov 21,
+          // 2026): join the shared timeline where it IS, not where
+          // this listener left off. The server computes the on-air
+          // segment and the offset into it from the wall clock
+          // (data.timeline); the playhead starts there and
+          // startSegment seeks to the offset, so a listener tuning
+          // in mid-story hears the story in progress, exactly like
+          // a radio. Fallback when a response carries no timeline:
+          // the head of the queue.
           const q = queueRef.current;
           let startIdx = -1;
-          if (resumeTarget) {
-            const idx = q.findIndex((s) => isResumeTarget(s));
-            const seg = idx >= 0 ? q[idx] : null;
-            // A resume record pointing at (or past) the story's
-            // estimated end is a finished story wearing a resume
-            // record's clothes: do not resume it.
-            const atEnd =
-              !!seg &&
-              resumeTarget.position > 0 &&
-              !!seg.estSeconds &&
-              resumeTarget.position >= seg.estSeconds - 1;
-            if (seg && !atEnd) {
+          liveSeekRef.current = null;
+          const onAir = data.timeline && data.timeline.onAir;
+          if (onAir && onAir.segmentId) {
+            const idx = q.findIndex((s) => s.id === onAir.segmentId);
+            if (idx >= 0) {
               startIdx = idx;
-            } else {
-              // The story is gone from this queue (rotated out) or
-              // already finished: the record has done its job.
-              resumeTargetRef.current = null;
-              persistResumeRecord(null);
+              if (onAir.offsetSeconds > 0.5) {
+                liveSeekRef.current = {
+                  segId: onAir.segmentId,
+                  position: onAir.offsetSeconds,
+                };
+              }
             }
           }
-          if (startIdx < 0) {
-            startIdx = q.findIndex((s) => s.kind === 'story' && !registry.has(storyKey(s)));
-          }
+          if (startIdx < 0) startIdx = q.findIndex((s) => s.kind === 'story');
           indexRef.current = startIdx >= 0 ? startIdx : 0;
         }
 
@@ -1263,35 +1249,28 @@ export default function Player() {
       // Session no-repeat backstop: once a story starts, it can never
       // be re-queued by a refill this session.
       const key = storyKey(seg);
-      // Cross-session resume: if the persisted resume record names
-      // THIS story, the listener left it mid-story last session.
-      // resumeFrom is applied below (the heard record is seeded
-      // with it, so every no-replay rule in the recovery ladder
-      // treats the position as already heard, and the first load
-      // seeks there before playing).
+      // Live join (ONE GLOBAL BROADCAST, Nov 21, 2026): when this
+      // segment is the one on air right now, the first load seeks
+      // to the broadcast's offset in it (liveSeekRef, set by
+      // fetchQueue from the response's timeline). resumeFrom is
+      // applied below through the same seek machinery the retired
+      // personal-resume used: the heard record is seeded with it,
+      // so every no-replay rule in the recovery ladder treats the
+      // skipped-over head of the segment as already heard and
+      // never restarts it. No per-listener record is written: the
+      // retired recordHeard call below is a deliberate no-op.
       let resumeFrom = 0;
       if (key) {
         playedStoryKeysRef.current.add(key);
-        // The same moment writes the cross-session record: this
-        // story is now heard, for this and every later queue,
-        // until its registry entry expires (24h).
         recordHeard(key);
-        const prevResume = resumeTargetRef.current;
-        if (prevResume && prevResume.key === key && prevResume.position > 0.5) {
-          resumeFrom = prevResume.position;
+        const live = liveSeekRef.current;
+        if (live && live.segId === seg.id && live.position > 0.5) {
+          resumeFrom = live.position;
           if (resumeFrom > (heardMaxRef.current.get(seg.id) || 0)) {
             heardMaxRef.current.set(seg.id, resumeFrom);
           }
+          liveSeekRef.current = null; // consumed: exactly one live join per load
         }
-        // This story becomes the resume record now: if the page
-        // reloads while it plays, the next load resumes HERE.
-        resumeTargetRef.current = {
-          key,
-          segId: seg.id,
-          position: heardMaxRef.current.get(seg.id) || 0,
-        };
-        persistResumeRecord(resumeTargetRef.current);
-        resumePersistRef.current = { segId: seg.id, at: Date.now() };
       }
       setNowPlaying(seg);
       syncView();
