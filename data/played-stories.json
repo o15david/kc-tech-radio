@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-22T10:50:06.295Z",
- "lastSyncBucket": 997412,
+ "updatedAt": "2026-11-22T11:05:19.560Z",
+ "lastSyncBucket": 997413,
  "entries": [
   {
    "key": "74498741",
@@ -2796,6 +2796,16 @@
   },
   {
    "key": "https://lobste.rs/s/4qcr3k",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.dw.com/en/mexican-special-forces-arrest-drug-kingpin-chapo-isidro/a-80010745?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://lobste.rs/s/o5coeq",
    "firstQueuedAtMs": 1795327200000,
    "playedAtMs": 1795327200000
   },
@@ -10550,6 +10560,11 @@
    "playedAtMs": 1795334400000
   },
   {
+   "key": "https://www.nytimes.com/2026/11/22/nyregion/nypd-racial-discrimination-firing.html",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
    "key": "https://blockclubchicago.org/?p=1104796",
    "firstQueuedAtMs": 1795336200000,
    "playedAtMs": 1795336200000
@@ -12518,6 +12533,111 @@
    "key": "https://www.fastcompany.com/91646863/crowdstrike-ceo-companies-are-choosing-between-getting-hacked-and-shutting-down",
    "firstQueuedAtMs": 1795341600000,
    "playedAtMs": 1795341600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html",
+   "firstQueuedAtMs": 1795341600000,
+   "playedAtMs": 1795341600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/22/us/politics/republican-midterm-loss-debate-trump.html",
+   "firstQueuedAtMs": 1795341600000,
+   "playedAtMs": 1795341600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/22/father-stabbed-death-by-ex-middle-night-front-3-year-old-son-authorities-say/",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "https://iowacapitaldispatch.com/?p=61379",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795336781",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "6b0079848a18277ad68d6fd0",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "pRA2v7YZJnsuNFeKD5Q8Mj",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "https://www.infoq.com/news/2026/11/claude-code-leaking-secrets/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "https://dev.to/sophie-pyxis/mapas-de-wardley-registre-a-evidencia-por-tras-de-cada-posicao-1l22",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "https://dev.to/alexgeorgiev17/how-long-it-actually-takes-a-gpgme-fix-to-reach-ubuntu-30go",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "kmRpRo5jFTYKxufQtjaLe4",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=228640",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "https://dev.to/nexabyte_76/measure-the-effective-hourly-rate-of-a-fixed-price-project-before-you-accept-it-223",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "https://dev.to/nexusfoundry/agents-ship-prs-that-pass-their-own-tests-the-verification-receipt-that-proves-otherwise-29l9",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "https://dev.to/delimitter/mufg-customer-data-leaked-via-vendor-karte-breach-bank-systems-not-breached-8dm",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "https://dev.to/zhalok/sync-vs-async-processing-104m",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "https://dev.to/sascha-ms/patch-every-lambda-function-at-once-with-your-own-shared-runtime-4dje",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "https://dev.to/doctoolkit/what-is-artificial-intelligence-a-simple-guide-for-beginners-4fl4",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "https://dev.to/darshan_turakhia/how-a-local-timezone-cron-skipped-one-hour-on-the-night-the-clocks-went-back-and-under-billed-212-127g",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "https://dev.to/dreemux/jarvis-powershell-building-a-read-only-by-default-powershell-style-cli-in-pure-python-4ai2",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "https://dev.to/nexusfoundry/prompt-rules-are-suggestions-the-two-guardrails-i-actually-enforce-on-my-coding-agents-and-the-110p",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
   }
  ]
 }
