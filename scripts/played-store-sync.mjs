@@ -1,26 +1,52 @@
 // ============================================================================
 // KC Tech Radio played-store sync (Nov 21, 2026)
 //
-// Derives the station-wide aired set from the deterministic timeline
-// replay (lib/format.js timelineReplay) over the live pool and merges
-// it into data/played-stories.json (append-only). Also records
-// CONTENT-class segment plays from the modeled per-bucket queues:
-// Wasteland Jukebox tracks (strict reading, key track:<audio file>)
-// and Dispatches from the Bunker bits (key desk:<pool index>). A
-// segment play is recorded only when the segment STARTS inside its
-// bucket's aired window (the bucket's 30 minutes minus the carry-in
-// from the previous bucket's straddling story): appearing anywhere
-// in a bucket's ~4-hour queue is not airing, and the first version
-// of this sync over-recorded plays by treating it as such.
-// Service/format segments are exempt and are never recorded.
+// Records the station-wide aired set into data/played-stories.json
+// (append-only), bucket by bucket, from the deterministic timeline
+// walk (lib/format.js). Also records CONTENT-class segment plays
+// from the modeled per-bucket queues: Wasteland Jukebox tracks
+// (strict reading, key track:<audio file>) and Dispatches from the
+// Bunker bits (key desk:<pool index>). A segment play is recorded
+// only when the segment STARTS inside its bucket's aired window
+// (the bucket's 30 minutes minus the carry-in from the previous
+// bucket's straddling story): appearing anywhere in a bucket's
+// ~4-hour queue is not airing, and the first version of this sync
+// over-recorded plays by treating it as such. Service/format
+// segments are exempt and are never recorded.
 //
-// --rederive-stories (one-time correction, Nov 22, 2026): the story
-// portion of the store was poisoned by the seeded-replay bug (see
-// lib/format.js): thousands of stories that never aired were marked
-// played. This mode rebuilds the story entries from the corrected
-// seed-free replay alone, preserving every track:/desk: entry, and
-// deliberately relaxes the entry-count guard for that one rebuild
-// (the segment guard still applies). Normal runs never use it.
+// RECORDING IS INCREMENTAL AND FROZEN PER BUCKET (Nov 22, 2026,
+// pool-drift fix). The first version of this sync unioned a FULL
+// replay (epoch to now, over the current pool snapshot) into the
+// store on every run. But the replay is a function of the pool
+// snapshot, and the pool is rebuilt from the live wires every
+// refresh: items arrive with old publishedAt stamps, feeds drop
+// out, headline dedupe swaps which item id survives a cluster,
+// body enrichment changes story durations. Each run's replay
+// therefore re-told history with different bucket heads (measured:
+// one refresh changed the modeled head of every one of 17 past
+// buckets), and the append-only union banked every variant as
+// phantom plays: the store grew 458 -> 1,007 entries in under
+// three hours against ~55 stories/hour of real airtime. Now a
+// bucket's aired set is derived ONCE, by the first sync after the
+// bucket completes, walking only the not-yet-recorded buckets
+// (lib/format.js timelineReplayRange) seeded with the store's
+// frozen record, and is never re-derived: no later pool state can
+// add stories to a recorded bucket. The store doc carries the
+// watermark (lastSyncBucket) and the walk's carry into the next
+// unrecorded bucket (lastSyncCarryInSeconds) so the next run
+// resumes the same continuous broadcast the last one left off.
+//
+// --rederive-stories (one-time correction, Nov 22, 2026): the
+// story portion of the store was poisoned twice over, first by
+// the seeded-replay bug and then by the pool-drift union above
+// (see lib/format.js): thousands of stories that never aired were
+// marked played. This mode rebuilds the story entries from one
+// seed-free full replay over the current pool, preserving every
+// track:/desk: entry verbatim, and deliberately relaxes the
+// entry-count guard for that one rebuild (the segment guard still
+// applies). It also re-pins the watermark and carry to that
+// replay, so incremental recording resumes from a clean state.
+// Normal runs never use it.
 //
 // Run on the same cadence as the other data pipelines (the wire
 // refresh, about every 15 minutes). The store file is committed to
@@ -42,10 +68,11 @@ import { fileURLToPath } from 'node:url';
 
 const { getNewsPool } = await import('../lib/ingest.js');
 const {
-  timelineAired,
   timelineReplay,
+  timelineReplayRange,
   buildPlaylist,
   BUCKET_MS,
+  STATION_EPOCH_MS,
   TRACK_PLAYED_PREFIX,
   DESK_PLAYED_PREFIX,
 } = await import('../lib/format.js');
@@ -84,21 +111,35 @@ const existingEntryCount = Array.isArray(existingDoc.entries) ? existingDoc.entr
 const pool = await getNewsPool();
 const storyItems = pool.items.filter((i) => i.category !== 'music');
 const nowMs = Date.now();
-const seed = new Map(existingMap);
 const rederiveStories = process.argv.includes('--rederive-stories');
 
-// The corrected replay: a pure, seed-free walk (lib/format.js). Its
-// consumption is the station's true aired history over this pool
-// snapshot; the store is unioned in for exclusion, never walked.
-const replay = timelineReplay(storyItems, nowMs);
-const aired = timelineAired(storyItems, nowMs, seed);
+const currentBucket = Math.floor(nowMs / BUCKET_MS);
+const epochBucket = Math.floor(STATION_EPOCH_MS / BUCKET_MS);
+const oldWatermark = Number.isInteger(existingDoc.lastSyncBucket)
+  ? existingDoc.lastSyncBucket
+  : epochBucket - 1;
+// The first bucket whose aired set has not been frozen into the
+// store. Recording covers [fromBucket, currentBucket): completed
+// buckets only, derived once, in order. The 96-bucket catch-up
+// bound is the segment pass's long-standing acceptance: after an
+// outage longer than 48 hours the oldest unrecorded buckets stay
+// unrecorded rather than being re-modeled over a drifted pool.
+let fromBucket = Math.max(oldWatermark + 1, epochBucket);
+if (currentBucket - fromBucket > 96) fromBucket = currentBucket - 96;
 
 const byKey = new Map();
 let added = 0;
+let carryInByBucket = new Map(); // carry-in per bucket recorded this run
+let endCarrySeconds = 0; // carry into currentBucket; persisted for the next run
+let replayAired = null; // rederive mode only, for the log line
+
 if (rederiveStories) {
-  // One-time correction: story entries come from the corrected
-  // replay alone. Existing track:/desk: entries are real plays and
-  // are carried over verbatim before the segment pass below.
+  // One-time correction: story entries come from one seed-free
+  // full replay over the current pool. Existing track:/desk:
+  // entries are real plays and are carried over verbatim before
+  // the segment pass below.
+  const replay = timelineReplay(storyItems, nowMs);
+  replayAired = replay.played.size;
   for (const [key, playedAtMs] of replay.played) {
     byKey.set(key, { key, firstQueuedAtMs: playedAtMs, playedAtMs });
   }
@@ -108,6 +149,8 @@ if (rederiveStories) {
       byKey.set(e.key, e);
     }
   }
+  carryInByBucket = replay.carryInByBucket;
+  endCarrySeconds = replay.carryInSeconds;
   console.error(
     `played-store sync: --rederive-stories: rebuilding story entries from the corrected replay ` +
       `(${replay.played.size} stories); existing store had ${existingEntryCount} entries; ` +
@@ -115,34 +158,45 @@ if (rederiveStories) {
   );
 } else {
   for (const e of existing) byKey.set(e.key, e);
-  for (const [key, playedAtMs] of aired) {
+  // Walk ONLY the unrecorded buckets, seeded with the frozen
+  // record, so the modeled heads continue the broadcast the store
+  // already documents. The persisted carry is meaningful only
+  // when the range starts exactly at the bucket after the
+  // watermark; a clamped catch-up restarts the carry at 0 (one
+  // boundary story's remainder is approximated, nothing more).
+  const startCarry =
+    fromBucket === oldWatermark + 1 &&
+    fromBucket > epochBucket &&
+    Number.isFinite(existingDoc.lastSyncCarryInSeconds)
+      ? existingDoc.lastSyncCarryInSeconds
+      : 0;
+  const range = timelineReplayRange(storyItems, fromBucket, currentBucket, existingMap, startCarry);
+  for (const [key, playedAtMs] of range.played) {
     if (!byKey.has(key)) {
       byKey.set(key, { key, firstQueuedAtMs: playedAtMs, playedAtMs });
       added += 1;
     }
   }
+  carryInByBucket = range.carryInByBucket;
+  endCarrySeconds = range.carryInSeconds;
 }
 
-// Content-class segment plays from modeled bucket queues. Buckets
-// are modeled one at a time with a seed that accumulates everything
+// Content-class segment plays from modeled bucket queues, over
+// the same bucket range the story pass just recorded. Buckets are
+// modeled one at a time with a seed that accumulates everything
 // found so far, so a track or desk bit is modeled at most once.
-const currentBucket = Math.floor(nowMs / BUCKET_MS);
-const epochBucket = Math.floor((existingDoc.epochMs || 0) / BUCKET_MS) || currentBucket;
-let fromBucket = Number.isInteger(existingDoc.lastSyncBucket)
-  ? existingDoc.lastSyncBucket + 1
-  : epochBucket;
-if (currentBucket - fromBucket > 96) fromBucket = currentBucket - 96; // bound catch-up
 let segAdded = 0;
-for (let b = Math.max(fromBucket, epochBucket); b < currentBucket; b++) {
+for (let b = fromBucket; b < currentBucket; b++) {
   const bucketStart = b * BUCKET_MS;
   const seedNow = new Map([...byKey.values()].map((e) => [e.key, e.playedAtMs]));
   const q = buildPlaylist(pool, null, bucketStart + 1000, [], seedNow);
   // Only the head of the bucket's queue airs in that bucket: the
   // window is the bucket's 30 minutes minus the carry-in (the
-  // previous bucket's straddling story finishing). A track or desk
+  // previous bucket's straddling story finishing), taken from the
+  // same walk that recorded the bucket's stories. A track or desk
   // bit records as played only when it STARTS inside the window;
   // sitting deeper in the ~4-hour queue is not a play.
-  const windowSeconds = BUCKET_MS / 1000 - (replay.carryInByBucket.get(b) || 0);
+  const windowSeconds = BUCKET_MS / 1000 - (carryInByBucket.get(b) || 0);
   let offset = 0;
   for (const seg of q.segments) {
     const startsInWindow = offset < windowSeconds;
@@ -166,6 +220,7 @@ const doc = {
   epochMs: existingDoc.epochMs ?? null,
   updatedAt: new Date(nowMs).toISOString(),
   lastSyncBucket: currentBucket - 1,
+  lastSyncCarryInSeconds: endCarrySeconds,
   entries: [...byKey.values()].sort((a, b) => a.playedAtMs - b.playedAtMs),
 };
 
@@ -208,7 +263,7 @@ if (raw) {
 }
 await writeFile(storePath, JSON.stringify(doc, null, 1) + '\n');
 console.log(
-  `played-store sync: pool=${storyItems.length} replay aired=${replay.played.size} aired total=${aired.size} ` +
+  `played-store sync: pool=${storyItems.length} recorded buckets ${fromBucket}..${currentBucket - 1} ` +
   `store entries=${doc.entries.length} (+${added} stories, +${segAdded} content segments this run)` +
-  (rederiveStories ? ' [story entries re-derived from the corrected replay]' : '')
+  (rederiveStories ? ` [story entries re-derived from the corrected replay: ${replayAired} stories]` : '')
 );
