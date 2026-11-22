@@ -1,7 +1,7 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-22T10:35:10.255Z",
+ "updatedAt": "2026-11-22T10:50:06.295Z",
  "lastSyncBucket": 997412,
  "entries": [
   {
@@ -2791,6 +2791,11 @@
   },
   {
    "key": "https://krebsonsecurity.com/?p=74435",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://lobste.rs/s/4qcr3k",
    "firstQueuedAtMs": 1795327200000,
    "playedAtMs": 1795327200000
   },
@@ -12400,6 +12405,11 @@
    "playedAtMs": 1795339800000
   },
   {
+   "key": "https://fortune.com/?p=4647440&showAdminBar=true",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
    "key": "74499995",
    "firstQueuedAtMs": 1795341600000,
    "playedAtMs": 1795341600000
@@ -12496,6 +12506,16 @@
   },
   {
    "key": "https://www.scmp.com/news/people-culture/trending-china/article/3375365/chinas-sanxingdui-silk-discovery-suggests-ancient-writing-may-have-existed-perishable-cloth",
+   "firstQueuedAtMs": 1795341600000,
+   "playedAtMs": 1795341600000
+  },
+  {
+   "key": "af40808a-e658-11f1-b1a0-db25d08751fc",
+   "firstQueuedAtMs": 1795341600000,
+   "playedAtMs": 1795341600000
+  },
+  {
+   "key": "https://www.fastcompany.com/91646863/crowdstrike-ceo-companies-are-choosing-between-getting-hacked-and-shutting-down",
    "firstQueuedAtMs": 1795341600000,
    "playedAtMs": 1795341600000
   }
