@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-22T11:50:19.996Z",
- "lastSyncBucket": 997414,
+ "updatedAt": "2026-11-22T12:20:08.768Z",
+ "lastSyncBucket": 997415,
  "entries": [
   {
    "key": "74498741",
@@ -2841,6 +2841,26 @@
   },
   {
    "key": "https://www.dw.com/en/cop31-climate-deal-in-doubt-as-eu-others-reject-draft/live-79999516?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://thehill.com/?p=6235394",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.today.com/food/recipes/joy-bauers-make-ahead-thanksgiving-rcna610285",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.dw.com/en/cop31-climate-deal-in-doubt-as-eu-others-reject-draft-declaration/live-79999516?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795304046",
    "firstQueuedAtMs": 1795327200000,
    "playedAtMs": 1795327200000
   },
@@ -12823,6 +12843,76 @@
    "key": "https://www.inc.com/justin-bariso/jurassic-park-author-michael-crichton-gell-mann-amnesia-effect-emotional-intelligence-ai-trust/91441033",
    "firstQueuedAtMs": 1795345200000,
    "playedAtMs": 1795345200000
+  },
+  {
+   "key": "https://fortune.com/?p=4647475&showAdminBar=true",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163237",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "https://fortune.com/?p=4648120&showAdminBar=true",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "https://fortune.com/?p=4647911&showAdminBar=true",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "https://wisconsinwatch.org/?p=1323317",
+   "firstQueuedAtMs": 1795347000000,
+   "playedAtMs": 1795347000000
+  },
+  {
+   "key": "74500306",
+   "firstQueuedAtMs": 1795347000000,
+   "playedAtMs": 1795347000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795336703",
+   "firstQueuedAtMs": 1795347000000,
+   "playedAtMs": 1795347000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795326803",
+   "firstQueuedAtMs": 1795347000000,
+   "playedAtMs": 1795347000000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/diplomacy/article/3375378/washingtons-missteps-narrow-us-lead-over-china-annual-asia-power-ranking",
+   "firstQueuedAtMs": 1795347000000,
+   "playedAtMs": 1795347000000
+  },
+  {
+   "key": "60eeedeba86e5ac15953a11e",
+   "firstQueuedAtMs": 1795347000000,
+   "playedAtMs": 1795347000000
+  },
+  {
+   "key": "HhEzj959Ad7sPepZbH5vKR",
+   "firstQueuedAtMs": 1795347000000,
+   "playedAtMs": 1795347000000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=229776",
+   "firstQueuedAtMs": 1795347000000,
+   "playedAtMs": 1795347000000
+  },
+  {
+   "key": "https://www.inc.com/chris-morris/josie-maran-walked-away-from-qvc-after-150-million-in-sales/91440363",
+   "firstQueuedAtMs": 1795347000000,
+   "playedAtMs": 1795347000000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163253",
+   "firstQueuedAtMs": 1795347000000,
+   "playedAtMs": 1795347000000
   }
  ]
 }
