@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-22T13:20:18.732Z",
- "lastSyncBucket": 997417,
+ "updatedAt": "2026-11-22T13:35:07.036Z",
+ "lastSyncBucket": 997418,
  "entries": [
   {
    "key": "74498741",
@@ -2881,6 +2881,16 @@
   },
   {
    "key": "https://lobste.rs/s/n5i1ds",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://ambrook.com/offrange/livestock/field-mice-on-drugs",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno#1",
    "firstQueuedAtMs": 1795327200000,
    "playedAtMs": 1795327200000
   },
@@ -13203,6 +13213,131 @@
    "key": "TOVKFYKK3NY800",
    "firstQueuedAtMs": 1795350600000,
    "playedAtMs": 1795350600000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4452243",
+   "firstQueuedAtMs": 1795352400000,
+   "playedAtMs": 1795352400000
+  },
+  {
+   "key": "https://michiganadvance.com/?post_type=republished&p=116129",
+   "firstQueuedAtMs": 1795352400000,
+   "playedAtMs": 1795352400000
+  },
+  {
+   "key": "39800cf0-28b4-4224-b9d4-696b418c049e",
+   "firstQueuedAtMs": 1795352400000,
+   "playedAtMs": 1795352400000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
+   "firstQueuedAtMs": 1795352400000,
+   "playedAtMs": 1795352400000
+  },
+  {
+   "key": "https://thehill.com/?p=6235682",
+   "firstQueuedAtMs": 1795352400000,
+   "playedAtMs": 1795352400000
+  },
+  {
+   "key": "https://dev.to/ezmnysniper7/mt5-manager-api-vs-web-api-which-one-should-your-back-office-use-3008",
+   "firstQueuedAtMs": 1795352400000,
+   "playedAtMs": 1795352400000
+  },
+  {
+   "key": "https://dev.to/jeff_pdc/cursor-cli-vs-editor-api-validation-where-each-belongs-3elh",
+   "firstQueuedAtMs": 1795352400000,
+   "playedAtMs": 1795352400000
+  },
+  {
+   "key": "https://dev.to/mingli88/building-a-tarot-reading-experience-that-doesnt-feel-like-a-form-b1f",
+   "firstQueuedAtMs": 1795352400000,
+   "playedAtMs": 1795352400000
+  },
+  {
+   "key": "https://www.scmp.com/news/world/europe/article/3375389/man-carrying-alarm-gun-train-germany-sparks-major-police-operation",
+   "firstQueuedAtMs": 1795352400000,
+   "playedAtMs": 1795352400000
+  },
+  {
+   "key": "https://dev.to/necoz/necoz-is-building-a-new-house-all-cats-follow-me-530n",
+   "firstQueuedAtMs": 1795352400000,
+   "playedAtMs": 1795352400000
+  },
+  {
+   "key": "https://dev.to/dongdarealest/i-audited-777-ai-skills-from-the-biggest-public-collections-one-in-three-failed-po5",
+   "firstQueuedAtMs": 1795352400000,
+   "playedAtMs": 1795352400000
+  },
+  {
+   "key": "108557033",
+   "firstQueuedAtMs": 1795352400000,
+   "playedAtMs": 1795352400000
+  },
+  {
+   "key": "https://www.nbcnews.com/science/climate-change/cop31-climate-talks-break-angry-dispute-fossil-fuels-rcna610656",
+   "firstQueuedAtMs": 1795352400000,
+   "playedAtMs": 1795352400000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1039716",
+   "firstQueuedAtMs": 1795352400000,
+   "playedAtMs": 1795352400000
+  },
+  {
+   "key": "https://www.engadget.com/2321882/rare-game-console-no-one-owns/",
+   "firstQueuedAtMs": 1795352400000,
+   "playedAtMs": 1795352400000
+  },
+  {
+   "key": "https://www.engadget.com/2319342/tesla-battery-blue-snowflake-icon-meaning/",
+   "firstQueuedAtMs": 1795352400000,
+   "playedAtMs": 1795352400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795346510",
+   "firstQueuedAtMs": 1795352400000,
+   "playedAtMs": 1795352400000
+  },
+  {
+   "key": "TOWN5LKGZAJD00",
+   "firstQueuedAtMs": 1795352400000,
+   "playedAtMs": 1795352400000
+  },
+  {
+   "key": "https://electrek.co/?p=495286",
+   "firstQueuedAtMs": 1795352400000,
+   "playedAtMs": 1795352400000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43190",
+   "firstQueuedAtMs": 1795352400000,
+   "playedAtMs": 1795352400000
+  },
+  {
+   "key": "news714399679",
+   "firstQueuedAtMs": 1795352400000,
+   "playedAtMs": 1795352400000
+  },
+  {
+   "key": "108555785",
+   "firstQueuedAtMs": 1795352400000,
+   "playedAtMs": 1795352400000
+  },
+  {
+   "key": "https://www.dw.com/en/cop31-climate-talks-end-without-consensus-on-how-to-fund-vulnerable-countries-or-move-the-world-away-from-coal-oil-and-gas-use/a-80003610?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795352400000,
+   "playedAtMs": 1795352400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795346959",
+   "firstQueuedAtMs": 1795352400000,
+   "playedAtMs": 1795352400000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/politics/article/3375381/chinas-shale-gas-star-xie-jun-under-investigation-corruption-authorities",
+   "firstQueuedAtMs": 1795352400000,
+   "playedAtMs": 1795352400000
   }
  ]
 }
