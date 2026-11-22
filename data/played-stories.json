@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-22T22:50:08.990Z",
- "lastSyncBucket": 997436,
- "lastSyncCarryInSeconds": 82,
+ "updatedAt": "2026-11-22T23:05:37.879Z",
+ "lastSyncBucket": 997437,
+ "lastSyncCarryInSeconds": 76,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -4909,6 +4909,101 @@
    "key": "https://dev.to/alicexixi85/modeling-prop-firm-daily-loss-limits-and-intraday-vs-end-of-day-trailing-drawdown-in-python-483l",
    "firstQueuedAtMs": 1795384800000,
    "playedAtMs": 1795384800000
+  },
+  {
+   "key": "https://iowacapitaldispatch.com/?p=61383",
+   "firstQueuedAtMs": 1795386600000,
+   "playedAtMs": 1795386600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/22/after-trio-blowouts-chiefs-quickly-turn-attention-bills-showdown/",
+   "firstQueuedAtMs": 1795386600000,
+   "playedAtMs": 1795386600000
+  },
+  {
+   "key": "https://nebraskaexaminer.com/?p=45967",
+   "firstQueuedAtMs": 1795386600000,
+   "playedAtMs": 1795386600000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/22/klobuchar-buttigieg-enemies-friends",
+   "firstQueuedAtMs": 1795386600000,
+   "playedAtMs": 1795386600000
+  },
+  {
+   "key": "https://dev.to/d3one/the-devops-engineer-left-can-we-trust-our-linux-fleet-an-appsec-incident-response-playbook-98e",
+   "firstQueuedAtMs": 1795386600000,
+   "playedAtMs": 1795386600000
+  },
+  {
+   "key": "https://dev.to/delimitter/tiny-21-a-367000-parameter-question-answering-transformer-written-in-turbo-c-20-runs-from-a-3kf4",
+   "firstQueuedAtMs": 1795386600000,
+   "playedAtMs": 1795386600000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/missouri/clay-county/kansas-city-current-arrives-home-as-nwsl-champions-ahead-of-tuesday-celebration",
+   "firstQueuedAtMs": 1795386600000,
+   "playedAtMs": 1795386600000
+  },
+  {
+   "key": "https://dev.to/jimmy_fa_df2a6d4a40947e2a/tool-use-schema-validation-and-prompt-caching-boundaries-in-claude-agents-3mkk",
+   "firstQueuedAtMs": 1795386600000,
+   "playedAtMs": 1795386600000
+  },
+  {
+   "key": "2a252ca2-1c85-445c-8999-70d0b0b39aa6",
+   "firstQueuedAtMs": 1795386600000,
+   "playedAtMs": 1795386600000
+  },
+  {
+   "key": "https://dev.to/lakshaya_sharma_dc5a493cc/i-rate-github-profiles-like-f1-drivers-and-every-share-image-is-a-server-rendered-cutout-2651",
+   "firstQueuedAtMs": 1795386600000,
+   "playedAtMs": 1795386600000
+  },
+  {
+   "key": "https://dev.to/yasovardanram/steadyshot-where-human-signals-meet-precision-shooting-4017",
+   "firstQueuedAtMs": 1795386600000,
+   "playedAtMs": 1795386600000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/22/nx-s1-6038939/philly-festival-goers-say-pickles-are-a-real-big-dill",
+   "firstQueuedAtMs": 1795386600000,
+   "playedAtMs": 1795386600000
+  },
+  {
+   "key": "https://arkansasadvocate.com/?post_type=republished&p=31097",
+   "firstQueuedAtMs": 1795386600000,
+   "playedAtMs": 1795386600000
+  },
+  {
+   "key": "https://dev.to/ric0c0derlab/figured-it-was-time-to-start-sharing-what-ive-been-working-on-4f58",
+   "firstQueuedAtMs": 1795386600000,
+   "playedAtMs": 1795386600000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4452494",
+   "firstQueuedAtMs": 1795386600000,
+   "playedAtMs": 1795386600000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/22/scoop-desantis-secret-book-project-fuels-2028-speculation",
+   "firstQueuedAtMs": 1795386600000,
+   "playedAtMs": 1795386600000
+  },
+  {
+   "key": "https://dev.to/nefayran/api-credit-would-have-fixed-one-of-the-four-faults-behind-my-ai-agents-try-it-free-button-2819",
+   "firstQueuedAtMs": 1795386600000,
+   "playedAtMs": 1795386600000
+  },
+  {
+   "key": "https://dev.to/layoffatlas/warn-act-and-your-paid-family-leave-what-happens-to-your-state-paid-leave-after-a-layoff-notice-3flm",
+   "firstQueuedAtMs": 1795386600000,
+   "playedAtMs": 1795386600000
+  },
+  {
+   "key": "https://dev.to/puneet_nanda_dc25d8b489ad/the-other-arm-is-a-memory-f17",
+   "firstQueuedAtMs": 1795386600000,
+   "playedAtMs": 1795386600000
   }
  ]
 }
