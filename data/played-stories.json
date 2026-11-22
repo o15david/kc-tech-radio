@@ -1,7 +1,7 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-22T07:35:03.833Z",
+ "updatedAt": "2026-11-22T07:50:06.424Z",
  "lastSyncBucket": 997406,
  "entries": [
   {
@@ -910,6 +910,156 @@
    "playedAtMs": 1795327200000
   },
   {
+   "key": "https://www.arrowheadpride.com/217016/chiefs-news-former-chiefs-safety-justin-reid-hits-waivers",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://missouriindependent.com/?p=33795",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://thehill.com/?p=6235181",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://thehill.com/?p=6234303",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.kshb.com/us-news/crime/man-accused-of-sparking-deadly-palisades-fire-found-guilty-of-arson",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://thehill.com/?p=6235143",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://missouriindependent.com/?post_type=republished&p=33809",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://thehill.com/?p=6235147",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.kshb.com/news/crime/inmate-death-under-investigation-by-missouri-state-highway-patrol-ddcc",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/missouri/jackson-county/john-knox-village-builds-ems-station-as-service-proves-lifesaving-for-residents",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://thehill.com/?p=6234849",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://github.com/ItsNotRexed/Leonida",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://electrek.co/?p=493081",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/kansas/wyandotte-county/lawrence-crisis-team-fills-gap-left-by-lack-of-co-responders-with-24-7-access",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "tag:daringfireball.net,2026:/linked//6.43757",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://github.com/ShinMegamiBoson/lookatmyquant",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.missourinet.com/?p=178005",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://hackaday.com/?p=1428941",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163175",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://missouriindependent.com/?post_type=republished&p=33798",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1039543",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://fortune.com/?p=4648094&showAdminBar=true",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://martincitytelegraph.com/?p=81985",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163165",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "TOU2DGKK3NYA00",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.futurity.org/?p=3354482",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
    "key": "https://www.kctv5.com/2026/11/22/man-critical-condition-after-topeka-police-shooting/",
    "firstQueuedAtMs": 1795329000000,
    "playedAtMs": 1795329000000
@@ -1535,6 +1685,161 @@
    "playedAtMs": 1795329000000
   },
   {
+   "key": "https://www.kshb.com/science-and-tech/natural-disasters/storms-deluging-florida-with-historic-flooding-shift-further-north",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.missourinet.com/?p=178003",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.rockchalktalk.com/?p=34559",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/apple-airpods-pro-3-deal-of-the-day-rcna610526",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.kshb.com/sports/local-sports/kc-current/we-have-this-fire-kc-current-players-discuss-saturdays-nwsl-championship",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/21/black-organizers-southern-political-bench",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.kshb.com/shows/catch-me-up/catch-me-up-how-the-ground-stop-unfolded-and-a-huge-launch-for-gta-iv",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/missouri/kansas-city/jackson-county-residents-hope-newly-elected-leaders-pave-new-path-with-fewer-distractions",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://missouriindependent.com/?post_type=republished&p=33791",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.nbcnews.com/world/europe/denmark-accuses-russia-plotting-kill-ukrainian-american-rapper-soil-rcna610542",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.kshb.com/shows/scripps-news-reports/american-meltdown-inside-days-of-critical-infrastructure-failures-across-the-us",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.nbcnews.com/politics/justice-department/fbi-investigating-potential-breach-crime-database-rcna610536",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.futurity.org/?p=3354262",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.nbcnews.com/politics/white-house/trump-formally-ends-minting-penny-nearly-250-years-production-rcna600580",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3173132",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://nautil.us/?p=1286879",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.kshb.com/sports/local-sports/kc-current/kansas-city-chases-a-new-nwsl-title-with-a-championship-past",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.inc.com/jerry-colonna/the-man-known-as-the-pope-of-peppers-had-a-leadership-lesson-every-entrepreneur-should-know/91440530",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "108557000",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.futurity.org/?p=3354422",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "cc86809f-a438-4e8a-a469-e33b9089677d",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://lobste.rs/s/emymet",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.futurity.org/?p=3354282",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://missouriindependent.com/?post_type=republished&p=33787",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://spaceflightnow.com/?p=74992",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://abcnews.com/US/kalshi-prediction-market-crippled-judge-grants-restraining-order/story?id=138329957",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "WP-MKTW-0005337858",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "WP-MKTW-0005337943",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386535",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.futurity.org/?p=3354342",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
    "key": "https://www.kctv5.com/2026/11/21/man-accused-pouring-toxic-oil-into-womans-waffle-house-drink-before-child-drank-it-reports-say/",
    "firstQueuedAtMs": 1795330800000,
    "playedAtMs": 1795330800000
@@ -1626,6 +1931,146 @@
   },
   {
    "key": "https://kansasreflector.com/?p=64116",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/hamilton-county/cincinnati/ohios-little-fighter-u-s-senate-passes-unanimous-resolution-honoring-fiona-the-hippo",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://missouriindependent.com/?p=33800",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/world/rights-groups-urge-sanctions-after-icj-finds-myanmar-guilty-of-genocide-against-rohingya",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://abcnews.com/video/138331305/",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/court-stay-prevents-us-army-from-detonating-bomb-making-chemicals-in-iowa",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/what-trump-addressed-during-his-lengthy-white-house-news-conference",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "f2784561-b736-4cd3-8602-aa19832d48fd",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://kansasreflector.com/?p=64108",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=302312",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://abcnews.com/GMA/Food/new-government-report-sparks-concern-potential-cyberattack-us/story?id=138316014",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/news-wrap-stocks-tumble-as-worries-about-ai-rattle-market",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://thebeaconnews.org/?p=36349",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/mounting-tech-disruptions-raise-concerns-about-u-s-cybersecurity",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "108555422",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.futurity.org/?p=3354382",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "71feb553-584f-4073-883d-a4325c9a7f57",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=302145",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.inc.com/amaya-nichole/golds-gym-closing-locations-list-shuttered-clubs-2026/91440606",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://missouriindependent.com/?post_type=republished&p=33793",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.futurity.org/?p=3354442",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43171",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://electrek.co/?p=495057",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.futurity.org/?p=3354242",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/josh-shapiro-on-foreign-policy-democratic-wins-and-his-2028-ambitions",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "e0062ae2-b5ce-435b-9b45-fc664b68fb22",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "dmLg8jVdMEG4fwqAB2h3Ve",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.royalsreview.com/?p=108344",
    "firstQueuedAtMs": 1795330800000,
    "playedAtMs": 1795330800000
   }
