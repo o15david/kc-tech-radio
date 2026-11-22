@@ -43,13 +43,25 @@ try {
 } catch {
   raw = null;
 }
-const existingMap = parsePlayedStore(raw); // Map<key, playedAtMs>
+let existingDoc = { lastSyncBucket: null, entries: [] };
+if (raw) {
+  try {
+    existingDoc = JSON.parse(raw);
+  } catch (err) {
+    // A store we cannot read must stop the sync, never be treated
+    // as an empty store: merging against "nothing" and writing the
+    // result would erase the record.
+    console.error(`played-store sync: ABORT: existing store at ${storePath} is not valid JSON (${err.message}); nothing written`);
+    process.exit(1);
+  }
+}
+const existingMap = parsePlayedStore(existingDoc); // Map<key, playedAtMs>
 const existing = [...existingMap.entries()].map(([key, playedAtMs]) => ({
   key,
   firstQueuedAtMs: playedAtMs,
   playedAtMs,
 }));
-const existingDoc = raw ? JSON.parse(raw) : { lastSyncBucket: null };
+const existingEntryCount = Array.isArray(existingDoc.entries) ? existingDoc.entries.length : 0;
 
 const pool = await getNewsPool();
 const storyItems = pool.items.filter((i) => i.category !== 'music');
@@ -102,6 +114,36 @@ const doc = {
   lastSyncBucket: currentBucket - 1,
   entries: [...byKey.values()].sort((a, b) => a.playedAtMs - b.playedAtMs),
 };
+
+// APPEND-ONLY GUARDS (Nov 22, 2026). The store is append-only by
+// ruling; that is asserted here, not left to vigilance. A merge that
+// would shrink the store, or that loses any content-segment play
+// (track:/desk:) the existing store carries, aborts with a nonzero
+// exit and writes nothing. This is the exact failure the Nov 22
+// 00:49 run caught by hand: the existing store parsed empty, so the
+// merged file dropped all 12 track/desk entries.
+if (raw && doc.entries.length < existingEntryCount) {
+  console.error(
+    `played-store sync: ABORT: merged store has ${doc.entries.length} entries, fewer than the existing store's ${existingEntryCount}; append-only violated, nothing written`
+  );
+  process.exit(1);
+}
+if (raw) {
+  const missingSegments = (Array.isArray(existingDoc.entries) ? existingDoc.entries : [])
+    .map((e) => e && e.key)
+    .filter(
+      (k) =>
+        typeof k === 'string' &&
+        (k.startsWith(TRACK_PLAYED_PREFIX) || k.startsWith(DESK_PLAYED_PREFIX)) &&
+        !byKey.has(k)
+    );
+  if (missingSegments.length > 0) {
+    console.error(
+      `played-store sync: ABORT: merged store is missing ${missingSegments.length} content-segment entries from the existing store (${missingSegments.slice(0, 3).join(', ')}${missingSegments.length > 3 ? ', ...' : ''}); append-only violated, nothing written`
+    );
+    process.exit(1);
+  }
+}
 await writeFile(storePath, JSON.stringify(doc, null, 1) + '\n');
 console.log(
   `played-store sync: pool=${storyItems.length} aired total=${aired.size} ` +
