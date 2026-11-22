@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-22T20:20:08.927Z",
- "lastSyncBucket": 997431,
- "lastSyncCarryInSeconds": 111,
+ "updatedAt": "2026-11-22T20:35:15.406Z",
+ "lastSyncBucket": 997432,
+ "lastSyncCarryInSeconds": 89,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -4279,6 +4279,106 @@
    "key": "https://dev.to/amrithesh_dev/llms-that-patch-themselves-the-future-of-instant-ai-upgrades-34di",
    "firstQueuedAtMs": 1795375800000,
    "playedAtMs": 1795375800000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/217078/chiefs-news-cardinals-preparing-to-start-4th-qb-in-4-weeks",
+   "firstQueuedAtMs": 1795377600000,
+   "playedAtMs": 1795377600000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=164754",
+   "firstQueuedAtMs": 1795377600000,
+   "playedAtMs": 1795377600000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/22/pentagon-canada-defense-restrictions-fact-sheet",
+   "firstQueuedAtMs": 1795377600000,
+   "playedAtMs": 1795377600000
+  },
+  {
+   "key": "https://wisconsinwatch.org/?p=1323317",
+   "firstQueuedAtMs": 1795377600000,
+   "playedAtMs": 1795377600000
+  },
+  {
+   "key": "https://www.kshb.com/us-news/crime/man-accused-of-sparking-deadly-palisades-fire-found-guilty-of-arson",
+   "firstQueuedAtMs": 1795377600000,
+   "playedAtMs": 1795377600000
+  },
+  {
+   "key": "https://thehill.com/?p=6235791",
+   "firstQueuedAtMs": 1795377600000,
+   "playedAtMs": 1795377600000
+  },
+  {
+   "key": "https://dev.to/binarydose/why-left-recursion-breaks-top-down-parsers-and-how-to-eliminate-it-algorithmically-124a",
+   "firstQueuedAtMs": 1795377600000,
+   "playedAtMs": 1795377600000
+  },
+  {
+   "key": "https://dev.to/0xstoic_bit/i-asked-two-ai-teams-to-break-my-bot-detector-they-found-8-holes-and-their-fixes-opened-3-new-f58",
+   "firstQueuedAtMs": 1795377600000,
+   "playedAtMs": 1795377600000
+  },
+  {
+   "key": "https://dev.to/versedebug/show-dev-i-built-a-full-stack-ai-agent-visual-workflow-saas-starter-kit-react-19-nodejs--gam",
+   "firstQueuedAtMs": 1795377600000,
+   "playedAtMs": 1795377600000
+  },
+  {
+   "key": "https://thehill.com/?p=6236202",
+   "firstQueuedAtMs": 1795377600000,
+   "playedAtMs": 1795377600000
+  },
+  {
+   "key": "WP-MKTW-0005356078",
+   "firstQueuedAtMs": 1795377600000,
+   "playedAtMs": 1795377600000
+  },
+  {
+   "key": "https://dev.to/jjromeul/i-built-a-free-browser-game-where-you-catch-spacex-starship-with-the-tower-chopsticks-4kmf",
+   "firstQueuedAtMs": 1795377600000,
+   "playedAtMs": 1795377600000
+  },
+  {
+   "key": "https://www.kshb.com/news/crime/inmate-death-under-investigation-by-missouri-state-highway-patrol-ddcc",
+   "firstQueuedAtMs": 1795377600000,
+   "playedAtMs": 1795377600000
+  },
+  {
+   "key": "https://dev.to/aditi_dange_20cc3d78635f7/s3-access-grants-end-to-end-create-test-and-revoke-prefix-level-access-with-buckets-4ck2",
+   "firstQueuedAtMs": 1795377600000,
+   "playedAtMs": 1795377600000
+  },
+  {
+   "key": "https://martincitytelegraph.com/?p=81985",
+   "firstQueuedAtMs": 1795377600000,
+   "playedAtMs": 1795377600000
+  },
+  {
+   "key": "https://dev.to/silviutech/react-reserva-espacio-para-mensajes-de-email-518",
+   "firstQueuedAtMs": 1795377600000,
+   "playedAtMs": 1795377600000
+  },
+  {
+   "key": "https://arkansasadvocate.com/?p=31122",
+   "firstQueuedAtMs": 1795377600000,
+   "playedAtMs": 1795377600000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/nation/u-s-army-plans-to-invoke-emergency-provisions-to-detonate-bomb-making-chemicals-in-iowa",
+   "firstQueuedAtMs": 1795377600000,
+   "playedAtMs": 1795377600000
+  },
+  {
+   "key": "https://dev.to/tanmay2627/fine-tuning-vs-rag-vs-prompting-how-to-pick-the-right-ai-architecture-1p2l",
+   "firstQueuedAtMs": 1795377600000,
+   "playedAtMs": 1795377600000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=302312",
+   "firstQueuedAtMs": 1795377600000,
+   "playedAtMs": 1795377600000
   }
  ]
 }
