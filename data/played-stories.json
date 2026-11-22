@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-22T18:50:08.945Z",
- "lastSyncBucket": 997428,
- "lastSyncCarryInSeconds": 12,
+ "updatedAt": "2026-11-22T19:05:18.096Z",
+ "lastSyncBucket": 997429,
+ "lastSyncCarryInSeconds": 18,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -3924,6 +3924,121 @@
    "key": "https://fortune.com/?p=4648214&showAdminBar=true",
    "firstQueuedAtMs": 1795370400000,
    "playedAtMs": 1795370400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/22/high-school-tennis-coach-fired-after-student-overheats-passes-out-tournament/",
+   "firstQueuedAtMs": 1795372200000,
+   "playedAtMs": 1795372200000
+  },
+  {
+   "key": "https://arkansasadvocate.com/?p=31141",
+   "firstQueuedAtMs": 1795372200000,
+   "playedAtMs": 1795372200000
+  },
+  {
+   "key": "https://abcnews.com/US/west-coast-bracing-coastal-flooding-thanksgiving-travel-week/story?id=138357189",
+   "firstQueuedAtMs": 1795372200000,
+   "playedAtMs": 1795372200000
+  },
+  {
+   "key": "https://dev.to/yoane_ngassam/gemini-carbon-qui-fixe-les-conditions-dacces--4afm",
+   "firstQueuedAtMs": 1795372200000,
+   "playedAtMs": 1795372200000
+  },
+  {
+   "key": "https://thehill.com/?p=6236031",
+   "firstQueuedAtMs": 1795372200000,
+   "playedAtMs": 1795372200000
+  },
+  {
+   "key": "https://dev.to/mecanik-dev/salesforce-vs-hubspot-choosing-a-crm-in-2026-5236",
+   "firstQueuedAtMs": 1795372200000,
+   "playedAtMs": 1795372200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/22/kelce-celebrates-100th-career-game-arrowhead-with-trip-end-zone/",
+   "firstQueuedAtMs": 1795372200000,
+   "playedAtMs": 1795372200000
+  },
+  {
+   "key": "https://dev.to/aleksuix/openrtb-tmax-needs-a-deadline-budget-that-includes-network-time-b0p",
+   "firstQueuedAtMs": 1795372200000,
+   "playedAtMs": 1795372200000
+  },
+  {
+   "key": "https://dev.to/makerio/who-posted-the-most-jobs-this-week-on-greenhouse-lever-and-ashby-not-who-you-think-4029",
+   "firstQueuedAtMs": 1795372200000,
+   "playedAtMs": 1795372200000
+  },
+  {
+   "key": "https://www.kshb.com/news/crime/man-shot-and-killed-outside-kansas-city-missouri-apartment-complex-police-say",
+   "firstQueuedAtMs": 1795372200000,
+   "playedAtMs": 1795372200000
+  },
+  {
+   "key": "https://dev.to/mdazlaanzubair/how-to-approach-a-system-design-interview-a-six-step-method-24bb",
+   "firstQueuedAtMs": 1795372200000,
+   "playedAtMs": 1795372200000
+  },
+  {
+   "key": "https://iowacapitaldispatch.com/?post_type=republished&p=61336",
+   "firstQueuedAtMs": 1795372200000,
+   "playedAtMs": 1795372200000
+  },
+  {
+   "key": "https://nautil.us/?p=1286962",
+   "firstQueuedAtMs": 1795372200000,
+   "playedAtMs": 1795372200000
+  },
+  {
+   "key": "https://dev.to/faith_wan_1e412caabe9fbcd/my-journey-as-a-freshman-software-engineer-at-yibsisest-5ckb",
+   "firstQueuedAtMs": 1795372200000,
+   "playedAtMs": 1795372200000
+  },
+  {
+   "key": "https://www.kshb.com/politics/america-votes/democrats-clinch-house-majority-of-at-least-258-seats-largest-since-1992",
+   "firstQueuedAtMs": 1795372200000,
+   "playedAtMs": 1795372200000
+  },
+  {
+   "key": "https://dev.to/designden_solutions_89070/stop-generating-city-pages-model-your-service-area-as-data-instead-2jfh",
+   "firstQueuedAtMs": 1795372200000,
+   "playedAtMs": 1795372200000
+  },
+  {
+   "key": "1333dcd2-3e16-4c98-8b11-c15c8bce6432",
+   "firstQueuedAtMs": 1795372200000,
+   "playedAtMs": 1795372200000
+  },
+  {
+   "key": "https://dev.to/whmcsexpert/10-whmcs-hooks-every-hosting-company-should-use-1l1d",
+   "firstQueuedAtMs": 1795372200000,
+   "playedAtMs": 1795372200000
+  },
+  {
+   "key": "https://dev.to/whmcsexpert/how-to-build-a-custom-whmcs-provisioning-module-step-by-step-13g7",
+   "firstQueuedAtMs": 1795372200000,
+   "playedAtMs": 1795372200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/22/tailgate-recipe-pizza-potato-tot-cups/",
+   "firstQueuedAtMs": 1795372200000,
+   "playedAtMs": 1795372200000
+  },
+  {
+   "key": "74475467",
+   "firstQueuedAtMs": 1795372200000,
+   "playedAtMs": 1795372200000
+  },
+  {
+   "key": "0a16d910-6730-4937-9b71-a529a923150d",
+   "firstQueuedAtMs": 1795372200000,
+   "playedAtMs": 1795372200000
+  },
+  {
+   "key": "https://dev.to/darkveilcorvyn26/edtech-faq-suggestions-debounce-each-vector-query-before-lessons-go-stale-2cp8",
+   "firstQueuedAtMs": 1795372200000,
+   "playedAtMs": 1795372200000
   }
  ]
 }
