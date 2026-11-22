@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-22T08:50:23.414Z",
- "lastSyncBucket": 997408,
+ "updatedAt": "2026-11-22T09:05:19.458Z",
+ "lastSyncBucket": 997409,
  "entries": [
   {
    "key": "74498741",
@@ -1690,6 +1690,161 @@
    "playedAtMs": 1795327200000
   },
   {
+   "key": "https://capitolnewsillinois.com/?p=134880",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://iowacapitaldispatch.com/?post_type=republished&p=61351",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://arkansasadvocate.com/?p=31123",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://wisconsinexaminer.com/?p=49019",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1551211",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "01M7X91JJQ5CWGQ65DZBAHW4Q9",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.inc.com/amaya-nichole/daves-hot-chicken-co-founder-1-advantage-fueled-growth-500-locations/91437430",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/complex-life-on-earth-may-not-have-appeared-without-tall-mountains",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "9fcc26a95aa36a1d89af71508fa651ff1a91c61f",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.fastcompany.com/91645236/the-future-of-live-entertainment",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://news.crunchbase.com/?p=94434",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/society/series/3375359/tai-po-fire-1-year",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "7894ceac-e639-11f1-9490-25047c8f4b46",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "6b00a8aff7a2ad0001596a05",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/a-radical-theory-about-the-universe-just-passed-some-key-tests-so-what-does-that-mean",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315424",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "01M7X76K1JK00SF9K4YN83WANQ",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://northdakotamonitor.com/?p=23645",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.fastcompany.com/91646506/rto-means-women-risk-doing-the-office-housework-all-over-again",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "changelog.com/1/2839",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo#1",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "ccBqCNqgmy3UnjzUeUNmDh",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://nautil.us/?p=1286925",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://electrek.co/?p=494881",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "108556598",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=284735",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://electrek.co/?p=494897",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3190943",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
    "key": "https://www.kctv5.com/2026/11/22/man-critical-condition-after-topeka-police-shooting/",
    "firstQueuedAtMs": 1795329000000,
    "playedAtMs": 1795329000000
@@ -3045,6 +3200,156 @@
    "playedAtMs": 1795329000000
   },
   {
+   "key": "https://www.minnpost.com/?p=2243819",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://michiganadvance.com/?p=116131",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://southdakotasearchlight.com/?post_type=republished&p=26264",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795290881",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cq7827z2841zo#0",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.minnpost.com/?p=2243794",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "6b006eaa6873ef9746910ed7",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.fastcompany.com/91642976/why-you-dont-have-to-use-ai-is-the-new-ai-pitch",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.scmp.com/news/asia/east-asia/article/3375362/south-koreas-education-minister-quits-amid-backlash-over-anti-cheating-exam-checks",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43124",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163090",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795268251",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "108556722",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/20/business/nissan-reapirs-hack-technology.html",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "108556739",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.sci.news/?p=112849",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3190908",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.fastcompany.com/91645198/the-hidden-human-intelligence-of-design",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.futurity.org/?p=3354202",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163072",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://arkansasadvocate.com/?p=31112",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://stratechery.com/?p=21301",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.futurity.org/?p=3354072",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.scmp.com/week-asia/lifestyle-culture/article/3375247/malaysias-chetti-melaka-how-hindu-malay-community-keeps-its-roots-alive",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1551357",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://insideclimatenews.org/?p=116502",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.techdirt.com/?p=551951&preview=true&preview_id=551951",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
    "key": "https://www.kctv5.com/2026/11/21/man-accused-pouring-toxic-oil-into-womans-waffle-house-drink-before-child-drank-it-reports-say/",
    "firstQueuedAtMs": 1795330800000,
    "playedAtMs": 1795330800000
@@ -3905,6 +4210,161 @@
    "playedAtMs": 1795330800000
   },
   {
+   "key": "https://bridgemi.com/?p=84008",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://bridgemi.com/?p=84076",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1104059",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/health-environment/article/3375358/hong-kong-temperatures-fall-16-degrees-midweek-monsoon-arrives",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.sciencenews.org/?p=3181756",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "TKDgyAUGAFnvW7tiFsWqMm",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1105871",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://nautil.us/?p=1286863",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://electrek.co/?p=494884",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795257888",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.techdirt.com/?p=552172&preview=true&preview_id=552172",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43135",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795245139",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311438",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163047",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3190826",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "08fb4e238d4eba4747871a78311b05e8f79a2286",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.technologyreview.com/?p=1149399",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163030",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.minnpost.com/?p=2243793",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "108554418",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "6afe308c564242f4569caabe",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.infoq.com/news/2026/11/meta-triton-tlx-gpu-compiler/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "UAdeqaq2Z3M2L6h2dfNA4B",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795323614",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.sciencenews.org/?p=3182078",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=162292",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
    "key": "https://www.kcur.org/podcast/kansas-city-today/2026-11-20/kansas-city-gets-a-new-scrooge",
    "firstQueuedAtMs": 1795332600000,
    "playedAtMs": 1795332600000
@@ -4640,6 +5100,171 @@
    "playedAtMs": 1795332600000
   },
   {
+   "key": "https://www.minnpost.com/?p=2243787",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://iowacapitaldispatch.com/?p=61343",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://michiganadvance.com/?p=116119",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.marktechpost.com/?p=84016",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795314418",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3190857",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://electrek.co/?p=494838",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315412",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311382",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795322409",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386169",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/society/article/3375357/hong-kong-chile-working-holiday-scheme-expected-launch-first-half-2027",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.techdirt.com/?p=551742",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.canarymedia.com/articles/solar/trump-epa-solar-for-all",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "a6ff6a3e-5185-475e-b87f-d6095b49844e",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=162274",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://oklahomavoice.com/?p=22815",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "gaD5s2mCA3Y8EeLGJv5ZSA",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315372",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "69271d9a58e4e06eb6f254cb",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "gyAzd9xqAEEd2rxi23ktoY",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/health-environment/article/3375334/experts-call-stronger-reef-protection-20-coral-survey-sites-bleached",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://nautil.us/?p=1286851",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "H2d9A8v6LfKehqoXC3guiL",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "108556507",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/a-triple-star-system-that-shouldnt-exist-only-28-light-years-from-earth",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163024",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://lobste.rs/s/18c0lq",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311345",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
    "key": "https://flatlandkc.org/?p=199455",
    "firstQueuedAtMs": 1795334400000,
    "playedAtMs": 1795334400000
@@ -4898,6 +5523,341 @@
    "key": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
    "firstQueuedAtMs": 1795334400000,
    "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://oklahomavoice.com/?post_type=republished&p=22813",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://southdakotasearchlight.com/?p=26255",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1104189",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "31c5b4d8-e624-11f1-a020-0f3a5ebf3e34",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795213076",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://minnesotareformer.com/?p=39954",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315378",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386160",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3190832",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=162257",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://www.canarymedia.com/articles/offshore-wind/new-york-ports-get-230m-boost-for-offshore-wind-other-industries",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386432",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://sifted.eu/articles/exclusive-aikido-4bn-valuation/",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311335",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "6aff3659a32f92c211a9c17e",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://news.fnal.gov/?p=343284",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://www.scmp.com/news/people-culture/trending-china/article/3375355/chinese-teen-girl-who-dreams-becoming-soldier-runs-burning-home-save-2-kids",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://www.nasa.gov/?post_type=image-article&p=1066844",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1551157",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://electrek.co/?p=494832",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1105521",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3190633",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163006",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "6b0066f8f7a2ad000155d049",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://www.eetimes.com/?p=101803998",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://sifted.eu/articles/european-angels-anthropic-ipo/",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://electrek.co/?p=494785",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=162249",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/society/article/3375345/year-grief-tai-po-fire-residents-coping-loss-and-trying-move",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1104796",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/military/article/3375372/pla-anti-submarine-ships-conduct-south-china-sea-patrol-vietnamese-navy",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://www.dw.com/en/china-asean-countries-struggle-over-south-china-sea-code-of-conduct/a-80009799?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://www.dw.com/en/inspired-by-bernie-sanders-a-german-agency-is-using-us-style-campaigning-to-boost-the-left-in-2029/a-80001443?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1105330",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://www.scmp.com/opinion/world-opinion/article/3375168/uk-needs-real-china-expertise-not-more-hawks-and-ideologues",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://dev.to/eunice-js/you-dial-a-ussd-code-how-does-your-bank-receive-it-without-internet-16k5",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://dev.to/ndcodes/day-90-a-mask-in-the-way-and-a-policy-pointing-at-nothing-390o",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://dev.to/serguey_shinder_4ab9b87b1/our-branch-managers-were-licensed-through-a-group-inside-a-group-and-none-of-the-licences-arrived-4k1e",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/politics/article/3375354/hong-kong-election-committee-race-long-lines-polling-stations-voting-begins",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://dev.to/sergey_shinder_ab2d943365/our-nginx-latency-alert-fired-every-morning-for-drivers-on-4g-and-our-api-had-answered-in-eighty-2g2n",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://michiganadvance.com/?p=116123",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311247",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://www.gadgetreview.com/man-claiming-to-be-fired-rockstar-engineer-says-gta-6-is-secretly-tracking-player-behavior-and-reporting-it-to-take-two",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "108556444",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://source.washu.edu/?p=735755",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://www.scmp.com/news/world/united-states-canada/article/3375353/horrific-ice-arrests-seattle-airport-jet-bridge-rattles-passengers-fuels-outrage",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://physicsworld.com/?p=131706",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://www.sciencenews.org/?p=3181817",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "hE74ijmCJws8BmHDUbHS6P",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://nautil.us/?p=1286840",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "108556412",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/sound-waves-from-sunspots-launch-fiery-plasma-jets-across-the-sun",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://techcrunch.com/?post_type=tc_podcast&p=3190825",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsambanova.ai%2Fblog%2Fthe-air-cooled-token-factory-intel-gpu-d-series-sambarack-sn50%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=nov20-2026%26utm_content=header_data_centers_delayed%26utm_term=2026-11-20_tldr_ai/2/010001a1f974c898-f01bc960-b703-4268-a9a8-8c400c28bbed-000000/-Bet6rS-FVGKGUzBCq7q39pXedy_0Pl_cfV-FU9Yoqk=452",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.google%2Finnovation-and-ai%2Ftechnology%2Fdevelopers-tools%2Fgemini-api-tool-retrieval%2F%3Futm_source=tldrai/1/010001a1f974c898-f01bc960-b703-4268-a9a8-8c400c28bbed-000000/KLe_uaOPgN3jZd0ru1IMH7Thv60UTzb0bnG-5jMfotM=452",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinch.substack.com%2Fp%2Fai-is-already-massively-speeding%3Futm_source=tldrai/1/010001a1f974c898-f01bc960-b703-4268-a9a8-8c400c28bbed-000000/4zaVb0EvovHt0LW7s23cuRT_WZC0MBZGNx9FUuHvkQM=452",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdeveloper.godaddy.com%2Fen%2Fdocs%2Fapi-users%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=explore%26utm_id=secondary/1/010001a1f974c898-f01bc960-b703-4268-a9a8-8c400c28bbed-000000/B2h8BuHbvlh1rQ2DdnGtFhHcR-3ZOuOCk7N0vGZ-qLU=452",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcommunity.tldr.tech%2Ft%2Fweekly-what-s-your-unpopular-opinion-about-ai%3Futm_source=tldrai%26utm_medium=newsletter/1/010001a1f974c898-f01bc960-b703-4268-a9a8-8c400c28bbed-000000/1-B0ogt3qKDuDHAyvisA7ybNe1jpDsaV7KutQWnEY08=452",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://www.quantamagazine.org/?p=169214",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://source.washu.edu/?p=735478",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
   }
  ]
 }
