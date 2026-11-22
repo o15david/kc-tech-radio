@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-22T09:20:24.377Z",
- "lastSyncBucket": 997409,
+ "updatedAt": "2026-11-22T09:35:33.497Z",
+ "lastSyncBucket": 997410,
  "entries": [
   {
    "key": "74498741",
@@ -1985,6 +1985,246 @@
    "playedAtMs": 1795327200000
   },
   {
+   "key": "https://ohiocapitaljournal.com/?p=43202",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo#0",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://ohiocapitaljournal.com/?post_type=republished&p=43196",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "2f6b1c62-e5a4-11f1-9016-8169673db442",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "75c1206a-e59c-11f1-b8f2-ef797d14467e",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168851",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://ohiocapitaljournal.com/?p=43206",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "news714042848",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "news714317253",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168834",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "news714286602",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "news714460786",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://lobste.rs/s/vxokkj",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "news714409080",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "news714389857",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "news714409162",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "news714400952",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "news714399986",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "news714394429",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "news714403261",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "news714403142",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "news714400028",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "news714403801",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "news714403021",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "news714400341",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "news714400800",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "news714402424",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "news714400447",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "news714143916",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://iowacapitaldispatch.com/?p=61338",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://sifted.eu/articles/kanishka-narayan-ai-uk-minister-sovereign/",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://sifted.eu/articles/pre-seed-fintechs-to-watch/",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://sifted.eu/articles/inside-slush-2026-robots-riches-and-the-race-to-superintelligence/",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://sifted.eu/articles/slush-20u20-2026/",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://sifted.eu/articles/espoo-closes-in-on-helsinki-as-finlands-startup-funding-race-tightens/",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386419",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386367",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "108556079",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261118065534.htm",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311066",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386388",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.techdirt.com/?p=552096&preview=true&preview_id=552096",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311200",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://phys.org/news/2026-11-tiny-primordial-black-holes.html",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386379",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
    "key": "https://www.kctv5.com/2026/11/22/man-critical-condition-after-topeka-police-shooting/",
    "firstQueuedAtMs": 1795329000000,
    "playedAtMs": 1795329000000
@@ -3665,6 +3905,206 @@
    "playedAtMs": 1795329000000
   },
   {
+   "key": "https://arkansasadvocate.com/?p=31087",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o#1",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://minnesotareformer.com/?post_type=republished&p=39940",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.dw.com/en/killer-robots-talks-at-un-end-with-no-legally-binding-ban/a-80008584?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "9.7426808",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "9.7429741",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://arkansasadvocate.com/?p=31078",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "9.7425421",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261118065531.htm",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/20/senate-passes-energy-permitting-bill",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo#1",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.sci.news/?p=112834",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386366",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "01M7V6MST3Z48AB8DBH1WGS8EX",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo#1",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/19/technology/google-search-ads-ai.html",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "6aff93fe62d8ed0001648c07",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://iowacapitaldispatch.com/?p=61319",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.dw.com/en/three-el-salvador-soldiers-die-in-explosives-accident-in-haiti/a-80008005?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311193",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3190713",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://news.fnal.gov/?p=343605",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3190498",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://electrek.co/?p=494690",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386364",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "19955f2885c60f352884dbb3fc318cc9afbc5339",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.dw.com/en/brazil-ex-president-jair-bolsonaro-taken-to-hospital-over-abdominal-pain/a-80007648?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "71f08435a376a063de0a38fc52648940b0309672",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://electrek.co/?p=494374",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386362",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://insideclimatenews.org/?p=116445",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311186",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo#1",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://openai.com/business/customer-stories/hebbia",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://openai.com/index/introducing-medchembench",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1550939",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
    "key": "https://www.kctv5.com/2026/11/21/man-accused-pouring-toxic-oil-into-womans-waffle-house-drink-before-child-drank-it-reports-say/",
    "firstQueuedAtMs": 1795330800000,
    "playedAtMs": 1795330800000
@@ -4860,6 +5300,266 @@
    "playedAtMs": 1795330800000
   },
   {
+   "key": "https://southdakotasearchlight.com/?p=26253",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo#0",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://capitolnewsillinois.com/?p=134845",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://northdakotamonitor.com/?p=23617",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko#2",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o#1",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo#1",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://southdakotasearchlight.com/?p=26246",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo#1",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03680-1",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03751-3",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03776-8",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03590-2",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03805-6",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03789-3",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03812-7",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03799-1",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03787-5",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.nature.com/articles/s41586-026-10974-x",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03519-9",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03790-w",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03465-6",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03811-8",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://insideclimatenews.org/?p=116448",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://spaceflightnow.com/?p=74981",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo#2",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "Mo6zu3rk8hp9CYmNxGf7Jm",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://bridgemi.com/?p=84044",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "108555447",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "108556057",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "9.7430437",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.techdirt.com/?p=551745",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "108555864",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315269",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "1b0652cc95393da48c861946cd586856ffb3f573",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.sciencenews.org/?p=3182071",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1550920",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko#1",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "UfEzE8KhhNcTCBSQ82gQp5",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/19/technology/anthropic-2-trillion.html",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.dw.com/en/russian-ornithologist-jailed-over-small-donations-to-navalny-s-foundation/a-80005505?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.sci.news/?p=112831",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://electrek.co/?p=494643",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315364",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "tag:daringfireball.net,2026://1.43755",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.eetimes.com/?p=101803831",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://electrek.co/?p=494634",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "1330a64685170b909926b2b4b2a02424e8e39834",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://sahanjournal.com/?p=89784",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
    "key": "https://www.kcur.org/podcast/kansas-city-today/2026-11-20/kansas-city-gets-a-new-scrooge",
    "firstQueuedAtMs": 1795332600000,
    "playedAtMs": 1795332600000
@@ -5970,6 +6670,201 @@
    "playedAtMs": 1795332600000
   },
   {
+   "key": "https://southdakotasearchlight.com/?p=26240",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.dw.com/en/cop31-no-agreement-on-climate-science-disinformation-spreading/a-80004894?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://minnesotareformer.com/?p=39929",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.dw.com/en/has-the-parthenon-puzzle-been-solved-the-long-quest-to-reassemble-lost-eastern-pediment/a-79982098?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo#2",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.dw.com/en/better-educated-than-ever-yet-germany-s-gen-z-is-being-shut-out-of-its-own-future/a-80005823?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://arkansasadvocate.com/?p=31066",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o#2",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.dw.com/en/can-german-auto-manufacturing-recover-after-mercedes-and-vw-cuts/a-79946928?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1550697",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-stock-market.html",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "a212bfea16460bf7a9bea632edeb986e07e0bc27",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.sci.news/?p=112827",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "gEkBoWkDqcp48tsiT7MdFi",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "9.7429562",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "5EukkyFNph9VrWG2VjQ9ZY",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3190594",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.marktechpost.com/?p=84004",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o#2",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://indianacapitalchronicle.com/?p=28217",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://insideclimatenews.org/?p=116437",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3190572",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/19/technology/downdetector-tech-outages-microsoft-chase-apple.html",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "bd2756a23322a6c423c6a0c059236125af9e54b9",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://news.sky.com/story/anthropic-among-big-fallers-in-global-stock-market-rout-13614361",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://insideclimatenews.org/?p=116433",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315346",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "e173d85d5b258de98c02cefa501644ec74000613",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://eos.org/?p=252388",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311175",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168854",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://yaleclimateconnections.org/?p=144876",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "tag:daringfireball.net,2026:/linked//6.43754",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "V6ah7uTJ2ficGSZgQSn88i",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
    "key": "https://flatlandkc.org/?p=199455",
    "firstQueuedAtMs": 1795334400000,
    "playedAtMs": 1795334400000
@@ -6585,6 +7480,181 @@
    "playedAtMs": 1795334400000
   },
   {
+   "key": "https://sahanjournal.com/?p=89770",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168853",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://wisconsinwatch.org/?p=1323235",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168849",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168847",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168846",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://michiganadvance.com/?p=116078",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3186475",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "83c0c30f184dfdf0ae395f9aa3d7c3629ffc28b5",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://blogs.nvidia.com/?p=100047",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168844",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "t9qLzrYjGccVo686jnVPAW",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "0284d123338e8b4392bdbafcf50be65e5c2ba081",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315354",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315339",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://www.nasa.gov/?p=1066750",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/what-are-anthropics-financials",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://source.washu.edu/?p=735704",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "QtuMuRqpbaemfGP6pLXZHh",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://michiganadvance.com/?p=116074",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "FNEn6i8yvmvFyGK2Mva4uY",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3190534",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://www.sciencenews.org/?p=3182010",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "9.7429041",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "zwhwgEEf9LuF3NmuWw6q5W",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://news.mit.edu/2026/ultrasound-imaging-without-gel-1119",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://www.canarymedia.com/articles/politics/becerra-solar-power-hour",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/anthropics-unusual-corporate-structure-mandates-it-balance-safety-and-profit",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://eos.org/?p=252649",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "956ccf301033a9414ae29d032c3df0b75681b861",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "pwtvbHX2ugksrVFtKM9ZDE",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
    "key": "https://blockclubchicago.org/?p=1104796",
    "firstQueuedAtMs": 1795336200000,
    "playedAtMs": 1795336200000
@@ -6933,6 +8003,281 @@
    "key": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/",
    "firstQueuedAtMs": 1795336200000,
    "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://iowacapitaldispatch.com/?p=61313",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "9.7429069",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://wisconsinexaminer.com/?p=49006",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "9.7427069",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "9.7424797",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://oklahomavoice.com/?p=22808",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "f3760d486fc3a253f618f5aadd62c89dc2633b7d",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "f762308a567b8d6343b1b8fca29e935ce6c79914",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://www.marktechpost.com/?p=84001",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "9.7428712",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "6aff39e450c3d200013d072e",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3190514",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/earths-atmosphere-took-three-deep-breaths-of-oxygen-before-the-oceans-caught-up",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "QEfp9Ze8NnWxFLRzkcfa7a",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://www.marktechpost.com/?p=83996",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3190466",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://www.sci.news/?p=112820",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://spacenews.com/?p=628726",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://www.societyforscience.org/?p=68550",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://wisconsinexaminer.com/?p=49004",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "sPjbGX4D467nBMqjqvcx87",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1550560",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://blogs.nvidia.com/?p=98677",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3190407",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "m2avzVMp3EDccqNXXK8eFJ",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "9.7428594",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "4hTMG5jMbkZ9PD8gmLqYMe",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://michiganadvance.com/?p=116063",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no#0",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795337720",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://dev.to/medjahdi/the-email-parser-nightmare-unicode-rfc-quirks-and-account-takeover-onc",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://dev.to/kienpt91/how-long-does-it-take-to-turn-a-long-video-into-shorts-our-measured-jobs-and-what-other-tools-28a6",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "9.7428903",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://dev.to/john1981558ros/60-fps-in-canvas-state-loops-and-vector-hitboxes-in-crowded-sky-21e7",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://iowacapitaldispatch.com/?p=61308",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://dev.to/gusain/backend-vs-infrastructure-whats-the-difference-42e5",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "9.7428700",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://dev.to/stackcollider/sewing-patterns-without-writing-code-when-forty-years-of-experience-meet-claude-gf5",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://dev.to/jpietrus/my-ai-agent-says-done-is-it-though-32m6",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "9.7428718",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://dev.to/richardshaju/i-built-an-ai-tool-got-450-users-made-0-and-shut-it-down-heres-the-story-of-toolchat-p2p",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://dev.to/sora_uzu/my-ai-skips-written-rules-so-i-turned-one-into-a-check-a-write-time-guard-hook-38ml",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://lobste.rs/s/v3m2uj",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311023",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://news.sky.com/story/uk-conducting-offensive-cyber-ops-against-russia-china-iran-and-north-korea-top-commander-reveals-13614163",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://wisconsinexaminer.com/?p=49002",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://hackaday.com/?p=1429498",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://hackaday.com/?p=1429399",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168843",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://news.mit.edu/2026/first-whole-body-single-cell-atlas-adult-vertebrate-1119",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1550725",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
   }
  ]
 }
