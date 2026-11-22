@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-22T11:20:04.164Z",
- "lastSyncBucket": 997413,
+ "updatedAt": "2026-11-22T11:35:10.550Z",
+ "lastSyncBucket": 997414,
  "entries": [
   {
    "key": "74498741",
@@ -2816,6 +2816,26 @@
   },
   {
    "key": "https://earthsky.org/?p=554325",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "108556786",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "108555732",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://joinmayberry.com/",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "tag:daringfireball.net,2026:/linked//6.43753",
    "firstQueuedAtMs": 1795327200000,
    "playedAtMs": 1795327200000
   },
@@ -12678,6 +12698,126 @@
    "key": "https://www.marktechpost.com/?p=84044",
    "firstQueuedAtMs": 1795343400000,
    "playedAtMs": 1795343400000
+  },
+  {
+   "key": "https://www.fastcompany.com/91646518/why-the-nfl-is-making-players-disguise-their-caddix-cleats",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "74492479",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "https://arkansasadvocate.com/?p=31122",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/22/opinion/jensen-huang-ai-ethics-cold-war.html",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "74500065",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/22/opinion/ai-writing-technology-human-colonialism.html",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "6afd799cee5c9e07415dd46e",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "https://dev.to/numbpill3d/badusb-works-because-trust-was-designed-for-convenience-not-verification-45f4",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "https://dev.to/_c2c381a915acd879e50d86/building-a-privacy-first-drawing-grid-tool-in-the-browser-zero-image-uploads-with-html5-canvas-2k4b",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "https://dev.to/askbenny/why-cant-a-review-bot-review-my-20k-line-prs-5h0n",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "https://www.dw.com/en/bayern-munich-bosses-under-fire-over-jamal-musiala-comments/a-80013187?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315455",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "https://arkansasadvocate.com/?post_type=republished&p=31134",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "https://dev.to/yannabadie/zero-dependency-python-for-eu-b2b-ops-official-open-data-mcp-sirene-ted-factur-x-2027-30ag",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "https://dev.to/surhidamatya/colors-in-programming-part-3-alpha-blending-3h1d",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795345919",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "https://dev.to/nilesharma0108/claude-api-pricing-in-2026-token-rates-caching-batch-and-how-to-estimate-a-bill-10gp",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795334085",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "https://www.theguardian.com/business/2026/nov/22/uk-eu-food-sps-deal-brexit-checks",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "https://dev.to/nordiccybercompliance/isoiec-270012022-lead-auditor-eu-nis2-2026-study-guide-audit-rules-5-practice-scenarios-4jpm",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315502",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43181",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "69f3c59f59018beb3d0d73a2",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "https://www.inc.com/justin-bariso/jurassic-park-author-michael-crichton-gell-mann-amnesia-effect-emotional-intelligence-ai-trust/91441033",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
   }
  ]
 }
