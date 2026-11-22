@@ -1,7 +1,7 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-22T15:05:20.319Z",
+ "updatedAt": "2026-11-22T15:20:09.063Z",
  "lastSyncBucket": 997421,
  "entries": [
   {
@@ -2450,6 +2450,46 @@
    "playedAtMs": 1795356000000
   },
   {
+   "key": "https://kansascitydefender.com/?p=18952",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "https://flatlandkc.org/?p=199532",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "https://dosmundos.com/?p=121471",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "https://flatlandkc.org/?p=199495",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "https://www.downtownkc.org/?p=68796",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "https://kansascitydefender.com/?p=18913",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "https://flatlandkc.org/?p=199455",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "https://www.kcdigitaldrive.org/?post_type=article&p=8564",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
    "key": "74500821",
    "firstQueuedAtMs": 1795357800000,
    "playedAtMs": 1795357800000
@@ -2576,6 +2616,96 @@
   },
   {
    "key": "https://dev.to/rehana_parveen_1b8844718a/azure-devops-crash-course-part-3-azure-repos-branches-and-your-first-pull-request-1ib3",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://www.downtownkc.org/?p=68788",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://kansascitydefender.com/?p=18904",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://www.downtownkc.org/?p=68782",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://kansascitydefender.com/?p=18413",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://thehill.com/?p=6233962",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://kansascitydefender.com/?p=18409",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://www.engadget.com/2319361/why-you-should-never-vacuum-inside-computer/",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "iTs9SkDev3r2eJQt2FkdBF",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://kansascitydefender.com/?p=18390",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://nautil.us/?p=1286898",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=229037",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://www.inc.com/dan-schawbel/home-depot-filled-its-ceo-coo-and-cfo-jobs-from-within-with-veterans-of-21-41-and-13-years/91440370",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://www.inc.com/liyana-illyas/amazon-turned-5-dollar-warning-20000-messages-6-hours-same-playbook-2-different-outcomes/91439897",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://lobste.rs/s/yhl0jk",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://www.engadget.com/2319358/xbox-series-x-owners-sleep-mode-vs-shutdown/",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://fortune.com/?p=4647688&showAdminBar=true",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "108554209",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://www.downtownkc.org/?p=68627",
    "firstQueuedAtMs": 1795357800000,
    "playedAtMs": 1795357800000
   }
