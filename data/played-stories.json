@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-22T16:50:06.978Z",
- "lastSyncBucket": 997424,
+ "updatedAt": "2026-11-22T17:05:15.739Z",
+ "lastSyncBucket": 997425,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -3865,6 +3865,31 @@
    "playedAtMs": 1795361400000
   },
   {
+   "key": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=162391",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://www.fastcompany.com/91642546/11-career-decisions-high-performers-regret-making-too-late-leadership-career-advice",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://lobste.rs/s/becitz",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=161971",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
    "key": "https://michiganadvance.com/?p=116021",
    "firstQueuedAtMs": 1795363200000,
    "playedAtMs": 1795363200000
@@ -4018,6 +4043,216 @@
    "key": "weYqzHg88Q7dudwsioosRE",
    "firstQueuedAtMs": 1795363200000,
    "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://www.marktechpost.com/?p=84031",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "60084ece15db9ef1886a34f6",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "108551210",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "6aff49b18b074d85bf38a663",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://www.fastcompany.com/91645754/players-are-coming-to-gta-vi-for-the-car-chases-but-staying-for-the-wildlife",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "YEJMSpV52ZeoGakodkpYn8",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/22/live-blog-chiefs-take-cardinals-cross-conference-matchup/",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/22/delta-says-automation-issues-causing-delays-nationwide/",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://thehill.com/?p=6234642",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "74452589",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "74452529",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "74452478",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "74501129",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://thehill.com/?p=6232755",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/22/woods-norman-lott-part-chiefs-inactives-against-cardinals-despite-limited-practice-this-week/",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.kshb.com/us-news/delta-flights-to-and-from-atlanta-delayed-due-to-aircraft-weight-system-issue",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "ad0f6314-189c-4f47-93da-587f0036bdf9",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "74501216",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/science/mercury-gets-its-first-visitor-in-years-as-a-pair-of-spacecraft-loop-into-orbit",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1037313",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "WP-MKTW-0005352245",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://nautil.us/?p=1286903",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.nbcnews.com/news/us-news/delta-tech-issues-thanksgiving-travel-rcna610685",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.engadget.com/2319388/how-to-test-usb-speed/",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "news714048886",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://lobste.rs/s/7hzqwh",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://lobste.rs/s/bjoete",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1039762",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "WP-MKTW-0005358720",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.sciencenews.org/?p=3181886",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.sciencenews.org/?p=3181928",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.sciencenews.org/?p=3181932",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/22/pentagon-canada-defense-restrictions-fact-sheet",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.sciencenews.org/?p=3181934",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.sciencenews.org/?p=3181936",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1551203",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "6b00aba7f7a2ad0001596b15",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.inc.com/joseph-s-pete/paneras-founder-is-betting-100-million-on-a-playground-for-grown-ups-level99/91439141",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.inc.com/chris-morris/5-startup-ideas-for-couples-who-want-to-build-a-business-together/91436106",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.marktechpost.com/?p=84027",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
   }
  ]
 }
