@@ -1,7 +1,7 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-22T16:35:11.718Z",
+ "updatedAt": "2026-11-22T16:50:06.978Z",
  "lastSyncBucket": 997424,
  "entries": [
   {
@@ -1246,6 +1246,11 @@
   },
   {
    "key": "https://kansascitydefender.com/?p=18316",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "https://fortune.com/?p=4647436&showAdminBar=true",
    "firstQueuedAtMs": 1795343400000,
    "playedAtMs": 1795343400000
   },
@@ -3360,6 +3365,86 @@
    "playedAtMs": 1795357800000
   },
   {
+   "key": "https://dailygalaxy.com/?p=163154",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://www.inc.com/amaya-nichole/supplier-controls-85-percent-pizza-cheese-market-secret-to-3-billion-dollar-empire/91437741",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43166",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3188069",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "sujNrxjFpsgSYRUDCCmzfi",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://www.inc.com/netta-jenkins/a-ceo-can-deliver-record-profits-and-still-be-a-leadership-risk-heres-why/91439971",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163150",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "news714042848",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://www.inc.com/marcel-schwantes/if-you-want-a-stronger-team-ask-yourself-these-5-relational-intelligence-questions/91439206",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191074",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://lobste.rs/s/qxzs4y",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "UqoKEbCxuhJuwMVgZwXi2G",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=162419",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
    "key": "https://www.kshb.com/science-and-tech/climate-change/un-climate-talks-break-down-over-bitter-disagreements-on-fossil-fuels",
    "firstQueuedAtMs": 1795359600000,
    "playedAtMs": 1795359600000
@@ -3545,6 +3630,56 @@
    "playedAtMs": 1795359600000
   },
   {
+   "key": "https://electrek.co/?p=495051",
+   "firstQueuedAtMs": 1795359600000,
+   "playedAtMs": 1795359600000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
+   "firstQueuedAtMs": 1795359600000,
+   "playedAtMs": 1795359600000
+  },
+  {
+   "key": "https://208.96.63.114/?p=4474",
+   "firstQueuedAtMs": 1795359600000,
+   "playedAtMs": 1795359600000
+  },
+  {
+   "key": "108556542",
+   "firstQueuedAtMs": 1795359600000,
+   "playedAtMs": 1795359600000
+  },
+  {
+   "key": "g8qGVsAacm2QtgMcPRGzkL",
+   "firstQueuedAtMs": 1795359600000,
+   "playedAtMs": 1795359600000
+  },
+  {
+   "key": "uKEhgkfZ2V9aZduoqC6rDF",
+   "firstQueuedAtMs": 1795359600000,
+   "playedAtMs": 1795359600000
+  },
+  {
+   "key": "https://nautil.us/?p=1286870",
+   "firstQueuedAtMs": 1795359600000,
+   "playedAtMs": 1795359600000
+  },
+  {
+   "key": "https://www.inc.com/marc-berman/skydances-newest-investor-is-elon-musk-its-a-sign-of-techs-growing-dominance-in-hollywood/91440540",
+   "firstQueuedAtMs": 1795359600000,
+   "playedAtMs": 1795359600000
+  },
+  {
+   "key": "https://www.inc.com/neil-thompson/technical-knowledge-got-you-here-these-communication-skills-will-take-you-further/91439655",
+   "firstQueuedAtMs": 1795359600000,
+   "playedAtMs": 1795359600000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
+   "firstQueuedAtMs": 1795359600000,
+   "playedAtMs": 1795359600000
+  },
+  {
    "key": "https://www.kctv5.com/2026/11/22/tailgate-recipe-pizza-potato-tot-cups/",
    "firstQueuedAtMs": 1795361400000,
    "playedAtMs": 1795361400000
@@ -3621,6 +3756,111 @@
   },
   {
    "key": "https://www.engadget.com/2310723/handy-ways-use-old-mini-pc/",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163134",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311511",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "108552235",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://www.infoq.com/news/2026/11/grafana-13-3-shared-variables/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386501",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261119194553.htm",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "108556579",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261119194538.htm",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "108553703",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "news714317253",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "Y7ctGAcciT7sMbvNgbHG3c",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://www.inc.com/kimanzi-constable/stop-chasing-new-customers-these-4-strategies-can-help-you-build-brand-loyalty/91439698",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://www.inc.com/alicia-teltz/krista-mollion-former-cmo-job-rejections-unignorable-brands/91437676",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://lobste.rs/s/fjueso",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261119194541.htm",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=162401",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261118074039.htm",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://www.fastcompany.com/91637473/to-win-the-ai-search-wars-stop-chasing-the-answers-and-start-shaping-the-questions-ai-search-geo",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://www.infoq.com/news/2026/11/scalling-tech-humans/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
    "firstQueuedAtMs": 1795361400000,
    "playedAtMs": 1795361400000
   },
@@ -3726,6 +3966,56 @@
   },
   {
    "key": "dmLg8jVdMEG4fwqAB2h3Ve",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/22/former-broncos-star-espn-broadcaster-tom-jackson-dead-75/",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://www.engadget.com/2319385/fixing-annoying-one-ui-feature-easy-but-theres-catch/",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://lobste.rs/s/hcofqi",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=162409",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "108556738",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "108556964",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "news714286602",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "6aff54f5dedf491d3bbcabcb",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "weYqzHg88Q7dudwsioosRE",
    "firstQueuedAtMs": 1795363200000,
    "playedAtMs": 1795363200000
   }
