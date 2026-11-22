@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-22T20:50:22.665Z",
- "lastSyncBucket": 997432,
- "lastSyncCarryInSeconds": 89,
+ "updatedAt": "2026-11-22T21:05:21.319Z",
+ "lastSyncBucket": 997433,
+ "lastSyncCarryInSeconds": 8,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -4379,6 +4379,156 @@
    "key": "https://johnsoncountypost.com/?p=302312",
    "firstQueuedAtMs": 1795377600000,
    "playedAtMs": 1795377600000
+  },
+  {
+   "key": "https://www.kshb.com/sports/football/chiefs/5-takeaways-chiefs-vs-cardinals",
+   "firstQueuedAtMs": 1795379400000,
+   "playedAtMs": 1795379400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/22/man-arrested-taney-county-after-death-threats-sent-several-ozarks-politicians/",
+   "firstQueuedAtMs": 1795379400000,
+   "playedAtMs": 1795379400000
+  },
+  {
+   "key": "https://thehill.com/?p=6236244",
+   "firstQueuedAtMs": 1795379400000,
+   "playedAtMs": 1795379400000
+  },
+  {
+   "key": "74501827",
+   "firstQueuedAtMs": 1795379400000,
+   "playedAtMs": 1795379400000
+  },
+  {
+   "key": "7d23efa8-f073-4139-bb69-d37a9f029424",
+   "firstQueuedAtMs": 1795379400000,
+   "playedAtMs": 1795379400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/22/chiefs-dominate-cardinals-34-7-victory/",
+   "firstQueuedAtMs": 1795379400000,
+   "playedAtMs": 1795379400000
+  },
+  {
+   "key": "c6dea0d6-b5f7-422a-9b5a-e34b60b1c4e5",
+   "firstQueuedAtMs": 1795379400000,
+   "playedAtMs": 1795379400000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3050440",
+   "firstQueuedAtMs": 1795379400000,
+   "playedAtMs": 1795379400000
+  },
+  {
+   "key": "https://dev.to/owenscott/how-would-you-label-an-ad-supported-five-hour-session-in-a-mobile-app-1m30",
+   "firstQueuedAtMs": 1795379400000,
+   "playedAtMs": 1795379400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/22/missouri-re-enters-ap-top-25-college-football-poll-regular-season-nears-end/",
+   "firstQueuedAtMs": 1795379400000,
+   "playedAtMs": 1795379400000
+  },
+  {
+   "key": "https://dev.to/joexk1/a-mac-workspace-where-your-files-and-your-ai-agents-sit-side-by-side-flf",
+   "firstQueuedAtMs": 1795379400000,
+   "playedAtMs": 1795379400000
+  },
+  {
+   "key": "7b767d7d-80f5-4dc3-9ee8-a7357c974ff0",
+   "firstQueuedAtMs": 1795379400000,
+   "playedAtMs": 1795379400000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/?p=217151",
+   "firstQueuedAtMs": 1795379400000,
+   "playedAtMs": 1795379400000
+  },
+  {
+   "key": "https://dev.to/aravind_d/presage-adhd-bio-adaptive-co-pilot-16gj",
+   "firstQueuedAtMs": 1795379400000,
+   "playedAtMs": 1795379400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html",
+   "firstQueuedAtMs": 1795379400000,
+   "playedAtMs": 1795379400000
+  },
+  {
+   "key": "https://dev.to/bilal_bukhari_75aeb34a969/automating-container-delivery-on-aws-building-a-cicd-pipeline-for-a-dockerized-web-app-on-ecs-2em4",
+   "firstQueuedAtMs": 1795379400000,
+   "playedAtMs": 1795379400000
+  },
+  {
+   "key": "https://dev.to/radcliffbarrett4718/marketing-image-api-observability-a-guide-to-text-and-quality-control-234k",
+   "firstQueuedAtMs": 1795379400000,
+   "playedAtMs": 1795379400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/22/36-year-old-veteran-mother-dies-after-being-attacked-by-dogs-investigators-say/",
+   "firstQueuedAtMs": 1795379400000,
+   "playedAtMs": 1795379400000
+  },
+  {
+   "key": "https://dev.to/zaerohell/adding-json-schema-validation-to-the-content-automation-pipeline-4c60",
+   "firstQueuedAtMs": 1795379400000,
+   "playedAtMs": 1795379400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/22/opinion/jensen-huang-ai-ethics-cold-war.html",
+   "firstQueuedAtMs": 1795379400000,
+   "playedAtMs": 1795379400000
+  },
+  {
+   "key": "https://www.engadget.com/2319519/ios-settings-help-control-mobile-data-use/",
+   "firstQueuedAtMs": 1795379400000,
+   "playedAtMs": 1795379400000
+  },
+  {
+   "key": "https://www.engadget.com/2319509/what-tiny-key-icon-means-android-device/",
+   "firstQueuedAtMs": 1795379400000,
+   "playedAtMs": 1795379400000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/22/g-s1-154387/books-children-authors-south-africa-literacy",
+   "firstQueuedAtMs": 1795379400000,
+   "playedAtMs": 1795379400000
+  },
+  {
+   "key": "https://nyx.net/",
+   "firstQueuedAtMs": 1795379400000,
+   "playedAtMs": 1795379400000
+  },
+  {
+   "key": "https://www.engadget.com/2319499/you-dont-need-foldable-phone-use-split-screen-android/",
+   "firstQueuedAtMs": 1795379400000,
+   "playedAtMs": 1795379400000
+  },
+  {
+   "key": "https://lobste.rs/s/wc8fla",
+   "firstQueuedAtMs": 1795379400000,
+   "playedAtMs": 1795379400000
+  },
+  {
+   "key": "https://www.inc.com/jason-aten/max-verstappens-lap-40-radio-message-shows-why-he-won-f1s-wildest-race/91441059",
+   "firstQueuedAtMs": 1795379400000,
+   "playedAtMs": 1795379400000
+  },
+  {
+   "key": "https://www.fastcompany.com/91633391/wendys-store-closures-update-list-of-locations-franchise-downfall",
+   "firstQueuedAtMs": 1795379400000,
+   "playedAtMs": 1795379400000
+  },
+  {
+   "key": "74501837",
+   "firstQueuedAtMs": 1795379400000,
+   "playedAtMs": 1795379400000
+  },
+  {
+   "key": "https://www.engadget.com/2319496/advantages-using-usb-c-docking-station/",
+   "firstQueuedAtMs": 1795379400000,
+   "playedAtMs": 1795379400000
   }
  ]
 }
