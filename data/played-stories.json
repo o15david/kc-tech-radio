@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-22T12:20:08.768Z",
- "lastSyncBucket": 997415,
+ "updatedAt": "2026-11-22T12:35:06.884Z",
+ "lastSyncBucket": 997416,
  "entries": [
   {
    "key": "74498741",
@@ -2861,6 +2861,16 @@
   },
   {
    "key": "https://www.aljazeera.com/?t=1795304046",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "nn_tll_shenzhen_tech_261118",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://erikdemaine.org/fonts/stringart/",
    "firstQueuedAtMs": 1795327200000,
    "playedAtMs": 1795327200000
   },
@@ -12913,6 +12923,131 @@
    "key": "https://dailygalaxy.com/?p=163253",
    "firstQueuedAtMs": 1795347000000,
    "playedAtMs": 1795347000000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/energizer-battery-deal-of-the-day-rcna610646",
+   "firstQueuedAtMs": 1795347000000,
+   "playedAtMs": 1795347000000
+  },
+  {
+   "key": "74500369",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
+  },
+  {
+   "key": "https://southdakotasearchlight.com/?p=26136",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
+  },
+  {
+   "key": "74500307",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
+  },
+  {
+   "key": "WP-MKTW-0005363404",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
+  },
+  {
+   "key": "https://dev.to/nestdaddy/we-graded-every-remote-mcp-server-in-the-official-registry-here-is-what-we-found-59bi",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
+  },
+  {
+   "key": "https://dev.to/chovy/i-am-now-a-button-pusher-50eb",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
+  },
+  {
+   "key": "https://dev.to/zoabiyazeed/build-a-daily-job-alert-for-any-company-with-n8n-greenhouse-lever-ashby-3mmh",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
+  },
+  {
+   "key": "https://dev.to/oliveiraronan/getting-started-with-ai-agents-at-your-company-the-first-30-days-2khh",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
+  },
+  {
+   "key": "fe92e70e-e66c-11f1-9cbd-af2c2c013b6d",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
+  },
+  {
+   "key": "https://dev.to/tappers_/defeating-the-pink-elephant-effect-in-coding-agents-25-negative-never-do-x-rules-vs-1-positive-3ooe",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
+  },
+  {
+   "key": "https://dev.to/yujinumata/five-things-that-broke-my-expo-releases-on-google-play-1n4i",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
+  },
+  {
+   "key": "https://dev.to/lobstermatch/build-your-own-ai-agent-that-finds-and-messages-other-agents-4mm6",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
+  },
+  {
+   "key": "https://dev.to/nexusfoundry/i-tried-to-give-my-ai-agent-store-a-fediverse-4-mastodon-accounts-0-postable-the-honest-state-2722",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/military/article/3375313/how-pla-countering-small-fpv-drones-and-their-swarms",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
+  },
+  {
+   "key": "https://dev.to/blacknut1803/how-i-run-android-emulators-for-free-in-github-codespaces-42dd",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
+  },
+  {
+   "key": "https://dev.to/arifaydindev/how-to-keep-a-feedback-pin-stuck-to-the-right-element-when-the-page-reflows-4mbd",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
+  },
+  {
+   "key": "https://electrek.co/?p=495244",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315542",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
+  },
+  {
+   "key": "108556394",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
+  },
+  {
+   "key": "108556844",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43182",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
+  },
+  {
+   "key": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
+  },
+  {
+   "key": "https://www.inc.com/jeff-haden/want-to-be-more-persuasive-science-says-stop-making-statements-and-start-asking-questions/91440310",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
+  },
+  {
+   "key": "https://hackaday.com/?p=1429417",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
   }
  ]
 }
