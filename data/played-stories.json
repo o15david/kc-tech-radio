@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-22T19:20:25.367Z",
- "lastSyncBucket": 997429,
- "lastSyncCarryInSeconds": 18,
+ "updatedAt": "2026-11-22T19:35:22.483Z",
+ "lastSyncBucket": 997430,
+ "lastSyncCarryInSeconds": 7,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -4039,6 +4039,136 @@
    "key": "https://dev.to/darkveilcorvyn26/edtech-faq-suggestions-debounce-each-vector-query-before-lessons-go-stale-2cp8",
    "firstQueuedAtMs": 1795372200000,
    "playedAtMs": 1795372200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/22/pizza-cheers-trophy-kansas-city-welcomes-champion-current-home/",
+   "firstQueuedAtMs": 1795374000000,
+   "playedAtMs": 1795374000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/22/bigfoot-files-quietly-released-by-us-forest-service/",
+   "firstQueuedAtMs": 1795374000000,
+   "playedAtMs": 1795374000000
+  },
+  {
+   "key": "https://thehill.com/?p=6236083",
+   "firstQueuedAtMs": 1795374000000,
+   "playedAtMs": 1795374000000
+  },
+  {
+   "key": "74501688",
+   "firstQueuedAtMs": 1795374000000,
+   "playedAtMs": 1795374000000
+  },
+  {
+   "key": "https://abcnews.com/US/equipment-outage-atlanta-causes-1300-delta-flight-delays/story?id=138360900",
+   "firstQueuedAtMs": 1795374000000,
+   "playedAtMs": 1795374000000
+  },
+  {
+   "key": "74501026",
+   "firstQueuedAtMs": 1795374000000,
+   "playedAtMs": 1795374000000
+  },
+  {
+   "key": "https://www.kshb.com/obituaries/broncos-legend-and-longtime-espn-broadcaster-tom-jackson-dies",
+   "firstQueuedAtMs": 1795374000000,
+   "playedAtMs": 1795374000000
+  },
+  {
+   "key": "https://thehill.com/?p=6235588",
+   "firstQueuedAtMs": 1795374000000,
+   "playedAtMs": 1795374000000
+  },
+  {
+   "key": "https://dev.to/nabil_since_dev/our-upgrade-checker-said-not-settled-to-every-single-upgrade-4gl7",
+   "firstQueuedAtMs": 1795374000000,
+   "playedAtMs": 1795374000000
+  },
+  {
+   "key": "74500882",
+   "firstQueuedAtMs": 1795374000000,
+   "playedAtMs": 1795374000000
+  },
+  {
+   "key": "https://michiganadvance.com/?post_type=republished&p=116129",
+   "firstQueuedAtMs": 1795374000000,
+   "playedAtMs": 1795374000000
+  },
+  {
+   "key": "https://dev.to/jeff_pdc/multi-tenant-mcp-gateway-rate-limiting-without-noisy-neighbors-2fc2",
+   "firstQueuedAtMs": 1795374000000,
+   "playedAtMs": 1795374000000
+  },
+  {
+   "key": "74500671",
+   "firstQueuedAtMs": 1795374000000,
+   "playedAtMs": 1795374000000
+  },
+  {
+   "key": "74500307",
+   "firstQueuedAtMs": 1795374000000,
+   "playedAtMs": 1795374000000
+  },
+  {
+   "key": "1e50da61-bc43-4fee-89ec-f211fa9f1266",
+   "firstQueuedAtMs": 1795374000000,
+   "playedAtMs": 1795374000000
+  },
+  {
+   "key": "https://dev.to/andrik_santos_9b4030d2ea5/i-built-keebox-list-80000-free-developer-resources-in-one-searchable-place-3l5m",
+   "firstQueuedAtMs": 1795374000000,
+   "playedAtMs": 1795374000000
+  },
+  {
+   "key": "74500688",
+   "firstQueuedAtMs": 1795374000000,
+   "playedAtMs": 1795374000000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4452265",
+   "firstQueuedAtMs": 1795374000000,
+   "playedAtMs": 1795374000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/22/chadwick-bosemans-father-leroy-boseman-dies-82/",
+   "firstQueuedAtMs": 1795374000000,
+   "playedAtMs": 1795374000000
+  },
+  {
+   "key": "https://dev.to/invisiblecharacter/zero-width-characters-are-breaking-your-form-validation-olk",
+   "firstQueuedAtMs": 1795374000000,
+   "playedAtMs": 1795374000000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/world/u-s-intelligence-chief-says-trumps-description-of-putin-as-a-friend-is-entirely-appropriate",
+   "firstQueuedAtMs": 1795374000000,
+   "playedAtMs": 1795374000000
+  },
+  {
+   "key": "https://dev.to/madsalt_tech/test-your-claude-code-deny-rules-in-a-scratch-repo-before-you-trust-them-2bon",
+   "firstQueuedAtMs": 1795374000000,
+   "playedAtMs": 1795374000000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=302364",
+   "firstQueuedAtMs": 1795374000000,
+   "playedAtMs": 1795374000000
+  },
+  {
+   "key": "https://dev.to/ai_topics/ai-engineer-in-2026-the-complete-developers-guide-to-building-real-world-ai-systems-26cl",
+   "firstQueuedAtMs": 1795374000000,
+   "playedAtMs": 1795374000000
+  },
+  {
+   "key": "https://thehill.com/?p=6236005",
+   "firstQueuedAtMs": 1795374000000,
+   "playedAtMs": 1795374000000
+  },
+  {
+   "key": "https://dev.to/madsalt_tech/before-you-ask-for-a-pentest-quote-build-a-one-page-evidence-pack-op2",
+   "firstQueuedAtMs": 1795374000000,
+   "playedAtMs": 1795374000000
   }
  ]
 }
