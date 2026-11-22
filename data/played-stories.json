@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-22T07:20:22.926Z",
- "lastSyncBucket": 997405,
+ "updatedAt": "2026-11-22T07:35:03.833Z",
+ "lastSyncBucket": 997406,
  "entries": [
   {
    "key": "74498741",
@@ -700,6 +700,216 @@
    "playedAtMs": 1795327200000
   },
   {
+   "key": "74497434",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.rockchalktalk.com/?p=34564",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://thehill.com/?p=6231006",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/21/basehor-man-dies-after-pickup-crashes-catches-fire-off-i-435-kansas-city-kansas/",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://missouriindependent.com/?p=33806",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/politics/trump-auditions-potential-successors-as-rubio-and-vance-join-him-for-white-house-briefing",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "74497713",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=302324",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://thehill.com/?p=6235234",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/217030/in-week-10s-reacts-poll-chiefs-fans-are-split-on-afc-west-chances",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "e17f4aa9-2d6a-4bb9-a486-dff898c8943e",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=164415",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.nbcnews.com/pop-culture/pop-culture-news/grand-theft-auto-six-fans-reaction-celebration-player-profiles-rcna609640",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.kshb.com/life/holidays-and-celebrations/black-friday-2026-what-time-do-walmart-target-and-other-major-stores-open",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://thehill.com/?p=6233811",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.engadget.com/2319050/whats-new-siri-remote-does-older-apple-tv-support/",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=229632",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.inc.com/moses-jeanfrancois/sam-walton-first-store-was-not-walmart-pricing-lesson-700-billion-dollar-giant/91440088",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://yaleclimateconnections.org/?p=145017",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "44f7b748-73ba-468f-a919-ac3cfbb6564f",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.pandex.io",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.engadget.com/2319042/trade-offs-using-apple-airpods-max-headphones/",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/21/crime-stoppers-fundraiser-returns-arrowhead-stadium-30th-year/",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.engadget.com/2319034/discs-vs-disks-differences/",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.engadget.com/2318875/why-apple-vision-pro-did-not-take-off-vs-meta-vr/",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "WP-MKTW-0005352312",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.inc.com/esther-lian/want-to-protect-cognitive-decline-new-study-points-this-part-of-body/91440807",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "tag:daringfireball.net,2026://1.43759",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://thehill.com/?p=6231959",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://kansasreflector.com/?p=64008",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1039554",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=229039",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.techdirt.com/?p=552183&preview=true&preview_id=552183",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://electrek.co/?p=495146",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://electrek.co/?p=495109",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://martincitytelegraph.com/?p=81989",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "WP-MKTW-0005354400",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "WP-MKTW-0005358777",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386063",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://lobste.rs/s/pvylnk",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.inc.com/avery-miles/a-massive-study-of-250000-patients-just-revealed-a-surprising-new-use-for-glp-1s/91436392",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://electrek.co/?p=495135",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
    "key": "https://www.kctv5.com/2026/11/22/man-critical-condition-after-topeka-police-shooting/",
    "firstQueuedAtMs": 1795329000000,
    "playedAtMs": 1795329000000
@@ -1148,6 +1358,276 @@
    "key": "https://thehill.com/?p=6235280",
    "firstQueuedAtMs": 1795329000000,
    "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/21/volunteers-prepare-1200-thanksgiving-meals-wyandotte-county-families/",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=164472",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/nation/texas-says-an-execution-went-as-planned-a-witness-says-screams-showed-tremendous-distress",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://thehill.com/?p=6235221",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.royalsreview.com/?p=108376",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/politics/bessent-says-no-further-restrictions-are-needed-for-nvidia-chip-exports-to-china",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=302348",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=164318",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/217009/chiefs-jets-5-questions-with-gang-green-nation-ahead-of-week-9",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "239ef4cc-1513-43aa-940b-ebd4377bdb4f",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "c551d704-b7fa-4fee-aedb-05fa3b8551a4",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.kshb.com/politics/america-votes/vance-el-sayed-move-toward-meeting-after-contentious-midterm-election",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "fd4a9890-ab68-46b7-833a-f0f00d4d3f27",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/20/podcasts/hardfork-gta6-nvidia-anthropic.html",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "TOUVZ0KJH6V400",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.inc.com/sage-swaby/if-migraines-come-with-these-4-symptoms-ask-about-endometriosis/91423402",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://fortune.com/?p=4648108&showAdminBar=true",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://thehill.com/?p=6233880",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://eos.org/?p=252701",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.rockmnation.com/164274/pregamin-georgia",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "74497449",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191127",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://electrek.co/?p=495108",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://pwn.ai/upload2shell",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "tag:daringfireball.net,2026:/linked//6.43758",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "74497467",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://thehill.com/?p=6235202",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "news714143965",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.kshb.com/life/holidays-and-celebrations/forget-the-turkey-americans-reveal-their-favorite-thanksgiving-sides",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "WP-MKTW-0005361786",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "WP-MKTW-0005362353",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163181",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://electrek.co/?p=495068",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/21/man-accused-pouring-toxic-oil-into-womans-waffle-house-drink-before-child-drank-it-reports-say/",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=164442",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/21/trump-russia-fbi-hack",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.kshb.com/politics/the-president/trump-nominee-to-lead-election-security-agency-says-jan-6-was-not-an-attack",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/21/opinion/sister-snl-family-care-parents.html",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "43ff321d-ea70-4fa9-a374-0731ce5122d7",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://kansasreflector.com/?post_type=republished&p=64127",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://dev.to/franckpachot/explain-analyze-shows-the-horizondb-ssd-cache-hitsmisses-1mh4",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://dev.to/manuj_kumarpandey_c3f050/fake-banking-apps-on-whatsapp-how-delhi-police-tied-22-arrests-to-22139-victims-1p0d",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "fab0e894-7d6c-47bf-9204-b32a92665769",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://kansascitymag.com/?p=66627",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://dev.to/qanzhi111/hyperbridge-lost-25m-to-a-missing-bounds-check-with-074-of-gas-2non",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://dev.to/libme/github-actions-canceling-since-a-higher-priority-waiting-request-exists-concurrency-settings-for-5hjf",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://dev.to/vanshmittal/how-i-built-a-private-animated-web-home-for-two-and-run-it-for-4month-27d7",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "ada41d8d-9228-4956-ac22-6ccf8f20b22a",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://dev.to/fengyiqicoder/how-i-let-people-without-claude-code-talk-to-my-claude-code-session-17pn",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://kansascitymag.com/?p=79808",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://dev.to/tanahiro2010/how-changing-sqlites-join-order-turned-173-seconds-into-1-second-46en",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://kansasreflector.com/?p=64116",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
   }
  ]
 }
