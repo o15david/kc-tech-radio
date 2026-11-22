@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-22T17:50:08.211Z",
- "lastSyncBucket": 997426,
- "lastSyncCarryInSeconds": 0,
+ "updatedAt": "2026-11-22T18:01:00.532Z",
+ "lastSyncBucket": 997427,
+ "lastSyncCarryInSeconds": 57,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -111,12 +111,12 @@
    "playedAtMs": 1795327200000
   },
   {
-   "key": "https://www.ky3.com/2026/11/22/springfield-mayors-annual-tree-lighting-brings-dancers-choirs-orchestras-downtown/",
+   "key": "https://source.washu.edu/?p=735800",
    "firstQueuedAtMs": 1795327200000,
    "playedAtMs": 1795327200000
   },
   {
-   "key": "https://source.washu.edu/?p=735800",
+   "key": "https://source.washu.edu/?p=735906",
    "firstQueuedAtMs": 1795327200000,
    "playedAtMs": 1795327200000
   },
@@ -181,47 +181,12 @@
    "playedAtMs": 1795327200000
   },
   {
-   "key": "https://tf8z58tab.cc.rs6.net/tn.jsp?f=001IBWvIlkGQLIlofKMhka7xQLlKHVHRgPyIpmbQ8lXDqb5DqzZn7fb5Vt3cGriblJpbZZOAzxRjgrhVNo083FGtqtT5bOCnV7_xoqhxn4ml4IpHgdZQcOB5qE3IVk4UClSSPTplEfe58Q0a9HvhitVcdou80EkCa202M9wWiyd7jgf4Nm8GTcLLIOdeXG3zwQkZyv0i-CkQpRv-Y1i9Mc_34HJEi1s9p-BNW31_xFIxK0=&c=yx-xoomfgmwWQbJDTWMnQZQiaj1DmTMaO_zO7d74L8zhi-HIh_eB3w==&ch=1bq-AKl636BLFz30QNTRcEh8GijmQamzC_np0T0dz4y7yWkyZ-ifDQ==",
-   "firstQueuedAtMs": 1795327200000,
-   "playedAtMs": 1795327200000
-  },
-  {
-   "key": "https://tf8z58tab.cc.rs6.net/tn.jsp?f=001IBWvIlkGQLIlofKMhka7xQLlKHVHRgPyIpmbQ8lXDqb5DqzZn7fb5bB4BQJ4bl4i8p3_BiFXUjg39lLXEX7M5VHYPCc7uQ34IRGf5FjbOjhSS1gcbhE3mTfZOobevxRrwPm-0ATEBFEp-VUPgde-DqkR0CaWG1BbKawQQ4HdU0XtAbgEDaahAvd4xiS1p6E5pXSCAoUPI5SBNs4br8P_Jatwa6nTt7oQ&c=yx-xoomfgmwWQbJDTWMnQZQiaj1DmTMaO_zO7d74L8zhi-HIh_eB3w==&ch=1bq-AKl636BLFz30QNTRcEh8GijmQamzC_np0T0dz4y7yWkyZ-ifDQ==",
-   "firstQueuedAtMs": 1795327200000,
-   "playedAtMs": 1795327200000
-  },
-  {
-   "key": "https://tf8z58tab.cc.rs6.net/tn.jsp?f=001IBWvIlkGQLIlofKMhka7xQLlKHVHRgPyIpmbQ8lXDqb5DqzZn7fb5bB4BQJ4bl4iLI1X5lx1QIBCdPVueZ7z7BJrDjjeiOUCMQLnz8fTn0PvBPiDZ5wBsf2bu6oNvPDvBn1nF-1eiwnRSPLN-Dy8l5aBHvbMsfDu0ho1SZytjiqtk9tv9PSGy9ERcYg8urESB2gSbmSDGko=&c=yx-xoomfgmwWQbJDTWMnQZQiaj1DmTMaO_zO7d74L8zhi-HIh_eB3w==&ch=1bq-AKl636BLFz30QNTRcEh8GijmQamzC_np0T0dz4y7yWkyZ-ifDQ==",
-   "firstQueuedAtMs": 1795327200000,
-   "playedAtMs": 1795327200000
-  },
-  {
-   "key": "https://tf8z58tab.cc.rs6.net/tn.jsp?f=001IBWvIlkGQLIlofKMhka7xQLlKHVHRgPyIpmbQ8lXDqb5DqzZn7fb5bB4BQJ4bl4i3_SfYFbrWNC8scM3Nka4oQoo_u7Plo2PrZ-Gjgr8hbknnSQbim28vU8zuYYhEsgVyUHEWvSuS2eGS6svLYzk07-dWwgrhLQvxegtcewYjikDxn7C9H_t2JKvSpkfRsZJclf4JkJcvhRQJlgPBHzSrFsXkyWyoB3F&c=yx-xoomfgmwWQbJDTWMnQZQiaj1DmTMaO_zO7d74L8zhi-HIh_eB3w==&ch=1bq-AKl636BLFz30QNTRcEh8GijmQamzC_np0T0dz4y7yWkyZ-ifDQ==",
-   "firstQueuedAtMs": 1795327200000,
-   "playedAtMs": 1795327200000
-  },
-  {
-   "key": "https://tf8z58tab.cc.rs6.net/tn.jsp?f=001IBWvIlkGQLIlofKMhka7xQLlKHVHRgPyIpmbQ8lXDqb5DqzZn7fb5bB4BQJ4bl4iZvSQ1PwwrkxXiKCyggYswpFc0nvZk1rm-JT0C9GIlys8PERvLAX0ZB5g6Hoqibc__2oLdt5CGVkvURBRIMdAX4x-p-kMWjyh7Z9Rp287IijS2O-Ro7DBvrbINRDcbrXN_JmyrhuA__w=&c=yx-xoomfgmwWQbJDTWMnQZQiaj1DmTMaO_zO7d74L8zhi-HIh_eB3w==&ch=1bq-AKl636BLFz30QNTRcEh8GijmQamzC_np0T0dz4y7yWkyZ-ifDQ==",
-   "firstQueuedAtMs": 1795327200000,
-   "playedAtMs": 1795327200000
-  },
-  {
    "key": "https://siliconprairienews.com/?p=54571",
    "firstQueuedAtMs": 1795329000000,
    "playedAtMs": 1795329000000
   },
   {
-   "key": "https://source.washu.edu/?p=735906",
-   "firstQueuedAtMs": 1795329000000,
-   "playedAtMs": 1795329000000
-  },
-  {
    "key": "https://www.missourinet.com/?p=177994",
-   "firstQueuedAtMs": 1795329000000,
-   "playedAtMs": 1795329000000
-  },
-  {
-   "key": "https://kansasreflector.com/?post_type=republished&p=64047",
    "firstQueuedAtMs": 1795329000000,
    "playedAtMs": 1795329000000
   },
@@ -301,17 +266,12 @@
    "playedAtMs": 1795329000000
   },
   {
+   "key": "https://www.ky3.com/2026/11/22/springfield-mayors-annual-tree-lighting-brings-dancers-choirs-orchestras-downtown/",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
    "key": "https://www.ky3.com/2026/11/22/photographer-helps-springfield-woman-recover-camera-after-150-foot-fall-arkansas-bluff/",
-   "firstQueuedAtMs": 1795329000000,
-   "playedAtMs": 1795329000000
-  },
-  {
-   "key": "https://www.rockmnation.com/?p=164715",
-   "firstQueuedAtMs": 1795329000000,
-   "playedAtMs": 1795329000000
-  },
-  {
-   "key": "https://www.ky3.com/2026/11/22/austin-simmons-throws-4-td-passes-leading-missouri-past-no-17-kentucky/",
    "firstQueuedAtMs": 1795329000000,
    "playedAtMs": 1795329000000
   },
@@ -321,12 +281,12 @@
    "playedAtMs": 1795329000000
   },
   {
-   "key": "https://www.ky3.com/2026/11/22/williams-missouri-state-knock-off-drake/",
+   "key": "https://www.kctv5.com/2026/11/21/first-warn-disruptive-saturday-evening-storms/",
    "firstQueuedAtMs": 1795329000000,
    "playedAtMs": 1795329000000
   },
   {
-   "key": "https://www.kctv5.com/2026/11/21/first-warn-disruptive-saturday-evening-storms/",
+   "key": "https://www.rockmnation.com/?p=164715",
    "firstQueuedAtMs": 1795329000000,
    "playedAtMs": 1795329000000
   },
@@ -336,17 +296,42 @@
    "playedAtMs": 1795329000000
   },
   {
-   "key": "https://www.rockmnation.com/?p=164657",
-   "firstQueuedAtMs": 1795329000000,
-   "playedAtMs": 1795329000000
-  },
-  {
-   "key": "74499272",
-   "firstQueuedAtMs": 1795329000000,
-   "playedAtMs": 1795329000000
-  },
-  {
    "key": "https://www.kctv5.com/2026/11/22/kc-current-are-nwsl-champions-after-2-1-win-over-spirit/",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/22/austin-simmons-throws-4-td-passes-leading-missouri-past-no-17-kentucky/",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4452132",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.infoq.com/news/2026/11/google-agent-compute-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.infoq.com/news/2026/11/aws-lambda-gpu-managed-instances/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://hackaday.com/?p=1427947",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "108554024",
    "firstQueuedAtMs": 1795329000000,
    "playedAtMs": 1795329000000
   },
@@ -366,42 +351,22 @@
    "playedAtMs": 1795329000000
   },
   {
+   "key": "https://www.ky3.com/2026/11/22/williams-missouri-state-knock-off-drake/",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=164657",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
    "key": "https://www.rockmnation.com/?p=164668",
    "firstQueuedAtMs": 1795330800000,
    "playedAtMs": 1795330800000
   },
   {
-   "key": "https://www.ky3.com/2026/11/22/downtown-ozark-mo-celebrates-season-with-61st-annual-christmas-parade/",
-   "firstQueuedAtMs": 1795330800000,
-   "playedAtMs": 1795330800000
-  },
-  {
-   "key": "https://www.ky3.com/2026/11/22/james-river-church-packs-over-80000-pounds-food-families-need-this-thanksgiving/",
-   "firstQueuedAtMs": 1795330800000,
-   "playedAtMs": 1795330800000
-  },
-  {
-   "key": "https://www.ky3.com/2026/11/22/1-hospitalized-after-crash-involving-pedestrian-north-springfield/",
-   "firstQueuedAtMs": 1795330800000,
-   "playedAtMs": 1795330800000
-  },
-  {
-   "key": "https://www.ky3.com/2026/11/22/watch-tree-shines-bright-downtown-springfield-mayors-tree-lighting-holiday-show/",
-   "firstQueuedAtMs": 1795330800000,
-   "playedAtMs": 1795330800000
-  },
-  {
-   "key": "https://www.ky3.com/2026/11/22/jacksonville-state-rallies-past-missouri-state-with-22-fourth-quarter-points/",
-   "firstQueuedAtMs": 1795330800000,
-   "playedAtMs": 1795330800000
-  },
-  {
-   "key": "https://fox4kc.com/?p=4452167",
-   "firstQueuedAtMs": 1795330800000,
-   "playedAtMs": 1795330800000
-  },
-  {
-   "key": "https://fox4kc.com/?p=4452132",
+   "key": "https://www.kshb.com/sports/local-sports/kc-current/kansas-city-current-championship-march-rally-and-concert-on-tuesday-nov-24",
    "firstQueuedAtMs": 1795330800000,
    "playedAtMs": 1795330800000
   },
@@ -411,17 +376,37 @@
    "playedAtMs": 1795330800000
   },
   {
-   "key": "https://www.ky3.com/2026/11/22/arch-manning-accounts-3-tds-no-8-texas-beats-arkansas-its-5th-straight-win/",
+   "key": "https://www.ky3.com/2026/11/22/downtown-ozark-mo-celebrates-season-with-61st-annual-christmas-parade/",
    "firstQueuedAtMs": 1795330800000,
    "playedAtMs": 1795330800000
   },
   {
-   "key": "74471821",
+   "key": "https://www.fastcompany.com/91642881/4-ways-i-gave-my-employees-more-time-off-without-sacrificing-results",
    "firstQueuedAtMs": 1795330800000,
    "playedAtMs": 1795330800000
   },
   {
-   "key": "https://www.kshb.com/sports/local-sports/kc-current/kansas-city-current-claim-nwsl-championship-2-1-over-washington",
+   "key": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386576",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://github.com/EL4CTEO/fast-anything",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://hackaday.com/?p=1429426",
    "firstQueuedAtMs": 1795330800000,
    "playedAtMs": 1795330800000
   },
@@ -431,7 +416,42 @@
    "playedAtMs": 1795330800000
   },
   {
-   "key": "https://www.rockmnation.com/?p=164596",
+   "key": "https://www.ky3.com/2026/11/22/james-river-church-packs-over-80000-pounds-food-families-need-this-thanksgiving/",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "TOVQZIR24U8Y00",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "TOVNIPT9NJLU00",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://electrek.co/?p=495197",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=229484",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "2f499b0fad46f2d46fc1c337c454cd6adc7edd47",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.marktechpost.com/?p=84036",
    "firstQueuedAtMs": 1795330800000,
    "playedAtMs": 1795330800000
   },
@@ -441,102 +461,82 @@
    "playedAtMs": 1795330800000
   },
   {
+   "key": "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://electrek.co/?p=495165",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "news714399846",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.engadget.com/2319300/pixel-11-is-it-worth-upgrading-from-9-10/",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://lobste.rs/s/n5i1ds",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://lobste.rs/s/6jloca",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
    "key": "https://www.kctv5.com/2026/11/22/bigfoot-files-quietly-released-by-us-forest-service/",
    "firstQueuedAtMs": 1795330800000,
    "playedAtMs": 1795330800000
   },
   {
-   "key": "https://www.ky3.com/2026/11/21/pictures-check-out-2026-downtown-springfield-christmas-parade/",
+   "key": "https://stulle.app/",
    "firstQueuedAtMs": 1795330800000,
    "playedAtMs": 1795330800000
   },
   {
-   "key": "https://www.ky3.com/2026/11/21/2-accused-misconduct-with-ava-mo-nonprofit-funds-arrested-north-dakota/",
+   "key": "https://hackaday.com/?p=1429423",
    "firstQueuedAtMs": 1795330800000,
    "playedAtMs": 1795330800000
   },
   {
-   "key": "74499166",
+   "key": "https://openai.com/index/perplexity-and-intelligence",
    "firstQueuedAtMs": 1795330800000,
    "playedAtMs": 1795330800000
   },
   {
-   "key": "74499132",
+   "key": "https://electrek.co/?p=439884",
    "firstQueuedAtMs": 1795330800000,
    "playedAtMs": 1795330800000
   },
   {
-   "key": "74499112",
-   "firstQueuedAtMs": 1795330800000,
-   "playedAtMs": 1795330800000
-  },
-  {
-   "key": "https://www.kshb.com/news/local-news/missouri/kansas-city/community-organizations-in-missouri-and-kansas-help-families-prepare-for-thanksgiving",
-   "firstQueuedAtMs": 1795330800000,
-   "playedAtMs": 1795330800000
-  },
-  {
-   "key": "https://kansasreflector.com/?post_type=republished&p=64136",
-   "firstQueuedAtMs": 1795330800000,
-   "playedAtMs": 1795330800000
-  },
-  {
-   "key": "74498917",
-   "firstQueuedAtMs": 1795330800000,
-   "playedAtMs": 1795330800000
-  },
-  {
-   "key": "https://www.kctv5.com/2026/11/21/no-12-byu-beats-kansas-31-29-3-overtimes-stay-alive-college-football-playoff-race/",
-   "firstQueuedAtMs": 1795330800000,
-   "playedAtMs": 1795330800000
-  },
-  {
-   "key": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
-   "firstQueuedAtMs": 1795330800000,
-   "playedAtMs": 1795330800000
-  },
-  {
-   "key": "https://www.infoq.com/news/2026/11/google-agent-compute-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "firstQueuedAtMs": 1795330800000,
-   "playedAtMs": 1795330800000
-  },
-  {
-   "key": "https://www.infoq.com/news/2026/11/aws-lambda-gpu-managed-instances/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "firstQueuedAtMs": 1795330800000,
-   "playedAtMs": 1795330800000
-  },
-  {
-   "key": "https://www.rockchalktalk.com/?p=34566",
+   "key": "https://www.ky3.com/2026/11/22/1-hospitalized-after-crash-involving-pedestrian-north-springfield/",
    "firstQueuedAtMs": 1795332600000,
    "playedAtMs": 1795332600000
   },
   {
-   "key": "https://www.rockmnation.com/?p=164024",
+   "key": "https://www.ky3.com/2026/11/22/watch-tree-shines-bright-downtown-springfield-mayors-tree-lighting-holiday-show/",
    "firstQueuedAtMs": 1795332600000,
    "playedAtMs": 1795332600000
   },
   {
-   "key": "https://www.rockchalktalk.com/?p=34564",
+   "key": "https://www.ky3.com/2026/11/22/jacksonville-state-rallies-past-missouri-state-with-22-fourth-quarter-points/",
    "firstQueuedAtMs": 1795332600000,
    "playedAtMs": 1795332600000
   },
   {
-   "key": "https://missouriindependent.com/?p=33806",
+   "key": "https://www.kshb.com/sports/local-sports/kc-current/kansas-city-current-claim-nwsl-championship-2-1-over-washington",
    "firstQueuedAtMs": 1795332600000,
    "playedAtMs": 1795332600000
   },
   {
-   "key": "https://www.rockmnation.com/?p=164415",
-   "firstQueuedAtMs": 1795332600000,
-   "playedAtMs": 1795332600000
-  },
-  {
-   "key": "https://www.kshb.com/sports/local-sports/kc-current/kansas-city-current-championship-march-rally-and-concert-on-tuesday-nov-24",
-   "firstQueuedAtMs": 1795332600000,
-   "playedAtMs": 1795332600000
-  },
-  {
-   "key": "https://kansasreflector.com/?p=64008",
+   "key": "https://www.rockmnation.com/?p=164596",
    "firstQueuedAtMs": 1795332600000,
    "playedAtMs": 1795332600000
   },
@@ -546,157 +546,207 @@
    "playedAtMs": 1795332600000
   },
   {
-   "key": "https://fox4kc.com/?p=4451980",
+   "key": "https://kansasreflector.com/?post_type=republished&p=64136",
    "firstQueuedAtMs": 1795332600000,
    "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/missouri/kansas-city/community-organizations-in-missouri-and-kansas-help-families-prepare-for-thanksgiving",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=229254",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://lobste.rs/s/et5q0q",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://lobste.rs/s/inhlo2",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://alperenkeles.com/posts/vocab-for-testing/",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "news714218179",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=229898",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191147",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=385812",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191145",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=229632",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.inc.com/moses-jeanfrancois/sam-walton-first-store-was-not-walmart-pricing-lesson-700-billion-dollar-giant/91440088",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://yaleclimateconnections.org/?p=145017",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.inc.com/esther-lian/want-to-protect-cognitive-decline-new-study-points-this-part-of-body/91440807",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "tag:daringfireball.net,2026://1.43759",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/21/no-12-byu-beats-kansas-31-29-3-overtimes-stay-alive-college-football-playoff-race/",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.rockchalktalk.com/?p=34566",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=229039",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.techdirt.com/?p=552183&preview=true&preview_id=552183",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://electrek.co/?p=495146",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=164024",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://electrek.co/?p=495109",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386063",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://lobste.rs/s/pvylnk",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.inc.com/avery-miles/a-massive-study-of-250000-patients-just-revealed-a-surprising-new-use-for-glp-1s/91436392",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://electrek.co/?p=495135",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/20/podcasts/hardfork-gta6-nvidia-anthropic.html",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "TOUVZ0KJH6V400",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.inc.com/sage-swaby/if-migraines-come-with-these-4-symptoms-ask-about-endometriosis/91423402",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://eos.org/?p=252701",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.rockchalktalk.com/?p=34564",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://missouriindependent.com/?p=33806",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=164415",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4451980",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
   },
   {
    "key": "https://johnsoncountypost.com/?p=302357",
-   "firstQueuedAtMs": 1795332600000,
-   "playedAtMs": 1795332600000
-  },
-  {
-   "key": "https://www.kctv5.com/2026/11/21/failed-do-basics-man-psychiatric-hospital-strangled-by-another-patient-lawsuit-says/",
-   "firstQueuedAtMs": 1795332600000,
-   "playedAtMs": 1795332600000
-  },
-  {
-   "key": "https://www.rockmnation.com/?p=164472",
-   "firstQueuedAtMs": 1795332600000,
-   "playedAtMs": 1795332600000
-  },
-  {
-   "key": "https://www.kctv5.com/2026/11/21/shelter-kc-gives-thanksgiving-meal-boxes-about-100-kansas-city-families/",
-   "firstQueuedAtMs": 1795332600000,
-   "playedAtMs": 1795332600000
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
   },
   {
    "key": "https://www.arrowheadpride.com/?p=217071",
-   "firstQueuedAtMs": 1795332600000,
-   "playedAtMs": 1795332600000
-  },
-  {
-   "key": "https://www.rockmnation.com/?p=164318",
-   "firstQueuedAtMs": 1795332600000,
-   "playedAtMs": 1795332600000
-  },
-  {
-   "key": "https://www.kctv5.com/2026/11/21/94-year-old-arrested-after-mother-infant-critically-injured-hit-and-run/",
-   "firstQueuedAtMs": 1795332600000,
-   "playedAtMs": 1795332600000
-  },
-  {
-   "key": "https://www.kctv5.com/2026/11/21/sen-mark-kelly-olivia-munn-introduce-know-your-risk-act/",
-   "firstQueuedAtMs": 1795332600000,
-   "playedAtMs": 1795332600000
-  },
-  {
-   "key": "https://www.rockmnation.com/164274/pregamin-georgia",
-   "firstQueuedAtMs": 1795332600000,
-   "playedAtMs": 1795332600000
-  },
-  {
-   "key": "https://www.rockmnation.com/?p=164442",
    "firstQueuedAtMs": 1795334400000,
    "playedAtMs": 1795334400000
   },
   {
-   "key": "https://kansasreflector.com/?post_type=republished&p=64127",
-   "firstQueuedAtMs": 1795334400000,
-   "playedAtMs": 1795334400000
-  },
-  {
-   "key": "https://kansasreflector.com/?p=64116",
-   "firstQueuedAtMs": 1795334400000,
-   "playedAtMs": 1795334400000
-  },
-  {
-   "key": "https://missouriindependent.com/?p=33795",
-   "firstQueuedAtMs": 1795334400000,
-   "playedAtMs": 1795334400000
-  },
-  {
-   "key": "https://www.kctv5.com/2026/11/21/bobcat-spotted-along-north-kansas-city-trail-shelter-shares-safety-tips/",
-   "firstQueuedAtMs": 1795334400000,
-   "playedAtMs": 1795334400000
-  },
-  {
-   "key": "https://www.kctv5.com/2026/11/21/what-grocery-stores-are-open-thanksgiving/",
-   "firstQueuedAtMs": 1795334400000,
-   "playedAtMs": 1795334400000
-  },
-  {
-   "key": "https://kcstudio.org/?p=125320",
-   "firstQueuedAtMs": 1795334400000,
-   "playedAtMs": 1795334400000
-  },
-  {
-   "key": "https://missouriindependent.com/?post_type=republished&p=33809",
-   "firstQueuedAtMs": 1795334400000,
-   "playedAtMs": 1795334400000
-  },
-  {
-   "key": "https://www.kshb.com/politics/congress/pew-poll-finds-majority-of-americans-approve-of-democrats-plans-for-congress",
-   "firstQueuedAtMs": 1795334400000,
-   "playedAtMs": 1795334400000
-  },
-  {
-   "key": "https://www.kctv5.com/2026/11/21/kctv-sports-huddle-preview-predictions-chiefs-welcome-struggling-cardinals-arrowhead/",
-   "firstQueuedAtMs": 1795334400000,
-   "playedAtMs": 1795334400000
-  },
-  {
-   "key": "https://www.missourinet.com/?p=178005",
-   "firstQueuedAtMs": 1795334400000,
-   "playedAtMs": 1795334400000
-  },
-  {
-   "key": "https://www.kshb.com/news/local-news/man-dies-after-single-vehicle-crash-on-southbound-i435",
-   "firstQueuedAtMs": 1795334400000,
-   "playedAtMs": 1795334400000
-  },
-  {
-   "key": "https://missouriindependent.com/?post_type=republished&p=33798",
-   "firstQueuedAtMs": 1795334400000,
-   "playedAtMs": 1795334400000
-  },
-  {
-   "key": "https://www.kshb.com/news/local-news/one-hospitalized-following-house-fire-in-gardner-jccfd-shares",
-   "firstQueuedAtMs": 1795334400000,
-   "playedAtMs": 1795334400000
-  },
-  {
-   "key": "https://www.mlb.com/royals/news/rule-5-draft-prospects-protected-on-40-man-roster-2026",
-   "firstQueuedAtMs": 1795334400000,
-   "playedAtMs": 1795334400000
-  },
-  {
-   "key": "https://www.kctv5.com/2026/11/21/healing-house-kc-host-holiday-open-house-recovery-home-tours/",
-   "firstQueuedAtMs": 1795334400000,
-   "playedAtMs": 1795334400000
-  },
-  {
-   "key": "https://www.kshb.com/health/more-than-140-fall-ill-aboard-cruise-ship-that-departed-fort-lauderdale",
-   "firstQueuedAtMs": 1795334400000,
-   "playedAtMs": 1795334400000
-  },
-  {
-   "key": "https://www.missourinet.com/?p=178003",
-   "firstQueuedAtMs": 1795334400000,
-   "playedAtMs": 1795334400000
-  },
-  {
-   "key": "https://www.rockchalktalk.com/?p=34559",
-   "firstQueuedAtMs": 1795334400000,
-   "playedAtMs": 1795334400000
-  },
-  {
-   "key": "https://johnsoncountypost.com/?p=302324",
-   "firstQueuedAtMs": 1795334400000,
-   "playedAtMs": 1795334400000
-  },
-  {
-   "key": "https://www.arrowheadpride.com/217030/in-week-10s-reacts-poll-chiefs-fans-are-split-on-afc-west-chances",
+   "key": "https://kansasreflector.com/?p=64008",
    "firstQueuedAtMs": 1795334400000,
    "playedAtMs": 1795334400000
   },
@@ -706,92 +756,122 @@
    "playedAtMs": 1795334400000
   },
   {
-   "key": "https://www.ky3.com/2026/11/22/bigfoot-files-quietly-released-by-us-forest-service/",
+   "key": "https://kcstudio.org/?p=125320",
    "firstQueuedAtMs": 1795334400000,
    "playedAtMs": 1795334400000
   },
   {
-   "key": "https://missouriindependent.com/?post_type=republished&p=33791",
+   "key": "https://techcrunch.com/?p=3191127",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://electrek.co/?p=495108",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "tag:daringfireball.net,2026:/linked//6.43758",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://www.kshb.com/politics/congress/pew-poll-finds-majority-of-americans-approve-of-democrats-plans-for-congress",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "news714143965",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163181",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://electrek.co/?p=495068",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://electrek.co/?p=493081",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "tag:daringfireball.net,2026:/linked//6.43757",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://github.com/ShinMegamiBoson/lookatmyquant",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163175",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=164472",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/man-dies-after-single-vehicle-crash-on-southbound-i435",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163165",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://www.futurity.org/?p=3354482",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://kansasreflector.com/?post_type=republished&p=64127",
    "firstQueuedAtMs": 1795336200000,
    "playedAtMs": 1795336200000
   },
   {
-   "key": "https://missouriindependent.com/?post_type=republished&p=33787",
+   "key": "https://kansasreflector.com/?p=64116",
    "firstQueuedAtMs": 1795336200000,
    "playedAtMs": 1795336200000
   },
   {
-   "key": "https://missouriindependent.com/?p=33800",
+   "key": "https://www.kshb.com/news/local-news/one-hospitalized-following-house-fire-in-gardner-jccfd-shares",
    "firstQueuedAtMs": 1795336200000,
    "playedAtMs": 1795336200000
   },
   {
-   "key": "https://kansasreflector.com/?p=64108",
+   "key": "https://www.mlb.com/royals/news/rule-5-draft-prospects-protected-on-40-man-roster-2026",
    "firstQueuedAtMs": 1795336200000,
    "playedAtMs": 1795336200000
   },
   {
-   "key": "https://www.kctv5.com/2026/11/21/basehor-man-dies-after-pickup-crashes-catches-fire-off-i-435-kansas-city-kansas/",
+   "key": "https://www.kshb.com/health/more-than-140-fall-ill-aboard-cruise-ship-that-departed-fort-lauderdale",
    "firstQueuedAtMs": 1795336200000,
    "playedAtMs": 1795336200000
   },
   {
-   "key": "https://www.kshb.com/life/holidays-and-celebrations/black-friday-2026-what-time-do-walmart-target-and-other-major-stores-open",
+   "key": "https://missouriindependent.com/?p=33795",
    "firstQueuedAtMs": 1795336200000,
    "playedAtMs": 1795336200000
   },
   {
-   "key": "44f7b748-73ba-468f-a919-ac3cfbb6564f",
-   "firstQueuedAtMs": 1795336200000,
-   "playedAtMs": 1795336200000
-  },
-  {
-   "key": "https://martincitytelegraph.com/?p=81989",
-   "firstQueuedAtMs": 1795336200000,
-   "playedAtMs": 1795336200000
-  },
-  {
-   "key": "https://missouriindependent.com/?post_type=republished&p=33793",
-   "firstQueuedAtMs": 1795336200000,
-   "playedAtMs": 1795336200000
-  },
-  {
-   "key": "https://www.royalsreview.com/?p=108376",
-   "firstQueuedAtMs": 1795336200000,
-   "playedAtMs": 1795336200000
-  },
-  {
-   "key": "https://missouriindependent.com/?post_type=republished&p=33796",
-   "firstQueuedAtMs": 1795336200000,
-   "playedAtMs": 1795336200000
-  },
-  {
-   "key": "https://johnsoncountypost.com/?p=302348",
-   "firstQueuedAtMs": 1795336200000,
-   "playedAtMs": 1795336200000
-  },
-  {
-   "key": "https://www.arrowheadpride.com/217009/chiefs-jets-5-questions-with-gang-green-nation-ahead-of-week-9",
-   "firstQueuedAtMs": 1795336200000,
-   "playedAtMs": 1795336200000
-  },
-  {
-   "key": "https://www.kshb.com/politics/america-votes/vance-el-sayed-move-toward-meeting-after-contentious-midterm-election",
-   "firstQueuedAtMs": 1795336200000,
-   "playedAtMs": 1795336200000
-  },
-  {
-   "key": "https://missouriindependent.com/?post_type=republished&p=33789",
-   "firstQueuedAtMs": 1795336200000,
-   "playedAtMs": 1795336200000
-  },
-  {
-   "key": "https://www.kshb.com/life/holidays-and-celebrations/forget-the-turkey-americans-reveal-their-favorite-thanksgiving-sides",
-   "firstQueuedAtMs": 1795336200000,
-   "playedAtMs": 1795336200000
-  },
-  {
-   "key": "https://www.kshb.com/politics/the-president/trump-nominee-to-lead-election-security-agency-says-jan-6-was-not-an-attack",
+   "key": "https://johnsoncountypost.com/?p=302324",
    "firstQueuedAtMs": 1795336200000,
    "playedAtMs": 1795336200000
   },
@@ -806,102 +886,187 @@
    "playedAtMs": 1795336200000
   },
   {
-   "key": "https://missouriindependent.com/?p=33785",
+   "key": "https://www.pbs.org/newshour/world/climate-talks-in-overtime-as-nations-wrestle-with-response-to-worsening-global-warming",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://www.futurity.org/?p=3354262",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3173132",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://nautil.us/?p=1286879",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://www.inc.com/jerry-colonna/the-man-known-as-the-pope-of-peppers-had-a-leadership-lesson-every-entrepreneur-should-know/91440530",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "108557000",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://www.futurity.org/?p=3354422",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/217030/in-week-10s-reacts-poll-chiefs-fans-are-split-on-afc-west-chances",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://lobste.rs/s/emymet",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://www.futurity.org/?p=3354282",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://spaceflightnow.com/?p=74992",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://missouriindependent.com/?post_type=republished&p=33809",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386535",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://www.futurity.org/?p=3354342",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://www.kshb.com/life/holidays-and-celebrations/black-friday-2026-what-time-do-walmart-target-and-other-major-stores-open",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://www.missourinet.com/?p=178005",
    "firstQueuedAtMs": 1795338000000,
    "playedAtMs": 1795338000000
   },
   {
-   "key": "https://www.missourinet.com/?p=178000",
+   "key": "https://missouriindependent.com/?post_type=republished&p=33798",
    "firstQueuedAtMs": 1795338000000,
    "playedAtMs": 1795338000000
   },
   {
-   "key": "https://www.rockchalktalk.com/?p=34554",
+   "key": "https://www.missourinet.com/?p=178003",
    "firstQueuedAtMs": 1795338000000,
    "playedAtMs": 1795338000000
   },
   {
-   "key": "https://kansasreflector.com/?p=64101",
+   "key": "https://www.rockchalktalk.com/?p=34559",
    "firstQueuedAtMs": 1795338000000,
    "playedAtMs": 1795338000000
   },
   {
-   "key": "https://missouriindependent.com/?post_type=republished&p=33776",
+   "key": "44f7b748-73ba-468f-a919-ac3cfbb6564f",
    "firstQueuedAtMs": 1795338000000,
    "playedAtMs": 1795338000000
   },
   {
-   "key": "https://kansascitymag.com/?p=66627",
+   "key": "https://martincitytelegraph.com/?p=81989",
    "firstQueuedAtMs": 1795338000000,
    "playedAtMs": 1795338000000
   },
   {
-   "key": "https://www.rockchalktalk.com/?p=34549",
+   "key": "https://www.theregister.com/a/5311023",
    "firstQueuedAtMs": 1795338000000,
    "playedAtMs": 1795338000000
   },
   {
-   "key": "https://kansascitymag.com/?p=79808",
+   "key": "https://hackaday.com/?p=1429498",
    "firstQueuedAtMs": 1795338000000,
    "playedAtMs": 1795338000000
   },
   {
-   "key": "https://www.arrowheadpride.com/217016/chiefs-news-former-chiefs-safety-justin-reid-hits-waivers",
+   "key": "https://hackaday.com/?p=1429399",
    "firstQueuedAtMs": 1795338000000,
    "playedAtMs": 1795338000000
   },
   {
-   "key": "https://kansasreflector.com/?p=64092",
+   "key": "https://www.royalsreview.com/?p=108376",
    "firstQueuedAtMs": 1795338000000,
    "playedAtMs": 1795338000000
   },
   {
-   "key": "https://www.kshb.com/us-news/crime/man-accused-of-sparking-deadly-palisades-fire-found-guilty-of-arson",
+   "key": "108555422",
    "firstQueuedAtMs": 1795338000000,
    "playedAtMs": 1795338000000
   },
   {
-   "key": "https://kansasreflector.com/?p=64091",
+   "key": "https://www.futurity.org/?p=3354382",
    "firstQueuedAtMs": 1795338000000,
    "playedAtMs": 1795338000000
   },
   {
-   "key": "https://www.kshb.com/news/crime/inmate-death-under-investigation-by-missouri-state-highway-patrol-ddcc",
+   "key": "https://missouriindependent.com/?post_type=republished&p=33791",
    "firstQueuedAtMs": 1795338000000,
    "playedAtMs": 1795338000000
   },
   {
-   "key": "https://www.kshb.com/news/local-news/missouri/jackson-county/john-knox-village-builds-ems-station-as-service-proves-lifesaving-for-residents",
+   "key": "https://www.inc.com/amaya-nichole/golds-gym-closing-locations-list-shuttered-clubs-2026/91440606",
    "firstQueuedAtMs": 1795338000000,
    "playedAtMs": 1795338000000
   },
   {
-   "key": "https://www.kshb.com/news/local-news/kansas/wyandotte-county/lawrence-crisis-team-fills-gap-left-by-lack-of-co-responders-with-24-7-access",
+   "key": "https://www.futurity.org/?p=3354442",
    "firstQueuedAtMs": 1795338000000,
    "playedAtMs": 1795338000000
   },
   {
-   "key": "https://missouriindependent.com/?post_type=republished&p=33778",
+   "key": "https://the-decoder.com/?p=43171",
    "firstQueuedAtMs": 1795338000000,
    "playedAtMs": 1795338000000
   },
   {
-   "key": "https://martincitytelegraph.com/?p=81985",
+   "key": "https://electrek.co/?p=495057",
    "firstQueuedAtMs": 1795338000000,
    "playedAtMs": 1795338000000
   },
   {
-   "key": "https://www.ky3.com/2026/11/21/failed-do-basics-man-psychiatric-hospital-strangled-by-another-patient-lawsuit-says/",
+   "key": "https://www.futurity.org/?p=3354242",
    "firstQueuedAtMs": 1795338000000,
    "playedAtMs": 1795338000000
   },
   {
-   "key": "https://www.ky3.com/2026/11/21/94-year-old-arrested-after-mother-infant-critically-injured-hit-and-run/",
+   "key": "https://johnsoncountypost.com/?p=302348",
    "firstQueuedAtMs": 1795338000000,
    "playedAtMs": 1795338000000
   },
   {
-   "key": "https://www.ky3.com/2026/11/21/sen-mark-kelly-olivia-munn-introduce-know-your-risk-act/",
+   "key": "dmLg8jVdMEG4fwqAB2h3Ve",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/217009/chiefs-jets-5-questions-with-gang-green-nation-ahead-of-week-9",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163154",
    "firstQueuedAtMs": 1795338000000,
    "playedAtMs": 1795338000000
   },
@@ -911,192 +1076,152 @@
    "playedAtMs": 1795339800000
   },
   {
-   "key": "https://kansasreflector.com/?p=64088",
+   "key": "https://missouriindependent.com/?post_type=republished&p=33787",
    "firstQueuedAtMs": 1795339800000,
    "playedAtMs": 1795339800000
   },
   {
-   "key": "https://www.missourinet.com/?p=177987",
+   "key": "https://missouriindependent.com/?p=33800",
    "firstQueuedAtMs": 1795339800000,
    "playedAtMs": 1795339800000
   },
   {
-   "key": "https://www.rockchalktalk.com/?p=34545",
+   "key": "6aff67b5010b3517c8092c6d",
    "firstQueuedAtMs": 1795339800000,
    "playedAtMs": 1795339800000
   },
   {
-   "key": "https://www.missourinet.com/?p=177992",
+   "key": "36B6kKKD8JE6ssfkjRGJSm",
    "firstQueuedAtMs": 1795339800000,
    "playedAtMs": 1795339800000
   },
   {
-   "key": "https://missouriindependent.com/?post_type=republished&p=33772",
+   "key": "https://www.sciencealert.com/?p=228505",
    "firstQueuedAtMs": 1795339800000,
    "playedAtMs": 1795339800000
   },
   {
-   "key": "74499948",
+   "key": "https://www.kshb.com/politics/america-votes/vance-el-sayed-move-toward-meeting-after-contentious-midterm-election",
    "firstQueuedAtMs": 1795339800000,
    "playedAtMs": 1795339800000
   },
   {
-   "key": "https://www.kshb.com/science-and-tech/natural-disasters/storms-deluging-florida-with-historic-flooding-shift-further-north",
+   "key": "https://insideclimatenews.org/?p=116454",
    "firstQueuedAtMs": 1795339800000,
    "playedAtMs": 1795339800000
   },
   {
-   "key": "https://missouriindependent.com/?p=33765",
+   "key": "https://earthsky.org/?p=85647",
    "firstQueuedAtMs": 1795339800000,
    "playedAtMs": 1795339800000
   },
   {
-   "key": "https://www.kshb.com/sports/local-sports/kc-current/we-have-this-fire-kc-current-players-discuss-saturdays-nwsl-championship",
+   "key": "https://simonwillison.net/2026/Nov/21/muru/",
    "firstQueuedAtMs": 1795339800000,
    "playedAtMs": 1795339800000
   },
   {
-   "key": "https://www.kshb.com/shows/catch-me-up/catch-me-up-how-the-ground-stop-unfolded-and-a-huge-launch-for-gta-iv",
+   "key": "https://kansasreflector.com/?p=64108",
    "firstQueuedAtMs": 1795339800000,
    "playedAtMs": 1795339800000
   },
   {
-   "key": "https://www.kshb.com/news/local-news/missouri/kansas-city/jackson-county-residents-hope-newly-elected-leaders-pave-new-path-with-fewer-distractions",
+   "key": "https://www.zmescience.com/?p=315520",
    "firstQueuedAtMs": 1795339800000,
    "playedAtMs": 1795339800000
   },
   {
-   "key": "https://kansasreflector.com/?p=64082",
+   "key": "https://www.inc.com/amaya-nichole/supplier-controls-85-percent-pizza-cheese-market-secret-to-3-billion-dollar-empire/91437741",
    "firstQueuedAtMs": 1795339800000,
    "playedAtMs": 1795339800000
   },
   {
-   "key": "https://www.kshb.com/shows/scripps-news-reports/american-meltdown-inside-days-of-critical-infrastructure-failures-across-the-us",
+   "key": "https://the-decoder.com/?p=43166",
    "firstQueuedAtMs": 1795339800000,
    "playedAtMs": 1795339800000
   },
   {
-   "key": "https://www.kshb.com/sports/local-sports/kc-current/kansas-city-chases-a-new-nwsl-title-with-a-championship-past",
+   "key": "https://techcrunch.com/?p=3188069",
    "firstQueuedAtMs": 1795339800000,
    "playedAtMs": 1795339800000
   },
   {
-   "key": "https://www.missourinet.com/?p=177979",
+   "key": "sujNrxjFpsgSYRUDCCmzfi",
    "firstQueuedAtMs": 1795339800000,
    "playedAtMs": 1795339800000
   },
   {
-   "key": "https://missouriindependent.com/?post_type=republished&p=33766",
+   "key": "https://www.kshb.com/life/holidays-and-celebrations/forget-the-turkey-americans-reveal-their-favorite-thanksgiving-sides",
    "firstQueuedAtMs": 1795339800000,
    "playedAtMs": 1795339800000
   },
   {
-   "key": "f2784561-b736-4cd3-8602-aa19832d48fd",
+   "key": "https://www.inc.com/netta-jenkins/a-ceo-can-deliver-record-profits-and-still-be-a-leadership-risk-heres-why/91439971",
    "firstQueuedAtMs": 1795339800000,
    "playedAtMs": 1795339800000
   },
   {
-   "key": "https://johnsoncountypost.com/?p=302312",
+   "key": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
    "firstQueuedAtMs": 1795339800000,
    "playedAtMs": 1795339800000
   },
   {
-   "key": "https://thebeaconnews.org/?p=36349",
+   "key": "https://dailygalaxy.com/?p=163150",
    "firstQueuedAtMs": 1795339800000,
    "playedAtMs": 1795339800000
   },
   {
-   "key": "https://www.missourinet.com/?p=177984",
+   "key": "news714042848",
    "firstQueuedAtMs": 1795339800000,
    "playedAtMs": 1795339800000
   },
   {
-   "key": "https://www.ky3.com/2026/11/21/what-grocery-stores-are-open-thanksgiving/",
+   "key": "https://www.inc.com/marcel-schwantes/if-you-want-a-stronger-team-ask-yourself-these-5-relational-intelligence-questions/91439206",
    "firstQueuedAtMs": 1795339800000,
    "playedAtMs": 1795339800000
   },
   {
-   "key": "https://missouriindependent.com/?p=33770",
+   "key": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191074",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "https://www.kshb.com/politics/the-president/trump-nominee-to-lead-election-security-agency-says-jan-6-was-not-an-attack",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "https://lobste.rs/s/qxzs4y",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "UqoKEbCxuhJuwMVgZwXi2G",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "https://missouriindependent.com/?post_type=republished&p=33793",
    "firstQueuedAtMs": 1795341600000,
    "playedAtMs": 1795341600000
   },
   {
-   "key": "https://www.missourinet.com/?p=177990",
+   "key": "https://missouriindependent.com/?post_type=republished&p=33796",
    "firstQueuedAtMs": 1795341600000,
    "playedAtMs": 1795341600000
   },
   {
-   "key": "https://kansasreflector.com/?p=64003",
-   "firstQueuedAtMs": 1795341600000,
-   "playedAtMs": 1795341600000
-  },
-  {
-   "key": "https://kansasreflector.com/?post_type=republished&p=64071",
-   "firstQueuedAtMs": 1795341600000,
-   "playedAtMs": 1795341600000
-  },
-  {
-   "key": "https://www.missourinet.com/?p=177982",
-   "firstQueuedAtMs": 1795341600000,
-   "playedAtMs": 1795341600000
-  },
-  {
-   "key": "https://kansasreflector.com/?post_type=republished&p=64069",
-   "firstQueuedAtMs": 1795341600000,
-   "playedAtMs": 1795341600000
-  },
-  {
-   "key": "74499995",
-   "firstQueuedAtMs": 1795341600000,
-   "playedAtMs": 1795341600000
-  },
-  {
-   "key": "71feb553-584f-4073-883d-a4325c9a7f57",
-   "firstQueuedAtMs": 1795341600000,
-   "playedAtMs": 1795341600000
-  },
-  {
-   "key": "https://johnsoncountypost.com/?p=302145",
-   "firstQueuedAtMs": 1795341600000,
-   "playedAtMs": 1795341600000
-  },
-  {
-   "key": "https://missouriindependent.com/?post_type=republished&p=33762",
-   "firstQueuedAtMs": 1795341600000,
-   "playedAtMs": 1795341600000
-  },
-  {
-   "key": "e0062ae2-b5ce-435b-9b45-fc664b68fb22",
-   "firstQueuedAtMs": 1795341600000,
-   "playedAtMs": 1795341600000
-  },
-  {
-   "key": "https://www.royalsreview.com/?p=108344",
-   "firstQueuedAtMs": 1795341600000,
-   "playedAtMs": 1795341600000
-  },
-  {
-   "key": "https://www.arrowheadpride.com/216955/chiefs-falcons-week-10-game-and-score-predictions-from-arrowhead-pride",
-   "firstQueuedAtMs": 1795341600000,
-   "playedAtMs": 1795341600000
-  },
-  {
-   "key": "https://johnsoncountypost.com/?p=302280",
-   "firstQueuedAtMs": 1795341600000,
-   "playedAtMs": 1795341600000
-  },
-  {
-   "key": "https://johnsoncountypost.com/?p=302297",
-   "firstQueuedAtMs": 1795341600000,
-   "playedAtMs": 1795341600000
-  },
-  {
-   "key": "https://kansasreflector.com/?p=64057",
-   "firstQueuedAtMs": 1795341600000,
-   "playedAtMs": 1795341600000
-  },
-  {
-   "key": "https://www.thepitchkc.com/?p=959692",
+   "key": "https://missouriindependent.com/?post_type=republished&p=33789",
    "firstQueuedAtMs": 1795341600000,
    "playedAtMs": 1795341600000
   },
@@ -1116,82 +1241,122 @@
    "playedAtMs": 1795341600000
   },
   {
-   "key": "https://missouriindependent.com/?post_type=republished&p=33756",
-   "firstQueuedAtMs": 1795341600000,
-   "playedAtMs": 1795341600000
-  },
-  {
    "key": "https://www.fastcompany.com/91646863/crowdstrike-ceo-companies-are-choosing-between-getting-hacked-and-shutting-down",
    "firstQueuedAtMs": 1795341600000,
    "playedAtMs": 1795341600000
   },
   {
-   "key": "https://missouriindependent.com/?post_type=republished&p=33760",
+   "key": "TOWAQ4T9NJLS00",
+   "firstQueuedAtMs": 1795341600000,
+   "playedAtMs": 1795341600000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=162419",
+   "firstQueuedAtMs": 1795341600000,
+   "playedAtMs": 1795341600000
+  },
+  {
+   "key": "https://electrek.co/?p=495051",
+   "firstQueuedAtMs": 1795341600000,
+   "playedAtMs": 1795341600000
+  },
+  {
+   "key": "https://kansascitymag.com/?p=66627",
+   "firstQueuedAtMs": 1795341600000,
+   "playedAtMs": 1795341600000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
+   "firstQueuedAtMs": 1795341600000,
+   "playedAtMs": 1795341600000
+  },
+  {
+   "key": "https://lobste.rs/s/qzerls",
+   "firstQueuedAtMs": 1795341600000,
+   "playedAtMs": 1795341600000
+  },
+  {
+   "key": "https://208.96.63.114/?p=4474",
+   "firstQueuedAtMs": 1795341600000,
+   "playedAtMs": 1795341600000
+  },
+  {
+   "key": "https://missouriindependent.com/?p=33785",
+   "firstQueuedAtMs": 1795341600000,
+   "playedAtMs": 1795341600000
+  },
+  {
+   "key": "108556542",
+   "firstQueuedAtMs": 1795341600000,
+   "playedAtMs": 1795341600000
+  },
+  {
+   "key": "g8qGVsAacm2QtgMcPRGzkL",
+   "firstQueuedAtMs": 1795341600000,
+   "playedAtMs": 1795341600000
+  },
+  {
+   "key": "uKEhgkfZ2V9aZduoqC6rDF",
+   "firstQueuedAtMs": 1795341600000,
+   "playedAtMs": 1795341600000
+  },
+  {
+   "key": "https://nautil.us/?p=1286870",
+   "firstQueuedAtMs": 1795341600000,
+   "playedAtMs": 1795341600000
+  },
+  {
+   "key": "https://www.inc.com/marc-berman/skydances-newest-investor-is-elon-musk-its-a-sign-of-techs-growing-dominance-in-hollywood/91440540",
+   "firstQueuedAtMs": 1795341600000,
+   "playedAtMs": 1795341600000
+  },
+  {
+   "key": "https://www.inc.com/neil-thompson/technical-knowledge-got-you-here-these-communication-skills-will-take-you-further/91439655",
+   "firstQueuedAtMs": 1795341600000,
+   "playedAtMs": 1795341600000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
+   "firstQueuedAtMs": 1795341600000,
+   "playedAtMs": 1795341600000
+  },
+  {
+   "key": "https://kansascitymag.com/?p=79808",
+   "firstQueuedAtMs": 1795341600000,
+   "playedAtMs": 1795341600000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163134",
+   "firstQueuedAtMs": 1795341600000,
+   "playedAtMs": 1795341600000
+  },
+  {
+   "key": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+   "firstQueuedAtMs": 1795341600000,
+   "playedAtMs": 1795341600000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311511",
+   "firstQueuedAtMs": 1795341600000,
+   "playedAtMs": 1795341600000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=164588",
    "firstQueuedAtMs": 1795343400000,
    "playedAtMs": 1795343400000
   },
   {
-   "key": "https://missouriindependent.com/?post_type=republished&p=33758",
+   "key": "https://www.missourinet.com/?p=178000",
    "firstQueuedAtMs": 1795343400000,
    "playedAtMs": 1795343400000
   },
   {
-   "key": "https://www.rockchalktalk.com/?p=34532",
+   "key": "https://www.rockchalktalk.com/?p=34554",
    "firstQueuedAtMs": 1795343400000,
    "playedAtMs": 1795343400000
   },
   {
-   "key": "https://missouriindependent.com/?post_type=republished&p=33754",
-   "firstQueuedAtMs": 1795343400000,
-   "playedAtMs": 1795343400000
-  },
-  {
-   "key": "https://www.kctv5.com/2026/11/22/father-stabbed-death-by-ex-middle-night-front-3-year-old-son-authorities-say/",
-   "firstQueuedAtMs": 1795343400000,
-   "playedAtMs": 1795343400000
-  },
-  {
-   "key": "https://missouriindependent.com/?post_type=republished&p=33746",
-   "firstQueuedAtMs": 1795343400000,
-   "playedAtMs": 1795343400000
-  },
-  {
-   "key": "https://www.arrowheadpride.com/216986/kingdom-keys-3-keys-to-a-chiefs-victory-over-the-falcons-in-week-10",
-   "firstQueuedAtMs": 1795343400000,
-   "playedAtMs": 1795343400000
-  },
-  {
-   "key": "https://www.royalsreview.com/108330/which-risks-are-worth-taking-for-the-kansas-city-royals-this-offseason",
-   "firstQueuedAtMs": 1795343400000,
-   "playedAtMs": 1795343400000
-  },
-  {
-   "key": "https://kansasreflector.com/?p=64055",
-   "firstQueuedAtMs": 1795343400000,
-   "playedAtMs": 1795343400000
-  },
-  {
-   "key": "3cb08bbf-3aa8-4915-9ed1-270e2b500355",
-   "firstQueuedAtMs": 1795343400000,
-   "playedAtMs": 1795343400000
-  },
-  {
-   "key": "https://www.royalsreview.com/?p=108322",
-   "firstQueuedAtMs": 1795343400000,
-   "playedAtMs": 1795343400000
-  },
-  {
-   "key": "https://martincitytelegraph.com/?p=81963",
-   "firstQueuedAtMs": 1795343400000,
-   "playedAtMs": 1795343400000
-  },
-  {
-   "key": "https://missouriindependent.com/?post_type=republished&p=33750",
-   "firstQueuedAtMs": 1795343400000,
-   "playedAtMs": 1795343400000
-  },
-  {
-   "key": "https://kansascitymag.com/?p=82640",
+   "key": "https://kansasreflector.com/?p=64101",
    "firstQueuedAtMs": 1795343400000,
    "playedAtMs": 1795343400000
   },
@@ -1206,152 +1371,117 @@
    "playedAtMs": 1795343400000
   },
   {
-   "key": "pRA2v7YZJnsuNFeKD5Q8Mj",
-   "firstQueuedAtMs": 1795343400000,
-   "playedAtMs": 1795343400000
-  },
-  {
-   "key": "https://www.rockmnation.com/?p=164588",
-   "firstQueuedAtMs": 1795343400000,
-   "playedAtMs": 1795343400000
-  },
-  {
-   "key": "https://www.ky3.com/2026/11/22/father-stabbed-death-by-ex-middle-night-front-3-year-old-son-authorities-say/",
-   "firstQueuedAtMs": 1795343400000,
-   "playedAtMs": 1795343400000
-  },
-  {
-   "key": "https://kansascitydefender.com/?p=18338",
-   "firstQueuedAtMs": 1795343400000,
-   "playedAtMs": 1795343400000
-  },
-  {
-   "key": "https://www.kcdigitaldrive.org/?post_type=article&p=8447",
-   "firstQueuedAtMs": 1795343400000,
-   "playedAtMs": 1795343400000
-  },
-  {
-   "key": "https://www.downtownkc.org/?p=68700",
-   "firstQueuedAtMs": 1795343400000,
-   "playedAtMs": 1795343400000
-  },
-  {
-   "key": "https://kansascitydefender.com/?p=18349",
-   "firstQueuedAtMs": 1795343400000,
-   "playedAtMs": 1795343400000
-  },
-  {
-   "key": "https://www.kcdigitaldrive.org/?post_type=article&p=8439",
-   "firstQueuedAtMs": 1795343400000,
-   "playedAtMs": 1795343400000
-  },
-  {
-   "key": "https://kansascitydefender.com/?p=18316",
-   "firstQueuedAtMs": 1795343400000,
-   "playedAtMs": 1795343400000
-  },
-  {
    "key": "https://fortune.com/?p=4647436&showAdminBar=true",
    "firstQueuedAtMs": 1795343400000,
    "playedAtMs": 1795343400000
   },
   {
-   "key": "https://www.missourinet.com/?p=174590",
+   "key": "pRA2v7YZJnsuNFeKD5Q8Mj",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "https://missouriindependent.com/?post_type=republished&p=33776",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "https://www.infoq.com/news/2026/11/claude-code-leaking-secrets/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "kmRpRo5jFTYKxufQtjaLe4",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=228640",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "https://earthsky.org/?p=387071",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "https://www.marktechpost.com/?p=84044",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/22/father-stabbed-death-by-ex-middle-night-front-3-year-old-son-authorities-say/",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "108552235",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "https://www.infoq.com/news/2026/11/grafana-13-3-shared-variables/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386501",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261119194553.htm",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "108556579",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261119194538.htm",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "108553703",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "news714317253",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "Y7ctGAcciT7sMbvNgbHG3c",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "https://www.rockchalktalk.com/?p=34549",
+   "firstQueuedAtMs": 1795343400000,
+   "playedAtMs": 1795343400000
+  },
+  {
+   "key": "https://kansasreflector.com/?p=64092",
    "firstQueuedAtMs": 1795345200000,
    "playedAtMs": 1795345200000
   },
   {
-   "key": "https://kansasreflector.com/?p=64002",
+   "key": "https://kansasreflector.com/?p=64091",
    "firstQueuedAtMs": 1795345200000,
    "playedAtMs": 1795345200000
   },
   {
-   "key": "https://kansasreflector.com/?post_type=republished&p=64050",
-   "firstQueuedAtMs": 1795345200000,
-   "playedAtMs": 1795345200000
-  },
-  {
-   "key": "https://www.missourinet.com/?p=177974",
-   "firstQueuedAtMs": 1795345200000,
-   "playedAtMs": 1795345200000
-  },
-  {
-   "key": "https://www.missourinet.com/?p=177961",
-   "firstQueuedAtMs": 1795345200000,
-   "playedAtMs": 1795345200000
-  },
-  {
-   "key": "https://www.missourinet.com/?p=177957",
-   "firstQueuedAtMs": 1795345200000,
-   "playedAtMs": 1795345200000
-  },
-  {
-   "key": "https://www.missourinet.com/?p=177959",
-   "firstQueuedAtMs": 1795345200000,
-   "playedAtMs": 1795345200000
-  },
-  {
-   "key": "https://www.missourinet.com/?p=177954",
-   "firstQueuedAtMs": 1795345200000,
-   "playedAtMs": 1795345200000
-  },
-  {
-   "key": "https://www.missourinet.com/?p=177933",
-   "firstQueuedAtMs": 1795345200000,
-   "playedAtMs": 1795345200000
-  },
-  {
-   "key": "74492479",
-   "firstQueuedAtMs": 1795345200000,
-   "playedAtMs": 1795345200000
-  },
-  {
-   "key": "https://www.missourinet.com/?p=177931",
-   "firstQueuedAtMs": 1795345200000,
-   "playedAtMs": 1795345200000
-  },
-  {
-   "key": "74500065",
-   "firstQueuedAtMs": 1795345200000,
-   "playedAtMs": 1795345200000
-  },
-  {
-   "key": "https://kansascitymag.com/?p=82713",
-   "firstQueuedAtMs": 1795345200000,
-   "playedAtMs": 1795345200000
-  },
-  {
-   "key": "https://www.royalsreview.com/?p=108332",
-   "firstQueuedAtMs": 1795345200000,
-   "playedAtMs": 1795345200000
-  },
-  {
-   "key": "https://thebeaconnews.org/?p=36240",
-   "firstQueuedAtMs": 1795345200000,
-   "playedAtMs": 1795345200000
-  },
-  {
-   "key": "https://www.kcur.org/podcast/kansas-city-today/2026-11-20/kansas-city-gets-a-new-scrooge",
-   "firstQueuedAtMs": 1795345200000,
-   "playedAtMs": 1795345200000
-  },
-  {
-   "key": "c1ef430e-3c2c-43ee-8ab6-f4a7884f3fe0",
-   "firstQueuedAtMs": 1795345200000,
-   "playedAtMs": 1795345200000
-  },
-  {
-   "key": "https://kcsoccerjournal.com/?p=8776",
-   "firstQueuedAtMs": 1795345200000,
-   "playedAtMs": 1795345200000
-  },
-  {
-   "key": "https://www.mlb.com/royals/news/top-30-arizona-fall-league-prospects-2026",
-   "firstQueuedAtMs": 1795345200000,
-   "playedAtMs": 1795345200000
-  },
-  {
-   "key": "https://www.thepitchkc.com/?p=959620",
+   "key": "https://missouriindependent.com/?post_type=republished&p=33778",
    "firstQueuedAtMs": 1795345200000,
    "playedAtMs": 1795345200000
   },
@@ -1366,32 +1496,7 @@
    "playedAtMs": 1795345200000
   },
   {
-   "key": "https://fortune.com/?p=4647475&showAdminBar=true",
-   "firstQueuedAtMs": 1795345200000,
-   "playedAtMs": 1795345200000
-  },
-  {
    "key": "https://dailygalaxy.com/?p=163237",
-   "firstQueuedAtMs": 1795345200000,
-   "playedAtMs": 1795345200000
-  },
-  {
-   "key": "https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html",
-   "firstQueuedAtMs": 1795345200000,
-   "playedAtMs": 1795345200000
-  },
-  {
-   "key": "https://fortune.com/?p=4648120&showAdminBar=true",
-   "firstQueuedAtMs": 1795345200000,
-   "playedAtMs": 1795345200000
-  },
-  {
-   "key": "https://www.mlb.com/royals/news/randy-dobnak-royals-agree-to-deal-to-avoid-arbitration",
-   "firstQueuedAtMs": 1795345200000,
-   "playedAtMs": 1795345200000
-  },
-  {
-   "key": "https://dosmundos.com/?p=121565",
    "firstQueuedAtMs": 1795345200000,
    "playedAtMs": 1795345200000
   },
@@ -1411,11 +1516,6 @@
    "playedAtMs": 1795345200000
   },
   {
-   "key": "https://www.nytimes.com/2026/11/22/opinion/jensen-huang-ai-ethics-cold-war.html",
-   "firstQueuedAtMs": 1795345200000,
-   "playedAtMs": 1795345200000
-  },
-  {
    "key": "69f3c59f59018beb3d0d73a2",
    "firstQueuedAtMs": 1795345200000,
    "playedAtMs": 1795345200000
@@ -1426,97 +1526,132 @@
    "playedAtMs": 1795345200000
   },
   {
-   "key": "https://www.infoq.com/news/2026/11/claude-code-leaking-secrets/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "key": "https://www.inc.com/kimanzi-constable/stop-chasing-new-customers-these-4-strategies-can-help-you-build-brand-loyalty/91439698",
    "firstQueuedAtMs": 1795345200000,
    "playedAtMs": 1795345200000
   },
   {
-   "key": "kmRpRo5jFTYKxufQtjaLe4",
+   "key": "https://www.inc.com/alicia-teltz/krista-mollion-former-cmo-job-rejections-unignorable-brands/91437676",
    "firstQueuedAtMs": 1795345200000,
    "playedAtMs": 1795345200000
   },
   {
-   "key": "https://www.kcdigitaldrive.org/?post_type=article&p=8408",
+   "key": "https://lobste.rs/s/fjueso",
    "firstQueuedAtMs": 1795345200000,
    "playedAtMs": 1795345200000
   },
   {
-   "key": "https://www.kcdigitaldrive.org/?post_type=article&p=8389",
+   "key": "https://www.sciencedaily.com/releases/2026/11/261119194541.htm",
    "firstQueuedAtMs": 1795345200000,
    "playedAtMs": 1795345200000
   },
   {
-   "key": "https://www.kcdigitaldrive.org/?post_type=article&p=8355",
+   "key": "https://dailygalaxy.com/?p=162401",
    "firstQueuedAtMs": 1795345200000,
    "playedAtMs": 1795345200000
   },
   {
-   "key": "https://www.kcdigitaldrive.org/?post_type=article&p=8354",
+   "key": "https://www.sciencedaily.com/releases/2026/11/261118074039.htm",
    "firstQueuedAtMs": 1795345200000,
    "playedAtMs": 1795345200000
   },
   {
-   "key": "https://www.kcdigitaldrive.org/?post_type=article&p=8322",
+   "key": "https://www.fastcompany.com/91637473/to-win-the-ai-search-wars-stop-chasing-the-answers-and-start-shaping-the-questions-ai-search-geo",
    "firstQueuedAtMs": 1795345200000,
    "playedAtMs": 1795345200000
   },
   {
-   "key": "https://www.kcdigitaldrive.org/?post_type=article&p=8308",
+   "key": "https://www.infoq.com/news/2026/11/scalling-tech-humans/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
    "firstQueuedAtMs": 1795345200000,
    "playedAtMs": 1795345200000
   },
   {
-   "key": "https://www.mlb.com/app/atbat/royals/daily-walkoff",
+   "key": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
    "firstQueuedAtMs": 1795345200000,
    "playedAtMs": 1795345200000
   },
   {
-   "key": "https://www.mlb.com/milb/prospects/2026/royals/",
+   "key": "https://lobste.rs/s/hcofqi",
    "firstQueuedAtMs": 1795345200000,
    "playedAtMs": 1795345200000
   },
   {
-   "key": "https://lobste.rs/s/qzerls",
+   "key": "https://dailygalaxy.com/?p=162409",
    "firstQueuedAtMs": 1795345200000,
    "playedAtMs": 1795345200000
   },
   {
-   "key": "https://www.missourinet.com/?p=177921",
+   "key": "https://kansasreflector.com/?p=64088",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "108556738",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "108556964",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "news714286602",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "6aff54f5dedf491d3bbcabcb",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "weYqzHg88Q7dudwsioosRE",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=162391",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/217016/chiefs-news-former-chiefs-safety-justin-reid-hits-waivers",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "https://www.fastcompany.com/91642546/11-career-decisions-high-performers-regret-making-too-late-leadership-career-advice",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "https://lobste.rs/s/becitz",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=161971",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "https://www.missourinet.com/?p=177987",
    "firstQueuedAtMs": 1795347000000,
    "playedAtMs": 1795347000000
   },
   {
-   "key": "https://wisconsinwatch.org/?p=1323317",
+   "key": "https://www.rockchalktalk.com/?p=34545",
    "firstQueuedAtMs": 1795347000000,
    "playedAtMs": 1795347000000
   },
   {
-   "key": "74500306",
+   "key": "https://www.missourinet.com/?p=177992",
    "firstQueuedAtMs": 1795347000000,
    "playedAtMs": 1795347000000
   },
   {
-   "key": "https://thebeaconnews.org/?p=36342",
-   "firstQueuedAtMs": 1795347000000,
-   "playedAtMs": 1795347000000
-  },
-  {
-   "key": "https://dosmundos.com/?p=121562",
-   "firstQueuedAtMs": 1795347000000,
-   "playedAtMs": 1795347000000
-  },
-  {
-   "key": "https://arkansasadvocate.com/?p=31122",
-   "firstQueuedAtMs": 1795347000000,
-   "playedAtMs": 1795347000000
-  },
-  {
-   "key": "https://dosmundos.com/?p=121559",
-   "firstQueuedAtMs": 1795347000000,
-   "playedAtMs": 1795347000000
-  },
-  {
-   "key": "https://thebeaconnews.org/?p=36303",
+   "key": "https://missouriindependent.com/?post_type=republished&p=33772",
    "firstQueuedAtMs": 1795347000000,
    "playedAtMs": 1795347000000
   },
@@ -1531,22 +1666,7 @@
    "playedAtMs": 1795347000000
   },
   {
-   "key": "https://arkansasadvocate.com/?post_type=republished&p=31134",
-   "firstQueuedAtMs": 1795347000000,
-   "playedAtMs": 1795347000000
-  },
-  {
    "key": "HhEzj959Ad7sPepZbH5vKR",
-   "firstQueuedAtMs": 1795347000000,
-   "playedAtMs": 1795347000000
-  },
-  {
-   "key": "https://www.mlb.com/royals/news/zack-greinke-eric-hosmer-elected-to-royals-hall-of-fame",
-   "firstQueuedAtMs": 1795347000000,
-   "playedAtMs": 1795347000000
-  },
-  {
-   "key": "https://www.thepitchkc.com/?p=959517",
    "firstQueuedAtMs": 1795347000000,
    "playedAtMs": 1795347000000
   },
@@ -1566,72 +1686,102 @@
    "playedAtMs": 1795347000000
   },
   {
-   "key": "https://fortune.com/?p=4647040&showAdminBar=true",
+   "key": "https://www.marktechpost.com/?p=84031",
    "firstQueuedAtMs": 1795347000000,
    "playedAtMs": 1795347000000
   },
   {
-   "key": "https://www.nbcnews.com/select/shopping/energizer-battery-deal-of-the-day-rcna610646",
+   "key": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
    "firstQueuedAtMs": 1795347000000,
    "playedAtMs": 1795347000000
   },
   {
-   "key": "https://www.sciencealert.com/?p=228640",
+   "key": "60084ece15db9ef1886a34f6",
    "firstQueuedAtMs": 1795347000000,
    "playedAtMs": 1795347000000
   },
   {
-   "key": "https://earthsky.org/?p=387071",
+   "key": "108551210",
    "firstQueuedAtMs": 1795347000000,
    "playedAtMs": 1795347000000
   },
   {
-   "key": "https://martincitytelegraph.com/?p=81954",
+   "key": "6aff49b18b074d85bf38a663",
    "firstQueuedAtMs": 1795347000000,
    "playedAtMs": 1795347000000
   },
   {
-   "key": "https://www.marktechpost.com/?p=84044",
+   "key": "https://www.fastcompany.com/91645754/players-are-coming-to-gta-vi-for-the-car-chases-but-staying-for-the-wildlife",
    "firstQueuedAtMs": 1795347000000,
    "playedAtMs": 1795347000000
   },
   {
-   "key": "https://southdakotasearchlight.com/?p=26136",
-   "firstQueuedAtMs": 1795348800000,
-   "playedAtMs": 1795348800000
+   "key": "https://missouriindependent.com/?p=33765",
+   "firstQueuedAtMs": 1795347000000,
+   "playedAtMs": 1795347000000
   },
   {
-   "key": "https://iowacapitaldispatch.com/?p=61379",
-   "firstQueuedAtMs": 1795348800000,
-   "playedAtMs": 1795348800000
+   "key": "YEJMSpV52ZeoGakodkpYn8",
+   "firstQueuedAtMs": 1795347000000,
+   "playedAtMs": 1795347000000
   },
   {
-   "key": "74500369",
-   "firstQueuedAtMs": 1795348800000,
-   "playedAtMs": 1795348800000
+   "key": "https://www.sciencenews.org/?p=3181886",
+   "firstQueuedAtMs": 1795347000000,
+   "playedAtMs": 1795347000000
   },
   {
-   "key": "74500307",
-   "firstQueuedAtMs": 1795348800000,
-   "playedAtMs": 1795348800000
+   "key": "https://www.sciencenews.org/?p=3181928",
+   "firstQueuedAtMs": 1795347000000,
+   "playedAtMs": 1795347000000
   },
   {
-   "key": "https://kcstudio.org/?p=125290",
-   "firstQueuedAtMs": 1795348800000,
-   "playedAtMs": 1795348800000
+   "key": "https://www.sciencenews.org/?p=3181932",
+   "firstQueuedAtMs": 1795347000000,
+   "playedAtMs": 1795347000000
   },
   {
-   "key": "https://martincitytelegraph.com/?p=81948",
-   "firstQueuedAtMs": 1795348800000,
-   "playedAtMs": 1795348800000
+   "key": "https://www.sciencenews.org/?p=3181934",
+   "firstQueuedAtMs": 1795347000000,
+   "playedAtMs": 1795347000000
   },
   {
-   "key": "https://www.royalsreview.com/?p=108310",
-   "firstQueuedAtMs": 1795348800000,
-   "playedAtMs": 1795348800000
+   "key": "https://www.sciencenews.org/?p=3181936",
+   "firstQueuedAtMs": 1795347000000,
+   "playedAtMs": 1795347000000
   },
   {
-   "key": "https://iowacapitaldispatch.com/?post_type=republished&p=61362",
+   "key": "https://www.statnews.com/?p=1551203",
+   "firstQueuedAtMs": 1795347000000,
+   "playedAtMs": 1795347000000
+  },
+  {
+   "key": "6b00aba7f7a2ad0001596b15",
+   "firstQueuedAtMs": 1795347000000,
+   "playedAtMs": 1795347000000
+  },
+  {
+   "key": "https://www.inc.com/joseph-s-pete/paneras-founder-is-betting-100-million-on-a-playground-for-grown-ups-level99/91439141",
+   "firstQueuedAtMs": 1795347000000,
+   "playedAtMs": 1795347000000
+  },
+  {
+   "key": "https://www.inc.com/chris-morris/5-startup-ideas-for-couples-who-want-to-build-a-business-together/91436106",
+   "firstQueuedAtMs": 1795347000000,
+   "playedAtMs": 1795347000000
+  },
+  {
+   "key": "https://www.marktechpost.com/?p=84027",
+   "firstQueuedAtMs": 1795347000000,
+   "playedAtMs": 1795347000000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311418",
+   "firstQueuedAtMs": 1795347000000,
+   "playedAtMs": 1795347000000
+  },
+  {
+   "key": "https://kansasreflector.com/?p=64082",
    "firstQueuedAtMs": 1795348800000,
    "playedAtMs": 1795348800000
   },
@@ -1656,11 +1806,6 @@
    "playedAtMs": 1795348800000
   },
   {
-   "key": "https://www.thepitchkc.com/?p=959710",
-   "firstQueuedAtMs": 1795348800000,
-   "playedAtMs": 1795348800000
-  },
-  {
    "key": "https://www.nytimes.com/2026/11/22/magazine/looking-for-the-formula-to-stop-an-apocalypse.html",
    "firstQueuedAtMs": 1795348800000,
    "playedAtMs": 1795348800000
@@ -1677,6 +1822,11 @@
   },
   {
    "key": "https://dailygalaxy.com/?p=162511",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
+  },
+  {
+   "key": "https://www.missourinet.com/?p=177979",
    "firstQueuedAtMs": 1795348800000,
    "playedAtMs": 1795348800000
   },
@@ -1706,54 +1856,74 @@
    "playedAtMs": 1795348800000
   },
   {
-   "key": "https://kcstudio.org/?p=125004",
-   "firstQueuedAtMs": 1795348800000,
-   "playedAtMs": 1795348800000
-  },
-  {
    "key": "https://hackaday.com/?p=1429417",
    "firstQueuedAtMs": 1795348800000,
    "playedAtMs": 1795348800000
   },
   {
-   "key": "https://michiganadvance.com/?p=116125",
+   "key": "https://missouriindependent.com/?post_type=republished&p=33766",
    "firstQueuedAtMs": 1795348800000,
    "playedAtMs": 1795348800000
   },
   {
-   "key": "https://kansascitymag.com/?p=75013",
-   "firstQueuedAtMs": 1795350600000,
-   "playedAtMs": 1795350600000
+   "key": "https://lobste.rs/s/p5zsx4",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
   },
   {
-   "key": "https://southdakotasearchlight.com/?p=26234",
-   "firstQueuedAtMs": 1795350600000,
-   "playedAtMs": 1795350600000
+   "key": "6afdc840483a38e3131af692",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
   },
   {
-   "key": "https://kansascitymag.com/?p=81119",
-   "firstQueuedAtMs": 1795350600000,
-   "playedAtMs": 1795350600000
+   "key": "6b007879fb286bb31d23bb65",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
   },
   {
-   "key": "https://www.arrowheadpride.com/217078/chiefs-news-cardinals-preparing-to-start-4th-qb-in-4-weeks",
-   "firstQueuedAtMs": 1795350600000,
-   "playedAtMs": 1795350600000
+   "key": "https://www.fastcompany.com/91645826/canva-added-an-ai-kill-switch-to-its-tools",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
   },
   {
-   "key": "https://wisconsinwatch.org/?p=1323256",
-   "firstQueuedAtMs": 1795350600000,
-   "playedAtMs": 1795350600000
+   "key": "108556786",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
   },
   {
-   "key": "https://www.mlb.com/royals/news/royals-support-literacy-youth-sports-2026",
-   "firstQueuedAtMs": 1795350600000,
-   "playedAtMs": 1795350600000
+   "key": "https://the-decoder.com/?p=43157",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
   },
   {
-   "key": "https://www.royalsreview.com/?p=108266",
-   "firstQueuedAtMs": 1795350600000,
-   "playedAtMs": 1795350600000
+   "key": "6aee4283dcea605147033e13",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
+  },
+  {
+   "key": "https://www.fastcompany.com/91646076/housing-market-home-prices-shift-76-metros",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
+  },
+  {
+   "key": "6LQngY8Ewx6BWB7pmhnMeG",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
+  },
+  {
+   "key": "https://retractionwatch.com/?p=136667",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
+  },
+  {
+   "key": "59NwPcj5ghyUEZddcUpiBj",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
+  },
+  {
+   "key": "https://www.missourinet.com/?p=177984",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
   },
   {
    "key": "https://www.theverge.com/?p=1038713",
@@ -1781,17 +1951,12 @@
    "playedAtMs": 1795350600000
   },
   {
-   "key": "https://kansascitymag.com/?p=82502",
-   "firstQueuedAtMs": 1795350600000,
-   "playedAtMs": 1795350600000
-  },
-  {
    "key": "https://dailygalaxy.com/?p=163272",
    "firstQueuedAtMs": 1795350600000,
    "playedAtMs": 1795350600000
   },
   {
-   "key": "https://nebraskaexaminer.com/?p=45967",
+   "key": "https://missouriindependent.com/?p=33770",
    "firstQueuedAtMs": 1795350600000,
    "playedAtMs": 1795350600000
   },
@@ -1811,114 +1976,119 @@
    "playedAtMs": 1795350600000
   },
   {
-   "key": "TOWAQ4T9NJLS00",
+   "key": "https://www.universetoday.com/articles/space-entrepreneurs-should-look-to-16th-century-spice-trade-for-inspiration",
    "firstQueuedAtMs": 1795350600000,
    "playedAtMs": 1795350600000
   },
   {
-   "key": "6aff67b5010b3517c8092c6d",
+   "key": "news714460786",
    "firstQueuedAtMs": 1795350600000,
    "playedAtMs": 1795350600000
   },
   {
-   "key": "36B6kKKD8JE6ssfkjRGJSm",
+   "key": "https://www.inc.com/minda-zetlin/the-board-investigated-my-boss-he-told-me-to-secretly-feed-him-information/91436157",
    "firstQueuedAtMs": 1795350600000,
    "playedAtMs": 1795350600000
   },
   {
-   "key": "https://kansascitymag.com/?p=91962",
+   "key": "https://links.morningbrew.com/c/Zx0?mbcid=48544798.3238030&mid=1e8203ce88986da9aabbf2faa16b5ab0&mbuuid=enwFAdGao8KESKxNukTu1EGE",
    "firstQueuedAtMs": 1795350600000,
    "playedAtMs": 1795350600000
   },
   {
-   "key": "108554024",
+   "key": "https://links.morningbrew.com/c/Zx3?mblid=8765dc6a269d&mbcid=48544798.3238030&mid=1e8203ce88986da9aabbf2faa16b5ab0&mbuuid=enwFAdGao8KESKxNukTu1EGE",
    "firstQueuedAtMs": 1795350600000,
    "playedAtMs": 1795350600000
   },
   {
-   "key": "https://www.fastcompany.com/91642881/4-ways-i-gave-my-employees-more-time-off-without-sacrificing-results",
+   "key": "https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html",
    "firstQueuedAtMs": 1795350600000,
    "playedAtMs": 1795350600000
   },
   {
-   "key": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
+   "key": "https://www.nytimes.com/2026/11/21/science/outages-tech-history.html",
    "firstQueuedAtMs": 1795350600000,
    "playedAtMs": 1795350600000
   },
   {
-   "key": "https://cleantechnica.com/?p=386576",
+   "key": "6ad4fb5e83acc76b3cd1e49a",
    "firstQueuedAtMs": 1795350600000,
    "playedAtMs": 1795350600000
   },
   {
-   "key": "https://github.com/EL4CTEO/fast-anything",
+   "key": "6a75111dfaa08b0c1d59f99f",
    "firstQueuedAtMs": 1795350600000,
    "playedAtMs": 1795350600000
   },
   {
-   "key": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+   "key": "https://www.fastcompany.com/91640406/apple-intelligence-decoded-how-to-make-sense-of-apples-confusing-ai-lineup",
    "firstQueuedAtMs": 1795350600000,
    "playedAtMs": 1795350600000
   },
   {
-   "key": "https://hackaday.com/?p=1429426",
+   "key": "https://www.fastcompany.com/91645503/caring-for-elderly-parents-without-recreating-snls-viral-sister-sketch",
    "firstQueuedAtMs": 1795350600000,
    "playedAtMs": 1795350600000
   },
   {
-   "key": "TOVQZIR24U8Y00",
+   "key": "oUjFJXuV3JeWJy62Fqxzh3",
    "firstQueuedAtMs": 1795350600000,
    "playedAtMs": 1795350600000
   },
   {
-   "key": "https://alperenkeles.com/posts/vocab-for-testing/",
+   "key": "https://insideclimatenews.org/?p=116521",
    "firstQueuedAtMs": 1795350600000,
    "playedAtMs": 1795350600000
   },
   {
-   "key": "https://michiganadvance.com/?post_type=republished&p=116129",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
+   "key": "https://www.inc.com/bruce-crumley/managers-say-they-enforce-the-rules-equally-their-top-performers-get-a-different-deal/91440326",
+   "firstQueuedAtMs": 1795350600000,
+   "playedAtMs": 1795350600000
   },
   {
-   "key": "https://fox4kc.com/?p=4432003",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
+   "key": "https://insideclimatenews.org/?p=116566",
+   "firstQueuedAtMs": 1795350600000,
+   "playedAtMs": 1795350600000
   },
   {
-   "key": "74500496",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
+   "key": "https://www.infoq.com/news/2026/11/gke-kernel-network-bug/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795350600000,
+   "playedAtMs": 1795350600000
   },
   {
-   "key": "https://fox4kc.com/?p=4452243",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
+   "key": "https://www.missourinet.com/?p=177990",
+   "firstQueuedAtMs": 1795350600000,
+   "playedAtMs": 1795350600000
   },
   {
-   "key": "https://www.royalsreview.com/?p=108287",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
+   "key": "https://www.statnews.com/?p=1550892",
+   "firstQueuedAtMs": 1795350600000,
+   "playedAtMs": 1795350600000
   },
   {
-   "key": "https://arkansasadvocate.com/?post_type=republished&p=31097",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
+   "key": "https://www.pv-magazine.com/?p=75646",
+   "firstQueuedAtMs": 1795350600000,
+   "playedAtMs": 1795350600000
   },
   {
-   "key": "https://thebeaconnews.org/?p=36282",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
+   "key": "https://www.pymnts.com/?p=4409863",
+   "firstQueuedAtMs": 1795350600000,
+   "playedAtMs": 1795350600000
   },
   {
-   "key": "https://www.kcur.org/news/2026-11-19/railroad-jobs-merger-union-pacific-norfolk-southern-train-safety",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
+   "key": "https://kansasreflector.com/?p=64003",
+   "firstQueuedAtMs": 1795350600000,
+   "playedAtMs": 1795350600000
   },
   {
-   "key": "https://kcsoccerjournal.com/?p=8765",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
+   "key": "https://www.fastcompany.com/91645239/4-phases-of-becoming-a-great-leader",
+   "firstQueuedAtMs": 1795350600000,
+   "playedAtMs": 1795350600000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75647",
+   "firstQueuedAtMs": 1795350600000,
+   "playedAtMs": 1795350600000
   },
   {
    "key": "https://www.engadget.com/2319344/apple-airpods-5-vs-airpods-pro-3-differences/",
@@ -1931,32 +2101,12 @@
    "playedAtMs": 1795352400000
   },
   {
-   "key": "https://www.kcur.org/podcast/up-to-date/2026-11-18/kmbc-helicopter-reporter-johnny-rowlands-retiring-kansas-city-newschopper",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
-   "key": "https://thebeaconnews.org/?p=36250",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
    "key": "108557033",
    "firstQueuedAtMs": 1795352400000,
    "playedAtMs": 1795352400000
   },
   {
-   "key": "https://www.nbcnews.com/science/climate-change/cop31-climate-talks-break-angry-dispute-fossil-fuels-rcna610656",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
    "key": "https://www.theverge.com/?p=1039716",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
-   "key": "https://arkansasadvocate.com/?p=31139",
    "firstQueuedAtMs": 1795352400000,
    "playedAtMs": 1795352400000
   },
@@ -1996,322 +2146,107 @@
    "playedAtMs": 1795352400000
   },
   {
-   "key": "https://www.royalsreview.com/?p=108270",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
    "key": "108555785",
    "firstQueuedAtMs": 1795352400000,
    "playedAtMs": 1795352400000
   },
   {
-   "key": "https://www.sciencealert.com/?p=228505",
+   "key": "https://www.pv-magazine.com/?p=75649",
    "firstQueuedAtMs": 1795352400000,
    "playedAtMs": 1795352400000
   },
   {
-   "key": "https://insideclimatenews.org/?p=116454",
+   "key": "https://www.pv-magazine.com/?p=75645",
    "firstQueuedAtMs": 1795352400000,
    "playedAtMs": 1795352400000
   },
   {
-   "key": "https://earthsky.org/?p=85647",
+   "key": "https://www.theregister.com/a/5311360",
    "firstQueuedAtMs": 1795352400000,
    "playedAtMs": 1795352400000
   },
   {
-   "key": "2bd175e8-fc2f-46e6-a01d-35e38c7c4835",
+   "key": "https://kansasreflector.com/?post_type=republished&p=64071",
    "firstQueuedAtMs": 1795352400000,
    "playedAtMs": 1795352400000
   },
   {
-   "key": "https://simonwillison.net/2026/Nov/21/muru/",
+   "key": "https://www.pv-magazine.com/?p=75635",
    "firstQueuedAtMs": 1795352400000,
    "playedAtMs": 1795352400000
   },
   {
-   "key": "https://www.zmescience.com/?p=315520",
+   "key": "https://www.pv-magazine.com/?p=75631",
    "firstQueuedAtMs": 1795352400000,
    "playedAtMs": 1795352400000
   },
   {
-   "key": "https://www.theregister.com/a/5311023",
+   "key": "108554745",
    "firstQueuedAtMs": 1795352400000,
    "playedAtMs": 1795352400000
   },
   {
-   "key": "https://hackaday.com/?p=1429498",
+   "key": "6ad65118f85dfee471db09d1",
    "firstQueuedAtMs": 1795352400000,
    "playedAtMs": 1795352400000
   },
   {
-   "key": "https://hackaday.com/?p=1429399",
+   "key": "6abc0b61297b0fd25b3f2cf1",
    "firstQueuedAtMs": 1795352400000,
    "playedAtMs": 1795352400000
   },
   {
-   "key": "https://www.sciencealert.com/?p=229254",
+   "key": "6900e13d340cdaa92bb7d0c9",
    "firstQueuedAtMs": 1795352400000,
    "playedAtMs": 1795352400000
   },
   {
-   "key": "https://hackaday.com/?p=1427947",
+   "key": "6761d5ad5b998d54c2f9cdbc",
    "firstQueuedAtMs": 1795352400000,
    "playedAtMs": 1795352400000
   },
   {
-   "key": "https://kcsoccerjournal.com/?p=8739",
+   "key": "673bb0142598c31aeeee086e",
    "firstQueuedAtMs": 1795352400000,
    "playedAtMs": 1795352400000
   },
   {
-   "key": "https://thebeaconnews.org/?p=36194",
+   "key": "https://www.fastcompany.com/91642816/your-best-people-are-training-your-ai-pay-them-for-it",
    "firstQueuedAtMs": 1795352400000,
    "playedAtMs": 1795352400000
   },
   {
-   "key": "TOVNIPT9NJLU00",
+   "key": "https://www.fastcompany.com/91637814/bigwords-smartphone-sign-app",
    "firstQueuedAtMs": 1795352400000,
    "playedAtMs": 1795352400000
   },
   {
-   "key": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+   "key": "https://www.missourinet.com/?p=177982",
    "firstQueuedAtMs": 1795352400000,
    "playedAtMs": 1795352400000
   },
   {
-   "key": "https://electrek.co/?p=495197",
+   "key": "https://cleantechnica.com/?p=386519",
    "firstQueuedAtMs": 1795352400000,
    "playedAtMs": 1795352400000
   },
   {
-   "key": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+   "key": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
    "firstQueuedAtMs": 1795352400000,
    "playedAtMs": 1795352400000
   },
   {
-   "key": "https://www.sciencealert.com/?p=229484",
+   "key": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
    "firstQueuedAtMs": 1795352400000,
    "playedAtMs": 1795352400000
   },
   {
-   "key": "2f499b0fad46f2d46fc1c337c454cd6adc7edd47",
+   "key": "https://www.pv-magazine.com/?p=75045",
    "firstQueuedAtMs": 1795352400000,
    "playedAtMs": 1795352400000
   },
   {
-   "key": "https://www.marktechpost.com/?p=84036",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
-   "key": "WP-MKTW-0005350598",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
-   "key": "https://www.nytimes.com/2026/11/21/arts/tamagotchis-comeback.html",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
-   "key": "https://electrek.co/?p=495165",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
-   "key": "news714399846",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
-   "key": "https://www.engadget.com/2319300/pixel-11-is-it-worth-upgrading-from-9-10/",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
-   "key": "https://www.engadget.com/2310887/samsung-vs-lg-oled-tv-difference-between/",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
-   "key": "https://lobste.rs/s/n5i1ds",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
-   "key": "https://www.engadget.com/2319295/what-can-happen-too-many-devices-on-home-network/",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
-   "key": "https://lobste.rs/s/6jloca",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
-   "key": "https://www.engadget.com/2319291/how-to-enable-usb-port-charging-pc-off/",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
-   "key": "https://www.engadget.com/2317775/never-do-these-things-on-android-phone/",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
-   "key": "https://stulle.app/",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
-   "key": "WP-MKTW-0005357557",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
-   "key": "https://hackaday.com/?p=1429423",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
-   "key": "https://www.engadget.com/2319289/wireless-earbuds-type-best-for-audio-output/",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
-   "key": "https://electrek.co/?p=439884",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
-   "key": "https://www.engadget.com/2310980/how-to-calibrate-3d-printer-why-should/",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
-   "key": "https://lobste.rs/s/et5q0q",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
-   "key": "https://www.engadget.com/2319272/build-mini-pc-cost-harder-than-expected/",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
-   "key": "WP-MKTW-0005349818",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
-   "key": "https://www.engadget.com/2319181/google-products-services-discontinued-2026/",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
-   "key": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
-   "key": "https://www.engadget.com/2319140/phone-says-no-service-with-sim-card/",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
-   "key": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
-   "key": "https://github.com/sebaandrada-cell/PcapAnalyzer",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
-   "key": "news714218179",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
-   "key": "https://www.sciencealert.com/?p=229898",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
-   "key": "https://www.theverge.com/?p=1039564",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
-   "key": "https://techcrunch.com/?p=3191147",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
-   "key": "https://cleantechnica.com/?p=385812",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
-   "key": "https://lobste.rs/s/inhlo2",
-   "firstQueuedAtMs": 1795352400000,
-   "playedAtMs": 1795352400000
-  },
-  {
-   "key": "https://www.ky3.com/2026/11/22/first-alert-weather-rain-tonight-into-sunday-will-cool-us-down-again/",
-   "firstQueuedAtMs": 1795354200000,
-   "playedAtMs": 1795354200000
-  },
-  {
-   "key": "74500458",
-   "firstQueuedAtMs": 1795354200000,
-   "playedAtMs": 1795354200000
-  },
-  {
-   "key": "https://www.kshb.com/life/food-and-drink/whether-youre-team-plastic-or-wood-heres-how-to-sanitize-your-cutting-board",
-   "firstQueuedAtMs": 1795354200000,
-   "playedAtMs": 1795354200000
-  },
-  {
-   "key": "https://johnsoncountypost.com/?p=302364",
-   "firstQueuedAtMs": 1795354200000,
-   "playedAtMs": 1795354200000
-  },
-  {
-   "key": "https://www.kshb.com/world/russian-attack-near-ukraines-capital-strikes-apartment-building-killing-2",
-   "firstQueuedAtMs": 1795354200000,
-   "playedAtMs": 1795354200000
-  },
-  {
-   "key": "https://greatlakesecho.org/?p=5030123",
-   "firstQueuedAtMs": 1795354200000,
-   "playedAtMs": 1795354200000
-  },
-  {
-   "key": "https://wisconsinexaminer.com/?p=49026",
-   "firstQueuedAtMs": 1795354200000,
-   "playedAtMs": 1795354200000
-  },
-  {
-   "key": "https://www.mlb.com/royals/news/bryce-miller-royals-mariners-trade",
-   "firstQueuedAtMs": 1795354200000,
-   "playedAtMs": 1795354200000
-  },
-  {
-   "key": "https://kansascitymag.com/?p=92080",
-   "firstQueuedAtMs": 1795354200000,
-   "playedAtMs": 1795354200000
-  },
-  {
-   "key": "https://www.thepitchkc.com/?p=959533",
-   "firstQueuedAtMs": 1795354200000,
-   "playedAtMs": 1795354200000
-  },
-  {
-   "key": "https://thehill.com/?p=6234205",
+   "key": "https://www.rockmnation.com/?p=164575",
    "firstQueuedAtMs": 1795354200000,
    "playedAtMs": 1795354200000
   },
@@ -2336,16 +2271,6 @@
    "playedAtMs": 1795354200000
   },
   {
-   "key": "https://thehill.com/?p=6235588",
-   "firstQueuedAtMs": 1795354200000,
-   "playedAtMs": 1795354200000
-  },
-  {
-   "key": "https://nebraskaexaminer.com/?p=45973",
-   "firstQueuedAtMs": 1795354200000,
-   "playedAtMs": 1795354200000
-  },
-  {
    "key": "2B4tsN6KnUZfEWaoUiVVph",
    "firstQueuedAtMs": 1795354200000,
    "playedAtMs": 1795354200000
@@ -2356,62 +2281,12 @@
    "playedAtMs": 1795354200000
   },
   {
-   "key": "https://kcsoccerjournal.com/?p=8762",
-   "firstQueuedAtMs": 1795354200000,
-   "playedAtMs": 1795354200000
-  },
-  {
    "key": "https://www.inc.com/carly-long/erin-andrews-300-nfl-games-wear-founder-lessons/91439846",
    "firstQueuedAtMs": 1795354200000,
    "playedAtMs": 1795354200000
   },
   {
-   "key": "https://www.royalsreview.com/?p=108253",
-   "firstQueuedAtMs": 1795354200000,
-   "playedAtMs": 1795354200000
-  },
-  {
-   "key": "https://www.rockmnation.com/?p=164575",
-   "firstQueuedAtMs": 1795354200000,
-   "playedAtMs": 1795354200000
-  },
-  {
-   "key": "https://www.thepitchkc.com/?p=959523",
-   "firstQueuedAtMs": 1795354200000,
-   "playedAtMs": 1795354200000
-  },
-  {
-   "key": "https://www.mlb.com/royals/news/2026-silver-slugger-award-winners",
-   "firstQueuedAtMs": 1795354200000,
-   "playedAtMs": 1795354200000
-  },
-  {
-   "key": "https://www.mlb.com/royals/news/royals-injuries-and-roster-moves",
-   "firstQueuedAtMs": 1795354200000,
-   "playedAtMs": 1795354200000
-  },
-  {
-   "key": "https://www.mlb.com/royals/news/royals-add-two-prospects-to-40-man-roster",
-   "firstQueuedAtMs": 1795354200000,
-   "playedAtMs": 1795354200000
-  },
-  {
-   "key": "https://www.mlb.com/royals/news/angel-bastardo-traded-to-royals-from-red-sox",
-   "firstQueuedAtMs": 1795354200000,
-   "playedAtMs": 1795354200000
-  },
-  {
-   "key": "https://www.thepitchkc.com/?p=959473",
-   "firstQueuedAtMs": 1795354200000,
-   "playedAtMs": 1795354200000
-  },
-  {
    "key": "https://github.com/gulivan/worker755",
-   "firstQueuedAtMs": 1795354200000,
-   "playedAtMs": 1795354200000
-  },
-  {
-   "key": "82e87408-1c30-4864-bf44-d39a9c400302",
    "firstQueuedAtMs": 1795354200000,
    "playedAtMs": 1795354200000
   },
@@ -2426,177 +2301,117 @@
    "playedAtMs": 1795354200000
   },
   {
-   "key": "2a1e75c6-4b67-4348-9e1e-0df69645eea0",
+   "key": "https://www.ky3.com/2026/11/22/first-alert-weather-rain-tonight-into-sunday-will-cool-us-down-again/",
    "firstQueuedAtMs": 1795354200000,
    "playedAtMs": 1795354200000
   },
   {
-   "key": "https://www.thepitchkc.com/?p=959434",
+   "key": "6723f3d1fe9036abfe13c4d6",
    "firstQueuedAtMs": 1795354200000,
    "playedAtMs": 1795354200000
   },
   {
-   "key": "301d749f-1474-48f9-8bdd-8edf631ad23e",
+   "key": "6a91b2ddf6dd9530a8f6b0e2",
    "firstQueuedAtMs": 1795354200000,
    "playedAtMs": 1795354200000
   },
   {
-   "key": "https://www.downtownkc.org/?p=68811",
+   "key": "https://cleantechnica.com/?p=386498",
    "firstQueuedAtMs": 1795354200000,
    "playedAtMs": 1795354200000
   },
   {
-   "key": "https://www.kcur.org/podcast/kansas-city-today/2026-11-16/what-is-missouris-next-big-ballot-issue-after-amendment-6",
+   "key": "news714409080",
    "firstQueuedAtMs": 1795354200000,
    "playedAtMs": 1795354200000
   },
   {
-   "key": "https://kcsoccerjournal.com/?p=8728",
+   "key": "https://www.marktechpost.com/?p=84023",
    "firstQueuedAtMs": 1795354200000,
    "playedAtMs": 1795354200000
   },
   {
-   "key": "https://martincitytelegraph.com/?p=81788",
+   "key": "https://techcrunch.com/?p=3190989",
    "firstQueuedAtMs": 1795354200000,
    "playedAtMs": 1795354200000
   },
   {
-   "key": "625ace52-8fad-4ee5-9e53-2b94b3728f48",
+   "key": "news714389857",
    "firstQueuedAtMs": 1795354200000,
    "playedAtMs": 1795354200000
   },
   {
-   "key": "https://martincitytelegraph.com/?p=81757",
+   "key": "https://www.techdirt.com/?p=552103&preview=true&preview_id=552103",
    "firstQueuedAtMs": 1795354200000,
    "playedAtMs": 1795354200000
   },
   {
-   "key": "https://dosmundos.com/?p=121531",
+   "key": "https://www.inc.com/soren-kaplan/warren-buffett-spent-years-doing-the-1-thing-jensen-huang-failed-to-do/91440049",
    "firstQueuedAtMs": 1795354200000,
    "playedAtMs": 1795354200000
   },
   {
-   "key": "https://linebender.org/blog/next-100-guis/",
+   "key": "news714409162",
    "firstQueuedAtMs": 1795354200000,
    "playedAtMs": 1795354200000
   },
   {
-   "key": "https://techcrunch.com/?p=3191145",
+   "key": "https://www.sciencedaily.com/releases/2026/11/261120075549.htm",
    "firstQueuedAtMs": 1795354200000,
    "playedAtMs": 1795354200000
   },
   {
-   "key": "https://www.sciencealert.com/?p=229632",
+   "key": "https://cleantechnica.com/?p=386474",
    "firstQueuedAtMs": 1795354200000,
    "playedAtMs": 1795354200000
   },
   {
-   "key": "https://www.inc.com/moses-jeanfrancois/sam-walton-first-store-was-not-walmart-pricing-lesson-700-billion-dollar-giant/91440088",
+   "key": "74500458",
    "firstQueuedAtMs": 1795354200000,
    "playedAtMs": 1795354200000
   },
   {
-   "key": "https://yaleclimateconnections.org/?p=145017",
+   "key": "https://cleantechnica.com/?p=386464",
    "firstQueuedAtMs": 1795354200000,
    "playedAtMs": 1795354200000
   },
   {
-   "key": "https://www.pandex.io",
+   "key": "https://www.kshb.com/life/food-and-drink/whether-youre-team-plastic-or-wood-heres-how-to-sanitize-your-cutting-board",
    "firstQueuedAtMs": 1795354200000,
    "playedAtMs": 1795354200000
   },
   {
-   "key": "WP-MKTW-0005352312",
+   "key": "https://cleantechnica.com/?p=386483",
    "firstQueuedAtMs": 1795354200000,
    "playedAtMs": 1795354200000
   },
   {
-   "key": "https://www.inc.com/esther-lian/want-to-protect-cognitive-decline-new-study-points-this-part-of-body/91440807",
+   "key": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm",
    "firstQueuedAtMs": 1795354200000,
    "playedAtMs": 1795354200000
   },
   {
-   "key": "tag:daringfireball.net,2026://1.43759",
+   "key": "news714400952",
    "firstQueuedAtMs": 1795354200000,
    "playedAtMs": 1795354200000
   },
   {
-   "key": "https://www.theverge.com/?p=1039554",
+   "key": "https://cleantechnica.com/?p=386442",
    "firstQueuedAtMs": 1795354200000,
    "playedAtMs": 1795354200000
   },
   {
-   "key": "https://www.sciencealert.com/?p=229039",
+   "key": "https://www.pymnts.com/?p=4414759",
    "firstQueuedAtMs": 1795354200000,
    "playedAtMs": 1795354200000
   },
   {
-   "key": "https://www.techdirt.com/?p=552183&preview=true&preview_id=552183",
+   "key": "https://cleantechnica.com/?p=386463",
    "firstQueuedAtMs": 1795354200000,
    "playedAtMs": 1795354200000
   },
   {
-   "key": "https://electrek.co/?p=495146",
-   "firstQueuedAtMs": 1795354200000,
-   "playedAtMs": 1795354200000
-  },
-  {
-   "key": "https://electrek.co/?p=495109",
-   "firstQueuedAtMs": 1795354200000,
-   "playedAtMs": 1795354200000
-  },
-  {
-   "key": "WP-MKTW-0005354400",
-   "firstQueuedAtMs": 1795354200000,
-   "playedAtMs": 1795354200000
-  },
-  {
-   "key": "74500688",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://iowacapitaldispatch.com/?post_type=republished&p=61336",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://www.kctv5.com/2026/11/22/chilly-chiefs-game-day-thanksgiving-week-tap/",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://kcstudio.org/?p=125269",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "0e1dc8d4-fc07-4b77-b379-9190aa7c5404",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://thebeaconnews.org/?p=36245",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://dev.to/derek-compdf/comparing-two-pdf-versions-did-the-text-change-or-just-the-layout-4579",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://iowacapitaldispatch.com/?p=61369",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://dev.to/aicodeops_dev/two-green-pull-requests-can-still-break-main-2n9g",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "28338915-b11b-4ebc-ba3e-63f3c8152e14",
+   "key": "https://www.engadget.com/2319357/limit-one-ui-9-on-samsung-phone/",
    "firstQueuedAtMs": 1795356000000,
    "playedAtMs": 1795356000000
   },
@@ -2606,117 +2421,7 @@
    "playedAtMs": 1795356000000
   },
   {
-   "key": "https://thehill.com/?p=6235751",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://kansascitymag.com/?p=91904",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://dev.to/vasanthakumari_n/python-day-13-solving-logical-problems-using-while-loops-48c1",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://dev.to/test-squad/payment-testing-checklist-cards-refunds-webhooks-2heg",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "a6785568-9993-490c-b1a5-df8b8853ce62",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
    "key": "https://fortune.com/?p=4647692&showAdminBar=true",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://dev.to/ashkan/growing-revenue-from-existing-clients-without-pushy-upselling-484m",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://www.mlb.com/royals/news/royals-hitting-group-seek-offensive-growth-in-2027",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://www.kcur.org/podcast/kansas-city-today/2026-11-18/kansas-citys-autumns-are-getting-a-lot-hotter",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://www.mlb.com/royals/news/all-arizona-fall-league-team-2026",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://michiganadvance.com/?p=116151",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://dev.to/omer_khan_846c4feb067c59e/how-to-fix-a-slow-elementor-website-a-practical-checklist-1epe",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://fox4kc.com/?p=4452265",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://thebeaconnews.org/?p=36205",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://thebeaconnews.org/?p=36204",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://www.kcur.org/news/2026-11-17/food-insecurity-is-growing-across-households-in-kansas-nonprofits-are-trying-to-meet-the-need",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://www.kcur.org/podcast/kansas-city-today/2026-11-17/missouri-hunters-resist-efforts-to-stop-deer-disease",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://kcsoccerjournal.com/?p=8747",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://www.engadget.com/2319357/limit-one-ui-9-on-samsung-phone/",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://kcstudio.org/?p=125262",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "9e6d5ea6-3345-4e10-8342-f5aea672558a",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://flatlandkc.org/?p=199606",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://dosmundos.com/?p=121551",
    "firstQueuedAtMs": 1795356000000,
    "playedAtMs": 1795356000000
   },
@@ -2731,27 +2436,7 @@
    "playedAtMs": 1795356000000
   },
   {
-   "key": "https://www.mlb.com/royals/news/baseball-hall-of-fame-ballot-2027",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://kcstudio.org/?p=124986",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "dfb711d6-216f-4d73-8d51-fe5438f39a17",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
    "key": "https://electrek.co/?p=495327",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://www.thepitchkc.com/?p=959342",
    "firstQueuedAtMs": 1795356000000,
    "playedAtMs": 1795356000000
   },
@@ -2766,17 +2451,22 @@
    "playedAtMs": 1795356000000
   },
   {
+   "key": "https://kansasreflector.com/?post_type=republished&p=64069",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
    "key": "https://www.engadget.com/2319353/old-laptop-sc-port-purpose/",
    "firstQueuedAtMs": 1795356000000,
    "playedAtMs": 1795356000000
   },
   {
-   "key": "TOWQ31KIP3I800",
+   "key": "https://dailygalaxy.com/?p=162679",
    "firstQueuedAtMs": 1795356000000,
    "playedAtMs": 1795356000000
   },
   {
-   "key": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+   "key": "TOWQ31KIP3I800",
    "firstQueuedAtMs": 1795356000000,
    "playedAtMs": 1795356000000
   },
@@ -2791,312 +2481,107 @@
    "playedAtMs": 1795356000000
   },
   {
-   "key": "https://martincitytelegraph.com/?p=81785",
+   "key": "6a0635293f6b307a9138c8f4",
    "firstQueuedAtMs": 1795356000000,
    "playedAtMs": 1795356000000
   },
   {
-   "key": "0e7e6462-5608-4715-9e23-86281e600ce8",
+   "key": "6a063bb21e950aab129bbee8",
    "firstQueuedAtMs": 1795356000000,
    "playedAtMs": 1795356000000
   },
   {
-   "key": "https://www.kcur.org/news/2026-11-14/kansas-city-travelers-face-lingering-delays-after-faa-ground-stop-and-more-than-100-cancellations",
+   "key": "https://cleantechnica.com/?p=386437",
    "firstQueuedAtMs": 1795356000000,
    "playedAtMs": 1795356000000
   },
   {
-   "key": "https://www.mlb.com/royals/news/mlb-candidates-to-win-first-mvp-cy-young-2027",
+   "key": "02c52259bc83b8aa57b8410eb8c813a22ed5fd28",
    "firstQueuedAtMs": 1795356000000,
    "playedAtMs": 1795356000000
   },
   {
-   "key": "https://kcstudio.org/?p=125234",
+   "key": "https://www.sci.news/?p=112853",
    "firstQueuedAtMs": 1795356000000,
    "playedAtMs": 1795356000000
   },
   {
-   "key": "https://kcsoccerjournal.com/?p=8723",
+   "key": "https://www.pymnts.com/?p=4414715",
    "firstQueuedAtMs": 1795356000000,
    "playedAtMs": 1795356000000
   },
   {
-   "key": "https://martincitytelegraph.com/?p=81749",
+   "key": "https://lobste.rs/s/1n8fzn",
    "firstQueuedAtMs": 1795356000000,
    "playedAtMs": 1795356000000
   },
   {
-   "key": "https://www.mlb.com/royals/news/royals-plan-for-carter-jensen-salvador-perez-at-catcher-in-2027",
+   "key": "https://cleantechnica.com/?p=386459",
    "firstQueuedAtMs": 1795356000000,
    "playedAtMs": 1795356000000
   },
   {
-   "key": "https://martincitytelegraph.com/?p=81742",
+   "key": "news714399986",
    "firstQueuedAtMs": 1795356000000,
    "playedAtMs": 1795356000000
   },
   {
-   "key": "https://nebraskaexaminer.com/?post_type=republished&p=45963",
+   "key": "https://krebsonsecurity.com/?p=74696",
    "firstQueuedAtMs": 1795356000000,
    "playedAtMs": 1795356000000
   },
   {
-   "key": "https://www.kcur.org/news/2026-11-13/old-tech-blamed-for-the-ground-stop-that-caused-flight-chaos-it-got-overloaded",
+   "key": "https://www.pymnts.com/?p=4414690",
    "firstQueuedAtMs": 1795356000000,
    "playedAtMs": 1795356000000
   },
   {
-   "key": "https://kcstudio.org/?p=125102",
+   "key": "https://missouriindependent.com/?post_type=republished&p=33762",
    "firstQueuedAtMs": 1795356000000,
    "playedAtMs": 1795356000000
   },
   {
-   "key": "https://kcstudio.org/?p=125026",
+   "key": "d7bdb91bc1e6b32644ddf96aa43ed4840d83f174",
    "firstQueuedAtMs": 1795356000000,
    "playedAtMs": 1795356000000
   },
   {
-   "key": "https://www.mlb.com/royals/news/bobby-witt-jr-finishes-3rd-for-al-mvp-award-2026",
+   "key": "https://www.sciencedaily.com/releases/2026/11/261119194544.htm",
    "firstQueuedAtMs": 1795356000000,
    "playedAtMs": 1795356000000
   },
   {
-   "key": "https://kcstudio.org/?p=125094",
+   "key": "https://www.pymnts.com/?p=4414633",
    "firstQueuedAtMs": 1795356000000,
    "playedAtMs": 1795356000000
   },
   {
-   "key": "https://kcsoccerjournal.com/?p=8710",
+   "key": "https://www.nature.com/articles/d41586-026-03803-8",
    "firstQueuedAtMs": 1795356000000,
    "playedAtMs": 1795356000000
   },
   {
-   "key": "e586c82c-df54-4ba5-8548-c81b4e4e88b6",
+   "key": "https://nautil.us/?p=1286943",
    "firstQueuedAtMs": 1795356000000,
    "playedAtMs": 1795356000000
   },
   {
-   "key": "https://www.mlb.com/royals/news/royals-and-elevate-team-up-on-new-downtown-ballpark-experience",
+   "key": "https://www.statnews.com/?p=1551706",
    "firstQueuedAtMs": 1795356000000,
    "playedAtMs": 1795356000000
   },
   {
-   "key": "https://dosmundos.com/?p=121535",
+   "key": "https://www.theregister.com/a/5311493",
    "firstQueuedAtMs": 1795356000000,
    "playedAtMs": 1795356000000
   },
   {
-   "key": "https://kcsoccerjournal.com/?p=8705",
+   "key": "https://insideclimatenews.org/?p=116557",
    "firstQueuedAtMs": 1795356000000,
    "playedAtMs": 1795356000000
   },
   {
-   "key": "https://dosmundos.com/?p=121495",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://kansascitydefender.com/?p=18952",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://flatlandkc.org/?p=199532",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://dosmundos.com/?p=121471",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://flatlandkc.org/?p=199495",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://www.downtownkc.org/?p=68796",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://kansascitydefender.com/?p=18913",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://flatlandkc.org/?p=199455",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://www.kcdigitaldrive.org/?post_type=article&p=8564",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "WP-MKTW-0005358777",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://cleantechnica.com/?p=386063",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://lobste.rs/s/pvylnk",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://www.inc.com/avery-miles/a-massive-study-of-250000-patients-just-revealed-a-surprising-new-use-for-glp-1s/91436392",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://electrek.co/?p=495135",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://www.nytimes.com/2026/11/20/podcasts/hardfork-gta6-nvidia-anthropic.html",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "TOUVZ0KJH6V400",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://www.inc.com/sage-swaby/if-migraines-come-with-these-4-symptoms-ask-about-endometriosis/91423402",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://eos.org/?p=252701",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://techcrunch.com/?p=3191127",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://electrek.co/?p=495108",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "tag:daringfireball.net,2026:/linked//6.43758",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "news714143965",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "WP-MKTW-0005361786",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://dailygalaxy.com/?p=163181",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://electrek.co/?p=495068",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://electrek.co/?p=493081",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "tag:daringfireball.net,2026:/linked//6.43757",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://github.com/ShinMegamiBoson/lookatmyquant",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://dailygalaxy.com/?p=163175",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://dailygalaxy.com/?p=162679",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://www.kctv5.com/2026/11/22/chadwick-bosemans-father-leroy-boseman-dies-82/",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://www.theregister.com/a/5311418",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://lobste.rs/s/p5zsx4",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "6afdc840483a38e3131af692",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "6b007879fb286bb31d23bb65",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://www.fastcompany.com/91645826/canva-added-an-ai-kill-switch-to-its-tools",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "108556786",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://the-decoder.com/?p=43157",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "6aee4283dcea605147033e13",
-   "firstQueuedAtMs": 1795356000000,
-   "playedAtMs": 1795356000000
-  },
-  {
-   "key": "https://www.fastcompany.com/91646076/housing-market-home-prices-shift-76-metros",
+   "key": "tag:daringfireball.net,2026:/linked//6.43756",
    "firstQueuedAtMs": 1795356000000,
    "playedAtMs": 1795356000000
   },
@@ -3106,157 +2591,7 @@
    "playedAtMs": 1795357800000
   },
   {
-   "key": "https://www.mlb.com/royals/news/bobby-witt-jr-first-team-all-mlb-2026",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://www.mlb.com/royals/news/bobby-witt-jr-2026-heart-hustle-award-winner",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://www.mlb.com/royals/news/royals-looking-for-pitching-help-in-offseason",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://kansascitydefender.com/?p=18967",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
    "key": "https://techcrunch.com/?p=3190069",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://dev.to/jonas_nguyen/the-networks-i-chose-not-to-support-yet-44c8",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://dev.to/ramazan_akdoan_fa177aff4/finding-the-most-viewed-twitch-clips-of-the-week-automatically-for-clippers-and-editors-326k",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "2a252ca2-1c85-445c-8999-70d0b0b39aa6",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://dev.to/mobil3/how-to-enter-the-mexico-fintech-market-2026-guide-2o7n",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "5e0b40bc-623b-463d-8cec-a548a7c8156d",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://www.mlb.com/royals/news/bob-boone-dies",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://www.mlb.com/royals/news/arizona-fall-league-week-5-award-winners-2026",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://dev.to/awiresearchlab/proven-in-lean-4-why-ai-guardrails-are-a-statistical-mirage-and-how-awi-research-lab-built-the-21c8",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://www.mlb.com/royals/news/2026-mlb-rookie-of-the-year-voting-totals",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://www.kcdigitaldrive.org/?post_type=article&p=8587",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://dev.to/getversyka/merge-every-green-dependabot-pr-in-one-command-and-the-trap-that-merges-untested-code-5chl",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://northdakotamonitor.com/?p=23657",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://dev.to/kawsarlog/the-ai-bubble-debate-will-it-burst-in-2026-or-keep-inflating-3bc8",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "51064a92-cff5-4915-8802-e3a215c094c6",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://dev.to/aleksuix/openrtb-26-leaves-about-half-of-its-conformance-statements-unlintable-498f",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://flatlandkc.org/?p=199578",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://dosmundos.com/?p=121482",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://dev.to/serverdex/the-real-state-of-live-mcp-servers-9-in-10-answer-and-what-they-cost-you-4l2b",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "43097954-0e09-4bbc-b7f3-3c8b007f4259",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://dev.to/rehana_parveen_1b8844718a/azure-devops-crash-course-part-3-azure-repos-branches-and-your-first-pull-request-1ib3",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://www.downtownkc.org/?p=68788",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://kansascitydefender.com/?p=18904",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://www.downtownkc.org/?p=68782",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://kansascitydefender.com/?p=18413",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://thehill.com/?p=6233962",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://kansascitydefender.com/?p=18409",
    "firstQueuedAtMs": 1795357800000,
    "playedAtMs": 1795357800000
   },
@@ -3267,11 +2602,6 @@
   },
   {
    "key": "iTs9SkDev3r2eJQt2FkdBF",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://kansascitydefender.com/?p=18390",
    "firstQueuedAtMs": 1795357800000,
    "playedAtMs": 1795357800000
   },
@@ -3306,6 +2636,11 @@
    "playedAtMs": 1795357800000
   },
   {
+   "key": "https://dailygalaxy.com/?p=163311",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
    "key": "https://fortune.com/?p=4647688&showAdminBar=true",
    "firstQueuedAtMs": 1795357800000,
    "playedAtMs": 1795357800000
@@ -3316,292 +2651,122 @@
    "playedAtMs": 1795357800000
   },
   {
-   "key": "https://www.downtownkc.org/?p=68627",
+   "key": "https://www.theregister.com/a/5311486",
    "firstQueuedAtMs": 1795357800000,
    "playedAtMs": 1795357800000
   },
   {
-   "key": "https://www.theverge.com/?p=1039543",
+   "key": "d2380cae67e4f5d5655c6b63e914ed4170fdafd6",
    "firstQueuedAtMs": 1795357800000,
    "playedAtMs": 1795357800000
   },
   {
-   "key": "https://dailygalaxy.com/?p=163165",
+   "key": "https://www.techdirt.com/?p=551964",
    "firstQueuedAtMs": 1795357800000,
    "playedAtMs": 1795357800000
   },
   {
-   "key": "TOU2DGKK3NYA00",
+   "key": "https://www.fastcompany.com/91646867/leadership-lessons-hunger-games-haymitch-abernathy-c-suite",
    "firstQueuedAtMs": 1795357800000,
    "playedAtMs": 1795357800000
   },
   {
-   "key": "https://www.futurity.org/?p=3354482",
+   "key": "https://www.zmescience.com/?p=315423",
    "firstQueuedAtMs": 1795357800000,
    "playedAtMs": 1795357800000
   },
   {
-   "key": "https://www.pbs.org/newshour/world/climate-talks-in-overtime-as-nations-wrestle-with-response-to-worsening-global-warming",
+   "key": "https://retractionwatch.com/?p=136682",
    "firstQueuedAtMs": 1795357800000,
    "playedAtMs": 1795357800000
   },
   {
-   "key": "https://www.futurity.org/?p=3354262",
+   "key": "108556573",
    "firstQueuedAtMs": 1795357800000,
    "playedAtMs": 1795357800000
   },
   {
-   "key": "https://techcrunch.com/?p=3173132",
+   "key": "https://missouriindependent.com/?post_type=republished&p=33760",
    "firstQueuedAtMs": 1795357800000,
    "playedAtMs": 1795357800000
   },
   {
-   "key": "https://nautil.us/?p=1286879",
+   "key": "https://www.zmescience.com/?p=315462",
    "firstQueuedAtMs": 1795357800000,
    "playedAtMs": 1795357800000
   },
   {
-   "key": "https://www.inc.com/jerry-colonna/the-man-known-as-the-pope-of-peppers-had-a-leadership-lesson-every-entrepreneur-should-know/91440530",
+   "key": "news714394429",
    "firstQueuedAtMs": 1795357800000,
    "playedAtMs": 1795357800000
   },
   {
-   "key": "108557000",
+   "key": "7d1155e7ae64ab335a37cde382657a457dce3267",
    "firstQueuedAtMs": 1795357800000,
    "playedAtMs": 1795357800000
   },
   {
-   "key": "https://www.futurity.org/?p=3354422",
+   "key": "https://www.pymnts.com/?p=4414568",
    "firstQueuedAtMs": 1795357800000,
    "playedAtMs": 1795357800000
   },
   {
-   "key": "https://lobste.rs/s/emymet",
+   "key": "https://www.fastcompany.com/91646749/ai-adoption-could-disproportionately-harm-black-and-latino-workers",
    "firstQueuedAtMs": 1795357800000,
    "playedAtMs": 1795357800000
   },
   {
-   "key": "https://www.futurity.org/?p=3354282",
+   "key": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
    "firstQueuedAtMs": 1795357800000,
    "playedAtMs": 1795357800000
   },
   {
-   "key": "https://spaceflightnow.com/?p=74992",
+   "key": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
    "firstQueuedAtMs": 1795357800000,
    "playedAtMs": 1795357800000
   },
   {
-   "key": "https://cleantechnica.com/?p=386535",
+   "key": "https://www.eetimes.com/?p=101804033",
    "firstQueuedAtMs": 1795357800000,
    "playedAtMs": 1795357800000
   },
   {
-   "key": "https://www.futurity.org/?p=3354342",
+   "key": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
    "firstQueuedAtMs": 1795357800000,
    "playedAtMs": 1795357800000
   },
   {
-   "key": "108555422",
+   "key": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
    "firstQueuedAtMs": 1795357800000,
    "playedAtMs": 1795357800000
   },
   {
-   "key": "https://www.futurity.org/?p=3354382",
+   "key": "108555967",
    "firstQueuedAtMs": 1795357800000,
    "playedAtMs": 1795357800000
   },
   {
-   "key": "https://dailygalaxy.com/?p=163311",
+   "key": "https://www.schneier.com/?p=72970",
    "firstQueuedAtMs": 1795357800000,
    "playedAtMs": 1795357800000
   },
   {
-   "key": "https://dailygalaxy.com/?p=163154",
+   "key": "news714403261",
    "firstQueuedAtMs": 1795357800000,
    "playedAtMs": 1795357800000
   },
   {
-   "key": "https://www.inc.com/amaya-nichole/supplier-controls-85-percent-pizza-cheese-market-secret-to-3-billion-dollar-empire/91437741",
+   "key": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
    "firstQueuedAtMs": 1795357800000,
    "playedAtMs": 1795357800000
   },
   {
-   "key": "https://the-decoder.com/?p=43166",
+   "key": "https://www.pymnts.com/?p=4414468",
    "firstQueuedAtMs": 1795357800000,
    "playedAtMs": 1795357800000
   },
   {
-   "key": "https://techcrunch.com/?p=3188069",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "sujNrxjFpsgSYRUDCCmzfi",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://www.inc.com/netta-jenkins/a-ceo-can-deliver-record-profits-and-still-be-a-leadership-risk-heres-why/91439971",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://dailygalaxy.com/?p=163150",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "news714042848",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://www.inc.com/marcel-schwantes/if-you-want-a-stronger-team-ask-yourself-these-5-relational-intelligence-questions/91439206",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://techcrunch.com/?p=3191074",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://lobste.rs/s/qxzs4y",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "UqoKEbCxuhJuwMVgZwXi2G",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://dailygalaxy.com/?p=162419",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "6LQngY8Ewx6BWB7pmhnMeG",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://retractionwatch.com/?p=136667",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "59NwPcj5ghyUEZddcUpiBj",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://www.universetoday.com/articles/space-entrepreneurs-should-look-to-16th-century-spice-trade-for-inspiration",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "news714460786",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://www.inc.com/minda-zetlin/the-board-investigated-my-boss-he-told-me-to-secretly-feed-him-information/91436157",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://links.morningbrew.com/c/Zx0?mbcid=48544798.3238030&mid=1e8203ce88986da9aabbf2faa16b5ab0&mbuuid=enwFAdGao8KESKxNukTu1EGE",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://links.morningbrew.com/c/Zx3?mblid=8765dc6a269d&mbcid=48544798.3238030&mid=1e8203ce88986da9aabbf2faa16b5ab0&mbuuid=enwFAdGao8KESKxNukTu1EGE",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://www.nytimes.com/2026/11/21/science/outages-tech-history.html",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "6ad4fb5e83acc76b3cd1e49a",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "6a75111dfaa08b0c1d59f99f",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://www.fastcompany.com/91640406/apple-intelligence-decoded-how-to-make-sense-of-apples-confusing-ai-lineup",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://www.fastcompany.com/91645503/caring-for-elderly-parents-without-recreating-snls-viral-sister-sketch",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "oUjFJXuV3JeWJy62Fqxzh3",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://insideclimatenews.org/?p=116521",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://www.inc.com/bruce-crumley/managers-say-they-enforce-the-rules-equally-their-top-performers-get-a-different-deal/91440326",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://insideclimatenews.org/?p=116566",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://www.infoq.com/news/2026/11/gke-kernel-network-bug/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://www.statnews.com/?p=1550892",
-   "firstQueuedAtMs": 1795357800000,
-   "playedAtMs": 1795357800000
-  },
-  {
-   "key": "https://www.pv-magazine.com/?p=75646",
+   "key": "https://www.fastcompany.com/91646772/artificial-movie-poster-sam-altman-ai-slop-made-by-humans",
    "firstQueuedAtMs": 1795357800000,
    "playedAtMs": 1795357800000
   },
@@ -3611,67 +2776,17 @@
    "playedAtMs": 1795359600000
   },
   {
-   "key": "74501026",
-   "firstQueuedAtMs": 1795359600000,
-   "playedAtMs": 1795359600000
-  },
-  {
    "key": "https://www.ky3.com/2026/11/22/40-year-old-josh-johnson-will-start-qb-cardinals-rookie-carson-beck-out-with-back-spasms/",
    "firstQueuedAtMs": 1795359600000,
    "playedAtMs": 1795359600000
   },
   {
-   "key": "https://www.kshb.com/obituaries/broncos-legend-and-longtime-espn-broadcaster-tom-jackson-dies",
+   "key": "https://www.engadget.com/2319371/most-recognizable-spam-email-type-way-older-than-internet/",
    "firstQueuedAtMs": 1795359600000,
    "playedAtMs": 1795359600000
   },
   {
-   "key": "8403e91f-b30f-4bf7-895a-3c2e8af76ee2",
-   "firstQueuedAtMs": 1795359600000,
-   "playedAtMs": 1795359600000
-  },
-  {
-   "key": "74500882",
-   "firstQueuedAtMs": 1795359600000,
-   "playedAtMs": 1795359600000
-  },
-  {
-   "key": "74500671",
-   "firstQueuedAtMs": 1795359600000,
-   "playedAtMs": 1795359600000
-  },
-  {
-   "key": "d3267ca8-518e-413d-b89a-f19ddcf01a30",
-   "firstQueuedAtMs": 1795359600000,
-   "playedAtMs": 1795359600000
-  },
-  {
-   "key": "https://kansasreflector.com/?post_type=republished&p=64119",
-   "firstQueuedAtMs": 1795359600000,
-   "playedAtMs": 1795359600000
-  },
-  {
-   "key": "https://thehill.com/?p=6235788",
-   "firstQueuedAtMs": 1795359600000,
-   "playedAtMs": 1795359600000
-  },
-  {
-   "key": "https://dev.to/shruti_15ce3f8867269b447f/restaurant-ordering-system-pros-and-cons-for-first-time-entrepreneurs-k4p",
-   "firstQueuedAtMs": 1795359600000,
-   "playedAtMs": 1795359600000
-  },
-  {
-   "key": "https://dev.to/hoshebartar/will-this-months-azure-cost-pass-the-budget-a-month-end-check-you-can-do-by-hand-2aol",
-   "firstQueuedAtMs": 1795359600000,
-   "playedAtMs": 1795359600000
-  },
-  {
-   "key": "https://www.nbcnews.com/politics/congress/abdul-el-sayed-open-working-trump-administration-healthcare-medicare-rcna610664",
-   "firstQueuedAtMs": 1795359600000,
-   "playedAtMs": 1795359600000
-  },
-  {
-   "key": "https://dev.to/ibiyemidaniel2962264/pausepoint-funny-break-reminders-that-listen-to-your-breathing-hl3",
+   "key": "https://osw-alliance.net/en/",
    "firstQueuedAtMs": 1795359600000,
    "playedAtMs": 1795359600000
   },
@@ -3681,12 +2796,7 @@
    "playedAtMs": 1795359600000
   },
   {
-   "key": "news714564591",
-   "firstQueuedAtMs": 1795359600000,
-   "playedAtMs": 1795359600000
-  },
-  {
-   "key": "bf970a2a-8376-47a5-9dbb-5ddf473c4ef8",
+   "key": "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/",
    "firstQueuedAtMs": 1795359600000,
    "playedAtMs": 1795359600000
   },
@@ -3711,7 +2821,7 @@
    "playedAtMs": 1795359600000
   },
   {
-   "key": "108555677",
+   "key": "https://dailygalaxy.com/?p=163219",
    "firstQueuedAtMs": 1795359600000,
    "playedAtMs": 1795359600000
   },
@@ -3746,172 +2856,127 @@
    "playedAtMs": 1795359600000
   },
   {
-   "key": "https://www.inc.com/amaya-nichole/golds-gym-closing-locations-list-shuttered-clubs-2026/91440606",
+   "key": "38s7vZv9ZLpdpEnYiVaZvZ",
    "firstQueuedAtMs": 1795359600000,
    "playedAtMs": 1795359600000
   },
   {
-   "key": "https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html",
+   "key": "https://www.zmescience.com/?p=315449",
    "firstQueuedAtMs": 1795359600000,
    "playedAtMs": 1795359600000
   },
   {
-   "key": "https://www.futurity.org/?p=3354442",
+   "key": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
    "firstQueuedAtMs": 1795359600000,
    "playedAtMs": 1795359600000
   },
   {
-   "key": "https://the-decoder.com/?p=43171",
+   "key": "https://kansasreflector.com/?post_type=republished&p=64119",
    "firstQueuedAtMs": 1795359600000,
    "playedAtMs": 1795359600000
   },
   {
-   "key": "https://electrek.co/?p=495057",
+   "key": "https://electrek.co/?p=494981",
    "firstQueuedAtMs": 1795359600000,
    "playedAtMs": 1795359600000
   },
   {
-   "key": "https://www.engadget.com/2319371/most-recognizable-spam-email-type-way-older-than-internet/",
+   "key": "news714403142",
    "firstQueuedAtMs": 1795359600000,
    "playedAtMs": 1795359600000
   },
   {
-   "key": "https://osw-alliance.net/en/",
+   "key": "https://www.pymnts.com/?p=4414466",
    "firstQueuedAtMs": 1795359600000,
    "playedAtMs": 1795359600000
   },
   {
-   "key": "https://dailygalaxy.com/?p=163219",
+   "key": "108556889",
    "firstQueuedAtMs": 1795359600000,
    "playedAtMs": 1795359600000
   },
   {
-   "key": "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/",
+   "key": "https://www.canarymedia.com/articles/land-use/tribal-rights-energy-permitting-debate",
    "firstQueuedAtMs": 1795359600000,
    "playedAtMs": 1795359600000
   },
   {
-   "key": "https://electrek.co/?p=495051",
+   "key": "https://www.theregister.com/a/5311478",
    "firstQueuedAtMs": 1795359600000,
    "playedAtMs": 1795359600000
   },
   {
-   "key": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
+   "key": "108556253",
    "firstQueuedAtMs": 1795359600000,
    "playedAtMs": 1795359600000
   },
   {
-   "key": "https://208.96.63.114/?p=4474",
+   "key": "https://www.pymnts.com/?p=4414172",
    "firstQueuedAtMs": 1795359600000,
    "playedAtMs": 1795359600000
   },
   {
-   "key": "108556542",
+   "key": "news714400028",
    "firstQueuedAtMs": 1795359600000,
    "playedAtMs": 1795359600000
   },
   {
-   "key": "g8qGVsAacm2QtgMcPRGzkL",
+   "key": "XpGvkqbq4SwbWrciBoQAVa",
    "firstQueuedAtMs": 1795359600000,
    "playedAtMs": 1795359600000
   },
   {
-   "key": "uKEhgkfZ2V9aZduoqC6rDF",
+   "key": "https://www.statnews.com/?p=1551607",
    "firstQueuedAtMs": 1795359600000,
    "playedAtMs": 1795359600000
   },
   {
-   "key": "https://nautil.us/?p=1286870",
+   "key": "https://electrek.co/?p=494982",
    "firstQueuedAtMs": 1795359600000,
    "playedAtMs": 1795359600000
   },
   {
-   "key": "https://www.inc.com/marc-berman/skydances-newest-investor-is-elon-musk-its-a-sign-of-techs-growing-dominance-in-hollywood/91440540",
+   "key": "108556111",
    "firstQueuedAtMs": 1795359600000,
    "playedAtMs": 1795359600000
   },
   {
-   "key": "https://www.inc.com/neil-thompson/technical-knowledge-got-you-here-these-communication-skills-will-take-you-further/91439655",
+   "key": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
    "firstQueuedAtMs": 1795359600000,
    "playedAtMs": 1795359600000
   },
   {
-   "key": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
+   "key": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
    "firstQueuedAtMs": 1795359600000,
    "playedAtMs": 1795359600000
   },
   {
-   "key": "https://www.pymnts.com/?p=4409863",
+   "key": "https://www.techdirt.com/?p=552143&preview=true&preview_id=552143",
    "firstQueuedAtMs": 1795359600000,
    "playedAtMs": 1795359600000
   },
   {
-   "key": "https://www.fastcompany.com/91645239/4-phases-of-becoming-a-great-leader",
+   "key": "news714403801",
    "firstQueuedAtMs": 1795359600000,
    "playedAtMs": 1795359600000
   },
   {
-   "key": "https://www.pv-magazine.com/?p=75647",
+   "key": "https://www.sciencenews.org/?p=3181706",
    "firstQueuedAtMs": 1795359600000,
    "playedAtMs": 1795359600000
   },
   {
-   "key": "https://www.pv-magazine.com/?p=75649",
+   "key": "ZRrGbMZA8uiSFjFV3uM4GK",
    "firstQueuedAtMs": 1795359600000,
    "playedAtMs": 1795359600000
   },
   {
-   "key": "https://www.pv-magazine.com/?p=75645",
-   "firstQueuedAtMs": 1795359600000,
-   "playedAtMs": 1795359600000
-  },
-  {
-   "key": "https://www.theregister.com/a/5311360",
-   "firstQueuedAtMs": 1795359600000,
-   "playedAtMs": 1795359600000
-  },
-  {
-   "key": "https://www.pv-magazine.com/?p=75635",
-   "firstQueuedAtMs": 1795359600000,
-   "playedAtMs": 1795359600000
-  },
-  {
-   "key": "https://www.kctv5.com/2026/11/22/tailgate-recipe-pizza-potato-tot-cups/",
+   "key": "https://www.rockmnation.com/?p=164660",
    "firstQueuedAtMs": 1795361400000,
    "playedAtMs": 1795361400000
   },
   {
-   "key": "74475467",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "https://www.kctv5.com/2026/11/22/fiona-be-honored-upcoming-macys-thanksgiving-day-parade/",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "https://thehill.com/?p=6231623",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "5ce7b56c-4dd8-4558-a259-8ce104ed4d05",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "8287c189-a321-4917-881a-ae2fa2dac6ba",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "https://www.nbcnews.com/politics/congress/van-hollen-momentum-senate-majority-leader-schumer-election-rcna610669",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "https://thehill.com/?p=6235771",
+   "key": "https://www.engadget.com/2310723/handy-ways-use-old-mini-pc/",
    "firstQueuedAtMs": 1795361400000,
    "playedAtMs": 1795361400000
   },
@@ -3921,12 +2986,17 @@
    "playedAtMs": 1795361400000
   },
   {
-   "key": "https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps",
+   "key": "https://news.ycombinator.com/item?id=50600771",
    "firstQueuedAtMs": 1795361400000,
    "playedAtMs": 1795361400000
   },
   {
    "key": "https://www.engadget.com/2319374/apple-intelligence-iphone-storage-usage/",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://kansasreflector.com/?p=64057",
    "firstQueuedAtMs": 1795361400000,
    "playedAtMs": 1795361400000
   },
@@ -3941,122 +3011,7 @@
    "playedAtMs": 1795361400000
   },
   {
-   "key": "3dbd6575-1e4c-4f0e-a849-a3c9e091aa42",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "https://www.rockmnation.com/?p=164660",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "https://www.engadget.com/2310723/handy-ways-use-old-mini-pc/",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "https://dailygalaxy.com/?p=163134",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "https://www.theregister.com/a/5311511",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "108552235",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "https://www.infoq.com/news/2026/11/grafana-13-3-shared-variables/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "https://cleantechnica.com/?p=386501",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "https://www.sciencedaily.com/releases/2026/11/261119194553.htm",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "108556579",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "https://www.sciencedaily.com/releases/2026/11/261119194538.htm",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "108553703",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "news714317253",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "Y7ctGAcciT7sMbvNgbHG3c",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "https://www.inc.com/kimanzi-constable/stop-chasing-new-customers-these-4-strategies-can-help-you-build-brand-loyalty/91439698",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "https://www.inc.com/alicia-teltz/krista-mollion-former-cmo-job-rejections-unignorable-brands/91437676",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "https://lobste.rs/s/fjueso",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "https://www.sciencedaily.com/releases/2026/11/261119194541.htm",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "https://dailygalaxy.com/?p=162401",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "https://www.sciencedaily.com/releases/2026/11/261118074039.htm",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "https://www.fastcompany.com/91637473/to-win-the-ai-search-wars-stop-chasing-the-answers-and-start-shaping-the-questions-ai-search-geo",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "https://www.infoq.com/news/2026/11/scalling-tech-humans/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "key": "82e87408-1c30-4864-bf44-d39a9c400302",
    "firstQueuedAtMs": 1795361400000,
    "playedAtMs": 1795361400000
   },
@@ -4066,172 +3021,107 @@
    "playedAtMs": 1795361400000
   },
   {
-   "key": "https://dailygalaxy.com/?p=162391",
+   "key": "https://nautil.us/?p=1286860",
    "firstQueuedAtMs": 1795361400000,
    "playedAtMs": 1795361400000
   },
   {
-   "key": "https://www.fastcompany.com/91642546/11-career-decisions-high-performers-regret-making-too-late-leadership-career-advice",
+   "key": "https://news.mit.edu/2026/tiny-superconducting-sandwich-could-help-computers-use-less-energy-1120",
    "firstQueuedAtMs": 1795361400000,
    "playedAtMs": 1795361400000
   },
   {
-   "key": "https://lobste.rs/s/becitz",
+   "key": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
    "firstQueuedAtMs": 1795361400000,
    "playedAtMs": 1795361400000
   },
   {
-   "key": "https://dailygalaxy.com/?p=161971",
+   "key": "https://techcrunch.com/?p=3190935",
    "firstQueuedAtMs": 1795361400000,
    "playedAtMs": 1795361400000
   },
   {
-   "key": "https://news.ycombinator.com/item?id=50600771",
+   "key": "108556723",
    "firstQueuedAtMs": 1795361400000,
    "playedAtMs": 1795361400000
   },
   {
-   "key": "https://www.pv-magazine.com/?p=75631",
+   "key": "108556651",
    "firstQueuedAtMs": 1795361400000,
    "playedAtMs": 1795361400000
   },
   {
-   "key": "108554745",
+   "key": "https://www.nasa.gov/?p=1064187",
    "firstQueuedAtMs": 1795361400000,
    "playedAtMs": 1795361400000
   },
   {
-   "key": "6ad65118f85dfee471db09d1",
+   "key": "https://www.pymnts.com/?p=4414195",
    "firstQueuedAtMs": 1795361400000,
    "playedAtMs": 1795361400000
   },
   {
-   "key": "6abc0b61297b0fd25b3f2cf1",
+   "key": "https://www.fastcompany.com/91645285/americas-next-quantum-breakthrough-the-factory-floor",
    "firstQueuedAtMs": 1795361400000,
    "playedAtMs": 1795361400000
   },
   {
-   "key": "6900e13d340cdaa92bb7d0c9",
+   "key": "https://www.theregister.com/a/5311466",
    "firstQueuedAtMs": 1795361400000,
    "playedAtMs": 1795361400000
   },
   {
-   "key": "673bb0142598c31aeeee086e",
+   "key": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
    "firstQueuedAtMs": 1795361400000,
    "playedAtMs": 1795361400000
   },
   {
-   "key": "6761d5ad5b998d54c2f9cdbc",
+   "key": "c9f8f02479f8aa3b6d8d4df189a3bdad61de5a89",
    "firstQueuedAtMs": 1795361400000,
    "playedAtMs": 1795361400000
   },
   {
-   "key": "https://www.fastcompany.com/91642816/your-best-people-are-training-your-ai-pay-them-for-it",
+   "key": "dMEy4iw74WRv5zxYjUBoFm",
    "firstQueuedAtMs": 1795361400000,
    "playedAtMs": 1795361400000
   },
   {
-   "key": "https://www.fastcompany.com/91637814/bigwords-smartphone-sign-app",
+   "key": "https://missouriindependent.com/?post_type=republished&p=33756",
    "firstQueuedAtMs": 1795361400000,
    "playedAtMs": 1795361400000
   },
   {
-   "key": "https://cleantechnica.com/?p=386519",
+   "key": "https://www.fastcompany.com/91646626/how-to-use-meta-muse-to-mass-unfollow-people-instagram-accounts-follower-count",
    "firstQueuedAtMs": 1795361400000,
    "playedAtMs": 1795361400000
   },
   {
-   "key": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
+   "key": "https://news.fnal.gov/?p=343617",
    "firstQueuedAtMs": 1795361400000,
    "playedAtMs": 1795361400000
   },
   {
-   "key": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
+   "key": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
    "firstQueuedAtMs": 1795361400000,
    "playedAtMs": 1795361400000
   },
   {
-   "key": "https://www.pv-magazine.com/?p=75045",
+   "key": "https://www.statnews.com/?p=1551211",
    "firstQueuedAtMs": 1795361400000,
    "playedAtMs": 1795361400000
   },
   {
-   "key": "https://cleantechnica.com/?p=386498",
+   "key": "01M7X91JJQ5CWGQ65DZBAHW4Q9",
    "firstQueuedAtMs": 1795361400000,
    "playedAtMs": 1795361400000
   },
   {
-   "key": "news714409080",
+   "key": "https://www.universetoday.com/articles/complex-life-on-earth-may-not-have-appeared-without-tall-mountains",
    "firstQueuedAtMs": 1795361400000,
    "playedAtMs": 1795361400000
   },
   {
-   "key": "https://www.marktechpost.com/?p=84023",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "https://techcrunch.com/?p=3190989",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "news714389857",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "https://www.techdirt.com/?p=552103&preview=true&preview_id=552103",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "https://www.inc.com/soren-kaplan/warren-buffett-spent-years-doing-the-1-thing-jensen-huang-failed-to-do/91440049",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "news714409162",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "https://www.sciencedaily.com/releases/2026/11/261120075549.htm",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "https://cleantechnica.com/?p=386474",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "https://insideclimatenews.org/?p=116557",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "tag:daringfireball.net,2026:/linked//6.43756",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "https://www.theregister.com/a/5311486",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "d2380cae67e4f5d5655c6b63e914ed4170fdafd6",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "https://www.techdirt.com/?p=551964",
-   "firstQueuedAtMs": 1795361400000,
-   "playedAtMs": 1795361400000
-  },
-  {
-   "key": "https://www.fastcompany.com/91646867/leadership-lessons-hunger-games-haymitch-abernathy-c-suite",
+   "key": "9fcc26a95aa36a1d89af71508fa651ff1a91c61f",
    "firstQueuedAtMs": 1795361400000,
    "playedAtMs": 1795361400000
   },
@@ -4241,57 +3131,17 @@
    "playedAtMs": 1795363200000
   },
   {
-   "key": "https://arkansasadvocate.com/?p=31141",
+   "key": "https://missouriindependent.com/?post_type=republished&p=33758",
    "firstQueuedAtMs": 1795363200000,
    "playedAtMs": 1795363200000
   },
   {
-   "key": "74501148",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "https://www.kctv5.com/2026/11/22/kansas-citys-kindness-mob-floods-social-media-with-positive-messages/",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "74501115",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "https://abcnews.com/US/multiple-people-shot-large-party-california-sheriffs-office/story?id=138356134",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "https://www.pbs.org/newshour/nation/immigration-officers-make-arrests-at-seattle-airport-in-distressing-scene-delaying-flight",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "https://www.nbcnews.com/news/us-news/california-prepares-flooding-rain-wind-thanksgiving-approaches-rcna610537",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "108557052",
+   "key": "https://www.engadget.com/2319385/fixing-annoying-one-ui-feature-easy-but-theres-catch/",
    "firstQueuedAtMs": 1795363200000,
    "playedAtMs": 1795363200000
   },
   {
    "key": "WP-MKTW-0005351393",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "https://thehill.com/?p=6235838",
    "firstQueuedAtMs": 1795363200000,
    "playedAtMs": 1795363200000
   },
@@ -4311,11 +3161,6 @@
    "playedAtMs": 1795363200000
   },
   {
-   "key": "https://abcnews.com/Technology/climate-conference-ends-signature-agreement-countries-clash-fossil/story?id=138359179",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
    "key": "WP-MKTW-0005360862",
    "firstQueuedAtMs": 1795363200000,
    "playedAtMs": 1795363200000
@@ -4326,367 +3171,117 @@
    "playedAtMs": 1795363200000
   },
   {
+   "key": "https://www.rockchalktalk.com/?p=34532",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
    "key": "r5W4vhGqRjp98cMQBbXYTT",
    "firstQueuedAtMs": 1795363200000,
    "playedAtMs": 1795363200000
   },
   {
-   "key": "https://www.futurity.org/?p=3354242",
+   "key": "WP-MKTW-0005361786",
    "firstQueuedAtMs": 1795363200000,
    "playedAtMs": 1795363200000
   },
   {
-   "key": "dmLg8jVdMEG4fwqAB2h3Ve",
+   "key": "https://www.fastcompany.com/91645236/the-future-of-live-entertainment",
    "firstQueuedAtMs": 1795363200000,
    "playedAtMs": 1795363200000
   },
   {
-   "key": "https://www.kctv5.com/2026/11/22/former-broncos-star-espn-broadcaster-tom-jackson-dead-75/",
+   "key": "https://news.crunchbase.com/?p=94434",
    "firstQueuedAtMs": 1795363200000,
    "playedAtMs": 1795363200000
   },
   {
-   "key": "https://www.engadget.com/2319385/fixing-annoying-one-ui-feature-easy-but-theres-catch/",
+   "key": "6b00a8aff7a2ad0001596a05",
    "firstQueuedAtMs": 1795363200000,
    "playedAtMs": 1795363200000
   },
   {
-   "key": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+   "key": "https://www.universetoday.com/articles/a-radical-theory-about-the-universe-just-passed-some-key-tests-so-what-does-that-mean",
    "firstQueuedAtMs": 1795363200000,
    "playedAtMs": 1795363200000
   },
   {
-   "key": "https://lobste.rs/s/hcofqi",
+   "key": "https://www.zmescience.com/?p=315424",
    "firstQueuedAtMs": 1795363200000,
    "playedAtMs": 1795363200000
   },
   {
-   "key": "https://dailygalaxy.com/?p=162409",
+   "key": "01M7X76K1JK00SF9K4YN83WANQ",
    "firstQueuedAtMs": 1795363200000,
    "playedAtMs": 1795363200000
   },
   {
-   "key": "108556738",
+   "key": "https://www.fastcompany.com/91646506/rto-means-women-risk-doing-the-office-housework-all-over-again",
    "firstQueuedAtMs": 1795363200000,
    "playedAtMs": 1795363200000
   },
   {
-   "key": "108556964",
+   "key": "https://missouriindependent.com/?post_type=republished&p=33754",
    "firstQueuedAtMs": 1795363200000,
    "playedAtMs": 1795363200000
   },
   {
-   "key": "news714286602",
+   "key": "changelog.com/1/2839",
    "firstQueuedAtMs": 1795363200000,
    "playedAtMs": 1795363200000
   },
   {
-   "key": "6aff54f5dedf491d3bbcabcb",
+   "key": "ccBqCNqgmy3UnjzUeUNmDh",
    "firstQueuedAtMs": 1795363200000,
    "playedAtMs": 1795363200000
   },
   {
-   "key": "weYqzHg88Q7dudwsioosRE",
+   "key": "https://nautil.us/?p=1286925",
    "firstQueuedAtMs": 1795363200000,
    "playedAtMs": 1795363200000
   },
   {
-   "key": "https://www.marktechpost.com/?p=84031",
+   "key": "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120",
    "firstQueuedAtMs": 1795363200000,
    "playedAtMs": 1795363200000
   },
   {
-   "key": "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
+   "key": "https://electrek.co/?p=494881",
    "firstQueuedAtMs": 1795363200000,
    "playedAtMs": 1795363200000
   },
   {
-   "key": "60084ece15db9ef1886a34f6",
+   "key": "https://www.zmescience.com/?p=284735",
    "firstQueuedAtMs": 1795363200000,
    "playedAtMs": 1795363200000
   },
   {
-   "key": "108551210",
+   "key": "https://electrek.co/?p=494897",
    "firstQueuedAtMs": 1795363200000,
    "playedAtMs": 1795363200000
   },
   {
-   "key": "6aff49b18b074d85bf38a663",
+   "key": "https://techcrunch.com/?p=3190943",
    "firstQueuedAtMs": 1795363200000,
    "playedAtMs": 1795363200000
   },
   {
-   "key": "https://www.fastcompany.com/91645754/players-are-coming-to-gta-vi-for-the-car-chases-but-staying-for-the-wildlife",
+   "key": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
    "firstQueuedAtMs": 1795363200000,
    "playedAtMs": 1795363200000
-  },
-  {
-   "key": "YEJMSpV52ZeoGakodkpYn8",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "6723f3d1fe9036abfe13c4d6",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "6a91b2ddf6dd9530a8f6b0e2",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "https://cleantechnica.com/?p=386464",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "https://cleantechnica.com/?p=386483",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "news714400952",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "https://cleantechnica.com/?p=386442",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "https://www.pymnts.com/?p=4414759",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "https://cleantechnica.com/?p=386463",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "https://cleantechnica.com/?p=386437",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "02c52259bc83b8aa57b8410eb8c813a22ed5fd28",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "https://www.sci.news/?p=112853",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "https://www.pymnts.com/?p=4414715",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "https://lobste.rs/s/1n8fzn",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "https://cleantechnica.com/?p=386459",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "news714399986",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "https://krebsonsecurity.com/?p=74696",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "https://www.pymnts.com/?p=4414690",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "d7bdb91bc1e6b32644ddf96aa43ed4840d83f174",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "https://www.zmescience.com/?p=315423",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "https://retractionwatch.com/?p=136682",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "108556573",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "https://www.zmescience.com/?p=315462",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "news714394429",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "7d1155e7ae64ab335a37cde382657a457dce3267",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "https://www.pymnts.com/?p=4414568",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "https://www.fastcompany.com/91646749/ai-adoption-could-disproportionately-harm-black-and-latino-workers",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "https://www.eetimes.com/?p=101804033",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "108555967",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "https://www.schneier.com/?p=72970",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "news714403261",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "https://www.pymnts.com/?p=4414468",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "https://www.fastcompany.com/91646772/artificial-movie-poster-sam-altman-ai-slop-made-by-humans",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "38s7vZv9ZLpdpEnYiVaZvZ",
-   "firstQueuedAtMs": 1795363200000,
-   "playedAtMs": 1795363200000
-  },
-  {
-   "key": "https://www.kctv5.com/2026/11/22/live-blog-chiefs-take-cardinals-cross-conference-matchup/",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "https://www.kctv5.com/2026/11/22/delta-says-automation-issues-causing-delays-nationwide/",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "https://thehill.com/?p=6234642",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "74452589",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "74452529",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "74452478",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "74501129",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "https://thehill.com/?p=6232755",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "https://www.kctv5.com/2026/11/22/woods-norman-lott-part-chiefs-inactives-against-cardinals-despite-limited-practice-this-week/",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "https://www.kshb.com/us-news/delta-flights-to-and-from-atlanta-delayed-due-to-aircraft-weight-system-issue",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "ad0f6314-189c-4f47-93da-587f0036bdf9",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "74501216",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "https://www.pbs.org/newshour/science/mercury-gets-its-first-visitor-in-years-as-a-pair-of-spacecraft-loop-into-orbit",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
   },
   {
    "key": "https://www.theverge.com/?p=1037313",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://missouriindependent.com/?post_type=republished&p=33746",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.engadget.com/2319397/reuse-old-gopro-different-ways/",
    "firstQueuedAtMs": 1795365000000,
    "playedAtMs": 1795365000000
   },
@@ -4701,7 +3296,12 @@
    "playedAtMs": 1795365000000
   },
   {
-   "key": "https://www.nbcnews.com/news/us-news/delta-tech-issues-thanksgiving-travel-rcna610685",
+   "key": "https://www.arrowheadpride.com/217102/final-score-chiefs-pounce-on-falcons-coast-to-7th-win-of-the-season",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://abcnews.com/Technology/climate-conference-ends-signature-agreement-countries-clash-fossil/story?id=138359179",
    "firstQueuedAtMs": 1795365000000,
    "playedAtMs": 1795365000000
   },
@@ -4726,6 +3326,11 @@
    "playedAtMs": 1795365000000
   },
   {
+   "key": "https://fortune.com/?p=4648155&showAdminBar=true",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
    "key": "https://www.theverge.com/?p=1039762",
    "firstQueuedAtMs": 1795365000000,
    "playedAtMs": 1795365000000
@@ -4736,67 +3341,87 @@
    "playedAtMs": 1795365000000
   },
   {
+   "key": "https://www.kctv5.com/2026/11/22/live-blog-chiefs-take-cardinals-cross-conference-matchup/",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
    "key": "WP-MKTW-0005358720",
    "firstQueuedAtMs": 1795365000000,
    "playedAtMs": 1795365000000
   },
   {
-   "key": "https://www.sciencenews.org/?p=3181886",
+   "key": "https://dailygalaxy.com/?p=163090",
    "firstQueuedAtMs": 1795365000000,
    "playedAtMs": 1795365000000
   },
   {
-   "key": "https://www.sciencenews.org/?p=3181928",
+   "key": "https://www.kctv5.com/2026/11/22/delta-says-automation-issues-causing-delays-nationwide/",
    "firstQueuedAtMs": 1795365000000,
    "playedAtMs": 1795365000000
   },
   {
-   "key": "https://www.sciencenews.org/?p=3181932",
+   "key": "108556722",
    "firstQueuedAtMs": 1795365000000,
    "playedAtMs": 1795365000000
   },
   {
-   "key": "https://www.axios.com/2026/11/22/pentagon-canada-defense-restrictions-fact-sheet",
+   "key": "https://www.nytimes.com/2026/11/20/business/nissan-reapirs-hack-technology.html",
    "firstQueuedAtMs": 1795365000000,
    "playedAtMs": 1795365000000
   },
   {
-   "key": "https://www.sciencenews.org/?p=3181934",
+   "key": "https://www.sci.news/?p=112849",
    "firstQueuedAtMs": 1795365000000,
    "playedAtMs": 1795365000000
   },
   {
-   "key": "https://www.sciencenews.org/?p=3181936",
+   "key": "https://techcrunch.com/?p=3190908",
    "firstQueuedAtMs": 1795365000000,
    "playedAtMs": 1795365000000
   },
   {
-   "key": "https://www.statnews.com/?p=1551203",
+   "key": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/",
    "firstQueuedAtMs": 1795365000000,
    "playedAtMs": 1795365000000
   },
   {
-   "key": "6b00aba7f7a2ad0001596b15",
+   "key": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
    "firstQueuedAtMs": 1795365000000,
    "playedAtMs": 1795365000000
   },
   {
-   "key": "https://www.inc.com/joseph-s-pete/paneras-founder-is-betting-100-million-on-a-playground-for-grown-ups-level99/91439141",
+   "key": "https://www.futurity.org/?p=3354202",
    "firstQueuedAtMs": 1795365000000,
    "playedAtMs": 1795365000000
   },
   {
-   "key": "https://www.inc.com/chris-morris/5-startup-ideas-for-couples-who-want-to-build-a-business-together/91436106",
+   "key": "https://dailygalaxy.com/?p=163072",
    "firstQueuedAtMs": 1795365000000,
    "playedAtMs": 1795365000000
   },
   {
-   "key": "https://www.marktechpost.com/?p=84027",
+   "key": "https://kansasreflector.com/?p=64055",
    "firstQueuedAtMs": 1795365000000,
    "playedAtMs": 1795365000000
   },
   {
-   "key": "https://www.arrowheadpride.com/217102/final-score-chiefs-pounce-on-falcons-coast-to-7th-win-of-the-season",
+   "key": "74452589",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://stratechery.com/?p=21301",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "74452529",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.futurity.org/?p=3354072",
    "firstQueuedAtMs": 1795365000000,
    "playedAtMs": 1795365000000
   },
@@ -4806,137 +3431,12 @@
    "playedAtMs": 1795365000000
   },
   {
-   "key": "https://www.engadget.com/2319397/reuse-old-gopro-different-ways/",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "https://fortune.com/?p=4648155&showAdminBar=true",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "6a0635293f6b307a9138c8f4",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "6a063bb21e950aab129bbee8",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "https://www.sciencedaily.com/releases/2026/11/261119194544.htm",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "https://www.pymnts.com/?p=4414633",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "https://www.nature.com/articles/d41586-026-03803-8",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "https://nautil.us/?p=1286943",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "https://www.statnews.com/?p=1551706",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "https://www.theregister.com/a/5311493",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "https://www.zmescience.com/?p=315449",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "https://electrek.co/?p=494981",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "news714403142",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "https://www.pymnts.com/?p=4414466",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "108556889",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "https://www.canarymedia.com/articles/land-use/tribal-rights-energy-permitting-debate",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "https://www.theregister.com/a/5311478",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "108556253",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "https://www.pymnts.com/?p=4414172",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "news714400028",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "XpGvkqbq4SwbWrciBoQAVa",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "https://www.statnews.com/?p=1551607",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "https://electrek.co/?p=494982",
-   "firstQueuedAtMs": 1795365000000,
-   "playedAtMs": 1795365000000
-  },
-  {
-   "key": "74501350",
-   "firstQueuedAtMs": 1795366800000,
-   "playedAtMs": 1795366800000
-  },
-  {
    "key": "https://www.ky3.com/2026/11/22/feztival-trees-shines-bright-abou-ben-adhem-shriners-downtown-springfield/",
    "firstQueuedAtMs": 1795366800000,
    "playedAtMs": 1795366800000
   },
   {
-   "key": "1333dcd2-3e16-4c98-8b11-c15c8bce6432",
+   "key": "74501350",
    "firstQueuedAtMs": 1795366800000,
    "playedAtMs": 1795366800000
   },
@@ -4956,42 +3456,7 @@
    "playedAtMs": 1795366800000
   },
   {
-   "key": "https://www.nytimes.com/2026/11/22/opinion/ai-writing-technology-human-colonialism.html",
-   "firstQueuedAtMs": 1795366800000,
-   "playedAtMs": 1795366800000
-  },
-  {
-   "key": "https://thehill.com/?p=6235931",
-   "firstQueuedAtMs": 1795366800000,
-   "playedAtMs": 1795366800000
-  },
-  {
-   "key": "https://dev.to/echobuilds/we-dont-let-the-llm-touch-the-crossword-grid-ai-clues-a-25000-node-search-and-a-validator-that-39l9",
-   "firstQueuedAtMs": 1795366800000,
-   "playedAtMs": 1795366800000
-  },
-  {
-   "key": "https://dev.to/hjangid/learn-an-alternative-to-privatev-evidence-based-healthcare-search-42ha",
-   "firstQueuedAtMs": 1795366800000,
-   "playedAtMs": 1795366800000
-  },
-  {
-   "key": "https://dev.to/hjangid/from-gemini-google-adk-to-agentops-building-a-docker-first-privacy-safe-healthcare-ai-platform-264",
-   "firstQueuedAtMs": 1795366800000,
-   "playedAtMs": 1795366800000
-  },
-  {
-   "key": "https://dev.to/ehtisham_ahmed_d30b74ddf1/my-journey-into-html-understanding-the-foundation-of-web-development-1b98",
-   "firstQueuedAtMs": 1795366800000,
-   "playedAtMs": 1795366800000
-  },
-  {
-   "key": "5e8f0b72-accf-455d-8105-7b1cbc6a79e6",
-   "firstQueuedAtMs": 1795366800000,
-   "playedAtMs": 1795366800000
-  },
-  {
-   "key": "https://www.kshb.com/sports/football/chiefs/chiefs-must-deal-with-depleted-ol-dl-against-cardinals",
+   "key": "https://www.kctv5.com/2026/11/22/chilly-chiefs-game-day-thanksgiving-week-tap/",
    "firstQueuedAtMs": 1795366800000,
    "playedAtMs": 1795366800000
   },
@@ -5001,32 +3466,12 @@
    "playedAtMs": 1795366800000
   },
   {
-   "key": "https://dev.to/jeff_pdc/smithery-pricing-vs-self-hosted-cost-for-mcp-servers-24fo",
+   "key": "https://www.kshb.com/sports/football/chiefs/chiefs-must-deal-with-depleted-ol-dl-against-cardinals",
    "firstQueuedAtMs": 1795366800000,
    "playedAtMs": 1795366800000
   },
   {
-   "key": "https://dev.to/sascha-ms/your-first-90-days-as-a-team-lead-listen-win-small-then-lead-3m3i",
-   "firstQueuedAtMs": 1795366800000,
-   "playedAtMs": 1795366800000
-  },
-  {
-   "key": "https://www.pbs.org/newshour/nation/as-ai-detects-flaws-in-computer-systems-is-it-causing-more-tech-outages-and-disruptions",
-   "firstQueuedAtMs": 1795366800000,
-   "playedAtMs": 1795366800000
-  },
-  {
-   "key": "https://dev.to/rhysfalconer159/nodejs-large-ai-generated-image-uploads-with-multipart-storage-recovery-5e84",
-   "firstQueuedAtMs": 1795366800000,
-   "playedAtMs": 1795366800000
-  },
-  {
-   "key": "https://dev.to/eternasafe/your-app-has-a-delete-button-but-what-happens-when-the-user-dies-2cak",
-   "firstQueuedAtMs": 1795366800000,
-   "playedAtMs": 1795366800000
-  },
-  {
-   "key": "https://thehill.com/?p=6235770",
+   "key": "https://www.engadget.com/2319401/cancel-nintendo-switch-online-subscription/",
    "firstQueuedAtMs": 1795366800000,
    "playedAtMs": 1795366800000
   },
@@ -5039,6 +3484,256 @@
    "key": "WP-MKTW-0005351579",
    "firstQueuedAtMs": 1795366800000,
    "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://www.engadget.com/2319400/apple-ios-27-3-changes-by-2027/",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://thehill.com/?p=6235913",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://openai.com/index/perplexity-and-intelligence/",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191042",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386605",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1551357",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://missouriindependent.com/?post_type=republished&p=33750",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://insideclimatenews.org/?p=116502",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "b1d6d961-d296-466a-a898-035291046752",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://www.techdirt.com/?p=551951&preview=true&preview_id=551951",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "74452478",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://www.sciencenews.org/?p=3181756",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "74501129",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "TKDgyAUGAFnvW7tiFsWqMm",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/22/woods-norman-lott-part-chiefs-inactives-against-cardinals-despite-limited-practice-this-week/",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://nautil.us/?p=1286863",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://electrek.co/?p=494884",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/22/opinion/ai-writing-technology-human-colonialism.html",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://www.techdirt.com/?p=552172&preview=true&preview_id=552172",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://www.kshb.com/us-news/delta-flights-to-and-from-atlanta-delayed-due-to-aircraft-weight-system-issue",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311438",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/22/3-dead-including-teen-1-injured-baby-shower-shooting/",
+   "firstQueuedAtMs": 1795368600000,
+   "playedAtMs": 1795368600000
+  },
+  {
+   "key": "https://www.ky3.com/2023/05/02/weekend-events-whats-happening-across-ozarks/",
+   "firstQueuedAtMs": 1795368600000,
+   "playedAtMs": 1795368600000
+  },
+  {
+   "key": "8113eda4-b22b-49cc-9d65-b48487008fe0",
+   "firstQueuedAtMs": 1795368600000,
+   "playedAtMs": 1795368600000
+  },
+  {
+   "key": "https://dev.to/shaheryaryousaf/human-in-the-loop-design-where-ai-agents-should-ask-before-they-act-1l39",
+   "firstQueuedAtMs": 1795368600000,
+   "playedAtMs": 1795368600000
+  },
+  {
+   "key": "https://www.missourinet.com/?p=174590",
+   "firstQueuedAtMs": 1795368600000,
+   "playedAtMs": 1795368600000
+  },
+  {
+   "key": "https://kansasreflector.com/?p=64002",
+   "firstQueuedAtMs": 1795368600000,
+   "playedAtMs": 1795368600000
+  },
+  {
+   "key": "https://dev.to/dmitry_cherstvyi_0c87fabd/why-your-extensions-counter-resets-to-zero-6ib",
+   "firstQueuedAtMs": 1795368600000,
+   "playedAtMs": 1795368600000
+  },
+  {
+   "key": "5e8f0b72-accf-455d-8105-7b1cbc6a79e6",
+   "firstQueuedAtMs": 1795368600000,
+   "playedAtMs": 1795368600000
+  },
+  {
+   "key": "https://dev.to/danieljsaldana/token-club-un-paseo-por-sala-teide-entre-conciertos-y-vistas-al-volcan-492e",
+   "firstQueuedAtMs": 1795368600000,
+   "playedAtMs": 1795368600000
+  },
+  {
+   "key": "ad0f6314-189c-4f47-93da-587f0036bdf9",
+   "firstQueuedAtMs": 1795368600000,
+   "playedAtMs": 1795368600000
+  },
+  {
+   "key": "74501216",
+   "firstQueuedAtMs": 1795368600000,
+   "playedAtMs": 1795368600000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/22/nx-s1-6048710/lebanon-israel-army-conflict-homes",
+   "firstQueuedAtMs": 1795368600000,
+   "playedAtMs": 1795368600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/22/kansas-citys-kindness-mob-floods-social-media-with-positive-messages/",
+   "firstQueuedAtMs": 1795368600000,
+   "playedAtMs": 1795368600000
+  },
+  {
+   "key": "https://dev.to/faliye/webgpu-and-sms-a-post-mortem-of-an-oom-in-a-hand-written-wgsl-kernel-251d",
+   "firstQueuedAtMs": 1795368600000,
+   "playedAtMs": 1795368600000
+  },
+  {
+   "key": "https://dev.to/pqc182/five-practical-defenses-against-ai-hallucination-in-business-workflows-l22",
+   "firstQueuedAtMs": 1795368600000,
+   "playedAtMs": 1795368600000
+  },
+  {
+   "key": "59708f31-d544-4f44-a84c-4d8e2897951b",
+   "firstQueuedAtMs": 1795368600000,
+   "playedAtMs": 1795368600000
+  },
+  {
+   "key": "https://dev.to/joker_mr_389b3e4e4d89d856/building-hauntly-with-kiro-how-i-turned-a-spooky-social-app-idea-into-an-ai-powered-messaging-1odb",
+   "firstQueuedAtMs": 1795368600000,
+   "playedAtMs": 1795368600000
+  },
+  {
+   "key": "https://dev.to/zebedeeholloway9023/rate-limited-job-processing-in-nodejs-queue-workers-batch-publish-retry-idempotency-2mcj",
+   "firstQueuedAtMs": 1795368600000,
+   "playedAtMs": 1795368600000
+  },
+  {
+   "key": "8287c189-a321-4917-881a-ae2fa2dac6ba",
+   "firstQueuedAtMs": 1795368600000,
+   "playedAtMs": 1795368600000
+  },
+  {
+   "key": "https://dev.to/saxonfletcher2366/how-to-diagnose-sms-resend-failures-in-nodejs-carrier-filtering-evidence-3ioe",
+   "firstQueuedAtMs": 1795368600000,
+   "playedAtMs": 1795368600000
+  },
+  {
+   "key": "https://www.missourinet.com/?p=177974",
+   "firstQueuedAtMs": 1795368600000,
+   "playedAtMs": 1795368600000
+  },
+  {
+   "key": "https://dev.to/said_boudina_341f6938d996/converting-bin-and-hex-firmware-files-for-eeprom-programmers-receivers-3d1o",
+   "firstQueuedAtMs": 1795368600000,
+   "playedAtMs": 1795368600000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/health/french-activists-demand-a-tear-gas-suspension-over-reported-menstrual-changes",
+   "firstQueuedAtMs": 1795368600000,
+   "playedAtMs": 1795368600000
+  },
+  {
+   "key": "https://dev.to/erkang/preserve-product-context-when-an-rfq-form-fails-46hd",
+   "firstQueuedAtMs": 1795368600000,
+   "playedAtMs": 1795368600000
+  },
+  {
+   "key": "https://www.missourinet.com/?p=177961",
+   "firstQueuedAtMs": 1795368600000,
+   "playedAtMs": 1795368600000
+  },
+  {
+   "key": "74501115",
+   "firstQueuedAtMs": 1795368600000,
+   "playedAtMs": 1795368600000
+  },
+  {
+   "key": "https://dev.to/abdeldjalilchougui/chromapicker-maintained-color-pickers-for-flutter-with-the-modern-color-api-4bhj",
+   "firstQueuedAtMs": 1795368600000,
+   "playedAtMs": 1795368600000
   }
  ]
 }
