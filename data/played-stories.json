@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-22T18:20:11.680Z",
- "lastSyncBucket": 997427,
- "lastSyncCarryInSeconds": 57,
+ "updatedAt": "2026-11-22T18:35:09.483Z",
+ "lastSyncBucket": 997428,
+ "lastSyncCarryInSeconds": 12,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -3734,6 +3734,196 @@
    "key": "https://dev.to/abdeldjalilchougui/chromapicker-maintained-color-pickers-for-flutter-with-the-modern-color-api-4bhj",
    "firstQueuedAtMs": 1795368600000,
    "playedAtMs": 1795368600000
+  },
+  {
+   "key": "https://www.missourinet.com/?p=177957",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "https://www.missourinet.com/?p=177959",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "https://thehill.com/?p=6235792",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "74501480",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "https://www.missourinet.com/?p=177954",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "https://www.missourinet.com/?p=177933",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "44ec58c6-90a2-480a-9c54-f13c36aa9408",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "https://www.missourinet.com/?p=177931",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "https://www.kshb.com/news/crime/man-dead-after-shooting-near-apartment-complex-in-kansas-city-missouri-no-suspect-in-custody",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "https://www.nbcnews.com/sports/formula-1/verstappen-mocks-russell-las-vegas-f1-win-rcna610683",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "https://www.missourinet.com/?p=177921",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/22/week-ahead-washington-november-22/",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "https://dev.to/lineanswered/published-a-env-or-api-key-to-npm-what-to-do-in-order-4dec",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/22/us/virginia-foxx-chuck-hubbard-north-carolina-house.html",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "https://dev.to/david_ghetto_5e1274b3df0a/how-to-get-tiktok-instagram-reels-and-youtube-transcripts-in-claude-and-chatgpt-mcp-23pi",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "https://ohiocapitaljournal.com/?p=43234",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/22/us/politics/melania-trump-ukraine-diplomacy.html",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/?p=217111",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "https://dev.to/sumama-jameel/github-used-to-be-people-building-in-c-now-its-skills-made-of-skills-made-of-skills-27kj",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "https://dev.to/ingotide/no-more-vs-code-introducing-ingot-the-ai-ide-where-you-review-every-edit-kch",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "https://thehill.com/?p=6235972",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "WP-MKTW-0005360790",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4452347",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "https://lobste.rs/s/e89tey",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "https://www.engadget.com/2319422/ring-doorbell-smart-gadget-pairings/",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "74501148",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191157",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/health/scientists-are-fighting-for-their-halted-funds-trust-of-black-communities-may-be-harder-to-win-back",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "https://hackaday.com/?p=1429322",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/22/former-broncos-star-espn-broadcaster-tom-jackson-dead-75/",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "https://thehill.com/?p=6232453",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "news714400969",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "https://www.engadget.com/2319409/dont-throw-away-old-xbox-do-this-instead-sell-donate/",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "647b4d13-1e2e-4386-beb1-c9adad0540e5",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "https://www.engadget.com/2319403/how-to-mass-delete-all-emails-gmail/",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
+  },
+  {
+   "key": "https://fortune.com/?p=4648214&showAdminBar=true",
+   "firstQueuedAtMs": 1795370400000,
+   "playedAtMs": 1795370400000
   }
  ]
 }
