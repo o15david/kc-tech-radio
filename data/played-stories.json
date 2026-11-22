@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-22T19:50:11.106Z",
- "lastSyncBucket": 997430,
- "lastSyncCarryInSeconds": 7,
+ "updatedAt": "2026-11-22T20:05:20.611Z",
+ "lastSyncBucket": 997431,
+ "lastSyncCarryInSeconds": 111,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -4169,6 +4169,116 @@
    "key": "https://dev.to/madsalt_tech/before-you-ask-for-a-pentest-quote-build-a-one-page-evidence-pack-op2",
    "firstQueuedAtMs": 1795374000000,
    "playedAtMs": 1795374000000
+  },
+  {
+   "key": "74501729",
+   "firstQueuedAtMs": 1795375800000,
+   "playedAtMs": 1795375800000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=164318",
+   "firstQueuedAtMs": 1795375800000,
+   "playedAtMs": 1795375800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/22/8-year-old-critically-hurt-after-falling-out-trailer-onto-road/",
+   "firstQueuedAtMs": 1795375800000,
+   "playedAtMs": 1795375800000
+  },
+  {
+   "key": "bcd61e91-1035-4edd-96ef-20f93edf3ba9",
+   "firstQueuedAtMs": 1795375800000,
+   "playedAtMs": 1795375800000
+  },
+  {
+   "key": "https://www.kshb.com/world/russian-attack-near-ukraines-capital-strikes-apartment-building-killing-2",
+   "firstQueuedAtMs": 1795375800000,
+   "playedAtMs": 1795375800000
+  },
+  {
+   "key": "https://dev.to/yonto/a-reviewer-that-did-not-write-the-code-bbb",
+   "firstQueuedAtMs": 1795375800000,
+   "playedAtMs": 1795375800000
+  },
+  {
+   "key": "https://dev.to/sophie-pyxis/togaf-escreva-principios-de-arquitetura-que-orientem-decisoes-23m9",
+   "firstQueuedAtMs": 1795375800000,
+   "playedAtMs": 1795375800000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/world/poland-says-russia-allegedly-twice-tried-to-kill-a-ukrainian-american-rapper",
+   "firstQueuedAtMs": 1795375800000,
+   "playedAtMs": 1795375800000
+  },
+  {
+   "key": "https://www.techdirt.com/?p=552193&preview=true&preview_id=552193",
+   "firstQueuedAtMs": 1795375800000,
+   "playedAtMs": 1795375800000
+  },
+  {
+   "key": "https://dev.to/mrx46/a-vision-beyond-biological-limitations-4g3m",
+   "firstQueuedAtMs": 1795375800000,
+   "playedAtMs": 1795375800000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4432003",
+   "firstQueuedAtMs": 1795375800000,
+   "playedAtMs": 1795375800000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4452243",
+   "firstQueuedAtMs": 1795375800000,
+   "playedAtMs": 1795375800000
+  },
+  {
+   "key": "https://www.nbcnews.com/news/us-news/missouri-mom-charged-murder-police-say-3-year-old-died-untreated-cance-rcna610697",
+   "firstQueuedAtMs": 1795375800000,
+   "playedAtMs": 1795375800000
+  },
+  {
+   "key": "https://kansascitymag.com/?p=75013",
+   "firstQueuedAtMs": 1795375800000,
+   "playedAtMs": 1795375800000
+  },
+  {
+   "key": "https://dev.to/wlaeg/i-built-a-pixel-desktop-pet-for-google-antigravity-619",
+   "firstQueuedAtMs": 1795375800000,
+   "playedAtMs": 1795375800000
+  },
+  {
+   "key": "https://dev.to/fathy_shalaby/a-decision-graph-for-small-ai-teams-context-that-compounds-556o",
+   "firstQueuedAtMs": 1795375800000,
+   "playedAtMs": 1795375800000
+  },
+  {
+   "key": "https://southdakotasearchlight.com/?p=26136",
+   "firstQueuedAtMs": 1795375800000,
+   "playedAtMs": 1795375800000
+  },
+  {
+   "key": "https://dev.to/mateohq/we-audited-240-cancellation-policies-across-601-companies-why-dark-patterns-force-phone-calls-and-4do1",
+   "firstQueuedAtMs": 1795375800000,
+   "playedAtMs": 1795375800000
+  },
+  {
+   "key": "https://thehill.com/?p=6236127",
+   "firstQueuedAtMs": 1795375800000,
+   "playedAtMs": 1795375800000
+  },
+  {
+   "key": "https://dev.to/rivenpulse5812/nodejs-app-data-low-maintenance-storage-service-choices-for-backup-retention-23e",
+   "firstQueuedAtMs": 1795375800000,
+   "playedAtMs": 1795375800000
+  },
+  {
+   "key": "https://kansascitymag.com/?p=81119",
+   "firstQueuedAtMs": 1795375800000,
+   "playedAtMs": 1795375800000
+  },
+  {
+   "key": "https://dev.to/amrithesh_dev/llms-that-patch-themselves-the-future-of-instant-ai-upgrades-34di",
+   "firstQueuedAtMs": 1795375800000,
+   "playedAtMs": 1795375800000
   }
  ]
 }
