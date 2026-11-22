@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-22T13:50:23.715Z",
- "lastSyncBucket": 997418,
+ "updatedAt": "2026-11-22T14:05:40.410Z",
+ "lastSyncBucket": 997419,
  "entries": [
   {
    "key": "74498741",
@@ -2921,6 +2921,11 @@
   },
   {
    "key": "https://tf8z58tab.cc.rs6.net/tn.jsp?f=001IBWvIlkGQLIlofKMhka7xQLlKHVHRgPyIpmbQ8lXDqb5DqzZn7fb5abnDas3Sne1vBQaFexfUhytJ0YLxXhoh5az6OUbMJ9kIjz_I6Vkrt_35kuhwSYp9OM9Dolzl_wKO59EQh25ONLdxGrOKUYEvXW7ukWRqcy39MidAHll9L58SGJNHh03Ri64W6jFLAqbFlm_9RaFOHLZaQ1BBMt5iDTlS49HLPi6&c=yx-xoomfgmwWQbJDTWMnQZQiaj1DmTMaO_zO7d74L8zhi-HIh_eB3w==&ch=1bq-AKl636BLFz30QNTRcEh8GijmQamzC_np0T0dz4y7yWkyZ-ifDQ==",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/world/climate-talks-in-overtime-as-nations-wrestle-with-response-to-worsening-global-warming",
    "firstQueuedAtMs": 1795327200000,
    "playedAtMs": 1795327200000
   },
@@ -13155,6 +13160,11 @@
    "playedAtMs": 1795348800000
   },
   {
+   "key": "https://dailygalaxy.com/?p=162511",
+   "firstQueuedAtMs": 1795348800000,
+   "playedAtMs": 1795348800000
+  },
+  {
    "key": "https://kansascitymag.com/?p=75013",
    "firstQueuedAtMs": 1795350600000,
    "playedAtMs": 1795350600000
@@ -13256,6 +13266,11 @@
   },
   {
    "key": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
+   "firstQueuedAtMs": 1795350600000,
+   "playedAtMs": 1795350600000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163272",
    "firstQueuedAtMs": 1795350600000,
    "playedAtMs": 1795350600000
   },
@@ -13398,6 +13413,136 @@
    "key": "https://www.engadget.com/2319344/apple-airpods-5-vs-airpods-pro-3-differences/",
    "firstQueuedAtMs": 1795352400000,
    "playedAtMs": 1795352400000
+  },
+  {
+   "key": "https://fortune.com/?p=4646349",
+   "firstQueuedAtMs": 1795352400000,
+   "playedAtMs": 1795352400000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=162670",
+   "firstQueuedAtMs": 1795352400000,
+   "playedAtMs": 1795352400000
+  },
+  {
+   "key": "74500458",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "https://thehill.com/?p=6235588",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "https://www.kshb.com/life/food-and-drink/whether-youre-team-plastic-or-wood-heres-how-to-sanitize-your-cutting-board",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "https://thehill.com/?p=6235708",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=302364",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1038181",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "43097954-0e09-4bbc-b7f3-3c8b007f4259",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1038879",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "WP-MKTW-0005362999",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "2B4tsN6KnUZfEWaoUiVVph",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/22/behind-the-curtain-ai-2027-the-reckoning",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "https://www.kshb.com/world/russian-attack-near-ukraines-capital-strikes-apartment-building-killing-2",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "https://dev.to/silver_scintilla_617290b2/dynamics-nav-to-business-central-planning-an-upgrade-that-does-not-disrupt-the-business-2g0a",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "https://dev.to/hasnainkhagan/i-built-npxtools-a-keyboard-friendly-directory-of-developer-tools-5aig",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "https://dev.to/stacklyn_labs/subzero-turning-monthly-and-yearly-plans-into-one-number-in-flutter-35bc",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795351313",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "https://dev.to/sophie-pyxis/fase-e-do-togaf-escolha-um-caminho-que-o-banco-consiga-colocar-em-operacao-27ja",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795353949",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/22/chilly-chiefs-game-day-thanksgiving-week-tap/",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "https://dev.to/samuccaya/giving-an-ai-agent-database-access-without-giving-it-your-database-1hd2",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795352168",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "https://dev.to/utterwove/offline-dictation-on-android-on-device-whisper-explained-1pg3",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "https://www.scmp.com/tech/tech-trends/article/3375374/tencent-touts-latest-ai-model-hy4s-performance-independent-safety-assessment",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "https://dev.to/dev-sahadat/16-bit-png-in-sharp-silently-becomes-8-bit-bytes-and-banding-4m7b",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
   }
  ]
 }
