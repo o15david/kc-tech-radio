@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-22T14:50:15.087Z",
- "lastSyncBucket": 997420,
+ "updatedAt": "2026-11-22T15:05:20.319Z",
+ "lastSyncBucket": 997421,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -1880,6 +1880,16 @@
    "playedAtMs": 1795352400000
   },
   {
+   "key": "https://kcsoccerjournal.com/?p=8739",
+   "firstQueuedAtMs": 1795352400000,
+   "playedAtMs": 1795352400000
+  },
+  {
+   "key": "https://thebeaconnews.org/?p=36194",
+   "firstQueuedAtMs": 1795352400000,
+   "playedAtMs": 1795352400000
+  },
+  {
    "key": "https://www.ky3.com/2026/11/22/first-alert-weather-rain-tonight-into-sunday-will-cool-us-down-again/",
    "firstQueuedAtMs": 1795354200000,
    "playedAtMs": 1795354200000
@@ -2051,6 +2061,46 @@
   },
   {
    "key": "https://www.thepitchkc.com/?p=959434",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "301d749f-1474-48f9-8bdd-8edf631ad23e",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "https://www.downtownkc.org/?p=68811",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "https://www.kcur.org/podcast/kansas-city-today/2026-11-16/what-is-missouris-next-big-ballot-issue-after-amendment-6",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "https://kcsoccerjournal.com/?p=8728",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "https://martincitytelegraph.com/?p=81788",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "625ace52-8fad-4ee5-9e53-2b94b3728f48",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "https://martincitytelegraph.com/?p=81757",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "https://dosmundos.com/?p=121531",
    "firstQueuedAtMs": 1795354200000,
    "playedAtMs": 1795354200000
   },
@@ -2293,6 +2343,241 @@
    "key": "news714316306",
    "firstQueuedAtMs": 1795356000000,
    "playedAtMs": 1795356000000
+  },
+  {
+   "key": "https://martincitytelegraph.com/?p=81785",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "0e7e6462-5608-4715-9e23-86281e600ce8",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "https://www.kcur.org/news/2026-11-14/kansas-city-travelers-face-lingering-delays-after-faa-ground-stop-and-more-than-100-cancellations",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/mlb-candidates-to-win-first-mvp-cy-young-2027",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "https://kcstudio.org/?p=125234",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "https://kcsoccerjournal.com/?p=8723",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "https://martincitytelegraph.com/?p=81749",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/royals-plan-for-carter-jensen-salvador-perez-at-catcher-in-2027",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "https://martincitytelegraph.com/?p=81742",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "https://nebraskaexaminer.com/?post_type=republished&p=45963",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "https://www.kcur.org/news/2026-11-13/old-tech-blamed-for-the-ground-stop-that-caused-flight-chaos-it-got-overloaded",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "https://kcstudio.org/?p=125102",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "https://kcstudio.org/?p=125026",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/bobby-witt-jr-finishes-3rd-for-al-mvp-award-2026",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "https://kcstudio.org/?p=125094",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "https://kcsoccerjournal.com/?p=8710",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "e586c82c-df54-4ba5-8548-c81b4e4e88b6",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/royals-and-elevate-team-up-on-new-downtown-ballpark-experience",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "https://dosmundos.com/?p=121535",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "https://kcsoccerjournal.com/?p=8705",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "https://dosmundos.com/?p=121495",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "74500821",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/bobby-witt-jr-first-team-all-mlb-2026",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/bobby-witt-jr-2026-heart-hustle-award-winner",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/royals-looking-for-pitching-help-in-offseason",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://kansascitydefender.com/?p=18967",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3190069",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://dev.to/jonas_nguyen/the-networks-i-chose-not-to-support-yet-44c8",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://dev.to/ramazan_akdoan_fa177aff4/finding-the-most-viewed-twitch-clips-of-the-week-automatically-for-clippers-and-editors-326k",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "2a252ca2-1c85-445c-8999-70d0b0b39aa6",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://dev.to/mobil3/how-to-enter-the-mexico-fintech-market-2026-guide-2o7n",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "5e0b40bc-623b-463d-8cec-a548a7c8156d",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/bob-boone-dies",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/arizona-fall-league-week-5-award-winners-2026",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://dev.to/awiresearchlab/proven-in-lean-4-why-ai-guardrails-are-a-statistical-mirage-and-how-awi-research-lab-built-the-21c8",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/2026-mlb-rookie-of-the-year-voting-totals",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://www.kcdigitaldrive.org/?post_type=article&p=8587",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://dev.to/getversyka/merge-every-green-dependabot-pr-in-one-command-and-the-trap-that-merges-untested-code-5chl",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://northdakotamonitor.com/?p=23657",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://dev.to/kawsarlog/the-ai-bubble-debate-will-it-burst-in-2026-or-keep-inflating-3bc8",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "51064a92-cff5-4915-8802-e3a215c094c6",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://dev.to/aleksuix/openrtb-26-leaves-about-half-of-its-conformance-statements-unlintable-498f",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://flatlandkc.org/?p=199578",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://dosmundos.com/?p=121482",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://dev.to/serverdex/the-real-state-of-live-mcp-servers-9-in-10-answer-and-what-they-cost-you-4l2b",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "43097954-0e09-4bbc-b7f3-3c8b007f4259",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://dev.to/rehana_parveen_1b8844718a/azure-devops-crash-course-part-3-azure-repos-branches-and-your-first-pull-request-1ib3",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
   }
  ]
 }
