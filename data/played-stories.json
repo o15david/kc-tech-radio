@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-22T16:20:06.223Z",
- "lastSyncBucket": 997423,
+ "updatedAt": "2026-11-22T16:35:11.718Z",
+ "lastSyncBucket": 997424,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -3613,6 +3613,121 @@
    "key": "3dbd6575-1e4c-4f0e-a849-a3c9e091aa42",
    "firstQueuedAtMs": 1795361400000,
    "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=164660",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://www.engadget.com/2310723/handy-ways-use-old-mini-pc/",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://michiganadvance.com/?p=116021",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://arkansasadvocate.com/?p=31141",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "74501148",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/22/kansas-citys-kindness-mob-floods-social-media-with-positive-messages/",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "74501115",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://abcnews.com/US/multiple-people-shot-large-party-california-sheriffs-office/story?id=138356134",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/nation/immigration-officers-make-arrests-at-seattle-airport-in-distressing-scene-delaying-flight",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://www.nbcnews.com/news/us-news/california-prepares-flooding-rain-wind-thanksgiving-approaches-rcna610537",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "108557052",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "WP-MKTW-0005351393",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://thehill.com/?p=6235838",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://www.engadget.com/2319383/random-apps-that-work-with-android-auto/",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "WP-MKTW-0005362353",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=304130",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://abcnews.com/Technology/climate-conference-ends-signature-agreement-countries-clash-fossil/story?id=138359179",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "WP-MKTW-0005360862",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311412",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "r5W4vhGqRjp98cMQBbXYTT",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://www.futurity.org/?p=3354242",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "dmLg8jVdMEG4fwqAB2h3Ve",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
   }
  ]
 }
