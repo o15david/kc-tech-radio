@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-22T12:50:04.098Z",
- "lastSyncBucket": 997416,
+ "updatedAt": "2026-11-22T13:05:20.112Z",
+ "lastSyncBucket": 997417,
  "entries": [
   {
    "key": "74498741",
@@ -13093,6 +13093,86 @@
    "key": "6563dfb8-e66f-11f1-a862-bda202dca7d9",
    "firstQueuedAtMs": 1795348800000,
    "playedAtMs": 1795348800000
+  },
+  {
+   "key": "https://kansascitymag.com/?p=75013",
+   "firstQueuedAtMs": 1795350600000,
+   "playedAtMs": 1795350600000
+  },
+  {
+   "key": "https://thehill.com/?p=6235604",
+   "firstQueuedAtMs": 1795350600000,
+   "playedAtMs": 1795350600000
+  },
+  {
+   "key": "https://thehill.com/?p=6233288",
+   "firstQueuedAtMs": 1795350600000,
+   "playedAtMs": 1795350600000
+  },
+  {
+   "key": "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071",
+   "firstQueuedAtMs": 1795350600000,
+   "playedAtMs": 1795350600000
+  },
+  {
+   "key": "https://kansascitymag.com/?p=81119",
+   "firstQueuedAtMs": 1795350600000,
+   "playedAtMs": 1795350600000
+  },
+  {
+   "key": "https://www.scmp.com/news/asia/east-asia/article/3375387/calls-grow-japans-education-minister-step-down-over-scandals",
+   "firstQueuedAtMs": 1795350600000,
+   "playedAtMs": 1795350600000
+  },
+  {
+   "key": "74500496",
+   "firstQueuedAtMs": 1795350600000,
+   "playedAtMs": 1795350600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795340587",
+   "firstQueuedAtMs": 1795350600000,
+   "playedAtMs": 1795350600000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/health-environment/article/3375384/how-hong-kong-using-ai-alerts-and-tank-cut-flood-risks-during-storms",
+   "firstQueuedAtMs": 1795350600000,
+   "playedAtMs": 1795350600000
+  },
+  {
+   "key": "u3GsALADamqWoQfCA3uKLE",
+   "firstQueuedAtMs": 1795350600000,
+   "playedAtMs": 1795350600000
+  },
+  {
+   "key": "https://www.infoq.com/news/2026/11/postgresql-19-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795350600000,
+   "playedAtMs": 1795350600000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315553",
+   "firstQueuedAtMs": 1795350600000,
+   "playedAtMs": 1795350600000
+  },
+  {
+   "key": "https://earthsky.org/?p=566073",
+   "firstQueuedAtMs": 1795350600000,
+   "playedAtMs": 1795350600000
+  },
+  {
+   "key": "https://lobste.rs/s/nbtm5j",
+   "firstQueuedAtMs": 1795350600000,
+   "playedAtMs": 1795350600000
+  },
+  {
+   "key": "https://www.dw.com/en/cop31-climate-deal-not-adopted-summit-president-says/live-79999516?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795350600000,
+   "playedAtMs": 1795350600000
+  },
+  {
+   "key": "https://www.scmp.com/opinion/china-opinion/article/3375166/no-grand-bargain-xi-trump-putin-meeting-was-never-point",
+   "firstQueuedAtMs": 1795350600000,
+   "playedAtMs": 1795350600000
   }
  ]
 }
