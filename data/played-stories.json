@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-22T22:20:19.919Z",
- "lastSyncBucket": 997435,
- "lastSyncCarryInSeconds": 0,
+ "updatedAt": "2026-11-22T22:35:16.804Z",
+ "lastSyncBucket": 997436,
+ "lastSyncCarryInSeconds": 82,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -4794,6 +4794,121 @@
    "key": "https://www.royalsreview.com/108330/which-risks-are-worth-taking-for-the-kansas-city-royals-this-offseason",
    "firstQueuedAtMs": 1795383000000,
    "playedAtMs": 1795383000000
+  },
+  {
+   "key": "https://dev.to/quentinbarrett5281/chunk-boundaries-and-freshness-in-travel-itinerary-retrieval-architecture-1h0m",
+   "firstQueuedAtMs": 1795384800000,
+   "playedAtMs": 1795384800000
+  },
+  {
+   "key": "74502079",
+   "firstQueuedAtMs": 1795384800000,
+   "playedAtMs": 1795384800000
+  },
+  {
+   "key": "https://southdakotasearchlight.com/?p=26234",
+   "firstQueuedAtMs": 1795384800000,
+   "playedAtMs": 1795384800000
+  },
+  {
+   "key": "2bd175e8-fc2f-46e6-a01d-35e38c7c4835",
+   "firstQueuedAtMs": 1795384800000,
+   "playedAtMs": 1795384800000
+  },
+  {
+   "key": "74502005",
+   "firstQueuedAtMs": 1795384800000,
+   "playedAtMs": 1795384800000
+  },
+  {
+   "key": "3cb08bbf-3aa8-4915-9ed1-270e2b500355",
+   "firstQueuedAtMs": 1795384800000,
+   "playedAtMs": 1795384800000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4416134",
+   "firstQueuedAtMs": 1795384800000,
+   "playedAtMs": 1795384800000
+  },
+  {
+   "key": "https://www.royalsreview.com/?p=108322",
+   "firstQueuedAtMs": 1795384800000,
+   "playedAtMs": 1795384800000
+  },
+  {
+   "key": "https://dev.to/nefayran/my-ai-agents-godot-game-drew-trees-and-a-town-behind-its-planet-two-fixes-cut-3-ms-of-gpu-time-1a0k",
+   "firstQueuedAtMs": 1795384800000,
+   "playedAtMs": 1795384800000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/nation/todays-thanksgiving-holiday-was-invented-amid-the-civil-war-to-unite-a-divided-country",
+   "firstQueuedAtMs": 1795384800000,
+   "playedAtMs": 1795384800000
+  },
+  {
+   "key": "https://dev.to/sam_dz_d02574a2e15973aa33/gan-chargers-and-usb-c-hubs-explained-without-the-marketing-20f6",
+   "firstQueuedAtMs": 1795384800000,
+   "playedAtMs": 1795384800000
+  },
+  {
+   "key": "https://thehill.com/?p=6236346",
+   "firstQueuedAtMs": 1795384800000,
+   "playedAtMs": 1795384800000
+  },
+  {
+   "key": "https://dev.to/randomchaos/a-forged-admin-token-opened-sql-access-to-17-trillion-microsoft-records-28ab",
+   "firstQueuedAtMs": 1795384800000,
+   "playedAtMs": 1795384800000
+  },
+  {
+   "key": "https://dev.to/mrwatterson28byte/why-i-chose-software-engineering-2bln",
+   "firstQueuedAtMs": 1795384800000,
+   "playedAtMs": 1795384800000
+  },
+  {
+   "key": "https://dev.to/lorraine_hlungwane_73e020/-my-networking-blog-understanding-arp-and-mac-addresses-3bn6",
+   "firstQueuedAtMs": 1795384800000,
+   "playedAtMs": 1795384800000
+  },
+  {
+   "key": "https://martincitytelegraph.com/?p=81963",
+   "firstQueuedAtMs": 1795384800000,
+   "playedAtMs": 1795384800000
+  },
+  {
+   "key": "https://dev.to/batuhanklcky/what-makes-an-open-source-repo-ready-for-stars-i-turned-the-checklist-into-a-1-command-cli-31f8",
+   "firstQueuedAtMs": 1795384800000,
+   "playedAtMs": 1795384800000
+  },
+  {
+   "key": "https://wisconsinwatch.org/?p=1323256",
+   "firstQueuedAtMs": 1795384800000,
+   "playedAtMs": 1795384800000
+  },
+  {
+   "key": "https://dev.to/sam_dz_d02574a2e15973aa33/how-usb-c-power-delivery-really-works-and-why-your-phone-never-hits-the-number-on-the-box-826",
+   "firstQueuedAtMs": 1795384800000,
+   "playedAtMs": 1795384800000
+  },
+  {
+   "key": "https://thehill.com/?p=6235770",
+   "firstQueuedAtMs": 1795384800000,
+   "playedAtMs": 1795384800000
+  },
+  {
+   "key": "https://dev.to/voice_developer/build-a-voicemail-generator-with-elevenlabs-api-16gn",
+   "firstQueuedAtMs": 1795384800000,
+   "playedAtMs": 1795384800000
+  },
+  {
+   "key": "https://kansascitymag.com/?p=82640",
+   "firstQueuedAtMs": 1795384800000,
+   "playedAtMs": 1795384800000
+  },
+  {
+   "key": "https://dev.to/alicexixi85/modeling-prop-firm-daily-loss-limits-and-intraday-vs-end-of-day-trailing-drawdown-in-python-483l",
+   "firstQueuedAtMs": 1795384800000,
+   "playedAtMs": 1795384800000
   }
  ]
 }
