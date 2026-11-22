@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-22T23:20:19.057Z",
- "lastSyncBucket": 997437,
- "lastSyncCarryInSeconds": 76,
+ "updatedAt": "2026-11-22T23:35:22.794Z",
+ "lastSyncBucket": 997438,
+ "lastSyncCarryInSeconds": 21,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -5004,6 +5004,121 @@
    "key": "https://dev.to/puneet_nanda_dc25d8b489ad/the-other-arm-is-a-memory-f17",
    "firstQueuedAtMs": 1795386600000,
    "playedAtMs": 1795386600000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/22/father-stabbed-death-by-ex-middle-night-front-3-year-old-son-authorities-say/",
+   "firstQueuedAtMs": 1795388400000,
+   "playedAtMs": 1795388400000
+  },
+  {
+   "key": "https://www.nbcnews.com/politics/donald-trump/trump-hosts-exclusive-dinner-investors-declining-meme-coin-rcna610757",
+   "firstQueuedAtMs": 1795388400000,
+   "playedAtMs": 1795388400000
+  },
+  {
+   "key": "https://www.nbcnews.com/news/us-news/weekend-rundown-november-22-rcna610436",
+   "firstQueuedAtMs": 1795388400000,
+   "playedAtMs": 1795388400000
+  },
+  {
+   "key": "74502093",
+   "firstQueuedAtMs": 1795388400000,
+   "playedAtMs": 1795388400000
+  },
+  {
+   "key": "https://dev.to/nabil_since_dev/our-hook-told-the-agent-it-was-wrong-it-said-no-three-times-54f",
+   "firstQueuedAtMs": 1795388400000,
+   "playedAtMs": 1795388400000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/?p=217211",
+   "firstQueuedAtMs": 1795388400000,
+   "playedAtMs": 1795388400000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/22/nx-s1-6050248/what-its-like-at-a-climate-conference-as-talks-collapse",
+   "firstQueuedAtMs": 1795388400000,
+   "playedAtMs": 1795388400000
+  },
+  {
+   "key": "https://dev.to/dilutedev/two-agents-one-pass-and-a-loop-every-eight-seconds-notes-from-building-baton-heb",
+   "firstQueuedAtMs": 1795388400000,
+   "playedAtMs": 1795388400000
+  },
+  {
+   "key": "https://dev.to/nestdaddy/tavily-alternative-a-search-api-for-ai-agents-at-a-fraction-of-the-cost-per-search-2026-3n2n",
+   "firstQueuedAtMs": 1795388400000,
+   "playedAtMs": 1795388400000
+  },
+  {
+   "key": "https://iowacapitaldispatch.com/?p=61390",
+   "firstQueuedAtMs": 1795388400000,
+   "playedAtMs": 1795388400000
+  },
+  {
+   "key": "https://thehill.com/?p=6234642",
+   "firstQueuedAtMs": 1795388400000,
+   "playedAtMs": 1795388400000
+  },
+  {
+   "key": "https://dev.to/jeff_pdc/mcp-tool-deprecation-and-registry-lifecycle-stage-by-stage-o57",
+   "firstQueuedAtMs": 1795388400000,
+   "playedAtMs": 1795388400000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/?p=217196",
+   "firstQueuedAtMs": 1795388400000,
+   "playedAtMs": 1795388400000
+  },
+  {
+   "key": "https://dev.to/zeligholloway9071/why-i-chose-nodejs-storage-for-generated-images-and-temporary-download-links-4m7g",
+   "firstQueuedAtMs": 1795388400000,
+   "playedAtMs": 1795388400000
+  },
+  {
+   "key": "https://arkansasadvocate.com/?p=31139",
+   "firstQueuedAtMs": 1795388400000,
+   "playedAtMs": 1795388400000
+  },
+  {
+   "key": "https://thehill.com/?p=6232755",
+   "firstQueuedAtMs": 1795388400000,
+   "playedAtMs": 1795388400000
+  },
+  {
+   "key": "https://dev.to/graphwake/a-free-openapi-diff-that-never-uploads-your-spec-26kp",
+   "firstQueuedAtMs": 1795388400000,
+   "playedAtMs": 1795388400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html",
+   "firstQueuedAtMs": 1795388400000,
+   "playedAtMs": 1795388400000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/?p=217190",
+   "firstQueuedAtMs": 1795388400000,
+   "playedAtMs": 1795388400000
+  },
+  {
+   "key": "https://dev.to/__8396b7d6b7b45b65/a-payment-webhook-should-not-grant-the-same-purchase-twice-20b7",
+   "firstQueuedAtMs": 1795388400000,
+   "playedAtMs": 1795388400000
+  },
+  {
+   "key": "https://dev.to/member_5f09eb42/what-to-evaluate-in-tournament-registration-software-builders-checklist-5a12",
+   "firstQueuedAtMs": 1795388400000,
+   "playedAtMs": 1795388400000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/science/mercury-gets-its-first-visitor-in-years-as-a-pair-of-spacecraft-loop-into-orbit",
+   "firstQueuedAtMs": 1795388400000,
+   "playedAtMs": 1795388400000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4416249",
+   "firstQueuedAtMs": 1795388400000,
+   "playedAtMs": 1795388400000
   }
  ]
 }
