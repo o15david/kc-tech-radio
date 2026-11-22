@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-22T15:50:06.863Z",
- "lastSyncBucket": 997422,
+ "updatedAt": "2026-11-22T16:05:24.757Z",
+ "lastSyncBucket": 997423,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -3030,6 +3030,11 @@
    "playedAtMs": 1795356000000
   },
   {
+   "key": "https://dailygalaxy.com/?p=162679",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
    "key": "74500821",
    "firstQueuedAtMs": 1795357800000,
    "playedAtMs": 1795357800000
@@ -3340,6 +3345,11 @@
    "playedAtMs": 1795357800000
   },
   {
+   "key": "https://dailygalaxy.com/?p=163311",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
    "key": "https://www.kshb.com/science-and-tech/climate-change/un-climate-talks-break-down-over-bitter-disagreements-on-fossil-fuels",
    "firstQueuedAtMs": 1795359600000,
    "playedAtMs": 1795359600000
@@ -3508,6 +3518,86 @@
    "key": "https://www.engadget.com/2319371/most-recognizable-spam-email-type-way-older-than-internet/",
    "firstQueuedAtMs": 1795359600000,
    "playedAtMs": 1795359600000
+  },
+  {
+   "key": "https://osw-alliance.net/en/",
+   "firstQueuedAtMs": 1795359600000,
+   "playedAtMs": 1795359600000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163219",
+   "firstQueuedAtMs": 1795359600000,
+   "playedAtMs": 1795359600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/22/tailgate-recipe-pizza-potato-tot-cups/",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "74475467",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/22/fiona-be-honored-upcoming-macys-thanksgiving-day-parade/",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://thehill.com/?p=6231623",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "5ce7b56c-4dd8-4558-a259-8ce104ed4d05",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "8287c189-a321-4917-881a-ae2fa2dac6ba",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://www.nbcnews.com/politics/congress/van-hollen-momentum-senate-majority-leader-schumer-election-rcna610669",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://thehill.com/?p=6235771",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=229263",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://www.euronews.com/2026/10/19/norway-to-extend-proposed-under-16-social-media-ban-to-online-games-and-messaging-apps",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://www.engadget.com/2319374/apple-intelligence-iphone-storage-usage/",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "3dbd6575-1e4c-4f0e-a849-a3c9e091aa42",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
   }
  ]
 }
