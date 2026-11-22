@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-22T17:20:05.176Z",
- "lastSyncBucket": 997425,
+ "updatedAt": "2026-11-22T17:35:22.421Z",
+ "lastSyncBucket": 997426,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -1471,6 +1471,11 @@
   },
   {
    "key": "https://www.mlb.com/milb/prospects/2026/royals/",
+   "firstQueuedAtMs": 1795345200000,
+   "playedAtMs": 1795345200000
+  },
+  {
+   "key": "https://lobste.rs/s/qzerls",
    "firstQueuedAtMs": 1795345200000,
    "playedAtMs": 1795345200000
   },
@@ -4200,6 +4205,36 @@
    "playedAtMs": 1795361400000
   },
   {
+   "key": "https://insideclimatenews.org/?p=116557",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "tag:daringfireball.net,2026:/linked//6.43756",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311486",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "d2380cae67e4f5d5655c6b63e914ed4170fdafd6",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://www.techdirt.com/?p=551964",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://www.fastcompany.com/91646867/leadership-lessons-hunger-games-haymitch-abernathy-c-suite",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
    "key": "https://michiganadvance.com/?p=116021",
    "firstQueuedAtMs": 1795363200000,
    "playedAtMs": 1795363200000
@@ -4485,6 +4520,106 @@
    "playedAtMs": 1795363200000
   },
   {
+   "key": "https://www.zmescience.com/?p=315423",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://retractionwatch.com/?p=136682",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "108556573",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315462",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "news714394429",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "7d1155e7ae64ab335a37cde382657a457dce3267",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4414568",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://www.fastcompany.com/91646749/ai-adoption-could-disproportionately-harm-black-and-latino-workers",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://www.eetimes.com/?p=101804033",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "108555967",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://www.schneier.com/?p=72970",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "news714403261",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4414468",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://www.fastcompany.com/91646772/artificial-movie-poster-sam-altman-ai-slop-made-by-humans",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "38s7vZv9ZLpdpEnYiVaZvZ",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
    "key": "https://www.kctv5.com/2026/11/22/live-blog-chiefs-take-cardinals-cross-conference-matchup/",
    "firstQueuedAtMs": 1795365000000,
    "playedAtMs": 1795365000000
@@ -4718,6 +4853,191 @@
    "key": "https://www.theregister.com/a/5311493",
    "firstQueuedAtMs": 1795365000000,
    "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315449",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://electrek.co/?p=494981",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "news714403142",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4414466",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "108556889",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.canarymedia.com/articles/land-use/tribal-rights-energy-permitting-debate",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311478",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "108556253",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4414172",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "news714400028",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "XpGvkqbq4SwbWrciBoQAVa",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1551607",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://electrek.co/?p=494982",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "74501350",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/22/feztival-trees-shines-bright-abou-ben-adhem-shriners-downtown-springfield/",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "1333dcd2-3e16-4c98-8b11-c15c8bce6432",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/22/will-mail-be-delivered-thanksgiving-black-friday-what-know/",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4452341",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://www.kshb.com/photowalks/photowalks-small-town-americana",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/22/opinion/ai-writing-technology-human-colonialism.html",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://thehill.com/?p=6235931",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://dev.to/echobuilds/we-dont-let-the-llm-touch-the-crossword-grid-ai-clues-a-25000-node-search-and-a-validator-that-39l9",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://dev.to/hjangid/learn-an-alternative-to-privatev-evidence-based-healthcare-search-42ha",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://dev.to/hjangid/from-gemini-google-adk-to-agentops-building-a-docker-first-privacy-safe-healthcare-ai-platform-264",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://dev.to/ehtisham_ahmed_d30b74ddf1/my-journey-into-html-understanding-the-foundation-of-web-development-1b98",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "5e8f0b72-accf-455d-8105-7b1cbc6a79e6",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://www.kshb.com/sports/football/chiefs/chiefs-must-deal-with-depleted-ol-dl-against-cardinals",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://kansasreflector.com/?post_type=republished&p=64141",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://dev.to/jeff_pdc/smithery-pricing-vs-self-hosted-cost-for-mcp-servers-24fo",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://dev.to/sascha-ms/your-first-90-days-as-a-team-lead-listen-win-small-then-lead-3m3i",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/nation/as-ai-detects-flaws-in-computer-systems-is-it-causing-more-tech-outages-and-disruptions",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://dev.to/rhysfalconer159/nodejs-large-ai-generated-image-uploads-with-multipart-storage-recovery-5e84",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://dev.to/eternasafe/your-app-has-a-delete-button-but-what-happens-when-the-user-dies-2cak",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://thehill.com/?p=6235770",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1039770",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
+  },
+  {
+   "key": "WP-MKTW-0005351579",
+   "firstQueuedAtMs": 1795366800000,
+   "playedAtMs": 1795366800000
   }
  ]
 }
