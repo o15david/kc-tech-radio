@@ -1,7 +1,7 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-22T10:05:09.119Z",
+ "updatedAt": "2026-11-22T10:20:07.039Z",
  "lastSyncBucket": 997411,
  "entries": [
   {
@@ -2535,6 +2535,126 @@
    "playedAtMs": 1795327200000
   },
   {
+   "key": "https://wisconsinwatch.org/?p=1323134",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://oklahomawatch.org/?p=763671",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://blogs.nvidia.com/?p=99829",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://nebraskaexaminer.com/?p=45922",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://spaceflightnow.com/?p=74912",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.schneier.com/?p=72922",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://physicsworld.com/?p=131567",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.snexplores.org/?p=245817",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://news.mit.edu/2026/waste-clearing-waves-in-brain-during-sleep-are-impaired-in-older-adults-1113",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://grist.org/?p=760839",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://grist.org/?p=760983",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://physicsworld.com/?p=131543",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://oklahomavoice.com/?p=22681",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "3a4182b9-b812-49fc-bda1-1006c3699540",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.canarymedia.com/articles/politics/solar-pac-revenge-in-congress",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.canarymedia.com/articles/emissions-reduction/turns-out-the-worlds-fossil-fuel-emissions-will-actually-drop-this-year",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://news.mit.edu/2026/new-ai-copilot-helps-engineers-design-better-structures-1113",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://news.mit.edu/2026/helping-robots-fit-into-human-workplace-1113",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://stratechery.com/?p=21196",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://news.fnal.gov/?p=343317",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "changelog.com/1/2837",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "6aecef3d72f2d40001289bc0",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://github.blog/?p=100130",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
    "key": "https://www.kctv5.com/2026/11/22/man-critical-condition-after-topeka-police-shooting/",
    "firstQueuedAtMs": 1795329000000,
    "playedAtMs": 1795329000000
@@ -4690,6 +4810,151 @@
    "playedAtMs": 1795329000000
   },
   {
+   "key": "https://northdakotamonitor.com/?p=23569",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://flatwaterfreepress.org/?p=20274",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://github.blog/?p=100122",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://indianacapitalchronicle.com/?p=28098",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.canarymedia.com/articles/fossil-fuels/ohio-gop-bill-stymie-coal-plant-closures",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.sci.news/?p=112719",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://spacenews.com/?p=627202",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.quantamagazine.org/?p=168928",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://spacenews.com/?p=627276",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://news.climate.columbia.edu/?p=129115",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.quantamagazine.org/?p=169152",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "776832c8-f8d2-4edd-9692-8634e675d611",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://blogs.nvidia.com/?p=99861",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.schneier.com/?p=72914",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.snexplores.org/?p=245804",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://restofworld.org/2026/ai-government-ethics-bias-risk/",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://stratechery.com/?p=21162",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://nebraskaexaminer.com/?post_type=republished&p=45914",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://grist.org/?p=760776",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://grist.org/?p=760835",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://grist.org/?p=760787",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.canarymedia.com/articles/politics/gop-lost-ohio-outlook-clean-energy",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://www.canarymedia.com/articles/heat-pumps/bay-area-heat-pump-water-heater-rules",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://news.mit.edu/2026/new-research-could-lead-faster-trustworthy-ai-models-climate-prediction-1112",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://news.climate.columbia.edu/?p=129069",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://news.climate.columbia.edu/?p=129066",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://news.climate.columbia.edu/?p=129009",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
+   "key": "https://grist.org/?p=760802",
+   "firstQueuedAtMs": 1795329000000,
+   "playedAtMs": 1795329000000
+  },
+  {
    "key": "https://www.kctv5.com/2026/11/21/man-accused-pouring-toxic-oil-into-womans-waffle-house-drink-before-child-drank-it-reports-say/",
    "firstQueuedAtMs": 1795330800000,
    "playedAtMs": 1795330800000
@@ -6445,6 +6710,171 @@
    "playedAtMs": 1795330800000
   },
   {
+   "key": "https://minnesotareformer.com/?post_type=republished&p=39872",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://southdakotasearchlight.com/?p=26197",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.canarymedia.com/articles/nuclear/small-modular-nuclear-reactor-late-canada",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://retractionwatch.com/?p=136553",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://northdakotamonitor.com/?p=23583",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://krebsonsecurity.com/?p=74550",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://news.mit.edu/2026/engineers-design-stronger-resilient-nature-inspired-metamaterials-1111",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://spacenews.com/?p=626973",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "01M742VWRK37TPYYPMXERSCWKN",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://spacenews.com/?p=626322",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.schneier.com/?p=72909",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://www.snexplores.org/?p=245767",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://stratechery.com/?p=21146",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://blogs.nvidia.com/?p=99833",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "6af3b04d41212900011ace33",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://knowablemagazine.org/content/article/living-world/2026/save-the-parasites",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://krebsonsecurity.com/?p=74619",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://southdakotasearchlight.com/?p=26193",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://news.climate.columbia.edu/?p=129048",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://github.blog/?p=100077",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://retractionwatch.com/?p=136531",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://blogs.nvidia.com/?p=99797",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://spacenews.com/?p=626526",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
+   "key": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "firstQueuedAtMs": 1795330800000,
+   "playedAtMs": 1795330800000
+  },
+  {
    "key": "https://www.kcur.org/podcast/kansas-city-today/2026-11-20/kansas-city-gets-a-new-scrooge",
    "firstQueuedAtMs": 1795332600000,
    "playedAtMs": 1795332600000
@@ -8080,6 +8510,126 @@
    "playedAtMs": 1795332600000
   },
   {
+   "key": "https://capitolnewsillinois.com/?p=134742",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://northdakotamonitor.com/?p=23580",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://sahanjournal.com/?p=89602",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.snexplores.org/?p=245762",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://indianacapitalchronicle.com/?p=28177",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.snexplores.org/?p=245729",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "4bffa630-54f8-412c-8fb9-5a1e2fedfd94",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://spacenews.com/?p=626629",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://knowablemagazine.org/content/article/health-disease/2026/discoveries-about-power-of-innate-immune-system",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "fbc0f8b8-fad5-49c5-b515-a7ab8cf42768",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://news.climate.columbia.edu/?p=129001",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://spacenews.com/?p=625316",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://importai.substack.com/p/import-ai-480-self-sustaining-space",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.lakescientist.com/?p=12885",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "01M6SMASVYY5EVPJPHFF7WNPFG",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.snexplores.org/?p=245834",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://northdakotamonitor.com/?post_type=republished&p=23570",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://www.snexplores.org/?p=245756",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://spaceflightnow.com/?p=74892",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://github.blog/?p=100047",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
+   "key": "https://spaceflightnow.com/?p=74882",
+   "firstQueuedAtMs": 1795332600000,
+   "playedAtMs": 1795332600000
+  },
+  {
    "key": "https://flatlandkc.org/?p=199455",
    "firstQueuedAtMs": 1795334400000,
    "playedAtMs": 1795334400000
@@ -9210,6 +9760,116 @@
    "playedAtMs": 1795334400000
   },
   {
+   "key": "https://nebraskaexaminer.com/?p=45913",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://sahanjournal.com/?p=89588",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://www.societyforscience.org/?p=68411",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://news.cnrs.fr/articles/war-and-peace",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://oklahomavoice.com/?p=22717",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "01M6PDR60R01B25PZF6REB72W3",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://www.snexplores.org/?p=245744",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "71ac000b-6ddd-42a0-8c20-0f525b414eb0",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "6aecf6db72f2d40001289c29",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://spaceflightnow.com/?p=74862",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://github.blog/?p=100002",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "01M6HXVSQY6XGPSH12AFMB81B9",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "ab816818-65bf-497b-a765-d7c6250deb92",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://github.blog/?p=99949",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://capitolnewsillinois.com/?p=134712",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://minnesotareformer.com/?p=39863",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://www.snexplores.org/?p=245678",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://restofworld.org/2026/taiwan-labor-strike-ai-profits/",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://krebsonsecurity.com/?p=74588",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "https://knowablemagazine.org/content/article/living-world/2026/why-did-pregnancy-evolve-in-animals",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
+   "key": "changelog.com/1/2835",
+   "firstQueuedAtMs": 1795334400000,
+   "playedAtMs": 1795334400000
+  },
+  {
    "key": "https://blockclubchicago.org/?p=1104796",
    "firstQueuedAtMs": 1795336200000,
    "playedAtMs": 1795336200000
@@ -10035,6 +10695,121 @@
    "playedAtMs": 1795336200000
   },
   {
+   "key": "https://oklahomawatch.org/?p=763648",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://indianacapitalchronicle.com/?p=28087",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://oklahomavoice.com/?post_type=republished&p=22687",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "36d88082-2c6e-437a-abae-0a265d2acd72",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "01M6HZ245M2MBZAF7ZQXKC85X6",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://www.snexplores.org/?p=245671",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "6aea7a8eb1fc8f0001faf888",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://www.societyforscience.org/?p=68324",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://news.cnrs.fr/articles/death-a-down-to-earth-matter",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://github.blog/?p=99955",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "01M6GJ3RNQ17SDPWXJVW49JAFW",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://minnesotareformer.com/?post_type=republished&p=39861",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://www.snexplores.org/?p=245642",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://www.snexplores.org/?p=245593",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "744b8ec3-a144-4d46-b8f1-d7a80a534898",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://krebsonsecurity.com/?p=74548",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://knowablemagazine.org/content/article/society/2026/how-the-bantu-migration-remade-africa",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://www.nsf.gov/news/podcast-laser-could-break-laws-physics",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
+   "key": "01M5J4YTFMTRT7PG1Y8HAPNPYG",
+   "firstQueuedAtMs": 1795336200000,
+   "playedAtMs": 1795336200000
+  },
+  {
    "key": "https://michiganadvance.com/?p=116063",
    "firstQueuedAtMs": 1795338000000,
    "playedAtMs": 1795338000000
@@ -10450,6 +11225,131 @@
    "playedAtMs": 1795338000000
   },
   {
+   "key": "https://sahanjournal.com/?p=89535",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://wisconsinwatch.org/?p=1323047",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://www.lakescientist.com/?p=12876",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://www.lakescientist.com/?p=12865",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://oklahomawatch.org/?p=763640",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://www.snexplores.org/?p=245627",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://www.snexplores.org/?p=245508",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://knowablemagazine.org/content/article/health-disease/2026/disease-sniffing-tests-get-closer-to-reality",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "01M66XYRNK559YY01V2P37EBD7",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "01M64V2TDYZYSS8RE60T3MWKSM",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "3e9f61bf-ac99-4dda-99be-643153e773f6",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "6ad9050dfc71fb0001d96bc8",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://wisconsinwatch.org/?p=1323039",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "af995b78-ffc3-49a7-b34a-5591a8d4cc6c",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "01M6254V6WN4EZTWVH0BF1748Y",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://restofworld.org/2026/africa-sovereign-ai-off-switch/",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "ebcfb20b-77a8-4861-8d00-04bac4cbf04f",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "changelog.com/1/2832",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "aff25b90-6c0a-41e4-b8f6-f6e24c534c7f",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
+   "key": "https://news.cnrs.fr/articles/searching-the-milky-way-for-bits-of-mars",
+   "firstQueuedAtMs": 1795338000000,
+   "playedAtMs": 1795338000000
+  },
+  {
    "key": "74499948",
    "firstQueuedAtMs": 1795339800000,
    "playedAtMs": 1795339800000
@@ -10596,6 +11496,176 @@
   },
   {
    "key": "https://sahanjournal.com/?p=89597",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "https://nebraskaexaminer.com/?p=45907",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "https://oklahomavoice.com/?p=22540",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "https://www.societyforscience.org/?p=67860",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "https://indianacapitalchronicle.com/?p=28001",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "6ae1370c482765000141e5cc",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "https://knowablemagazine.org/content/article/mind/2026/when-scammers-target-seniors",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "https://www.nsf.gov/news/podcast-future-electronics-goes-beyond-circuit-boards",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "https://www.nsf.gov/news/new-dwarf-planet-candidate-discovered-nsf-doe-rubin",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "3b45bd6a-a1d0-4a4d-99f1-cd6feb56e083",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "https://www.societyforscience.org/?p=68132",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "https://importai.substack.com/p/import-ai-478-math-for-alignment",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "https://www.lakescientist.com/?p=12859",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "https://www.societyforscience.org/?p=68104",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "e22771b2-e657-11f1-8597-1f07ec9af95f",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "https://knowablemagazine.org/content/article/health-disease/2026/can-non-drug-approaches-ease-lives-dementia-patients",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "https://indianacapitalchronicle.com/?p=28063",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "https://news.cnrs.fr/articles/surrogacy-in-keeping-with-chinese-tradition",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "e08e7a97-f678-4f32-8577-a5e15e31bcfb",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "6ada9854c7124400012a82b0",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "https://knowablemagazine.org/content/article/living-world/2026/why-animal-blood-comes-in-different-colors",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "7e5742ce-e3b9-4fb8-a551-bc6ba0abbb1e",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "cd7d9284-492f-4ff8-9cdf-3febdef17906",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "changelog.com/1/2833",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "https://restofworld.org/2026/ai-datacenters-water-resistance-global/",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "6f410a39-0c37-419f-b9dd-b787092801db",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "https://krebsonsecurity.com/?p=74522",
+   "firstQueuedAtMs": 1795339800000,
+   "playedAtMs": 1795339800000
+  },
+  {
+   "key": "https://www.societyforscience.org/?p=67752",
    "firstQueuedAtMs": 1795339800000,
    "playedAtMs": 1795339800000
   }
