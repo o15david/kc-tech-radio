@@ -1,7 +1,7 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-22T14:05:40.410Z",
+ "updatedAt": "2026-11-22T14:20:11.094Z",
  "lastSyncBucket": 997419,
  "entries": [
   {
@@ -2926,6 +2926,11 @@
   },
   {
    "key": "https://www.pbs.org/newshour/world/climate-talks-in-overtime-as-nations-wrestle-with-response-to-worsening-global-warming",
+   "firstQueuedAtMs": 1795327200000,
+   "playedAtMs": 1795327200000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
    "firstQueuedAtMs": 1795327200000,
    "playedAtMs": 1795327200000
   },
@@ -13541,6 +13546,51 @@
   },
   {
    "key": "https://dev.to/dev-sahadat/16-bit-png-in-sharp-silently-becomes-8-bit-bytes-and-banding-4m7b",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=164575",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "https://thehill.com/?p=6234205",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "fdc5c032-e679-11f1-804f-f99043976363",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "https://www.engadget.com/2319349/common-reasons-why-usb-ports-red/",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "https://grist.org/?p=761231",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "https://www.inc.com/carly-long/erin-andrews-300-nfl-games-wear-founder-lessons/91439846",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "82e87408-1c30-4864-bf44-d39a9c400302",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "https://www.engadget.com/2319347/old-computer-hardware-truly-useless/",
+   "firstQueuedAtMs": 1795354200000,
+   "playedAtMs": 1795354200000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163290",
    "firstQueuedAtMs": 1795354200000,
    "playedAtMs": 1795354200000
   }
