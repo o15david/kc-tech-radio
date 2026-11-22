@@ -1,7 +1,7 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-22T17:05:15.739Z",
+ "updatedAt": "2026-11-22T17:20:05.176Z",
  "lastSyncBucket": 997425,
  "entries": [
   {
@@ -3050,6 +3050,51 @@
    "playedAtMs": 1795356000000
   },
   {
+   "key": "https://www.theregister.com/a/5311418",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "https://lobste.rs/s/p5zsx4",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "6afdc840483a38e3131af692",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "6b007879fb286bb31d23bb65",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "https://www.fastcompany.com/91645826/canva-added-an-ai-kill-switch-to-its-tools",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "108556786",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43157",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "6aee4283dcea605147033e13",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
+   "key": "https://www.fastcompany.com/91646076/housing-market-home-prices-shift-76-metros",
+   "firstQueuedAtMs": 1795356000000,
+   "playedAtMs": 1795356000000
+  },
+  {
    "key": "74500821",
    "firstQueuedAtMs": 1795357800000,
    "playedAtMs": 1795357800000
@@ -3445,6 +3490,116 @@
    "playedAtMs": 1795357800000
   },
   {
+   "key": "6LQngY8Ewx6BWB7pmhnMeG",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://retractionwatch.com/?p=136667",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "59NwPcj5ghyUEZddcUpiBj",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/space-entrepreneurs-should-look-to-16th-century-spice-trade-for-inspiration",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "news714460786",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://www.inc.com/minda-zetlin/the-board-investigated-my-boss-he-told-me-to-secretly-feed-him-information/91436157",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://links.morningbrew.com/c/Zx0?mbcid=48544798.3238030&mid=1e8203ce88986da9aabbf2faa16b5ab0&mbuuid=enwFAdGao8KESKxNukTu1EGE",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://links.morningbrew.com/c/Zx3?mblid=8765dc6a269d&mbcid=48544798.3238030&mid=1e8203ce88986da9aabbf2faa16b5ab0&mbuuid=enwFAdGao8KESKxNukTu1EGE",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/21/science/outages-tech-history.html",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "6ad4fb5e83acc76b3cd1e49a",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "6a75111dfaa08b0c1d59f99f",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://www.fastcompany.com/91640406/apple-intelligence-decoded-how-to-make-sense-of-apples-confusing-ai-lineup",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://www.fastcompany.com/91645503/caring-for-elderly-parents-without-recreating-snls-viral-sister-sketch",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "oUjFJXuV3JeWJy62Fqxzh3",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://insideclimatenews.org/?p=116521",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://www.inc.com/bruce-crumley/managers-say-they-enforce-the-rules-equally-their-top-performers-get-a-different-deal/91440326",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://insideclimatenews.org/?p=116566",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://www.infoq.com/news/2026/11/gke-kernel-network-bug/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1550892",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75646",
+   "firstQueuedAtMs": 1795357800000,
+   "playedAtMs": 1795357800000
+  },
+  {
    "key": "https://www.kshb.com/science-and-tech/climate-change/un-climate-talks-break-down-over-bitter-disagreements-on-fossil-fuels",
    "firstQueuedAtMs": 1795359600000,
    "playedAtMs": 1795359600000
@@ -3680,6 +3835,41 @@
    "playedAtMs": 1795359600000
   },
   {
+   "key": "https://www.pymnts.com/?p=4409863",
+   "firstQueuedAtMs": 1795359600000,
+   "playedAtMs": 1795359600000
+  },
+  {
+   "key": "https://www.fastcompany.com/91645239/4-phases-of-becoming-a-great-leader",
+   "firstQueuedAtMs": 1795359600000,
+   "playedAtMs": 1795359600000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75647",
+   "firstQueuedAtMs": 1795359600000,
+   "playedAtMs": 1795359600000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75649",
+   "firstQueuedAtMs": 1795359600000,
+   "playedAtMs": 1795359600000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75645",
+   "firstQueuedAtMs": 1795359600000,
+   "playedAtMs": 1795359600000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311360",
+   "firstQueuedAtMs": 1795359600000,
+   "playedAtMs": 1795359600000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75635",
+   "firstQueuedAtMs": 1795359600000,
+   "playedAtMs": 1795359600000
+  },
+  {
    "key": "https://www.kctv5.com/2026/11/22/tailgate-recipe-pizza-potato-tot-cups/",
    "firstQueuedAtMs": 1795361400000,
    "playedAtMs": 1795361400000
@@ -3890,6 +4080,126 @@
    "playedAtMs": 1795361400000
   },
   {
+   "key": "https://news.ycombinator.com/item?id=50600771",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75631",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "108554745",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "6ad65118f85dfee471db09d1",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "6abc0b61297b0fd25b3f2cf1",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "6900e13d340cdaa92bb7d0c9",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "673bb0142598c31aeeee086e",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "6761d5ad5b998d54c2f9cdbc",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://www.fastcompany.com/91642816/your-best-people-are-training-your-ai-pay-them-for-it",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://www.fastcompany.com/91637814/bigwords-smartphone-sign-app",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386519",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75045",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386498",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "news714409080",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://www.marktechpost.com/?p=84023",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3190989",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "news714389857",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://www.techdirt.com/?p=552103&preview=true&preview_id=552103",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://www.inc.com/soren-kaplan/warren-buffett-spent-years-doing-the-1-thing-jensen-huang-failed-to-do/91440049",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "news714409162",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261120075549.htm",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386474",
+   "firstQueuedAtMs": 1795361400000,
+   "playedAtMs": 1795361400000
+  },
+  {
    "key": "https://michiganadvance.com/?p=116021",
    "firstQueuedAtMs": 1795363200000,
    "playedAtMs": 1795363200000
@@ -4080,6 +4390,101 @@
    "playedAtMs": 1795363200000
   },
   {
+   "key": "6723f3d1fe9036abfe13c4d6",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "6a91b2ddf6dd9530a8f6b0e2",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386464",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386483",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "news714400952",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386442",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4414759",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386463",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386437",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "02c52259bc83b8aa57b8410eb8c813a22ed5fd28",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://www.sci.news/?p=112853",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4414715",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://lobste.rs/s/1n8fzn",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386459",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "news714399986",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://krebsonsecurity.com/?p=74696",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4414690",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
+   "key": "d7bdb91bc1e6b32644ddf96aa43ed4840d83f174",
+   "firstQueuedAtMs": 1795363200000,
+   "playedAtMs": 1795363200000
+  },
+  {
    "key": "https://www.kctv5.com/2026/11/22/live-blog-chiefs-take-cardinals-cross-conference-matchup/",
    "firstQueuedAtMs": 1795365000000,
    "playedAtMs": 1795365000000
@@ -4251,6 +4656,66 @@
   },
   {
    "key": "https://www.marktechpost.com/?p=84027",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/217102/final-score-chiefs-pounce-on-falcons-coast-to-7th-win-of-the-season",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/217091/chiefs-falcons-inactives-kansas-city-down-two-running-backs",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.engadget.com/2319397/reuse-old-gopro-different-ways/",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://fortune.com/?p=4648155&showAdminBar=true",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "6a0635293f6b307a9138c8f4",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "6a063bb21e950aab129bbee8",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261119194544.htm",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4414633",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03803-8",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://nautil.us/?p=1286943",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1551706",
+   "firstQueuedAtMs": 1795365000000,
+   "playedAtMs": 1795365000000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311493",
    "firstQueuedAtMs": 1795365000000,
    "playedAtMs": 1795365000000
   }
