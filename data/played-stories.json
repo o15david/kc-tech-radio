@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T14:20:22.941Z",
- "lastSyncBucket": 997467,
- "lastSyncCarryInSeconds": 12,
+ "updatedAt": "2026-11-23T14:35:15.685Z",
+ "lastSyncBucket": 997468,
+ "lastSyncCarryInSeconds": 32,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -9309,6 +9309,111 @@
    "key": "https://www.pymnts.com/?p=4417543",
    "firstQueuedAtMs": 1795440600000,
    "playedAtMs": 1795440600000
+  },
+  {
+   "key": "https://source.washu.edu/?p=735816",
+   "firstQueuedAtMs": 1795442400000,
+   "playedAtMs": 1795442400000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/?p=217268",
+   "firstQueuedAtMs": 1795442400000,
+   "playedAtMs": 1795442400000
+  },
+  {
+   "key": "https://www.minnpost.com/?p=2243868",
+   "firstQueuedAtMs": 1795442400000,
+   "playedAtMs": 1795442400000
+  },
+  {
+   "key": "https://dev.to/ramdai_bista/the-best-ai-tools-for-vs-code-list-is-usually-out-of-date-heres-what-changed-466n",
+   "firstQueuedAtMs": 1795442400000,
+   "playedAtMs": 1795442400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/23/blacksmith-trains-apprentices-restore-1790s-new-orleans-ironwork/",
+   "firstQueuedAtMs": 1795442400000,
+   "playedAtMs": 1795442400000
+  },
+  {
+   "key": "https://thehill.com/?p=6234848",
+   "firstQueuedAtMs": 1795442400000,
+   "playedAtMs": 1795442400000
+  },
+  {
+   "key": "https://dev.to/kate_steeleeee/modular-monolith-in-python-boundaries-in-ci-with-import-linter-events-via-an-outbox-3ek1",
+   "firstQueuedAtMs": 1795442400000,
+   "playedAtMs": 1795442400000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315567",
+   "firstQueuedAtMs": 1795442400000,
+   "playedAtMs": 1795442400000
+  },
+  {
+   "key": "https://dev.to/michaelwilsonn/what-a-resume-parser-reads-from-a-cover-letter-pdf-586h",
+   "firstQueuedAtMs": 1795442400000,
+   "playedAtMs": 1795442400000
+  },
+  {
+   "key": "https://thehill.com/?p=6236742",
+   "firstQueuedAtMs": 1795442400000,
+   "playedAtMs": 1795442400000
+  },
+  {
+   "key": "https://dev.to/piqav/browser-based-tools-2jad",
+   "firstQueuedAtMs": 1795442400000,
+   "playedAtMs": 1795442400000
+  },
+  {
+   "key": "https://dev.to/wardterm/ssh-config-examples-12-blocks-ready-to-copy-4m48",
+   "firstQueuedAtMs": 1795442400000,
+   "playedAtMs": 1795442400000
+  },
+  {
+   "key": "https://www.kshb.com/business/company-news/jensen-huang-reinstated-as-nvidia-ceo",
+   "firstQueuedAtMs": 1795442400000,
+   "playedAtMs": 1795442400000
+  },
+  {
+   "key": "https://thehill.com/?p=6236748",
+   "firstQueuedAtMs": 1795442400000,
+   "playedAtMs": 1795442400000
+  },
+  {
+   "key": "https://dev.to/dingyi_jiang_98ccd26f2647/102-free-token-channels-plus-a-market-for-unused-api-keys-a1d",
+   "firstQueuedAtMs": 1795442400000,
+   "playedAtMs": 1795442400000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1106604",
+   "firstQueuedAtMs": 1795442400000,
+   "playedAtMs": 1795442400000
+  },
+  {
+   "key": "https://dev.to/wardterm/linux-server-security-checklist-12-steps-for-a-new-vps-3n95",
+   "firstQueuedAtMs": 1795442400000,
+   "playedAtMs": 1795442400000
+  },
+  {
+   "key": "https://dev.to/cloudhike/let-your-ai-agent-explore-your-data-safely-read-only-sql-approved-writes-an-audit-log-and-4m5o",
+   "firstQueuedAtMs": 1795442400000,
+   "playedAtMs": 1795442400000
+  },
+  {
+   "key": "de837425-da77-49e2-baff-dbc9d5efa2d8",
+   "firstQueuedAtMs": 1795442400000,
+   "playedAtMs": 1795442400000
+  },
+  {
+   "key": "74506922",
+   "firstQueuedAtMs": 1795442400000,
+   "playedAtMs": 1795442400000
+  },
+  {
+   "key": "https://dev.to/wardterm/ssh-commands-cheat-sheet-connect-keys-files-tunnels-and-debug-1dj",
+   "firstQueuedAtMs": 1795442400000,
+   "playedAtMs": 1795442400000
   }
  ]
 }
