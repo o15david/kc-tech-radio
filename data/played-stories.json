@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T20:50:21.937Z",
- "lastSyncBucket": 997480,
- "lastSyncCarryInSeconds": 7,
+ "updatedAt": "2026-11-23T21:05:09.302Z",
+ "lastSyncBucket": 997481,
+ "lastSyncCarryInSeconds": 15,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -11794,6 +11794,216 @@
    "key": "https://www.kctv5.com/2026/11/23/missouri-governor-state-leaders-prepare-planned-army-detonation-lead-azide-iowa/",
    "firstQueuedAtMs": 1795464000000,
    "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://www.kshb.com/politics/immigration/ice-airport-arrests-spark-outrage-during-busy-holiday-travel-week",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/23/missouri-this-couple-will-be-last-family-farm-land/",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "https://thehill.com/?p=6238068",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "https://www.engadget.com/2320290/discontinued-airtags-still-serve-purpose/",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "https://nautil.us/?p=1286972",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "https://www.engadget.com/2325828/new-leaks-reveal-the-iphone-18e-will-have-a-redesigned-camera-plateau/",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1040699",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "https://news.mit.edu/2026/j-pal-north-america-launches-medicaid-learning-lab-1123",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "TOZ3BTKIJH8O00",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "news714661177",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "https://www.engadget.com/2325800/gta-6-player-gets-social-ban-on-psn-after-sending-a-photo-of-in-game-nudity/",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "TOZ1K6T96OSJ00",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/23/g-s1-155085/holidays-relationships-politics-dispute",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "news714658682",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "WP-MKTW-0005365305",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43242",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/missouri/jackson-county/rare-original-printing-of-the-us-constitution-on-display-at-national-wwi-museum",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191548",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315580",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "https://www.inc.com/lucia-auerbach/nvidia-hiring-first-compliance-chief-can-anyone-tell-jensen-huang-no/91441260",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "https://www.inc.com/nick-hobson/the-uncomfortable-truth-behind-nvidias-11-day-reinstatement-of-jensen-huang/91441656",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4419619",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "TOYZPBT3BZMX00",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "https://www.inc.com/daniel-robbins/how-a-reality-tv-star-built-an-8-figure-brand-without-spending-a-dime-on-inventory/91438394",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4419868",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "df8d1b89-6277-498e-8460-bb6a4c719239",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "news714666241",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "news714665632",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "https://fortune.com/?p=4649093&showAdminBar=true",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/us/politics/bob-woodward-book-secrets.html",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/23/arkansas-bills-would-raise-minimum-wage-15-an-hour/",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "https://fortune.com/?p=4649042&showAdminBar=true",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/23/child-recovering-after-being-run-over-by-train-zoo/",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "news714665701",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "https://www.inc.com/john-sachse/employees-quit-work-life-balance/91441422",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311748",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/23/scott-colom-mississippi-election-voting-rights-fallout",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
+  },
+  {
+   "key": "https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/",
+   "firstQueuedAtMs": 1795465800000,
+   "playedAtMs": 1795465800000
   }
  ]
 }
