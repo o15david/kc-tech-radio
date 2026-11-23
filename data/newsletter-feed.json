@@ -1,7 +1,159 @@
 {
-  "generatedAt": "2026-11-22T13:37:35.150Z",
+  "generatedAt": "2026-11-23T12:43:18.127Z",
   "source": "kc-tech-radio newsletter processor",
   "items": [
+    {
+      "id": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.tines.com%2F3b%3Futm_source=tldr%26utm_medium=paid_media%26utm_content=newsletter-primary-nov-23-26%26utm_term=3b-practitioner/2/010001a2083df05a-db6d8f2d-4f39-4c22-b3e7-95282ba1a0f7-000000/94L9xtPTh2Ap7y_rcTG_C-nz95V2fSlBg2ptZrA6aoo=452",
+      "title": "TLDR 2026-11-23",
+      "link": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.tines.com%2F3b%3Futm_source=tldr%26utm_medium=paid_media%26utm_content=newsletter-primary-nov-23-26%26utm_term=3b-practitioner/2/010001a2083df05a-db6d8f2d-4f39-4c22-b3e7-95282ba1a0f7-000000/94L9xtPTh2Ap7y_rcTG_C-nz95V2fSlBg2ptZrA6aoo=452",
+      "summary": "",
+      "source": "TLDR Tech",
+      "publishedAt": 1795434606000
+    },
+    {
+      "id": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FRmvR1X/1/010001a2083df05a-db6d8f2d-4f39-4c22-b3e7-95282ba1a0f7-000000/agBrI9mM184zI2mVlRQ83Ru-pqNPMDyks19XKq3kGsw=452",
+      "title": "Big Tech & Startups",
+      "link": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FRmvR1X/1/010001a2083df05a-db6d8f2d-4f39-4c22-b3e7-95282ba1a0f7-000000/agBrI9mM184zI2mVlRQ83Ru-pqNPMDyks19XKq3kGsw=452",
+      "summary": "",
+      "source": "TLDR Tech",
+      "publishedAt": 1795434606000
+    },
+    {
+      "id": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnew.life.com%2Fstories-details%2Fneuralink-noland-arbaugh-cover-story%3Futm_source=tldrnewsletter/1/010001a2083df05a-db6d8f2d-4f39-4c22-b3e7-95282ba1a0f7-000000/gt3IDujh7jvDgqlqLMUfWeqIKKIAnxXsmvzaPMTXksg=452",
+      "title": "Science & Futuristic Technology",
+      "link": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnew.life.com%2Fstories-details%2Fneuralink-noland-arbaugh-cover-story%3Futm_source=tldrnewsletter/1/010001a2083df05a-db6d8f2d-4f39-4c22-b3e7-95282ba1a0f7-000000/gt3IDujh7jvDgqlqLMUfWeqIKKIAnxXsmvzaPMTXksg=452",
+      "summary": "",
+      "source": "TLDR Tech",
+      "publishedAt": 1795434606000
+    },
+    {
+      "id": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.zendesk.com%3Futm_medium=display%26utm_source=tldr%26utm_campaign=DI_TLDR_AM_US_EN_A_Sup_BrandAwareness_Newsletter-Contextual-Sitevisit-ALL-ICP-Industry-BrandCampaign2026BrandAwareness-NonGated_T3_A_H_FY27Q4/1/010001a2083df05a-db6d8f2d-4f39-4c22-b3e7-95282ba1a0f7-000000/HXjwrwihrkZYIV8A95gdlEHrHwf2P4pPgaFMAb4kgVk=452",
+      "title": "Programming, Design & Data Science",
+      "link": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.zendesk.com%3Futm_medium=display%26utm_source=tldr%26utm_campaign=DI_TLDR_AM_US_EN_A_Sup_BrandAwareness_Newsletter-Contextual-Sitevisit-ALL-ICP-Industry-BrandCampaign2026BrandAwareness-NonGated_T3_A_H_FY27Q4/1/010001a2083df05a-db6d8f2d-4f39-4c22-b3e7-95282ba1a0f7-000000/HXjwrwihrkZYIV8A95gdlEHrHwf2P4pPgaFMAb4kgVk=452",
+      "summary": "",
+      "source": "TLDR Tech",
+      "publishedAt": 1795434606000
+    },
+    {
+      "id": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcommunity.tldr.tech%2Ft%2Fweekly-what-s-your-unpopular-opinion-about-ai%3Futm_source=tldrnewsletter/1/010001a2083df05a-db6d8f2d-4f39-4c22-b3e7-95282ba1a0f7-000000/gDeMTpEhr4QiArP1TcYKhMjZJ1vMFA7GmOV5onM8WhE=452",
+      "title": "Miscellaneous",
+      "link": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcommunity.tldr.tech%2Ft%2Fweekly-what-s-your-unpopular-opinion-about-ai%3Futm_source=tldrnewsletter/1/010001a2083df05a-db6d8f2d-4f39-4c22-b3e7-95282ba1a0f7-000000/gDeMTpEhr4QiArP1TcYKhMjZJ1vMFA7GmOV5onM8WhE=452",
+      "summary": "",
+      "source": "TLDR Tech",
+      "publishedAt": 1795434606000
+    },
+    {
+      "id": "https://thehustle.co/e3t/Ctc/UB+113/d2q-Vf04/VWc6sg1tLkVzN6zF7CpxysYXW3_3yVc5XJYtnN6rgBpn2-ZW0W5BW0B06lZ3nSN2Ffb29kppjKN8nTK4ZwRVd6W7lBNLB99tNJsW5fsMqq7L8Q-_N6Hz3mWcrMz0W5Js1K32cq0tBN7n9LsWd6kc7N3N8FhcclLkdW9jym0K5WPG56W8Q1zVp2M3khTN6cFJ0BCyK-JW7rwxX15g2Lx4W6zbRr-7YcLcmV7WNCX2hqGT9W6_W25R1sRPwMW2PRfrs6KTtHxW4n6xR262hSqhN3Ckl1RKnXmmf5ryrD604",
+      "title": "A little help?",
+      "link": "https://thehustle.co/e3t/Ctc/UB+113/d2q-Vf04/VWc6sg1tLkVzN6zF7CpxysYXW3_3yVc5XJYtnN6rgBpn2-ZW0W5BW0B06lZ3nSN2Ffb29kppjKN8nTK4ZwRVd6W7lBNLB99tNJsW5fsMqq7L8Q-_N6Hz3mWcrMz0W5Js1K32cq0tBN7n9LsWd6kc7N3N8FhcclLkdW9jym0K5WPG56W8Q1zVp2M3khTN6cFJ0BCyK-JW7rwxX15g2Lx4W6zbRr-7YcLcmV7WNCX2hqGT9W6_W25R1sRPwMW2PRfrs6KTtHxW4n6xR262hSqhN3Ckl1RKnXmmf5ryrD604",
+      "summary": "",
+      "source": "The Hustle",
+      "publishedAt": 1795434395000
+    },
+    {
+      "id": "https://thehustle.co/e3t/Ctc/UB+113/d2q-Vf04/VWc6sg1tLkVzN6zF7CpxysYXW3_3yVc5XJYtnN6rgBqT2-ZW0W8wLKSR6lZ3kZW1XXWqQ8QcpHnW8FDpl773W168W65CY6x2kZ8jgW4BqbbH1WXYXYW6gclQ-2cgKDGN90J4yPj9gC7VzVk8q8QvWymW2Wc-3_7_NVj4V3qGTD5HWl8jW1Tjykb8sdj58W3NkB1N9l37zxW67LY9N2msVK-W5Lm1tX3dqHTrN92ZSr45N0sJW5zw58y45JxQwV2CyWf2lNlbMN25-MCb6d27JW2bGrgL3M18-rW2tFvC867QkWyW6FjPKm23hDq5W1tK6Xn4yps8mW3dttmH99bc3DVnHQJZ959jy8W8TZ-MF7nbxFDW2cvMX77t3HxHW3hSbzb6ls-zxW78sQ087trtDkW70gf-Q5hD8X7f8PPhMH04",
+      "title": "MORE NEWS TO KNOW",
+      "link": "https://thehustle.co/e3t/Ctc/UB+113/d2q-Vf04/VWc6sg1tLkVzN6zF7CpxysYXW3_3yVc5XJYtnN6rgBqT2-ZW0W8wLKSR6lZ3kZW1XXWqQ8QcpHnW8FDpl773W168W65CY6x2kZ8jgW4BqbbH1WXYXYW6gclQ-2cgKDGN90J4yPj9gC7VzVk8q8QvWymW2Wc-3_7_NVj4V3qGTD5HWl8jW1Tjykb8sdj58W3NkB1N9l37zxW67LY9N2msVK-W5Lm1tX3dqHTrN92ZSr45N0sJW5zw58y45JxQwV2CyWf2lNlbMN25-MCb6d27JW2bGrgL3M18-rW2tFvC867QkWyW6FjPKm23hDq5W1tK6Xn4yps8mW3dttmH99bc3DVnHQJZ959jy8W8TZ-MF7nbxFDW2cvMX77t3HxHW3hSbzb6ls-zxW78sQ087trtDkW70gf-Q5hD8X7f8PPhMH04",
+      "summary": "",
+      "source": "The Hustle",
+      "publishedAt": 1795434395000
+    },
+    {
+      "id": "https://thehustle.co/e3t/Ctc/UB+113/d2q-Vf04/VWc6sg1tLkVzN6zF7CpxysYXW3_3yVc5XJYtnN6rgBqT3qgz0W8wLKSR6lZ3mSVBxGN-50zsDSN7w7zGjbZFvGW2dlGDT4BDfQkW8l8kN187cVm3W197Qxj2cZhJhN7jz2Lqw_v5XW4l2rpl3xhQQcVLNv181BZgz-W5CyXqk71YY21W9kNqRz5M0KDjW63K1vK12FGklW392QCK8XN0jRN7s1tzJhfyDsW84T1YV5ZfcSyN86Td812qYWqVs3tKL8K_n0tW69znRm3lHKrtW3mKB382LHY6rW4SXhxP8Gw3PgN3D_M4Cb4TX1W4MmqQz7nPS2VW7DGz1l52bS6RW4tl6nb64X9ytW1njnZj2ywDCwN5XjQQypWJVpN2-P7WyRHqDJW2ldC_q7vXwY8W79W9FF2wX4lxdpGl6x04",
+      "title": "COMEBACK STORIES",
+      "link": "https://thehustle.co/e3t/Ctc/UB+113/d2q-Vf04/VWc6sg1tLkVzN6zF7CpxysYXW3_3yVc5XJYtnN6rgBqT3qgz0W8wLKSR6lZ3mSVBxGN-50zsDSN7w7zGjbZFvGW2dlGDT4BDfQkW8l8kN187cVm3W197Qxj2cZhJhN7jz2Lqw_v5XW4l2rpl3xhQQcVLNv181BZgz-W5CyXqk71YY21W9kNqRz5M0KDjW63K1vK12FGklW392QCK8XN0jRN7s1tzJhfyDsW84T1YV5ZfcSyN86Td812qYWqVs3tKL8K_n0tW69znRm3lHKrtW3mKB382LHY6rW4SXhxP8Gw3PgN3D_M4Cb4TX1W4MmqQz7nPS2VW7DGz1l52bS6RW4tl6nb64X9ytW1njnZj2ywDCwN5XjQQypWJVpN2-P7WyRHqDJW2ldC_q7vXwY8W79W9FF2wX4lxdpGl6x04",
+      "summary": "The greatest comebacks in corporate history",
+      "source": "The Hustle",
+      "publishedAt": 1795434395000
+    },
+    {
+      "id": "https://thehustle.co/e3t/Ctc/UB+113/d2q-Vf04/VWc6sg1tLkVzN6zF7CpxysYXW3_3yVc5XJYtnN6rgBqg2-ZW0W7lCdLW6lZ3nzW8FfDGh7wrpWhW66hq8N43F89nW9gdtMp5wZNhWW1HxRKL5CZK7YW1Kh-tz58n_9wW55KDCD3SBKbjVkr82F3J1C_-N6FPl4dT2wCXW2R_GrR3hwVwcW7xRb5628FrQWW21hYqb6m86PjN96_451VC5GKW9jGcjR21G469W6D_f0X2khP-3W6Wf6y97bdJMtW6YWBQ_59Wb7GW7-j81v6_YWVYW8JM1Vs8v9FB2N96RxLtJ2MbxW1zFR3m7wdz-BN382zSkHM6qxW4Jcs6Y4bFJjXW46hPf69jFF9GW6DW2ZV4gHVnqf3P-JCR04",
+      "title": "THE BIG IDEA",
+      "link": "https://thehustle.co/e3t/Ctc/UB+113/d2q-Vf04/VWc6sg1tLkVzN6zF7CpxysYXW3_3yVc5XJYtnN6rgBqg2-ZW0W7lCdLW6lZ3nzW8FfDGh7wrpWhW66hq8N43F89nW9gdtMp5wZNhWW1HxRKL5CZK7YW1Kh-tz58n_9wW55KDCD3SBKbjVkr82F3J1C_-N6FPl4dT2wCXW2R_GrR3hwVwcW7xRb5628FrQWW21hYqb6m86PjN96_451VC5GKW9jGcjR21G469W6D_f0X2khP-3W6Wf6y97bdJMtW6YWBQ_59Wb7GW7-j81v6_YWVYW8JM1Vs8v9FB2N96RxLtJ2MbxW1zFR3m7wdz-BN382zSkHM6qxW4Jcs6Y4bFJjXW46hPf69jFF9GW6DW2ZV4gHVnqf3P-JCR04",
+      "summary": "Nothing left over: 3D weaving is the future of fashion",
+      "source": "The Hustle",
+      "publishedAt": 1795434395000
+    },
+    {
+      "id": "https://thehustle.co/e3t/Ctc/UB+113/d2q-Vf04/VWc6sg1tLkVzN6zF7CpxysYXW3_3yVc5XJYtnN6rgBpn2-ZW0W5BW0B06lZ3mvW6gD9g566CBXxW4QGDn81VN61dW8qrpfj52nqLZW85fkFp6V0M0gMpBGnjMfWgfVRmwZ57XXpWkW3Hz89s5F-HjDW5mHMYc6PxZZCW2tN4Nh8k0w_HW5CV_C43MLv1CW17gNbq37PVHPW8d9nmj2R30jSW5rq8gp3cCtR8W90Vh_M78WHnGW56cbD91vRd31MTk2p6dHSxYVkhJmY1nY632N7ZC1CTGm7nbf6hxsNP04",
+      "title": "HIGHLY RECOMMENDED",
+      "link": "https://thehustle.co/e3t/Ctc/UB+113/d2q-Vf04/VWc6sg1tLkVzN6zF7CpxysYXW3_3yVc5XJYtnN6rgBpn2-ZW0W5BW0B06lZ3mvW6gD9g566CBXxW4QGDn81VN61dW8qrpfj52nqLZW85fkFp6V0M0gMpBGnjMfWgfVRmwZ57XXpWkW3Hz89s5F-HjDW5mHMYc6PxZZCW2tN4Nh8k0w_HW5CV_C43MLv1CW17gNbq37PVHPW8d9nmj2R30jSW5rq8gp3cCtR8W90Vh_M78WHnGW56cbD91vRd31MTk2p6dHSxYVkhJmY1nY632N7ZC1CTGm7nbf6hxsNP04",
+      "summary": "",
+      "source": "The Hustle",
+      "publishedAt": 1795434395000
+    },
+    {
+      "id": "https://thehustle.co/e3t/Ctc/UB+113/d2q-Vf04/VWc6sg1tLkVzN6zF7CpxysYXW3_3yVc5XJYtnN6rgBp-2-ZW0W6N1vHY6lZ3mjW8b5SvM1CJ1KhW93hjbM2Ch0TvVBq7B03RC0_lW5NF1pG43LQvmW2B22nW82gXVTW31XxN28rYg1XW4tcl6Y4k_Dm8W3qbG0r6rcfR-W3HQH-J4cypHXW7lcn-n3rg98hW4nf04b2WP6YzN46_wFMrCGDSW9hlblP4SkYF0MK64Wr5z4lhW5f2HJz6ckrW9T65L26jCmF5W1nGqvN6f_KQNW5kY6M-8l2YpNVT3TFM5ZQKwBW6-LH2d8k-sC3W6qZDvC76yJqxW5QGCgL8N7QP3f5L-3Ys04",
+      "title": "NEWSWORTHY NUMBER",
+      "link": "https://thehustle.co/e3t/Ctc/UB+113/d2q-Vf04/VWc6sg1tLkVzN6zF7CpxysYXW3_3yVc5XJYtnN6rgBp-2-ZW0W6N1vHY6lZ3mjW8b5SvM1CJ1KhW93hjbM2Ch0TvVBq7B03RC0_lW5NF1pG43LQvmW2B22nW82gXVTW31XxN28rYg1XW4tcl6Y4k_Dm8W3qbG0r6rcfR-W3HQH-J4cypHXW7lcn-n3rg98hW4nf04b2WP6YzN46_wFMrCGDSW9hlblP4SkYF0MK64Wr5z4lhW5f2HJz6ckrW9T65L26jCmF5W1nGqvN6f_KQNW5kY6M-8l2YpNVT3TFM5ZQKwBW6-LH2d8k-sC3W6qZDvC76yJqxW5QGCgL8N7QP3f5L-3Ys04",
+      "summary": "Share of Anthropic employees, representing ~5.1k of 5.3k staffers, who are now millionaires following the AI company’s historic IPO on Thursday, which briefly valued it at $2T+ — a milestone it achieved in just under six years. Of those 5.1k, ~50% now have equity holdings of…",
+      "source": "The Hustle",
+      "publishedAt": 1795434395000
+    },
+    {
+      "id": "https://thehustle.co/e3t/Ctc/UB+113/d2q-Vf04/VWc6sg1tLkVzN6zF7CpxysYXW3_3yVc5XJYtnN6rgBpn2-ZW0W5BW0B06lZ3mjW1HtNGz8xvvbCW51wZ7j7JJ1W3N5BmWdm23Nm7N4NwSyHmn_FJN4XFSQ44HlRtW4yLC2n3zD8ltW9h6Qv560wVT3W1qk1Wq4l-pQPW5rGVkV1LRWLDW5Lq_GK8bNX1RVWGqRy4KWgx8W7rtlFG55cb_dN8hyWgK9k0KxW1QnPfs84V-hCW7TcjHl1JjNzwW7bfS5r2xsJcSW6wd0dJ6FpKdlMhs_jKgjFNPf6Wv_Yj04",
+      "title": "AROUND THE WEB",
+      "link": "https://thehustle.co/e3t/Ctc/UB+113/d2q-Vf04/VWc6sg1tLkVzN6zF7CpxysYXW3_3yVc5XJYtnN6rgBpn2-ZW0W5BW0B06lZ3mjW1HtNGz8xvvbCW51wZ7j7JJ1W3N5BmWdm23Nm7N4NwSyHmn_FJN4XFSQ44HlRtW4yLC2n3zD8ltW9h6Qv560wVT3W1qk1Wq4l-pQPW5rGVkV1LRWLDW5Lq_GK8bNX1RVWGqRy4KWgx8W7rtlFG55cb_dN8hyWgK9k0KxW1QnPfs84V-hCW7TcjHl1JjNzwW7bfS5r2xsJcSW6wd0dJ6FpKdlMhs_jKgjFNPf6Wv_Yj04",
+      "summary": "📅 On this day: In 1963, the first episode of “ Doctor Who ,” the world’s longest-running sci-fi show, aired.",
+      "source": "The Hustle",
+      "publishedAt": 1795434395000
+    },
+    {
+      "id": "https://link.mail.beehiiv.com/ss/c/u001.dSnm3kaGd0BkNqLYPjeMf_DKThdpaPaB9_aROy42m3-QkrpXFAupeHADtSyezHztzSRqfdI5KA69nA7xk0zTSXEmevCz9Jn_3XGqFo9_wa9heqdjYA7koSefo0645oHtZUTxAXvsPPxgCxH7dLfyFF4gVjtvcYQQohLTl-mivTC3D3QMh5Ts57VmBRmbuc0zavzhCl0k-J_B5ogpVji_QySQLUnjVSEIAiHfoUdLbIA/4vz/JmpM8lmnTUyIN_KRAPNY-A/h27/h001.AAD30RxCaoSotFaw_OxjXe4ZPa2Ogq_Ir03X9I0TFKQ",
+      "title": "🛠️ Trending AI Tools",
+      "link": "https://link.mail.beehiiv.com/ss/c/u001.dSnm3kaGd0BkNqLYPjeMf_DKThdpaPaB9_aROy42m3-QkrpXFAupeHADtSyezHztzSRqfdI5KA69nA7xk0zTSXEmevCz9Jn_3XGqFo9_wa9heqdjYA7koSefo0645oHtZUTxAXvsPPxgCxH7dLfyFF4gVjtvcYQQohLTl-mivTC3D3QMh5Ts57VmBRmbuc0zavzhCl0k-J_B5ogpVji_QySQLUnjVSEIAiHfoUdLbIA/4vz/JmpM8lmnTUyIN_KRAPNY-A/h27/h001.AAD30RxCaoSotFaw_OxjXe4ZPa2Ogq_Ir03X9I0TFKQ",
+      "summary": "🤖 Switch Buddy - Free and self-hosted. Turn your AI agents into teammates that work in your tools (GitHub, Jira, Datadog & more)*",
+      "source": "The Rundown AI",
+      "publishedAt": 1795432063000
+    },
+    {
+      "id": "https://link.mail.beehiiv.com/ss/c/u001.dSnm3kaGd0BkNqLYPjeMf0gyeM8tESkQ4qmvKtcxeZ9Sf8FWzyiEWE10HHsJrV5cblVac8sPVuUw3gneLIw3rtqW6_4IEyEyGCvBdTH6tfKtx4hRcRZzrew8RfHWk9lJYhE7qhWf23ISlzVNOGbSJibZYj2IFmIMbBK8ka_gcCLzj0dQ3zvvN5xyxTF2QlHKUt0kH_uMS4yGXhXNXzKHRM-nARH2ucowCuv3PG82Sys/4vz/JmpM8lmnTUyIN_KRAPNY-A/h32/h001.QzQYZ99cFvk7fFtNhUcBsCtOcb_OqkAaL1TKfjFyMbA",
+      "title": "📰 Everything else in AI today",
+      "link": "https://link.mail.beehiiv.com/ss/c/u001.dSnm3kaGd0BkNqLYPjeMf0gyeM8tESkQ4qmvKtcxeZ9Sf8FWzyiEWE10HHsJrV5cblVac8sPVuUw3gneLIw3rtqW6_4IEyEyGCvBdTH6tfKtx4hRcRZzrew8RfHWk9lJYhE7qhWf23ISlzVNOGbSJibZYj2IFmIMbBK8ka_gcCLzj0dQ3zvvN5xyxTF2QlHKUt0kH_uMS4yGXhXNXzKHRM-nARH2ucowCuv3PG82Sys/4vz/JmpM8lmnTUyIN_KRAPNY-A/h32/h001.QzQYZ99cFvk7fFtNhUcBsCtOcb_OqkAaL1TKfjFyMbA",
+      "summary": "Jira gives your agents the context they need to ship code, starting with your spec and decisions. Manage the swarm and keep the receipts. Learn more at jira.dev .*",
+      "source": "The Rundown AI",
+      "publishedAt": 1795432063000
+    },
+    {
+      "id": "https://link.mail.beehiiv.com/ss/c/u001.Q334NVcZU4O6L6VKRz8ijB1TBWraWSjSa1EgItxTfJGLIvJAG36TdoN_RcL5Qcb4l-TTKJ7kJ40VnFns1HNbTrS7dbLgPHI8dLrwXl8iOfb2ljYNEeE0q2TWET6YxEhgc6wA30v1AH50GDP_JrWdpZrYXwZd-0pUADEHB5Ux9MAFseGmQ8AVw14ufwWyXy1in-tTjPV_Ocq_ekfzqDsiCH_YftSMK3dijFMPXXyOh8g/4vz/JmpM8lmnTUyIN_KRAPNY-A/h38/h001.4Sb3jzLBLg1qYqOl2DS-yEM-uWBsuUQWSTHLSDs0WFU",
+      "title": "🎓 Highlights: News, Guides & Events",
+      "link": "https://link.mail.beehiiv.com/ss/c/u001.Q334NVcZU4O6L6VKRz8ijB1TBWraWSjSa1EgItxTfJGLIvJAG36TdoN_RcL5Qcb4l-TTKJ7kJ40VnFns1HNbTrS7dbLgPHI8dLrwXl8iOfb2ljYNEeE0q2TWET6YxEhgc6wA30v1AH50GDP_JrWdpZrYXwZd-0pUADEHB5Ux9MAFseGmQ8AVw14ufwWyXy1in-tTjPV_Ocq_ekfzqDsiCH_YftSMK3dijFMPXXyOh8g/4vz/JmpM8lmnTUyIN_KRAPNY-A/h38/h001.4Sb3jzLBLg1qYqOl2DS-yEM-uWBsuUQWSTHLSDs0WFU",
+      "summary": "Read our last AI newsletter: Anthropic pulls off the biggest IPO ever",
+      "source": "The Rundown AI",
+      "publishedAt": 1795432063000
+    },
+    {
+      "id": "https://link.mail.beehiiv.com/ss/c/u001.KT4rQsO6sHS_v2VASG2xupywTByilB7vBf1gbeXMnd8Hof3Ca4zliYIk5t4pKnVtdKtfjcRsdlABoWM1f2xRqbFtEoijeNFSOo3EBbFrZB1XKqphW1kM9RnumyVI2_CuOmz8zLiYB5dWao-VuirZlms-6Wdbl7cE3LjWXCKHxYUdrS6T7uZ1tMkwid2XnO5_grBw72fz4m-D-9KV-0CYb11PHYaIDE6G9P57syzVhnVrbw60a5S6FcihsZY7omWO7mfFZDKz1E8iXXbLWKPs2nokJZQiZJ_fpwl4UHHdAwEZMGoXmp8GsyDu9IYGwrPDelWfUFmhDr65m1TYpb27AY2ml-7nOuKZsD2XIwbRZ4GIcn-T_EVXK80qJBrj_o3kbjPz8oXvYW4KvEEAr7NdhriNGCb-KZilHcbMQBe6AwfLUbbK4BJzmNy2Seg0q0SOGR8KPAFw5f3dID-Nmtd8vyLrpmDAI4llBXkCrd8UBPSG9ctzn7XL61WPOgluljZ_Y-fa_MHVPrTLaL_d9aoaJhkr9hiNwCtg8E3AaRkoU-DL8aEHW0Nljbf82YFJgQrFD9vgziYOaW8vSYFfmg6xUWNUhhx8q05OfxXGWb9BVDP0zhvNRoqSP4r1rrXhu8g-MJY1_U-crHdP1Xk6_l91839ybe-7-xbylzTJ_WR9I2nuYTJRUlkov4q0MHnUQifkX7NL2SJcH2Yf_MYxO7FkqeZmGmL7LlLWKnimOgwitHE617j1Zn0Psb2_vCMscoR8UcB3ONpmEUarmOc89wrTfXvQtxY0ZKgh4HsR9CWssvQfQh24_j5qEBYlEFIQ-benZxDowLa0S8zouVKF4fIEr1mRUe0blVFS84301ajsvnAnhNRovM0EclkXlDbuno6EvujSJR2QUDp0z4W6RBNAsBQMHD_dwuIO_ZdpV3sfIchUM9hFiRaIK1RPf25jlcHs2XpYkjufzMZ6cKpiUJg9RBqZrxeJskMoRX5K8am89MRGHNOlkBQaetr8wsJkBce1lokj9-Qv9n7F_Mu6PTQ7hQ/4vz/JmpM8lmnTUyIN_KRAPNY-A/h44/h001.AjOybBGjOm8Gy26_mgwyNGcuA4B14G45GvqyeYDfzDA",
+      "title": "That's it for today!",
+      "link": "https://link.mail.beehiiv.com/ss/c/u001.KT4rQsO6sHS_v2VASG2xupywTByilB7vBf1gbeXMnd8Hof3Ca4zliYIk5t4pKnVtdKtfjcRsdlABoWM1f2xRqbFtEoijeNFSOo3EBbFrZB1XKqphW1kM9RnumyVI2_CuOmz8zLiYB5dWao-VuirZlms-6Wdbl7cE3LjWXCKHxYUdrS6T7uZ1tMkwid2XnO5_grBw72fz4m-D-9KV-0CYb11PHYaIDE6G9P57syzVhnVrbw60a5S6FcihsZY7omWO7mfFZDKz1E8iXXbLWKPs2nokJZQiZJ_fpwl4UHHdAwEZMGoXmp8GsyDu9IYGwrPDelWfUFmhDr65m1TYpb27AY2ml-7nOuKZsD2XIwbRZ4GIcn-T_EVXK80qJBrj_o3kbjPz8oXvYW4KvEEAr7NdhriNGCb-KZilHcbMQBe6AwfLUbbK4BJzmNy2Seg0q0SOGR8KPAFw5f3dID-Nmtd8vyLrpmDAI4llBXkCrd8UBPSG9ctzn7XL61WPOgluljZ_Y-fa_MHVPrTLaL_d9aoaJhkr9hiNwCtg8E3AaRkoU-DL8aEHW0Nljbf82YFJgQrFD9vgziYOaW8vSYFfmg6xUWNUhhx8q05OfxXGWb9BVDP0zhvNRoqSP4r1rrXhu8g-MJY1_U-crHdP1Xk6_l91839ybe-7-xbylzTJ_WR9I2nuYTJRUlkov4q0MHnUQifkX7NL2SJcH2Yf_MYxO7FkqeZmGmL7LlLWKnimOgwitHE617j1Zn0Psb2_vCMscoR8UcB3ONpmEUarmOc89wrTfXvQtxY0ZKgh4HsR9CWssvQfQh24_j5qEBYlEFIQ-benZxDowLa0S8zouVKF4fIEr1mRUe0blVFS84301ajsvnAnhNRovM0EclkXlDbuno6EvujSJR2QUDp0z4W6RBNAsBQMHD_dwuIO_ZdpV3sfIchUM9hFiRaIK1RPf25jlcHs2XpYkjufzMZ6cKpiUJg9RBqZrxeJskMoRX5K8am89MRGHNOlkBQaetr8wsJkBce1lokj9-Qv9n7F_Mu6PTQ7hQ/4vz/JmpM8lmnTUyIN_KRAPNY-A/h44/h001.AjOybBGjOm8Gy26_mgwyNGcuA4B14G45GvqyeYDfzDA",
+      "summary": "Before you go we’d love to know what you thought of today's newsletter to help us improve The Rundown experience for you.",
+      "source": "The Rundown AI",
+      "publishedAt": 1795432063000
+    },
+    {
+      "id": "https://links.morningbrew.com/c/Zyu?mblid=2a9b06b73e3b&mbcid=48557708.3912223&mid=1e8203ce88986da9aabbf2faa16b5ab0&mbuuid=enwFAdGao8KESKxNukTu1EGE",
+      "title": "“Flashing a death cross”",
+      "link": "https://links.morningbrew.com/c/Zyu?mblid=2a9b06b73e3b&mbcid=48557708.3912223&mid=1e8203ce88986da9aabbf2faa16b5ab0&mbuuid=enwFAdGao8KESKxNukTu1EGE",
+      "summary": "That’s not a reference to gang activity in GTA VI . A death cross is a technical pattern in finance trends that can be “a warning sign for economic growth,” as Renaissance Macro put it. Currently, the Bloomberg Industrials Metal Index, which is 40% copper, is flashing one.",
+      "source": "Morning Brew",
+      "publishedAt": 1795429183000
+    },
+    {
+      "id": "https://links.morningbrew.com/c/ZyE?mblid=387e37bd52a9&mbcid=48557708.3912223&mid=1e8203ce88986da9aabbf2faa16b5ab0&mbuuid=enwFAdGao8KESKxNukTu1EGE",
+      "title": "Deepflake technology?",
+      "link": "https://links.morningbrew.com/c/ZyE?mblid=387e37bd52a9&mbcid=48557708.3912223&mid=1e8203ce88986da9aabbf2faa16b5ab0&mbuuid=enwFAdGao8KESKxNukTu1EGE",
+      "summary": "Maldon explained that it takes local seawater, filters it through the rock salt to create a brine, lets it evaporate, then hand-harvests the flakes left behind. And since the imported salt is from an ancient sea, it’s still technically 100% sea salt, even if the sea dried up in…",
+      "source": "Morning Brew",
+      "publishedAt": 1795429183000
+    },
+    {
+      "id": "https://links.morningbrew.com/c/II9?access_token=enwFAdGao8KESKxNukTu1EGE&mbcid=48557708.3912223&mid=1e8203ce88986da9aabbf2faa16b5ab0&mbuuid=enwFAdGao8KESKxNukTu1EGE",
+      "title": "Sequential trivia",
+      "link": "https://links.morningbrew.com/c/II9?access_token=enwFAdGao8KESKxNukTu1EGE&mbcid=48557708.3912223&mid=1e8203ce88986da9aabbf2faa16b5ab0&mbuuid=enwFAdGao8KESKxNukTu1EGE",
+      "summary": "Today, 11/23, is celebrated by mathematicians for displaying the start of a famous pattern that goes 1, 1, 2, 3, 5, 8, 13, 21…",
+      "source": "Morning Brew",
+      "publishedAt": 1795429183000
+    },
     {
       "id": "https://links.morningbrew.com/c/ZtL?mblid=c1f2bc91d7ae&mbcid=48539750.3878862&mid=1e8203ce88986da9aabbf2faa16b5ab0&mbuuid=enwFAdGao8KESKxNukTu1EGE",
       "title": "Here are some other recs we stand behind*",
@@ -249,158 +401,6 @@
       "summary": "📅 On this day: In 1923, 46-year-old inventor and newspaper publisher Garrett Morgan, the child of formerly enslaved people, received a patent for the three-position traffic light. He later sold his invention to General Electric for $40k (~$780k today).",
       "source": "The Hustle",
       "publishedAt": 1795175090000
-    },
-    {
-      "id": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fworkos.com%2Fauthkit%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=q42026%26utm_content=header_anthropic_cursor_granola%26utm_term=2026-11-20_tldr/2/010001a1f8c5d28a-99e2d10f-4a0d-492d-b424-6b7d830fad11-000000/B52sLGsdNBypfFepJHCvb7U74Zp5rKV2DfbedgpRYZw=452",
-      "title": "TLDR 2026-11-20",
-      "link": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fworkos.com%2Fauthkit%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=q42026%26utm_content=header_anthropic_cursor_granola%26utm_term=2026-11-20_tldr/2/010001a1f8c5d28a-99e2d10f-4a0d-492d-b424-6b7d830fad11-000000/B52sLGsdNBypfFepJHCvb7U74Zp5rKV2DfbedgpRYZw=452",
-      "summary": "",
-      "source": "TLDR Tech",
-      "publishedAt": 1795175076000
-    },
-    {
-      "id": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-11-19%2Fapple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding%3FaccessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTE1Mjg1OSwiZXhwIjoxNzk1NzU3NjU5LCJhcnRpY2xlSWQiOiJUT1I5MEtLSkg2VjUwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.DNgJTKuQu7QIBBw3KLL5QMx5EfNQt2XAf4UlPajQr2U%26utm_source=tldrnewsletter/1/010001a1f8c5d28a-99e2d10f-4a0d-492d-b424-6b7d830fad11-000000/8VAwHX_jXNKmnflWZ_oUimjV9mjQPwRxmmycim3is-g=452",
-      "title": "Big Tech & Startups",
-      "link": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-11-19%2Fapple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding%3FaccessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTE1Mjg1OSwiZXhwIjoxNzk1NzU3NjU5LCJhcnRpY2xlSWQiOiJUT1I5MEtLSkg2VjUwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.DNgJTKuQu7QIBBw3KLL5QMx5EfNQt2XAf4UlPajQr2U%26utm_source=tldrnewsletter/1/010001a1f8c5d28a-99e2d10f-4a0d-492d-b424-6b7d830fad11-000000/8VAwHX_jXNKmnflWZ_oUimjV9mjQPwRxmmycim3is-g=452",
-      "summary": "",
-      "source": "TLDR Tech",
-      "publishedAt": 1795175076000
-    },
-    {
-      "id": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fspace%2F2026%2F11%2Fgoogle-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains%2F%3Futm_source=tldrnewsletter/1/010001a1f8c5d28a-99e2d10f-4a0d-492d-b424-6b7d830fad11-000000/1YHuDZMahw8-UjjpFLcpR9wdvpiICMZw7Kwkmh5s-pc=452",
-      "title": "Science & Futuristic Technology",
-      "link": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fspace%2F2026%2F11%2Fgoogle-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains%2F%3Futm_source=tldrnewsletter/1/010001a1f8c5d28a-99e2d10f-4a0d-492d-b424-6b7d830fad11-000000/1YHuDZMahw8-UjjpFLcpR9wdvpiICMZw7Kwkmh5s-pc=452",
-      "summary": "",
-      "source": "TLDR Tech",
-      "publishedAt": 1795175076000
-    },
-    {
-      "id": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.zendesk.com%3Futm_medium=display%26utm_source=tldr%26utm_campaign=DI_TLDR_AM_US_EN_A_Sup_BrandAwareness_Newsletter-Contextual-Sitevisit-ALL-ICP-Industry-BrandCampaign2026BrandAwareness-NonGated_T3_A_H_FY27Q4/1/010001a1f8c5d28a-99e2d10f-4a0d-492d-b424-6b7d830fad11-000000/Unah4q3mXJ5wn7pehJ4HSZf88KzX_deH8Y78WH0cjwA=452",
-      "title": "Programming, Design & Data Science",
-      "link": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.zendesk.com%3Futm_medium=display%26utm_source=tldr%26utm_campaign=DI_TLDR_AM_US_EN_A_Sup_BrandAwareness_Newsletter-Contextual-Sitevisit-ALL-ICP-Industry-BrandCampaign2026BrandAwareness-NonGated_T3_A_H_FY27Q4/1/010001a1f8c5d28a-99e2d10f-4a0d-492d-b424-6b7d830fad11-000000/Unah4q3mXJ5wn7pehJ4HSZf88KzX_deH8Y78WH0cjwA=452",
-      "summary": "",
-      "source": "TLDR Tech",
-      "publishedAt": 1795175076000
-    },
-    {
-      "id": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fasteriskmag.substack.com%2Fp%2Fthe-most-important-number-in-ai%3Futm_source=tldrnewsletter/1/010001a1f8c5d28a-99e2d10f-4a0d-492d-b424-6b7d830fad11-000000/dg2j8_NnCbvFv2fFuNQu4iYSOR-a1f2BDRAwlpjYZtI=452",
-      "title": "Miscellaneous",
-      "link": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fasteriskmag.substack.com%2Fp%2Fthe-most-important-number-in-ai%3Futm_source=tldrnewsletter/1/010001a1f8c5d28a-99e2d10f-4a0d-492d-b424-6b7d830fad11-000000/dg2j8_NnCbvFv2fFuNQu4iYSOR-a1f2BDRAwlpjYZtI=452",
-      "summary": "",
-      "source": "TLDR Tech",
-      "publishedAt": 1795175076000
-    },
-    {
-      "id": "https://link.mail.beehiiv.com/ss/c/u001.dSnm3kaGd0BkNqLYPjeMf3AVUVhp-RTRjns5IRcQFRz5tBpw1Za1s_ylYF3emBnNoE4OOLlXWjyEsjTmeHnPTCI61PuHlM0J3CoeCbk5HyPP_nmnIe1viMO8Yhw0GM_Gu_1-X0w9r2ASxxrvkW59jHogBaHXp503P89dB6LCwgLhf4pIoI8rYHHzP--M1jrfMP_uyEcOKe2mgExadwLHqmWbSux9zqFOj95xlS3lLjHBCdDz9wJojrly8oASv2HnANRnj6wRgLglXlseJAhCKg/4vw/-02baW6hR9K7QJu4R7oU3w/h10/h001.WDMOivTA9kp2__2CKViThnU3kiErfov4g-XhO6PQO3c",
-      "title": "📊 Turn company data into decision-ready answers",
-      "link": "https://link.mail.beehiiv.com/ss/c/u001.dSnm3kaGd0BkNqLYPjeMf3AVUVhp-RTRjns5IRcQFRz5tBpw1Za1s_ylYF3emBnNoE4OOLlXWjyEsjTmeHnPTCI61PuHlM0J3CoeCbk5HyPP_nmnIe1viMO8Yhw0GM_Gu_1-X0w9r2ASxxrvkW59jHogBaHXp503P89dB6LCwgLhf4pIoI8rYHHzP--M1jrfMP_uyEcOKe2mgExadwLHqmWbSux9zqFOj95xlS3lLjHBCdDz9wJojrly8oASv2HnANRnj6wRgLglXlseJAhCKg/4vw/-02baW6hR9K7QJu4R7oU3w/h10/h001.WDMOivTA9kp2__2CKViThnU3kiErfov4g-XhO6PQO3c",
-      "summary": "The Rundown: AI answers are only useful when they’re grounded in trusted data and enterprise context. This eBook shows how Glean brings context to the warehouse and business intelligence tools you already use, helping teams scale self-service analytics without rebuilding their…",
-      "source": "The Rundown AI",
-      "publishedAt": 1795172894000
-    },
-    {
-      "id": "https://link.mail.beehiiv.com/ss/c/u001.BKH0F2yLXfXXfZz4rVL6MJ_hOOxe9o8Md6570qkx6GvH5g9mAlIr5PzhBbjJ5D3LzV0JDmfovtOeLZiPeiKlqoG8JcTIDfT7jWcAFi75HFNgsMaul_2zkl2qATO9__GyDMuv5KQdczBCQssVlOTHsH602DDKZL9pTJ_w-hDK8nFUK7dsCb6M1vmIP36cRFbPnTCuoNindsCXArhWqk3BvugZ-P80Z1-zySueG5SYMzYtP64865ewXo3VXAk4Vz0f8II3IRpKoi-SET3iPSpxAA/4vw/-02baW6hR9K7QJu4R7oU3w/h18/h001.F4pJKYR9MytG58l10uas799n5r2K-QdZ7B7OAWbpPwg",
-      "title": "♟️ Connect the dots. Know your next move.",
-      "link": "https://link.mail.beehiiv.com/ss/c/u001.BKH0F2yLXfXXfZz4rVL6MJ_hOOxe9o8Md6570qkx6GvH5g9mAlIr5PzhBbjJ5D3LzV0JDmfovtOeLZiPeiKlqoG8JcTIDfT7jWcAFi75HFNgsMaul_2zkl2qATO9__GyDMuv5KQdczBCQssVlOTHsH602DDKZL9pTJ_w-hDK8nFUK7dsCb6M1vmIP36cRFbPnTCuoNindsCXArhWqk3BvugZ-P80Z1-zySueG5SYMzYtP64865ewXo3VXAk4Vz0f8II3IRpKoi-SET3iPSpxAA/4vw/-02baW6hR9K7QJu4R7oU3w/h18/h001.F4pJKYR9MytG58l10uas799n5r2K-QdZ7B7OAWbpPwg",
-      "summary": "The Rundown: Memoket connects business conversations to help professionals track progress, spot changes, and plan their next steps. Its Gem wearable captures those conversations with one press. Get Gem for $159 this Black Friday and save $40.",
-      "source": "The Rundown AI",
-      "publishedAt": 1795172894000
-    },
-    {
-      "id": "https://link.mail.beehiiv.com/ss/c/u001.dSnm3kaGd0BkNqLYPjeMf_DKThdpaPaB9_aROy42m3-QkrpXFAupeHADtSyezHztzSRqfdI5KA69nA7xk0zTSXEmevCz9Jn_3XGqFo9_wa9heqdjYA7koSefo0645oHtZUTxAXvsPPxgCxH7dLfyFLUQqXZbpwuFW2_Ohpj4kDFDOMgotsJeyCXqqoWNi2gGbO3yX28ozhH0PB1ijgiyK-w4mHnoURECXSUf75ppo3E/4vw/-02baW6hR9K7QJu4R7oU3w/h27/h001.lAuO7IjjNGTlvjC7wndNiGUzbA4R_ci7UcMkW7J-lY0",
-      "title": "🛠️ Trending AI Tools",
-      "link": "https://link.mail.beehiiv.com/ss/c/u001.dSnm3kaGd0BkNqLYPjeMf_DKThdpaPaB9_aROy42m3-QkrpXFAupeHADtSyezHztzSRqfdI5KA69nA7xk0zTSXEmevCz9Jn_3XGqFo9_wa9heqdjYA7koSefo0645oHtZUTxAXvsPPxgCxH7dLfyFLUQqXZbpwuFW2_Ohpj4kDFDOMgotsJeyCXqqoWNi2gGbO3yX28ozhH0PB1ijgiyK-w4mHnoURECXSUf75ppo3E/4vw/-02baW6hR9K7QJu4R7oU3w/h27/h001.lAuO7IjjNGTlvjC7wndNiGUzbA4R_ci7UcMkW7J-lY0",
-      "summary": "⚡ Teleport Beams - Trusted runtimes for agents, access to your infra without secrets, your inference and harness*",
-      "source": "The Rundown AI",
-      "publishedAt": 1795172894000
-    },
-    {
-      "id": "https://link.mail.beehiiv.com/ss/c/u001.dSnm3kaGd0BkNqLYPjeMf0gyeM8tESkQ4qmvKtcxeZ9Sf8FWzyiEWE10HHsJrV5cblVac8sPVuUw3gneLIw3rtqW6_4IEyEyGCvBdTH6tfKtx4hRcRZzrew8RfHWk9lJYhE7qhWf23ISlzVNOGbSJluJmXKP5VwFM960KjhVvG8PhtLE6TVJZp1jslVMMwvuMB7q7N4y8P_m0WXXtURNTYREZd1cGbn6HW3_K3S0eEs/4vw/-02baW6hR9K7QJu4R7oU3w/h32/h001.JkoNyt0zHWVpP3Kz4h8YpJRrvFBKyusWGapBb0UJFJI",
-      "title": "📰 Everything else in AI today",
-      "link": "https://link.mail.beehiiv.com/ss/c/u001.dSnm3kaGd0BkNqLYPjeMf0gyeM8tESkQ4qmvKtcxeZ9Sf8FWzyiEWE10HHsJrV5cblVac8sPVuUw3gneLIw3rtqW6_4IEyEyGCvBdTH6tfKtx4hRcRZzrew8RfHWk9lJYhE7qhWf23ISlzVNOGbSJluJmXKP5VwFM960KjhVvG8PhtLE6TVJZp1jslVMMwvuMB7q7N4y8P_m0WXXtURNTYREZd1cGbn6HW3_K3S0eEs/4vw/-02baW6hR9K7QJu4R7oU3w/h32/h001.JkoNyt0zHWVpP3Kz4h8YpJRrvFBKyusWGapBb0UJFJI",
-      "summary": "Apple is reportedly developing a Muse-like AI agent that could control devices, use apps, browse the web, and write code, with a launch eyed for as soon as late 2027.",
-      "source": "The Rundown AI",
-      "publishedAt": 1795172894000
-    },
-    {
-      "id": "https://link.mail.beehiiv.com/ss/c/u001.Q334NVcZU4O6L6VKRz8ijB1TBWraWSjSa1EgItxTfJGLIvJAG36TdoN_RcL5Qcb4l-TTKJ7kJ40VnFns1HNbTrS7dbLgPHI8dLrwXl8iOfb2ljYNEeE0q2TWET6YxEhgc6wA30v1AH50GDP_JrWdpTnTJUhJOj48PdbPnuolhKjDDKc4mft95RlEjA4NhOZhjZHKxXbRtPdtOLBxPVnXofSymz8QiSfLy_p0xd4gjyA/4vw/-02baW6hR9K7QJu4R7oU3w/h39/h001.nk9wHW6rYsPaUOD8OndXEWyar6LMLBLzHO5onoypTzo",
-      "title": "🎓 Highlights: News, Guides & Events",
-      "link": "https://link.mail.beehiiv.com/ss/c/u001.Q334NVcZU4O6L6VKRz8ijB1TBWraWSjSa1EgItxTfJGLIvJAG36TdoN_RcL5Qcb4l-TTKJ7kJ40VnFns1HNbTrS7dbLgPHI8dLrwXl8iOfb2ljYNEeE0q2TWET6YxEhgc6wA30v1AH50GDP_JrWdpTnTJUhJOj48PdbPnuolhKjDDKc4mft95RlEjA4NhOZhjZHKxXbRtPdtOLBxPVnXofSymz8QiSfLy_p0xd4gjyA/4vw/-02baW6hR9K7QJu4R7oU3w/h39/h001.nk9wHW6rYsPaUOD8OndXEWyar6LMLBLzHO5onoypTzo",
-      "summary": "Read our last AI newsletter: Google’s shipping spree continues with Neon",
-      "source": "The Rundown AI",
-      "publishedAt": 1795172894000
-    },
-    {
-      "id": "https://link.mail.beehiiv.com/ss/c/u001.KT4rQsO6sHS_v2VASG2xupywTByilB7vBf1gbeXMnd8Hof3Ca4zliYIk5t4pKnVtdKtfjcRsdlABoWM1f2xRqbFtEoijeNFSOo3EBbFrZB1XKqphW1kM9RnumyVI2_CuOmz8zLiYB5dWao-VuirZlms-6Wdbl7cE3LjWXCKHxYWCC9BzCpP93FkcBRyylBImR034HHDtDTW27VOeeulfTFsMAAN1ZZ8Y6CeCt9QEF_t8WmXbkFaZaj_J-R2p5QdC28C-dLy-UKJy8mRYgUNp_zuLWWdXoMT5A8q9hp6w4VLqfbhprI5Zol7kHxPV8YH2tPp4NP-kcubeitZd36i4SNnsDEqXur8KqwCPttMAl87gBGBnc_y-Kt_yHB9auCP3vRiPpbWM-z1hh1Lgruoc90IdANtquZeYQV44UCOYn0UtkitQ61b51kENZKAb09u_r4vXwZ5D0EFpVYHLho92VpqK2Q5jAfpCKrel5VdEPdbhTsASETjreQypaNzms1Kwd5xEWcPPgd13ab0Ol7N5mzhHJkXDwqot9a7Mm8TzxEnKCo92K4nmYWB0v7rYwun_OMwPZLNgXQGVMorEsuWu1AC3W-CvgTyln-prSW1HOOrgRiS1ckwQtw0UERlRd-N_DKgv8S_t7fefRfDoEdhAfDIA_zh8Z4XqJXlUQZCG5uEMxnZKqDaeZV5gxJID6_HfrxX-ENwLNEwJxATBcqFTiDDI7aZJW4qNwEtKWXoDDH_Dl3L02WORz8ZoaDwYsrFRe9INwtTbnQswa3-PN1y9N21vEbe6pliVXMEM6BvGbnnVkDCwF30dnz23ZvkxUJVbbvvN_WiRu2g7ruztWV848ra-aj6Ljvn0Qc-HCBIeWnHwyoPiRmp3T2K29oxSo7ILU5HTxXYRdQERYYXqQT7ujffYKmeF1xJOfMQeH7V2_DG3JNMxcV1J5UgtmYLffqwIrvRT300PAWimpnovkKytAiV2zfW_bMMyBlI7EfIjQke3CstaJifXvSDEt9Edt1bx33MIkTFNZT5xUZ7Z-KcuGg/4vw/-02baW6hR9K7QJu4R7oU3w/h44/h001.Ij5mX2QyQOGz_4JfLfqdXb7_QEUCqLHQGwcoAJt88sg",
-      "title": "That's it for today!",
-      "link": "https://link.mail.beehiiv.com/ss/c/u001.KT4rQsO6sHS_v2VASG2xupywTByilB7vBf1gbeXMnd8Hof3Ca4zliYIk5t4pKnVtdKtfjcRsdlABoWM1f2xRqbFtEoijeNFSOo3EBbFrZB1XKqphW1kM9RnumyVI2_CuOmz8zLiYB5dWao-VuirZlms-6Wdbl7cE3LjWXCKHxYWCC9BzCpP93FkcBRyylBImR034HHDtDTW27VOeeulfTFsMAAN1ZZ8Y6CeCt9QEF_t8WmXbkFaZaj_J-R2p5QdC28C-dLy-UKJy8mRYgUNp_zuLWWdXoMT5A8q9hp6w4VLqfbhprI5Zol7kHxPV8YH2tPp4NP-kcubeitZd36i4SNnsDEqXur8KqwCPttMAl87gBGBnc_y-Kt_yHB9auCP3vRiPpbWM-z1hh1Lgruoc90IdANtquZeYQV44UCOYn0UtkitQ61b51kENZKAb09u_r4vXwZ5D0EFpVYHLho92VpqK2Q5jAfpCKrel5VdEPdbhTsASETjreQypaNzms1Kwd5xEWcPPgd13ab0Ol7N5mzhHJkXDwqot9a7Mm8TzxEnKCo92K4nmYWB0v7rYwun_OMwPZLNgXQGVMorEsuWu1AC3W-CvgTyln-prSW1HOOrgRiS1ckwQtw0UERlRd-N_DKgv8S_t7fefRfDoEdhAfDIA_zh8Z4XqJXlUQZCG5uEMxnZKqDaeZV5gxJID6_HfrxX-ENwLNEwJxATBcqFTiDDI7aZJW4qNwEtKWXoDDH_Dl3L02WORz8ZoaDwYsrFRe9INwtTbnQswa3-PN1y9N21vEbe6pliVXMEM6BvGbnnVkDCwF30dnz23ZvkxUJVbbvvN_WiRu2g7ruztWV848ra-aj6Ljvn0Qc-HCBIeWnHwyoPiRmp3T2K29oxSo7ILU5HTxXYRdQERYYXqQT7ujffYKmeF1xJOfMQeH7V2_DG3JNMxcV1J5UgtmYLffqwIrvRT300PAWimpnovkKytAiV2zfW_bMMyBlI7EfIjQke3CstaJifXvSDEt9Edt1bx33MIkTFNZT5xUZ7Z-KcuGg/4vw/-02baW6hR9K7QJu4R7oU3w/h44/h001.Ij5mX2QyQOGz_4JfLfqdXb7_QEUCqLHQGwcoAJt88sg",
-      "summary": "Before you go we’d love to know what you thought of today's newsletter to help us improve The Rundown experience for you.",
-      "source": "The Rundown AI",
-      "publishedAt": 1795172894000
-    },
-    {
-      "id": "https://links.morningbrew.com/c/II9?access_token=enwFAdGao8KESKxNukTu1EGE&mbcid=48529765.3855369&mid=1e8203ce88986da9aabbf2faa16b5ab0&mbuuid=enwFAdGao8KESKxNukTu1EGE",
-      "title": "Friday puzzle",
-      "link": "https://links.morningbrew.com/c/II9?access_token=enwFAdGao8KESKxNukTu1EGE&mbcid=48529765.3855369&mid=1e8203ce88986da9aabbf2faa16b5ab0&mbuuid=enwFAdGao8KESKxNukTu1EGE",
-      "summary": "Change one letter in each of the following words in order to find six (6) words with a common theme.",
-      "source": "Morning Brew",
-      "publishedAt": 1795169977000
-    },
-    {
-      "id": "https://tf8z58tab.cc.rs6.net/tn.jsp?f=001OqG0rrHbvWCEV0rIxdz8-Wwm32fG9ccjngws-l5M2ULFLpyYOZLdOfG8OAdY3ZgFcQ3sMgcDHjID95mjcA3mSNGvBdNw5cEGLu43pTHXWW_pEHltxFRD5C2I7ijWmQ9LDVYPefOEoEY2E7uxQh5Oqycx2oomEghgK2sKUYiTsfnxC-wFA-UX-AIss_Yetljim-VXGCP139JnQRMjoQVAAX444r41WLIY&c=8iRx8Ms_Vqyc0BJnX5kWAI8Q0jrGOJEUzvzHFaqPoVhY_dieghv3aw==&ch=2s7TeEqqr3ph3VfIWy5w8yKyVAXUMzix_qoTAUvAeOqF_h9lx8pU6g==",
-      "title": "$35K AltCap Your Biz win pushes entrepreneur’s healing journey to the stars at GEWKC",
-      "link": "https://tf8z58tab.cc.rs6.net/tn.jsp?f=001OqG0rrHbvWCEV0rIxdz8-Wwm32fG9ccjngws-l5M2ULFLpyYOZLdOfG8OAdY3ZgFcQ3sMgcDHjID95mjcA3mSNGvBdNw5cEGLu43pTHXWW_pEHltxFRD5C2I7ijWmQ9LDVYPefOEoEY2E7uxQh5Oqycx2oomEghgK2sKUYiTsfnxC-wFA-UX-AIss_Yetljim-VXGCP139JnQRMjoQVAAX444r41WLIY&c=8iRx8Ms_Vqyc0BJnX5kWAI8Q0jrGOJEUzvzHFaqPoVhY_dieghv3aw==&ch=2s7TeEqqr3ph3VfIWy5w8yKyVAXUMzix_qoTAUvAeOqF_h9lx8pU6g==",
-      "summary": "After starting a medical pedicure business in honor of her late grandmother, India Clark Stewart choked up thinking about how proud she would be after Your Healing Touch won the $35,000 grand prize at Wednesday night’s AltCap Your Biz competition.",
-      "source": "Startland News",
-      "publishedAt": 1795125974000
-    },
-    {
-      "id": "https://tf8z58tab.cc.rs6.net/tn.jsp?f=001OqG0rrHbvWCEV0rIxdz8-Wwm32fG9ccjngws-l5M2ULFLpyYOZLdOfG8OAdY3ZgFbAGF65riiK2r2TV9dkjvoZ7W3yqjeGzXrMY2dYIZRE0g_bg9EZ8gAELgdcjPYZXwBC7xAFT84o0TRqGDCsm8suHGfq_j3aLxcMmhkR3Yd37CeATHm-UnOFhZhfHIaguaTKvRWz-Lfxo=&c=8iRx8Ms_Vqyc0BJnX5kWAI8Q0jrGOJEUzvzHFaqPoVhY_dieghv3aw==&ch=2s7TeEqqr3ph3VfIWy5w8yKyVAXUMzix_qoTAUvAeOqF_h9lx8pU6g==",
-      "title": "Crispy comeback: Lutfi’s Fried Fish quickly adding KCK location after opening on Prospect",
-      "link": "https://tf8z58tab.cc.rs6.net/tn.jsp?f=001OqG0rrHbvWCEV0rIxdz8-Wwm32fG9ccjngws-l5M2ULFLpyYOZLdOfG8OAdY3ZgFbAGF65riiK2r2TV9dkjvoZ7W3yqjeGzXrMY2dYIZRE0g_bg9EZ8gAELgdcjPYZXwBC7xAFT84o0TRqGDCsm8suHGfq_j3aLxcMmhkR3Yd37CeATHm-UnOFhZhfHIaguaTKvRWz-Lfxo=&c=8iRx8Ms_Vqyc0BJnX5kWAI8Q0jrGOJEUzvzHFaqPoVhY_dieghv3aw==&ch=2s7TeEqqr3ph3VfIWy5w8yKyVAXUMzix_qoTAUvAeOqF_h9lx8pU6g==",
-      "summary": "A new Kansas City, Kansas, location for the resurgent Lutfi’s Fried Fish is expected to offer Bryant Fletcher’s signature twist on the brand’s Comeback Sauce — adding a third location operated by the franchisee and his wife alongside original founder Lutfi Khalifah.",
-      "source": "Startland News",
-      "publishedAt": 1795125974000
-    },
-    {
-      "id": "https://tf8z58tab.cc.rs6.net/tn.jsp?f=001OqG0rrHbvWCEV0rIxdz8-Wwm32fG9ccjngws-l5M2ULFLpyYOZLdOfG8OAdY3ZgFJeIhTqIag7mCFuNHLTjJDfI5NijDACHhsb-PN3bgUoPcoDk9NbXnZNML4uKAEI_jgc4VocSVz62OAJB-30lmmNkyy78R9rwU4YN5Ce8ORUGkHwUbrCZvwHz_XhUwG04Yi0zwfr7QxkWFIuqg2r9zh35rkDQhviHZ&c=8iRx8Ms_Vqyc0BJnX5kWAI8Q0jrGOJEUzvzHFaqPoVhY_dieghv3aw==&ch=2s7TeEqqr3ph3VfIWy5w8yKyVAXUMzix_qoTAUvAeOqF_h9lx8pU6g==",
-      "title": "KC Small Business Savings Match deploys with Kauffman backing",
-      "link": "https://tf8z58tab.cc.rs6.net/tn.jsp?f=001OqG0rrHbvWCEV0rIxdz8-Wwm32fG9ccjngws-l5M2ULFLpyYOZLdOfG8OAdY3ZgFJeIhTqIag7mCFuNHLTjJDfI5NijDACHhsb-PN3bgUoPcoDk9NbXnZNML4uKAEI_jgc4VocSVz62OAJB-30lmmNkyy78R9rwU4YN5Ce8ORUGkHwUbrCZvwHz_XhUwG04Yi0zwfr7QxkWFIuqg2r9zh35rkDQhviHZ&c=8iRx8Ms_Vqyc0BJnX5kWAI8Q0jrGOJEUzvzHFaqPoVhY_dieghv3aw==&ch=2s7TeEqqr3ph3VfIWy5w8yKyVAXUMzix_qoTAUvAeOqF_h9lx8pU6g==",
-      "summary": "A just-launched program targeted toward Kansas City entrepreneurs offers eligible small businesses up to $12,000 in matching funds alongside business and financial coaching. “Access to capital remains an important part of helping small businesses sustain operations and plan for…",
-      "source": "Startland News",
-      "publishedAt": 1795125974000
-    },
-    {
-      "id": "https://tf8z58tab.cc.rs6.net/tn.jsp?f=001OqG0rrHbvWCEV0rIxdz8-Wwm32fG9ccjngws-l5M2ULFLpyYOZLdOfG8OAdY3ZgF9YvVtLxOmJRTi9t6wbQ3wSBC43doEZgGzBwN0v5b5MsmtubVFBmqD3Pflp2ac63e4gpychZ1T0R9I35bUR2pralhhcEV39lj8FXrG94ie1lkH0PayeHcLPmTOSfHhZqZoG75uSEEGs0=&c=8iRx8Ms_Vqyc0BJnX5kWAI8Q0jrGOJEUzvzHFaqPoVhY_dieghv3aw==&ch=2s7TeEqqr3ph3VfIWy5w8yKyVAXUMzix_qoTAUvAeOqF_h9lx8pU6g==",
-      "title": "Ainstein opens Lenexa manufacturing facility with plans to make 44,000 of its radar devices a year",
-      "link": "https://tf8z58tab.cc.rs6.net/tn.jsp?f=001OqG0rrHbvWCEV0rIxdz8-Wwm32fG9ccjngws-l5M2ULFLpyYOZLdOfG8OAdY3ZgF9YvVtLxOmJRTi9t6wbQ3wSBC43doEZgGzBwN0v5b5MsmtubVFBmqD3Pflp2ac63e4gpychZ1T0R9I35bUR2pralhhcEV39lj8FXrG94ie1lkH0PayeHcLPmTOSfHhZqZoG75uSEEGs0=&c=8iRx8Ms_Vqyc0BJnX5kWAI8Q0jrGOJEUzvzHFaqPoVhY_dieghv3aw==&ch=2s7TeEqqr3ph3VfIWy5w8yKyVAXUMzix_qoTAUvAeOqF_h9lx8pU6g==",
-      "summary": "As demand for radar sensing grows across autonomous vehicles, unmanned systems, and commercial applications, a Kansas-built tech company is expanding its operations to meet global needs, said Dr. Zongbo Wang, announcing the opening of a high-volume manufacturing facility in…",
-      "source": "Startland News",
-      "publishedAt": 1795125974000
-    },
-    {
-      "id": "https://tf8z58tab.cc.rs6.net/tn.jsp?f=001OqG0rrHbvWCEV0rIxdz8-Wwm32fG9ccjngws-l5M2ULFLpyYOZLdOfG8OAdY3ZgFEcu96ToR58YKgKXyM85eb2KAuEXVBvr4Doxrp9xytSEDDWutepYqzcp4WN0F2Mt8TyOPfSoAqf48f0rk7-vsBSXmvmlsxDVtDeoe-XY-cgV7qOadCytzzMvQnLW0ycyd&c=8iRx8Ms_Vqyc0BJnX5kWAI8Q0jrGOJEUzvzHFaqPoVhY_dieghv3aw==&ch=2s7TeEqqr3ph3VfIWy5w8yKyVAXUMzix_qoTAUvAeOqF_h9lx8pU6g==",
-      "title": "KC dads’ carpool app puts an AI assistant in the driver’s seat, eliminating an invisible mental tax",
-      "link": "https://tf8z58tab.cc.rs6.net/tn.jsp?f=001OqG0rrHbvWCEV0rIxdz8-Wwm32fG9ccjngws-l5M2ULFLpyYOZLdOfG8OAdY3ZgFEcu96ToR58YKgKXyM85eb2KAuEXVBvr4Doxrp9xytSEDDWutepYqzcp4WN0F2Mt8TyOPfSoAqf48f0rk7-vsBSXmvmlsxDVtDeoe-XY-cgV7qOadCytzzMvQnLW0ycyd&c=8iRx8Ms_Vqyc0BJnX5kWAI8Q0jrGOJEUzvzHFaqPoVhY_dieghv3aw==&ch=2s7TeEqqr3ph3VfIWy5w8yKyVAXUMzix_qoTAUvAeOqF_h9lx8pU6g==",
-      "summary": "A carpool app built from a Kansas City dad’s last-minute, night-before scramble to get his kids where they needed to go, puts schedules, rides and real-time updates in one place, said co-founder Jimmy Carter, emphasizing the role AI assistants can play in everyday life.",
-      "source": "Startland News",
-      "publishedAt": 1795125974000
-    },
-    {
-      "id": "https://tf8z58tab.cc.rs6.net/tn.jsp?f=001OqG0rrHbvWCEV0rIxdz8-Wwm32fG9ccjngws-l5M2ULFLpyYOZLdOV3NB-Hwq4bIPNRwEQjTztN4FJVKXQVGwC664XDoT25bnVGNIJnPAks3kLIhSpj7AUF7o-60HySYDqWmeBlcoqBYCiqtwanwVzI3rx_WcD27uJ3n-q0HbTN8uzOuuwok3gzGEEc63iA34Cuw0f4MxU_bCZO6HCPqdA==&c=8iRx8Ms_Vqyc0BJnX5kWAI8Q0jrGOJEUzvzHFaqPoVhY_dieghv3aw==&ch=2s7TeEqqr3ph3VfIWy5w8yKyVAXUMzix_qoTAUvAeOqF_h9lx8pU6g==",
-      "title": "Iconic Heart Gateway could be trademarked as local World Cup organizers preserve KC’s big moment",
-      "link": "https://tf8z58tab.cc.rs6.net/tn.jsp?f=001OqG0rrHbvWCEV0rIxdz8-Wwm32fG9ccjngws-l5M2ULFLpyYOZLdOV3NB-Hwq4bIPNRwEQjTztN4FJVKXQVGwC664XDoT25bnVGNIJnPAks3kLIhSpj7AUF7o-60HySYDqWmeBlcoqBYCiqtwanwVzI3rx_WcD27uJ3n-q0HbTN8uzOuuwok3gzGEEc63iA34Cuw0f4MxU_bCZO6HCPqdA==&c=8iRx8Ms_Vqyc0BJnX5kWAI8Q0jrGOJEUzvzHFaqPoVhY_dieghv3aw==&ch=2s7TeEqqr3ph3VfIWy5w8yKyVAXUMzix_qoTAUvAeOqF_h9lx8pU6g==",
-      "summary": "",
-      "source": "Startland News",
-      "publishedAt": 1795125974000
-    },
-    {
-      "id": "https://tf8z58tab.cc.rs6.net/tn.jsp?f=001OqG0rrHbvWCEV0rIxdz8-Wwm32fG9ccjngws-l5M2ULFLpyYOZLdOV3NB-Hwq4bIaZPPH6iiAFp9Gd9U91EF_6jTH8jBmIpidx6dDtuAPc_vwg7QQeL70IdMp_IPCk7cjiTomRsHJ6ZQH-h2XSt-bc8ow5F9t4TQxcfd3SU-r6S8Z1izFZzTOX41UMw-9X6W5ceZkrV1U2Yy8r_OCKNmMrAlLVpO4T7M&c=8iRx8Ms_Vqyc0BJnX5kWAI8Q0jrGOJEUzvzHFaqPoVhY_dieghv3aw==&ch=2s7TeEqqr3ph3VfIWy5w8yKyVAXUMzix_qoTAUvAeOqF_h9lx8pU6g==",
-      "title": "KC autotech company secures $93M Series C round driven by Boston growth equity firm",
-      "link": "https://tf8z58tab.cc.rs6.net/tn.jsp?f=001OqG0rrHbvWCEV0rIxdz8-Wwm32fG9ccjngws-l5M2ULFLpyYOZLdOV3NB-Hwq4bIaZPPH6iiAFp9Gd9U91EF_6jTH8jBmIpidx6dDtuAPc_vwg7QQeL70IdMp_IPCk7cjiTomRsHJ6ZQH-h2XSt-bc8ow5F9t4TQxcfd3SU-r6S8Z1izFZzTOX41UMw-9X6W5ceZkrV1U2Yy8r_OCKNmMrAlLVpO4T7M&c=8iRx8Ms_Vqyc0BJnX5kWAI8Q0jrGOJEUzvzHFaqPoVhY_dieghv3aw==&ch=2s7TeEqqr3ph3VfIWy5w8yKyVAXUMzix_qoTAUvAeOqF_h9lx8pU6g==",
-      "summary": "",
-      "source": "Startland News",
-      "publishedAt": 1795125974000
     }
   ]
 }
