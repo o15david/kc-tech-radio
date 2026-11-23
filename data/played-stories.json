@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T09:50:24.743Z",
- "lastSyncBucket": 997458,
- "lastSyncCarryInSeconds": 112,
+ "updatedAt": "2026-11-23T10:05:25.632Z",
+ "lastSyncBucket": 997459,
+ "lastSyncCarryInSeconds": 36,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -7934,6 +7934,151 @@
    "key": "https://dev.to/ytvideodownloader/merging-two-domains-into-one-with-a-350-line-static-site-build-301-maps-hreflang-and-the-service-423",
    "firstQueuedAtMs": 1795424400000,
    "playedAtMs": 1795424400000
+  },
+  {
+   "key": "https://insideclimatenews.org/?p=116510",
+   "firstQueuedAtMs": 1795426200000,
+   "playedAtMs": 1795426200000
+  },
+  {
+   "key": "https://www.kcur.org/news/2026-11-23/after-kansas-city-kansas-police-killed-a-man-in-crisis-his-family-is-demanding-answers",
+   "firstQueuedAtMs": 1795426200000,
+   "playedAtMs": 1795426200000
+  },
+  {
+   "key": "https://kansasreflector.com/?p=64005",
+   "firstQueuedAtMs": 1795426200000,
+   "playedAtMs": 1795426200000
+  },
+  {
+   "key": "https://www.kcur.org/podcast/kansas-city-today/2026-11-23/is-kansas-citys-job-market-healthy",
+   "firstQueuedAtMs": 1795426200000,
+   "playedAtMs": 1795426200000
+  },
+  {
+   "key": "74504442",
+   "firstQueuedAtMs": 1795426200000,
+   "playedAtMs": 1795426200000
+  },
+  {
+   "key": "https://www.kcdigitaldrive.org/?post_type=article&p=8355",
+   "firstQueuedAtMs": 1795426200000,
+   "playedAtMs": 1795426200000
+  },
+  {
+   "key": "https://www.kcdigitaldrive.org/?post_type=article&p=8354",
+   "firstQueuedAtMs": 1795426200000,
+   "playedAtMs": 1795426200000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/23/nx-s1-6035702/kindness-kids-sesame-street-parents-survey",
+   "firstQueuedAtMs": 1795426200000,
+   "playedAtMs": 1795426200000
+  },
+  {
+   "key": "https://www.kcdigitaldrive.org/?post_type=article&p=8322",
+   "firstQueuedAtMs": 1795426200000,
+   "playedAtMs": 1795426200000
+  },
+  {
+   "key": "https://thehill.com/?p=6236405",
+   "firstQueuedAtMs": 1795426200000,
+   "playedAtMs": 1795426200000
+  },
+  {
+   "key": "6ac542d4d51334ec05dbdfb7",
+   "firstQueuedAtMs": 1795426200000,
+   "playedAtMs": 1795426200000
+  },
+  {
+   "key": "692076bc1d5cbe3df783222e",
+   "firstQueuedAtMs": 1795426200000,
+   "playedAtMs": 1795426200000
+  },
+  {
+   "key": "https://dev.to/robswierk/playwright-showed-a-real-buy-click-carries-no-referer-3cec",
+   "firstQueuedAtMs": 1795426200000,
+   "playedAtMs": 1795426200000
+  },
+  {
+   "key": "https://www.kcdigitaldrive.org/?post_type=article&p=8308",
+   "firstQueuedAtMs": 1795426200000,
+   "playedAtMs": 1795426200000
+  },
+  {
+   "key": "https://dev.to/appstruct_support_4d5c05b/build-a-nine-scenario-saas-break-even-check-in-plain-javascript-15gn",
+   "firstQueuedAtMs": 1795426200000,
+   "playedAtMs": 1795426200000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/23/nx-s1-6045619/morning-news-brief",
+   "firstQueuedAtMs": 1795426200000,
+   "playedAtMs": 1795426200000
+  },
+  {
+   "key": "https://dev.to/techeazy_consulting/a-free-aws-project-for-your-resume-build-a-genai-helpdesk-on-bedrock-566e",
+   "firstQueuedAtMs": 1795426200000,
+   "playedAtMs": 1795426200000
+  },
+  {
+   "key": "https://www.inc.com/bill-murphy-jr/9-famous-ceos-share-a-surprisingly-simple-habit-it-solves-one-of-leaderships-biggest-problems/91441115",
+   "firstQueuedAtMs": 1795426200000,
+   "playedAtMs": 1795426200000
+  },
+  {
+   "key": "108557199",
+   "firstQueuedAtMs": 1795426200000,
+   "playedAtMs": 1795426200000
+  },
+  {
+   "key": "https://grist.org/?p=761303",
+   "firstQueuedAtMs": 1795426200000,
+   "playedAtMs": 1795426200000
+  },
+  {
+   "key": "https://www.nbcnews.com/news/us-news/ice-spent-13-million-month-empty-beds-government-watchdog-reports-rcna610452",
+   "firstQueuedAtMs": 1795426200000,
+   "playedAtMs": 1795426200000
+  },
+  {
+   "key": "https://www.mlb.com/app/atbat/royals/daily-walkoff",
+   "firstQueuedAtMs": 1795426200000,
+   "playedAtMs": 1795426200000
+  },
+  {
+   "key": "https://www.mlb.com/milb/prospects/2026/royals/",
+   "firstQueuedAtMs": 1795426200000,
+   "playedAtMs": 1795426200000
+  },
+  {
+   "key": "108557231",
+   "firstQueuedAtMs": 1795426200000,
+   "playedAtMs": 1795426200000
+  },
+  {
+   "key": "WP-MKTW-0005364396",
+   "firstQueuedAtMs": 1795426200000,
+   "playedAtMs": 1795426200000
+  },
+  {
+   "key": "https://www.engadget.com/2324629/amazon-resorts-to-package-stickers-in-its-fight-against-nyc-proposed-delivery-law/",
+   "firstQueuedAtMs": 1795426200000,
+   "playedAtMs": 1795426200000
+  },
+  {
+   "key": "https://fortune.com/?p=4648249&showAdminBar=true",
+   "firstQueuedAtMs": 1795426200000,
+   "playedAtMs": 1795426200000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311325",
+   "firstQueuedAtMs": 1795426200000,
+   "playedAtMs": 1795426200000
+  },
+  {
+   "key": "https://fortune.com/?p=4648307&showAdminBar=true",
+   "firstQueuedAtMs": 1795426200000,
+   "playedAtMs": 1795426200000
   }
  ]
 }
