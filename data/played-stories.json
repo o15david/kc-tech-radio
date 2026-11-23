@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T19:20:52.893Z",
- "lastSyncBucket": 997477,
- "lastSyncCarryInSeconds": 55,
+ "updatedAt": "2026-11-23T19:35:47.620Z",
+ "lastSyncBucket": 997478,
+ "lastSyncCarryInSeconds": 60,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -11149,6 +11149,196 @@
    "key": "https://www.kshb.com/us-news/consumer-reports-sounds-alarm-over-federal-product-safety-watchdog",
    "firstQueuedAtMs": 1795458600000,
    "playedAtMs": 1795458600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/23/anderson-erickson-dairys-eggnog-favorites/",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "https://www.rockchalktalk.com/?p=34583",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "1ac36ca3-2ef8-44b7-be81-822ee85500d1",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/23/mother-stepfather-indicted-death-16-year-old-girl-months-after-deputies-found-her-remains/",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "https://www.engadget.com/2320288/how-to-connect-bluetooth-headphones-xbox-series-x/",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "https://arstechnica.com/science/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "https://www.engadget.com/2325598/kodak-slidetag-combines-a-digital-photo-frame-and-an-airtag/",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4419088",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/23/hca-midwests-emergency-drill-simulation/",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "https://arm.jonpalmisc.com/",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1038020",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191431",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/23/experience-christmas-through-ages-lecompton-historical-society/",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "108557616",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "https://www.marktechpost.com/?p=84063",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/box-truck-crashes-through-crumbl-cookie-in-independence",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "https://www.techdirt.com/?p=552221&preview=true&preview_id=552221",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "https://www.kshb.com/us-news/trump-halts-detonation-of-bomb-making-chemicals-in-iowa-pending-court-approval",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315499",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "108557650",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "https://www.techdirt.com/?p=552235&preview=true&preview_id=552235",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/weather/california-king-tides-storm.html",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "https://www.fastcompany.com/91647652/fast-food-workers-ranked-reprimanded-ai",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/23/blacksmith-trains-apprentices-restore-1790s-new-orleans-ironwork/",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "https://www.inc.com/victoria-salves/morgan-freeman-doesnt-want-ai-recreate-him-would-allow-just-1-exception/91441277",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1040357",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/politics/senate-leadership-vote-tests-newly-elected-democrats-promise-of-change",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "https://fortune.com/?p=4648914&showAdminBar=true",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/23/sprinklesumsalt-podcast-november-mecca-event/",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/23/plan-your-next-visit-farina/",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "TOYV0PKIUPS100",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/?p=217351",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "https://www.inc.com/kimanzi-constable/gta-vi-is-more-than-a-video-game-its-a-branding-lesson-for-entrepreneurs/91441174",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "https://www.inc.com/ryan-rosett/6-actionable-steps-that-encourage-your-team-to-fail-fast/91439909",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "https://www.inc.com/javier-david/texas-is-americas-data-center-capital-but-the-next-boom-may-go-somewhere-else/91439920",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "https://github.com/glushchenko/fsnotes/discussions/2056",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "2303e60c-3dc2-42f3-b8f9-4fc5f559cc48",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
+  },
+  {
+   "key": "https://www.futurity.org/?p=3354462",
+   "firstQueuedAtMs": 1795460400000,
+   "playedAtMs": 1795460400000
   }
  ]
 }
