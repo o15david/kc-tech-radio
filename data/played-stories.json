@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T17:50:29.875Z",
- "lastSyncBucket": 997474,
- "lastSyncCarryInSeconds": 33,
+ "updatedAt": "2026-11-23T18:05:21.224Z",
+ "lastSyncBucket": 997475,
+ "lastSyncCarryInSeconds": 3,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -10604,6 +10604,181 @@
    "key": "https://www.royalsreview.com/?p=108273",
    "firstQueuedAtMs": 1795453200000,
    "playedAtMs": 1795453200000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4451476",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
+  },
+  {
+   "key": "https://kansasreflector.com/?p=64150",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
+  },
+  {
+   "key": "https://thehill.com/?p=6236564",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/23/kansas-city-sports-commission-celebrates-fifa-approving-us-fifa-womens-world-cup-host/",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
+  },
+  {
+   "key": "https://abcnews.com/Business/stock-market-rebounds-sharply-after-selloff/story?id=138373790",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
+  },
+  {
+   "key": "https://www.infoq.com/news/2026/11/linkedin-view-agnostic-analytics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
+  },
+  {
+   "key": "https://www.inc.com/tony-manganiello/caleb-williams-was-fined-for-his-cleats-the-bigger-story-is-about-making-smart-decisions/91441114",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311722",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/10/09/air-watch-kctv5-news-noon-live/",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
+  },
+  {
+   "key": "https://www.inc.com/suzanne-lucas/nvidias-board-just-sent-every-ceo-a-dangerous-message-the-mad-men-era-is-back/91441355",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
+  },
+  {
+   "key": "https://yaleclimateconnections.org/?p=145038",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
+  },
+  {
+   "key": "WP-MKTW-0005364927",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
+  },
+  {
+   "key": "1bfb3295-dae9-4a16-8bd7-f9cf14fdaebb",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
+  },
+  {
+   "key": "108557335",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
+  },
+  {
+   "key": "https://www.engadget.com/2325384/samsung-odyssey-g6-g60h-is-the-worlds-first-1100hz-gaming-monitor/",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
+  },
+  {
+   "key": "https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
+  },
+  {
+   "key": "https://www.fastcompany.com/91644192/ai-the-borg",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
+  },
+  {
+   "key": "https://www.thepitchkc.com/?p=960180",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
+  },
+  {
+   "key": "https://www.engadget.com/2320284/how-block-ai-slop-spam-social-media-platforms/",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163472",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
+  },
+  {
+   "key": "https://abcnews.com/International/wireStory/eu-proposes-sweeping-new-russia-sanctions-targeting-banks-138382150",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386678",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
+  },
+  {
+   "key": "https://kansasreflector.com/?post_type=republished&p=64152",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
+  },
+  {
+   "key": "TOYR05KGZAJL00",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4418763",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
+  },
+  {
+   "key": "https://www.inc.com/moses-jeanfrancois/target-posted-best-growth-5-years-2-categories-still-fell-behind/91441220",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/23/trump-jensen-huang-nvidia-sex-sells-meme",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
+  },
+  {
+   "key": "TOYSHBT9NJLX00",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
+  },
+  {
+   "key": "WP-MKTW-0005362675",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
+  },
+  {
+   "key": "TOYTUCKIP3J100",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
+  },
+  {
+   "key": "https://www.technologyreview.com/?p=1149569",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
+  },
+  {
+   "key": "https://www.kshb.com/business/company-news/crowdstrike-to-acquire-zscaler-in-a-44-billion-deal-that-would-create-a-cybersecurity-giant",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
+  },
+  {
+   "key": "https://www.fastcompany.com/91643313/womens-ai-leadership-bigger-than-data-shows",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/world/the-collapse-of-un-climate-talks-over-fossil-fuels-was-years-in-the-making",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
+  },
+  {
+   "key": "https://www.techdirt.com/?p=552156",
+   "firstQueuedAtMs": 1795455000000,
+   "playedAtMs": 1795455000000
   }
  ]
 }
