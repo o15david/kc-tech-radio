@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T07:20:14.400Z",
- "lastSyncBucket": 997453,
- "lastSyncCarryInSeconds": 9,
+ "updatedAt": "2026-11-23T07:35:18.628Z",
+ "lastSyncBucket": 997454,
+ "lastSyncCarryInSeconds": 6,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -7299,6 +7299,166 @@
    "key": "TOSR2MKJH6V400",
    "firstQueuedAtMs": 1795415400000,
    "playedAtMs": 1795415400000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/bobby-witt-jr-first-team-all-mlb-2026",
+   "firstQueuedAtMs": 1795417200000,
+   "playedAtMs": 1795417200000
+  },
+  {
+   "key": "https://www.minnpost.com/?p=2243793",
+   "firstQueuedAtMs": 1795417200000,
+   "playedAtMs": 1795417200000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/bobby-witt-jr-2026-heart-hustle-award-winner",
+   "firstQueuedAtMs": 1795417200000,
+   "playedAtMs": 1795417200000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/royals-looking-for-pitching-help-in-offseason",
+   "firstQueuedAtMs": 1795417200000,
+   "playedAtMs": 1795417200000
+  },
+  {
+   "key": "https://kansascitydefender.com/?p=18967",
+   "firstQueuedAtMs": 1795417200000,
+   "playedAtMs": 1795417200000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/20/brooke-rollins-christian-messages-judge",
+   "firstQueuedAtMs": 1795417200000,
+   "playedAtMs": 1795417200000
+  },
+  {
+   "key": "https://abcnews.com/Politics/white-house-replaces-national-cyber-director-amid-widespread/story?id=138310514",
+   "firstQueuedAtMs": 1795417200000,
+   "playedAtMs": 1795417200000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/bob-boone-dies",
+   "firstQueuedAtMs": 1795417200000,
+   "playedAtMs": 1795417200000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/arizona-fall-league-week-5-award-winners-2026",
+   "firstQueuedAtMs": 1795417200000,
+   "playedAtMs": 1795417200000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/2026-mlb-rookie-of-the-year-voting-totals",
+   "firstQueuedAtMs": 1795417200000,
+   "playedAtMs": 1795417200000
+  },
+  {
+   "key": "https://www.kcdigitaldrive.org/?post_type=article&p=8587",
+   "firstQueuedAtMs": 1795417200000,
+   "playedAtMs": 1795417200000
+  },
+  {
+   "key": "https://abcnews.com/video/138315419/",
+   "firstQueuedAtMs": 1795417200000,
+   "playedAtMs": 1795417200000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/20/anthropic-public-shareholders",
+   "firstQueuedAtMs": 1795417200000,
+   "playedAtMs": 1795417200000
+  },
+  {
+   "key": "https://www.minnpost.com/?p=2243787",
+   "firstQueuedAtMs": 1795417200000,
+   "playedAtMs": 1795417200000
+  },
+  {
+   "key": "https://flatlandkc.org/?p=199578",
+   "firstQueuedAtMs": 1795417200000,
+   "playedAtMs": 1795417200000
+  },
+  {
+   "key": "https://dosmundos.com/?p=121482",
+   "firstQueuedAtMs": 1795417200000,
+   "playedAtMs": 1795417200000
+  },
+  {
+   "key": "https://kansascitydefender.com/?p=18952",
+   "firstQueuedAtMs": 1795417200000,
+   "playedAtMs": 1795417200000
+  },
+  {
+   "key": "https://abcnews.com/video/138305617/",
+   "firstQueuedAtMs": 1795417200000,
+   "playedAtMs": 1795417200000
+  },
+  {
+   "key": "https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager",
+   "firstQueuedAtMs": 1795417200000,
+   "playedAtMs": 1795417200000
+  },
+  {
+   "key": "TOWODDR24U8100",
+   "firstQueuedAtMs": 1795417200000,
+   "playedAtMs": 1795417200000
+  },
+  {
+   "key": "https://fortune.com/?p=4647531&showAdminBar=true",
+   "firstQueuedAtMs": 1795417200000,
+   "playedAtMs": 1795417200000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/20/gta-6-viral-moments-monoculture",
+   "firstQueuedAtMs": 1795417200000,
+   "playedAtMs": 1795417200000
+  },
+  {
+   "key": "https://fortune.com/?p=4648312&showAdminBar=true",
+   "firstQueuedAtMs": 1795417200000,
+   "playedAtMs": 1795417200000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311213",
+   "firstQueuedAtMs": 1795417200000,
+   "playedAtMs": 1795417200000
+  },
+  {
+   "key": "https://flatlandkc.org/?p=199532",
+   "firstQueuedAtMs": 1795417200000,
+   "playedAtMs": 1795417200000
+  },
+  {
+   "key": "https://iowacapitaldispatch.com/?p=61343",
+   "firstQueuedAtMs": 1795417200000,
+   "playedAtMs": 1795417200000
+  },
+  {
+   "key": "https://dosmundos.com/?p=121471",
+   "firstQueuedAtMs": 1795417200000,
+   "playedAtMs": 1795417200000
+  },
+  {
+   "key": "TOXY0EVTTCZM00",
+   "firstQueuedAtMs": 1795417200000,
+   "playedAtMs": 1795417200000
+  },
+  {
+   "key": "https://www.fastcompany.com/91633385/browser-battery-life-settings",
+   "firstQueuedAtMs": 1795417200000,
+   "playedAtMs": 1795417200000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/20/religious-nones-christians-evangelicals-election",
+   "firstQueuedAtMs": 1795417200000,
+   "playedAtMs": 1795417200000
+  },
+  {
+   "key": "https://lobste.rs/s/2zhfms",
+   "firstQueuedAtMs": 1795417200000,
+   "playedAtMs": 1795417200000
+  },
+  {
+   "key": "TOXVOMRKV2TG00",
+   "firstQueuedAtMs": 1795417200000,
+   "playedAtMs": 1795417200000
   }
  ]
 }
