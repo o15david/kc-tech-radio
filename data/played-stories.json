@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T11:20:17.614Z",
- "lastSyncBucket": 997461,
- "lastSyncCarryInSeconds": 86,
+ "updatedAt": "2026-11-23T11:36:25.941Z",
+ "lastSyncBucket": 997462,
+ "lastSyncCarryInSeconds": 3,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -8444,6 +8444,166 @@
    "key": "https://www.fastcompany.com/91646683/the-first-3d-printer-in-space-made-a-wrench-it-could-help-humans-live-on-the-moon",
    "firstQueuedAtMs": 1795429800000,
    "playedAtMs": 1795429800000
+  },
+  {
+   "key": "74504894",
+   "firstQueuedAtMs": 1795431600000,
+   "playedAtMs": 1795431600000
+  },
+  {
+   "key": "https://www.rockmnation.com/164861/drew-lock-moves-to-3-0-as-a-starter-in-2026",
+   "firstQueuedAtMs": 1795431600000,
+   "playedAtMs": 1795431600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/23/coldest-stretch-season-into-thanksgiving/",
+   "firstQueuedAtMs": 1795431600000,
+   "playedAtMs": 1795431600000
+  },
+  {
+   "key": "74505486",
+   "firstQueuedAtMs": 1795431600000,
+   "playedAtMs": 1795431600000
+  },
+  {
+   "key": "74505461",
+   "firstQueuedAtMs": 1795431600000,
+   "playedAtMs": 1795431600000
+  },
+  {
+   "key": "https://www.downtownkc.org/?p=68821",
+   "firstQueuedAtMs": 1795431600000,
+   "playedAtMs": 1795431600000
+  },
+  {
+   "key": "3f4843fc-ee46-4248-9f22-5de9752c322e",
+   "firstQueuedAtMs": 1795431600000,
+   "playedAtMs": 1795431600000
+  },
+  {
+   "key": "https://abcnews.com/International/ukrainian-naval-drones-sank-russias-merkury-warship-libya/story?id=138369738",
+   "firstQueuedAtMs": 1795431600000,
+   "playedAtMs": 1795431600000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=302314",
+   "firstQueuedAtMs": 1795431600000,
+   "playedAtMs": 1795431600000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/22/will-mail-be-delivered-thanksgiving-black-friday-what-know/",
+   "firstQueuedAtMs": 1795431600000,
+   "playedAtMs": 1795431600000
+  },
+  {
+   "key": "https://thehill.com/?p=6236599",
+   "firstQueuedAtMs": 1795431600000,
+   "playedAtMs": 1795431600000
+  },
+  {
+   "key": "52ebdef7-ead3-4131-8a58-33cf9a7ce8d8",
+   "firstQueuedAtMs": 1795431600000,
+   "playedAtMs": 1795431600000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/217283/chiefs-news-what-to-know-ahead-of-chiefs-cardinals-in-week-11",
+   "firstQueuedAtMs": 1795431600000,
+   "playedAtMs": 1795431600000
+  },
+  {
+   "key": "https://northdakotamonitor.com/?p=23639",
+   "firstQueuedAtMs": 1795431600000,
+   "playedAtMs": 1795431600000
+  },
+  {
+   "key": "https://www.nbcnews.com/sports/nfl/nfl-week-11-travis-kelce-chiefs-dak-prescott-cowboys-rcna610773",
+   "firstQueuedAtMs": 1795431600000,
+   "playedAtMs": 1795431600000
+  },
+  {
+   "key": "6aac286faf13ab2d8d362372",
+   "firstQueuedAtMs": 1795431600000,
+   "playedAtMs": 1795431600000
+  },
+  {
+   "key": "6af758bf65e40024232d7c57",
+   "firstQueuedAtMs": 1795431600000,
+   "playedAtMs": 1795431600000
+  },
+  {
+   "key": "https://www.snexplores.org/?p=246100",
+   "firstQueuedAtMs": 1795431600000,
+   "playedAtMs": 1795431600000
+  },
+  {
+   "key": "https://www.snexplores.org/?p=246070",
+   "firstQueuedAtMs": 1795431600000,
+   "playedAtMs": 1795431600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/podcasts/the-headlines/un-climate-talks-china-spies-ai-chips.html",
+   "firstQueuedAtMs": 1795431600000,
+   "playedAtMs": 1795431600000
+  },
+  {
+   "key": "https://dev.to/valeri_ghazaryan_317423ce/i-built-a-photo-and-video-metadata-cleaner-that-runs-in-the-browser-and-never-re-encodes-4jje",
+   "firstQueuedAtMs": 1795431600000,
+   "playedAtMs": 1795431600000
+  },
+  {
+   "key": "https://thehill.com/?p=6234676",
+   "firstQueuedAtMs": 1795431600000,
+   "playedAtMs": 1795431600000
+  },
+  {
+   "key": "https://dev.to/muhammad_ahmed_f816627c7d/smart-locks-explained-a-practical-guide-to-choosing-installing-and-securing-one-1doc",
+   "firstQueuedAtMs": 1795431600000,
+   "playedAtMs": 1795431600000
+  },
+  {
+   "key": "https://northdakotamonitor.com/?p=23631",
+   "firstQueuedAtMs": 1795431600000,
+   "playedAtMs": 1795431600000
+  },
+  {
+   "key": "TOYD6PVTTD0500",
+   "firstQueuedAtMs": 1795431600000,
+   "playedAtMs": 1795431600000
+  },
+  {
+   "key": "gfnbpZMVrGs5Z6JVstWSok",
+   "firstQueuedAtMs": 1795431600000,
+   "playedAtMs": 1795431600000
+  },
+  {
+   "key": "6af720c790a32370dc207972",
+   "firstQueuedAtMs": 1795431600000,
+   "playedAtMs": 1795431600000
+  },
+  {
+   "key": "https://thehill.com/?p=6234454",
+   "firstQueuedAtMs": 1795431600000,
+   "playedAtMs": 1795431600000
+  },
+  {
+   "key": "WP-MKTW-0005364353",
+   "firstQueuedAtMs": 1795431600000,
+   "playedAtMs": 1795431600000
+  },
+  {
+   "key": "TOYCKWR24U8F00",
+   "firstQueuedAtMs": 1795431600000,
+   "playedAtMs": 1795431600000
+  },
+  {
+   "key": "https://lobste.rs/s/lnpwpu",
+   "firstQueuedAtMs": 1795431600000,
+   "playedAtMs": 1795431600000
+  },
+  {
+   "key": "https://lobste.rs/s/bjqpyu",
+   "firstQueuedAtMs": 1795431600000,
+   "playedAtMs": 1795431600000
   }
  ]
 }
