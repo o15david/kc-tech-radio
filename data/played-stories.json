@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T03:50:29.907Z",
- "lastSyncBucket": 997446,
- "lastSyncCarryInSeconds": 79,
+ "updatedAt": "2026-11-23T04:05:19.109Z",
+ "lastSyncBucket": 997447,
+ "lastSyncCarryInSeconds": 77,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -6254,6 +6254,116 @@
    "key": "https://hackaday.com/?p=1429533",
    "firstQueuedAtMs": 1795402800000,
    "playedAtMs": 1795402800000
+  },
+  {
+   "key": "74503114",
+   "firstQueuedAtMs": 1795404600000,
+   "playedAtMs": 1795404600000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/23/springfield-restaurant-reopens-after-nearly-month-long-closure/",
+   "firstQueuedAtMs": 1795404600000,
+   "playedAtMs": 1795404600000
+  },
+  {
+   "key": "abbdd8b1-0d35-45cd-adf7-3f0b192dec27",
+   "firstQueuedAtMs": 1795404600000,
+   "playedAtMs": 1795404600000
+  },
+  {
+   "key": "https://www.royalsreview.com/?p=108287",
+   "firstQueuedAtMs": 1795404600000,
+   "playedAtMs": 1795404600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-captain.html",
+   "firstQueuedAtMs": 1795404600000,
+   "playedAtMs": 1795404600000
+  },
+  {
+   "key": "https://dev.to/aheadkit/read-both-bodies-and-the-loudest-issue-wins-4le5",
+   "firstQueuedAtMs": 1795404600000,
+   "playedAtMs": 1795404600000
+  },
+  {
+   "key": "https://dev.to/succday/the-countdown-is-not-there-to-pressure-you-2p5a",
+   "firstQueuedAtMs": 1795404600000,
+   "playedAtMs": 1795404600000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/22/behind-the-curtain-ai-2027-the-reckoning",
+   "firstQueuedAtMs": 1795404600000,
+   "playedAtMs": 1795404600000
+  },
+  {
+   "key": "https://thebeaconnews.org/?p=36282",
+   "firstQueuedAtMs": 1795404600000,
+   "playedAtMs": 1795404600000
+  },
+  {
+   "key": "https://dev.to/manthink/lorawan-operations-sop-after-go-live-the-network-lives-on-process-4pni",
+   "firstQueuedAtMs": 1795404600000,
+   "playedAtMs": 1795404600000
+  },
+  {
+   "key": "https://dev.to/succday/a-24-character-input-is-a-scoring-rule-51h6",
+   "firstQueuedAtMs": 1795404600000,
+   "playedAtMs": 1795404600000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=164816",
+   "firstQueuedAtMs": 1795404600000,
+   "playedAtMs": 1795404600000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
+   "firstQueuedAtMs": 1795404600000,
+   "playedAtMs": 1795404600000
+  },
+  {
+   "key": "https://dev.to/enercoruna/como-pedir-una-web-a-bolt-o-v0-sin-que-te-cambie-medio-proyecto-3m6i",
+   "firstQueuedAtMs": 1795404600000,
+   "playedAtMs": 1795404600000
+  },
+  {
+   "key": "https://www.kcur.org/news/2026-11-19/railroad-jobs-merger-union-pacific-norfolk-southern-train-safety",
+   "firstQueuedAtMs": 1795404600000,
+   "playedAtMs": 1795404600000
+  },
+  {
+   "key": "https://dev.to/aaannvv/the-defaults-are-the-attack-surface-what-i-learned-auditing-open-source-middleware-212l",
+   "firstQueuedAtMs": 1795404600000,
+   "playedAtMs": 1795404600000
+  },
+  {
+   "key": "https://kcsoccerjournal.com/?p=8765",
+   "firstQueuedAtMs": 1795404600000,
+   "playedAtMs": 1795404600000
+  },
+  {
+   "key": "https://dev.to/abk/we-fixed-our-zfs-write-spikes-then-reads-got-4x-slower-2hn0",
+   "firstQueuedAtMs": 1795404600000,
+   "playedAtMs": 1795404600000
+  },
+  {
+   "key": "https://www.kcur.org/podcast/up-to-date/2026-11-18/kmbc-helicopter-reporter-johnny-rowlands-retiring-kansas-city-newschopper",
+   "firstQueuedAtMs": 1795404600000,
+   "playedAtMs": 1795404600000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/energizer-battery-deal-of-the-day-rcna610646",
+   "firstQueuedAtMs": 1795404600000,
+   "playedAtMs": 1795404600000
+  },
+  {
+   "key": "https://thebeaconnews.org/?p=36250",
+   "firstQueuedAtMs": 1795404600000,
+   "playedAtMs": 1795404600000
+  },
+  {
+   "key": "https://dev.to/_abbdc2/catching-wordpress-privilege-escalation-without-a-signature-check-the-capability-again-at-the-write-fdf",
+   "firstQueuedAtMs": 1795404600000,
+   "playedAtMs": 1795404600000
   }
  ]
 }
