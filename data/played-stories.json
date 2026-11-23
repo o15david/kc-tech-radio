@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T01:21:50.154Z",
- "lastSyncBucket": 997441,
- "lastSyncCarryInSeconds": 97,
+ "updatedAt": "2026-11-23T01:35:21.313Z",
+ "lastSyncBucket": 997442,
+ "lastSyncCarryInSeconds": 16,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -5569,6 +5569,96 @@
    "key": "https://fortune.com/?p=4648276&showAdminBar=true",
    "firstQueuedAtMs": 1795393800000,
    "playedAtMs": 1795393800000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191173",
+   "firstQueuedAtMs": 1795395600000,
+   "playedAtMs": 1795395600000
+  },
+  {
+   "key": "https://www.kshb.com/sports/football/chiefs/chiefs-enter-season-defining-stretch-with-thanksgiving-battle-in-buffalo",
+   "firstQueuedAtMs": 1795395600000,
+   "playedAtMs": 1795395600000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/22/first-alert-weather-cooler-monday-kick-off-thanksgiving-week/",
+   "firstQueuedAtMs": 1795395600000,
+   "playedAtMs": 1795395600000
+  },
+  {
+   "key": "https://dev.to/voice_developer/how-to-generate-voice-samples-for-game-characters-4edp",
+   "firstQueuedAtMs": 1795395600000,
+   "playedAtMs": 1795395600000
+  },
+  {
+   "key": "https://dev.to/guiadeti/teste-qwen36-local-nao-detectou-bug-encontrado-pelo-claude-sonnet-5-3b7",
+   "firstQueuedAtMs": 1795395600000,
+   "playedAtMs": 1795395600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/22/world/americas/mexico-us-cartel-arrests.html",
+   "firstQueuedAtMs": 1795395600000,
+   "playedAtMs": 1795395600000
+  },
+  {
+   "key": "https://dev.to/bramwellvance7953/session-and-org-membership-explained-3-nodejs-checks-after-password-recovery-3deb",
+   "firstQueuedAtMs": 1795395600000,
+   "playedAtMs": 1795395600000
+  },
+  {
+   "key": "https://dev.to/yi_a_38d6fb851f32cff799ed/how-to-debug-an-ai-api-stream-that-drops-after-http-200-44id",
+   "firstQueuedAtMs": 1795395600000,
+   "playedAtMs": 1795395600000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/?p=217044",
+   "firstQueuedAtMs": 1795395600000,
+   "playedAtMs": 1795395600000
+  },
+  {
+   "key": "5c7742d7-feff-4efc-a7e6-c01f9fe6438f",
+   "firstQueuedAtMs": 1795395600000,
+   "playedAtMs": 1795395600000
+  },
+  {
+   "key": "https://dev.to/the_movie_9b1357e8c99cfaa/auditing-a-pricing-workbook-without-opening-excel-raw-xml-decimal-and-a-form-that-disagrees-with-1dg8",
+   "firstQueuedAtMs": 1795395600000,
+   "playedAtMs": 1795395600000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/23/jay-clayton-acting-national-cyber-director",
+   "firstQueuedAtMs": 1795395600000,
+   "playedAtMs": 1795395600000
+  },
+  {
+   "key": "https://dev.to/johnettagaweraks/a-selks-exposure-review-needs-four-fingerprints-not-one-1hhl",
+   "firstQueuedAtMs": 1795395600000,
+   "playedAtMs": 1795395600000
+  },
+  {
+   "key": "https://www.kshb.com/sports/football/chiefs/chiefs-star-travis-kelce-enjoys-1st-2-td-game-in-4-seasons-to-mark-100th-game-at-arrowhead",
+   "firstQueuedAtMs": 1795395600000,
+   "playedAtMs": 1795395600000
+  },
+  {
+   "key": "https://dev.to/jeff_feldman_7ab3898/unpopular-opinion-skip-the-black-friday-mac-subscriptions-9-pay-once-or-free-apps-id-get-350b",
+   "firstQueuedAtMs": 1795395600000,
+   "playedAtMs": 1795395600000
+  },
+  {
+   "key": "https://sahanjournal.com/?p=89832",
+   "firstQueuedAtMs": 1795395600000,
+   "playedAtMs": 1795395600000
+  },
+  {
+   "key": "https://dev.to/buttercannfly/how-i-built-an-edge-rendered-wcag-22-aa-nonprofit-website-builder-on-cloudflare-workers-and-5hg0",
+   "firstQueuedAtMs": 1795395600000,
+   "playedAtMs": 1795395600000
+  },
+  {
+   "key": "https://dev.to/akaranjkar08/epoch-time-and-unix-timestamps-explained-with-examples-n32",
+   "firstQueuedAtMs": 1795395600000,
+   "playedAtMs": 1795395600000
   }
  ]
 }
