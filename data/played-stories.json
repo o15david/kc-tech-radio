@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T03:20:29.276Z",
- "lastSyncBucket": 997445,
- "lastSyncCarryInSeconds": 8,
+ "updatedAt": "2026-11-23T03:35:19.013Z",
+ "lastSyncBucket": 997446,
+ "lastSyncCarryInSeconds": 79,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -6119,6 +6119,141 @@
    "key": "https://www.royalsreview.com/?p=108310",
    "firstQueuedAtMs": 1795401000000,
    "playedAtMs": 1795401000000
+  },
+  {
+   "key": "https://johnsoncountypost.com/2026/11/22/overland-park-four-bedroom-house-listed-on-176th-st-for-1-26-million-302378/",
+   "firstQueuedAtMs": 1795402800000,
+   "playedAtMs": 1795402800000
+  },
+  {
+   "key": "https://indianacapitalchronicle.com/?p=28226",
+   "firstQueuedAtMs": 1795402800000,
+   "playedAtMs": 1795402800000
+  },
+  {
+   "key": "https://thehill.com/?p=6236521",
+   "firstQueuedAtMs": 1795402800000,
+   "playedAtMs": 1795402800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/23/thanksgiving-help-heres-what-is-open-whats-closed-holiday/",
+   "firstQueuedAtMs": 1795402800000,
+   "playedAtMs": 1795402800000
+  },
+  {
+   "key": "https://www.nbcnews.com/politics/congress/van-hollen-momentum-senate-majority-leader-schumer-election-rcna610669",
+   "firstQueuedAtMs": 1795402800000,
+   "playedAtMs": 1795402800000
+  },
+  {
+   "key": "https://www.nbcnews.com/politics/congress/abdul-el-sayed-open-working-trump-administration-healthcare-medicare-rcna610664",
+   "firstQueuedAtMs": 1795402800000,
+   "playedAtMs": 1795402800000
+  },
+  {
+   "key": "https://kcstudio.org/?p=125004",
+   "firstQueuedAtMs": 1795402800000,
+   "playedAtMs": 1795402800000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/royals-support-literacy-youth-sports-2026",
+   "firstQueuedAtMs": 1795402800000,
+   "playedAtMs": 1795402800000
+  },
+  {
+   "key": "https://www.royalsreview.com/?p=108266",
+   "firstQueuedAtMs": 1795402800000,
+   "playedAtMs": 1795402800000
+  },
+  {
+   "key": "https://dev.to/kielltampubolon/dns-tunneling-explained-how-data-hides-inside-ordinary-dns-lookups-m7h",
+   "firstQueuedAtMs": 1795402800000,
+   "playedAtMs": 1795402800000
+  },
+  {
+   "key": "mtp_clip_vanhollendems_261122",
+   "firstQueuedAtMs": 1795402800000,
+   "playedAtMs": 1795402800000
+  },
+  {
+   "key": "https://dev.to/gia_ssv_69530693b7ff92c/hai-lan-giam-gia-lien-tiep-trong-javascript-kiem-thu-bang-so-nguyen-1262",
+   "firstQueuedAtMs": 1795402800000,
+   "playedAtMs": 1795402800000
+  },
+  {
+   "key": "https://iowacapitaldispatch.com/?p=61323",
+   "firstQueuedAtMs": 1795402800000,
+   "playedAtMs": 1795402800000
+  },
+  {
+   "key": "https://dev.to/carlosrambles/predicting-injury-counts-in-motor-vehicle-collisions-4on",
+   "firstQueuedAtMs": 1795402800000,
+   "playedAtMs": 1795402800000
+  },
+  {
+   "key": "https://kansascitymag.com/?p=82502",
+   "firstQueuedAtMs": 1795402800000,
+   "playedAtMs": 1795402800000
+  },
+  {
+   "key": "mtp_clip_kennedylutnick_261122",
+   "firstQueuedAtMs": 1795402800000,
+   "playedAtMs": 1795402800000
+  },
+  {
+   "key": "https://dev.to/jeff_pdc/mcp-server-backup-and-disaster-recovery-a-practical-plan-3mkh",
+   "firstQueuedAtMs": 1795402800000,
+   "playedAtMs": 1795402800000
+  },
+  {
+   "key": "https://dev.to/wilhelmknight8435/2026-legal-review-workspace-security-tenant-isolation-before-semantic-search-5bcd",
+   "firstQueuedAtMs": 1795402800000,
+   "playedAtMs": 1795402800000
+  },
+  {
+   "key": "https://dev.to/polydraft/your-vibe-coded-site-has-no-cms-i-wrote-a-scanner-for-hardcoded-business-facts-2aei",
+   "firstQueuedAtMs": 1795402800000,
+   "playedAtMs": 1795402800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/22/business/retirement-millennials-gen-z.html",
+   "firstQueuedAtMs": 1795402800000,
+   "playedAtMs": 1795402800000
+  },
+  {
+   "key": "https://kansascitymag.com/?p=91962",
+   "firstQueuedAtMs": 1795402800000,
+   "playedAtMs": 1795402800000
+  },
+  {
+   "key": "https://dev.to/icelimited/elikfaakchiiwitaiwkab-aws-auth-configmap-yaaysiththi-eks-aip-access-entries-aebbaimlktawengkcchaak-4h64",
+   "firstQueuedAtMs": 1795402800000,
+   "playedAtMs": 1795402800000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=230037",
+   "firstQueuedAtMs": 1795402800000,
+   "playedAtMs": 1795402800000
+  },
+  {
+   "key": "TOXQF1N3N08X00",
+   "firstQueuedAtMs": 1795402800000,
+   "playedAtMs": 1795402800000
+  },
+  {
+   "key": "https://lobste.rs/s/l8u1tj",
+   "firstQueuedAtMs": 1795402800000,
+   "playedAtMs": 1795402800000
+  },
+  {
+   "key": "https://lobste.rs/s/rvvt6x",
+   "firstQueuedAtMs": 1795402800000,
+   "playedAtMs": 1795402800000
+  },
+  {
+   "key": "https://hackaday.com/?p=1429533",
+   "firstQueuedAtMs": 1795402800000,
+   "playedAtMs": 1795402800000
   }
  ]
 }
