@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T05:50:16.689Z",
- "lastSyncBucket": 997450,
- "lastSyncCarryInSeconds": 26,
+ "updatedAt": "2026-11-23T06:05:19.922Z",
+ "lastSyncBucket": 997451,
+ "lastSyncCarryInSeconds": 17,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -6809,6 +6809,181 @@
    "key": "https://dev.to/rahibaly/your-strong-password-probably-isnt-heres-the-math-that-proves-it-3do7",
    "firstQueuedAtMs": 1795410000000,
    "playedAtMs": 1795410000000
+  },
+  {
+   "key": "https://thebeaconnews.org/?p=36205",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
+  },
+  {
+   "key": "https://www.minnpost.com/?p=2243819",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/21/us/wheelchair-repair-delays-public-equity.html",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
+  },
+  {
+   "key": "https://thebeaconnews.org/?p=36204",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/apple-airpods-pro-3-deal-of-the-day-rcna610526",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/21/black-organizers-southern-political-bench",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
+  },
+  {
+   "key": "https://www.kcur.org/news/2026-11-17/food-insecurity-is-growing-across-households-in-kansas-nonprofits-are-trying-to-meet-the-need",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
+  },
+  {
+   "key": "https://michiganadvance.com/?p=116131",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
+  },
+  {
+   "key": "https://www.kcur.org/podcast/kansas-city-today/2026-11-17/missouri-hunters-resist-efforts-to-stop-deer-disease",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
+  },
+  {
+   "key": "https://kcsoccerjournal.com/?p=8747",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
+  },
+  {
+   "key": "https://southdakotasearchlight.com/?post_type=republished&p=26264",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
+  },
+  {
+   "key": "https://kcstudio.org/?p=125262",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
+  },
+  {
+   "key": "9e6d5ea6-3345-4e10-8342-f5aea672558a",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
+  },
+  {
+   "key": "https://www.nbcnews.com/politics/justice-department/fbi-investigating-potential-breach-crime-database-rcna610536",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
+  },
+  {
+   "key": "https://flatlandkc.org/?p=199606",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
+  },
+  {
+   "key": "https://dosmundos.com/?p=121551",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
+  },
+  {
+   "key": "https://abcnews.com/video/138331305/",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/baseball-hall-of-fame-ballot-2027",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
+  },
+  {
+   "key": "https://dev.to/olaughter/dense-rewards-hurt-performance-under-equal-compute-2mgo",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
+  },
+  {
+   "key": "https://kcstudio.org/?p=124986",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
+  },
+  {
+   "key": "dfb711d6-216f-4d73-8d51-fe5438f39a17",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
+  },
+  {
+   "key": "https://kcsoccerjournal.com/?p=8739",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
+  },
+  {
+   "key": "https://dev.to/olaughter/aiml-research-digest-nov-21-2026-288k",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
+  },
+  {
+   "key": "https://thebeaconnews.org/?p=36194",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
+  },
+  {
+   "key": "https://abcnews.com/GMA/Food/new-government-report-sparks-concern-potential-cyberattack-us/story?id=138316014",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=230012",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
+  },
+  {
+   "key": "108557110",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
+  },
+  {
+   "key": "https://dev.to/vladimir_beskorovainyi/what-is-vibe-coding-i-built-a-site-that-way-and-counted-what-it-cost-4f0d",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
+  },
+  {
+   "key": "https://abcnews.com/video/138330689/",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
+  },
+  {
+   "key": "https://www.minnpost.com/?p=2243794",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/world/asia/china-us-nuclear-ai.html",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75653",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
+  },
+  {
+   "key": "https://abcnews.com/Politics/trump-hold-news-conference-friday-asia-trip/story?id=138307456",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75652",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
+  },
+  {
+   "key": "https://www.downtownkc.org/?p=68811",
+   "firstQueuedAtMs": 1795411800000,
+   "playedAtMs": 1795411800000
   }
  ]
 }
