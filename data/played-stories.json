@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T05:20:17.246Z",
- "lastSyncBucket": 997449,
- "lastSyncCarryInSeconds": 115,
+ "updatedAt": "2026-11-23T05:35:29.497Z",
+ "lastSyncBucket": 997450,
+ "lastSyncCarryInSeconds": 26,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -6679,6 +6679,136 @@
    "key": "https://dev.to/samfware/why-does-your-galaxy-say-not-registered-on-network-after-flashing-and-how-do-you-fix-it-hii",
    "firstQueuedAtMs": 1795408200000,
    "playedAtMs": 1795408200000
+  },
+  {
+   "key": "https://dev.to/aion-analytics-in/what-can-an-android-phone-tell-you-about-privacy-a-guide-for-phone-owners-and-institutions-39jl",
+   "firstQueuedAtMs": 1795410000000,
+   "playedAtMs": 1795410000000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/royals-hitting-group-seek-offensive-growth-in-2027",
+   "firstQueuedAtMs": 1795410000000,
+   "playedAtMs": 1795410000000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=164924",
+   "firstQueuedAtMs": 1795410000000,
+   "playedAtMs": 1795410000000
+  },
+  {
+   "key": "https://www.nbcnews.com/politics/politics-news/lost-claus-florida-town-hit-states-voter-approved-property-tax-overhau-rcna610806",
+   "firstQueuedAtMs": 1795410000000,
+   "playedAtMs": 1795410000000
+  },
+  {
+   "key": "https://www.kcur.org/podcast/kansas-city-today/2026-11-18/kansas-citys-autumns-are-getting-a-lot-hotter",
+   "firstQueuedAtMs": 1795410000000,
+   "playedAtMs": 1795410000000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/all-arizona-fall-league-team-2026",
+   "firstQueuedAtMs": 1795410000000,
+   "playedAtMs": 1795410000000
+  },
+  {
+   "key": "https://www.thepitchkc.com/?p=959523",
+   "firstQueuedAtMs": 1795410000000,
+   "playedAtMs": 1795410000000
+  },
+  {
+   "key": "https://dev.to/zanisssoftwares/routing-messages-across-rcs-whatsapp-and-sms-in-2026-a-fallback-architecture-for-indian-apps-49i1",
+   "firstQueuedAtMs": 1795410000000,
+   "playedAtMs": 1795410000000
+  },
+  {
+   "key": "https://www.nbcnews.com/news/us-news/princeton-neuroscientist-eva-yi-xie-ice-detained-rcna610603",
+   "firstQueuedAtMs": 1795410000000,
+   "playedAtMs": 1795410000000
+  },
+  {
+   "key": "https://dev.to/kevindev27/replay-safe-verification-tokens-in-postgresql-35pa",
+   "firstQueuedAtMs": 1795410000000,
+   "playedAtMs": 1795410000000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/politics/ap-source-fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database",
+   "firstQueuedAtMs": 1795410000000,
+   "playedAtMs": 1795410000000
+  },
+  {
+   "key": "https://dev.to/qnayds_seo_437919f6928c2d/how-to-start-learning-ethical-hacking-from-scratch-4hjh",
+   "firstQueuedAtMs": 1795410000000,
+   "playedAtMs": 1795410000000
+  },
+  {
+   "key": "https://dev.to/onaeiuspkz/rita-results-are-only-as-trustworthy-as-their-zeek-import-chain-a5l",
+   "firstQueuedAtMs": 1795410000000,
+   "playedAtMs": 1795410000000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/2026-silver-slugger-award-winners",
+   "firstQueuedAtMs": 1795410000000,
+   "playedAtMs": 1795410000000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/royals-injuries-and-roster-moves",
+   "firstQueuedAtMs": 1795410000000,
+   "playedAtMs": 1795410000000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/royals-add-two-prospects-to-40-man-roster",
+   "firstQueuedAtMs": 1795410000000,
+   "playedAtMs": 1795410000000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/angel-bastardo-traded-to-royals-from-red-sox",
+   "firstQueuedAtMs": 1795410000000,
+   "playedAtMs": 1795410000000
+  },
+  {
+   "key": "https://www.thepitchkc.com/?p=959473",
+   "firstQueuedAtMs": 1795410000000,
+   "playedAtMs": 1795410000000
+  },
+  {
+   "key": "https://dev.to/ashokramsi/i-fixed-quarkus-dev-mode-running-two-maven-steps-in-the-wrong-order-40n",
+   "firstQueuedAtMs": 1795410000000,
+   "playedAtMs": 1795410000000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/health/a-doctors-guide-to-surviving-and-enjoying-holiday-feasting-while-on-glp%e2%80%911-medication",
+   "firstQueuedAtMs": 1795410000000,
+   "playedAtMs": 1795410000000
+  },
+  {
+   "key": "https://dev.to/asharbloch/how-i-built-a-pakistani-fashion-storefront-online-hi1",
+   "firstQueuedAtMs": 1795410000000,
+   "playedAtMs": 1795410000000
+  },
+  {
+   "key": "https://northdakotamonitor.com/?p=23645",
+   "firstQueuedAtMs": 1795410000000,
+   "playedAtMs": 1795410000000
+  },
+  {
+   "key": "https://dev.to/asharbloch/graphing-trig-functions-a-ti-84-revision-shortcut-55b1",
+   "firstQueuedAtMs": 1795410000000,
+   "playedAtMs": 1795410000000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/21/trump-russia-fbi-hack",
+   "firstQueuedAtMs": 1795410000000,
+   "playedAtMs": 1795410000000
+  },
+  {
+   "key": "2a1e75c6-4b67-4348-9e1e-0df69645eea0",
+   "firstQueuedAtMs": 1795410000000,
+   "playedAtMs": 1795410000000
+  },
+  {
+   "key": "https://dev.to/rahibaly/your-strong-password-probably-isnt-heres-the-math-that-proves-it-3do7",
+   "firstQueuedAtMs": 1795410000000,
+   "playedAtMs": 1795410000000
   }
  ]
 }
