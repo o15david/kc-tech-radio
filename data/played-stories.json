@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T08:20:18.671Z",
- "lastSyncBucket": 997455,
- "lastSyncCarryInSeconds": 89,
+ "updatedAt": "2026-11-23T08:35:21.778Z",
+ "lastSyncBucket": 997456,
+ "lastSyncCarryInSeconds": 71,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -7609,6 +7609,96 @@
    "key": "https://www.downtownkc.org/?p=68782",
    "firstQueuedAtMs": 1795419000000,
    "playedAtMs": 1795419000000
+  },
+  {
+   "key": "https://www.eetimes.com/?p=101804163",
+   "firstQueuedAtMs": 1795420800000,
+   "playedAtMs": 1795420800000
+  },
+  {
+   "key": "https://kansascitydefender.com/?p=18413",
+   "firstQueuedAtMs": 1795420800000,
+   "playedAtMs": 1795420800000
+  },
+  {
+   "key": "https://southdakotasearchlight.com/?p=26255",
+   "firstQueuedAtMs": 1795420800000,
+   "playedAtMs": 1795420800000
+  },
+  {
+   "key": "https://abcnews.com/International/wireStory/carney-enlists-fake-trump-laughs-canadas-annual-press-138366618",
+   "firstQueuedAtMs": 1795420800000,
+   "playedAtMs": 1795420800000
+  },
+  {
+   "key": "https://dev.to/lyric_li_3ece3678d9e199cb/how-to-improve-face-tracking-and-hair-masks-in-claude-video-effects-skills-44b",
+   "firstQueuedAtMs": 1795420800000,
+   "playedAtMs": 1795420800000
+  },
+  {
+   "key": "https://dev.to/khalednasrmba/partner-enablement-content-for-building-automation-channels-what-system-integrators-actually-use-10mh",
+   "firstQueuedAtMs": 1795420800000,
+   "playedAtMs": 1795420800000
+  },
+  {
+   "key": "https://dev.to/hua_xu_521a1aa12635cbbede/why-i-built-6-zero-backend-browser-tools-for-researchers-engineers-free-live-demos-476i",
+   "firstQueuedAtMs": 1795420800000,
+   "playedAtMs": 1795420800000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/19/republicans-house-oversight-gill-fallon",
+   "firstQueuedAtMs": 1795420800000,
+   "playedAtMs": 1795420800000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1104189",
+   "firstQueuedAtMs": 1795420800000,
+   "playedAtMs": 1795420800000
+  },
+  {
+   "key": "https://dev.to/khalednasrmba/from-screenshots-to-a-scorecard-how-to-measure-ai-search-visibility-for-b2b-brands-2i0e",
+   "firstQueuedAtMs": 1795420800000,
+   "playedAtMs": 1795420800000
+  },
+  {
+   "key": "https://kansascitydefender.com/?p=18409",
+   "firstQueuedAtMs": 1795420800000,
+   "playedAtMs": 1795420800000
+  },
+  {
+   "key": "https://dev.to/arnostorg/export-data-to-csv-in-powershell-export-csv-explained-2d58",
+   "firstQueuedAtMs": 1795420800000,
+   "playedAtMs": 1795420800000
+  },
+  {
+   "key": "https://dev.to/norbertso/how-to-monitor-polish-public-tenders-bzp-and-see-who-won-with-python-4blk",
+   "firstQueuedAtMs": 1795420800000,
+   "playedAtMs": 1795420800000
+  },
+  {
+   "key": "https://dev.to/wisly/when-the-product-matches-the-background-the-edge-hue-test-goes-blind-43bd",
+   "firstQueuedAtMs": 1795420800000,
+   "playedAtMs": 1795420800000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/19/government-shutdown-funding-iran-democrat",
+   "firstQueuedAtMs": 1795420800000,
+   "playedAtMs": 1795420800000
+  },
+  {
+   "key": "https://kansascitydefender.com/?p=18390",
+   "firstQueuedAtMs": 1795420800000,
+   "playedAtMs": 1795420800000
+  },
+  {
+   "key": "https://www.marktechpost.com/?p=84054",
+   "firstQueuedAtMs": 1795420800000,
+   "playedAtMs": 1795420800000
+  },
+  {
+   "key": "https://minnesotareformer.com/?p=39954",
+   "firstQueuedAtMs": 1795420800000,
+   "playedAtMs": 1795420800000
   }
  ]
 }
