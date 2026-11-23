@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T17:20:11.357Z",
- "lastSyncBucket": 997473,
- "lastSyncCarryInSeconds": 28,
+ "updatedAt": "2026-11-23T17:35:23.159Z",
+ "lastSyncBucket": 997474,
+ "lastSyncCarryInSeconds": 33,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -10424,6 +10424,186 @@
    "key": "news714642112",
    "firstQueuedAtMs": 1795451400000,
    "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=164929",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "a5fa33fd-0561-4590-bf3d-5e3a2782ec57",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "74509366",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/technology/employee-callout-tips.html",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/23/feeding-10-thanksgiving-heres-what-classic-meal-could-cost/",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "https://www.nasa.gov/?p=1067373",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "news714651481",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "news714652261",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "https://electrek.co/?p=495465",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "TOYT9NKIP3IP00",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "https://thehill.com/?p=6237551",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "https://lobste.rs/s/wv9nhw",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "https://www.engadget.com/2320283/important-home-security-camera-features/",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191371",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "https://www.kshb.com/life/holidays-and-celebrations/cooking-causes-80-of-thanksgiving-home-fires-heres-how-to-stay-safe",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1028991",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191322",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4418824",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "https://www.inc.com/bruce-crumley/1-in-5-workers-may-bolt-when-hiring-rebounds-this-is-what-could-make-them-stay/91441142",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315620",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "news714651472",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/technology/trump-nvidia-stock-purchases.html",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "TOYR9ER24U8900",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "https://electrek.co/?p=495429",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311629",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/?p=217338",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/22/36-year-old-veteran-mother-dies-after-being-attacked-by-dogs-investigators-say/",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "https://thehill.com/?p=6237516",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "news714651121",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "https://blogs.nvidia.com/?p=100141",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "https://fortune.com/?p=4648681&showAdminBar=true",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/politics/medicare-for-all-was-once-a-long-shot-now-universal-healthcare-is-on-the-democrats-agenda",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "https://www.easypost.com/careers/",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "https://www.fastcompany.com/91647467/after-anthropics-record-breaking-debut-wall-street-nonprofits-prepare-wave-ai-philanthropy",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
+  },
+  {
+   "key": "https://www.royalsreview.com/?p=108273",
+   "firstQueuedAtMs": 1795453200000,
+   "playedAtMs": 1795453200000
   }
  ]
 }
