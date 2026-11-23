@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T08:50:21.781Z",
- "lastSyncBucket": 997456,
- "lastSyncCarryInSeconds": 71,
+ "updatedAt": "2026-11-23T09:05:20.607Z",
+ "lastSyncBucket": 997457,
+ "lastSyncCarryInSeconds": 19,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -7699,6 +7699,121 @@
    "key": "https://minnesotareformer.com/?p=39954",
    "firstQueuedAtMs": 1795420800000,
    "playedAtMs": 1795420800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/23/officer-charged-with-animal-cruelty-after-k-9-found-dead-police-car/",
+   "firstQueuedAtMs": 1795422600000,
+   "playedAtMs": 1795422600000
+  },
+  {
+   "key": "https://wisconsinexaminer.com/?p=49064",
+   "firstQueuedAtMs": 1795422600000,
+   "playedAtMs": 1795422600000
+  },
+  {
+   "key": "wnn_dgr_dramatic_ice_incidents_261122",
+   "firstQueuedAtMs": 1795422600000,
+   "playedAtMs": 1795422600000
+  },
+  {
+   "key": "https://www.downtownkc.org/?p=68627",
+   "firstQueuedAtMs": 1795422600000,
+   "playedAtMs": 1795422600000
+  },
+  {
+   "key": "https://abcnews.com/Politics/fort-hood-shooter-nidal-hasan-set-executed-militarys/story?id=138261032",
+   "firstQueuedAtMs": 1795422600000,
+   "playedAtMs": 1795422600000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/19/gregory-meeks-congress-powers-trump-foreign-policy",
+   "firstQueuedAtMs": 1795422600000,
+   "playedAtMs": 1795422600000
+  },
+  {
+   "key": "https://kansascitydefender.com/?p=18338",
+   "firstQueuedAtMs": 1795422600000,
+   "playedAtMs": 1795422600000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1105521",
+   "firstQueuedAtMs": 1795422600000,
+   "playedAtMs": 1795422600000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/19/trump-national-cyber-director-sean-cairncross-leaving",
+   "firstQueuedAtMs": 1795422600000,
+   "playedAtMs": 1795422600000
+  },
+  {
+   "key": "https://www.kcdigitaldrive.org/?post_type=article&p=8447",
+   "firstQueuedAtMs": 1795422600000,
+   "playedAtMs": 1795422600000
+  },
+  {
+   "key": "https://www.downtownkc.org/?p=68700",
+   "firstQueuedAtMs": 1795422600000,
+   "playedAtMs": 1795422600000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/19/joni-ernst-hegseth-iran-war",
+   "firstQueuedAtMs": 1795422600000,
+   "playedAtMs": 1795422600000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1104796",
+   "firstQueuedAtMs": 1795422600000,
+   "playedAtMs": 1795422600000
+  },
+  {
+   "key": "TMKKQ9KJH6V400",
+   "firstQueuedAtMs": 1795422600000,
+   "playedAtMs": 1795422600000
+  },
+  {
+   "key": "108555034",
+   "firstQueuedAtMs": 1795422600000,
+   "playedAtMs": 1795422600000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311363",
+   "firstQueuedAtMs": 1795422600000,
+   "playedAtMs": 1795422600000
+  },
+  {
+   "key": "https://kansascitydefender.com/?p=18349",
+   "firstQueuedAtMs": 1795422600000,
+   "playedAtMs": 1795422600000
+  },
+  {
+   "key": "WP-MKTW-0005364368",
+   "firstQueuedAtMs": 1795422600000,
+   "playedAtMs": 1795422600000
+  },
+  {
+   "key": "https://www.inc.com/jessica-stillman/tim-ferriss-starts-every-overwhelming-day-with-the-same-4-words-psychologists-say-hes-onto-something/91440295",
+   "firstQueuedAtMs": 1795422600000,
+   "playedAtMs": 1795422600000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75657",
+   "firstQueuedAtMs": 1795422600000,
+   "playedAtMs": 1795422600000
+  },
+  {
+   "key": "https://abcnews.com/video/138294590/",
+   "firstQueuedAtMs": 1795422600000,
+   "playedAtMs": 1795422600000
+  },
+  {
+   "key": "https://fortune.com/?p=4647216&showAdminBar=true",
+   "firstQueuedAtMs": 1795422600000,
+   "playedAtMs": 1795422600000
+  },
+  {
+   "key": "https://fortune.com/?p=4648162&showAdminBar=true",
+   "firstQueuedAtMs": 1795422600000,
+   "playedAtMs": 1795422600000
   }
  ]
 }
