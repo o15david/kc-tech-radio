@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T13:20:20.763Z",
- "lastSyncBucket": 997465,
- "lastSyncCarryInSeconds": 29,
+ "updatedAt": "2026-11-23T13:35:08.416Z",
+ "lastSyncBucket": 997466,
+ "lastSyncCarryInSeconds": 115,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -8974,6 +8974,141 @@
    "key": "https://www.kctv5.com/2026/11/23/shawnee-school-principal-placed-leave-after-iowa-arrest/",
    "firstQueuedAtMs": 1795437000000,
    "playedAtMs": 1795437000000
+  },
+  {
+   "key": "74506352",
+   "firstQueuedAtMs": 1795438800000,
+   "playedAtMs": 1795438800000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=164798",
+   "firstQueuedAtMs": 1795438800000,
+   "playedAtMs": 1795438800000
+  },
+  {
+   "key": "https://thehill.com/?p=6234440",
+   "firstQueuedAtMs": 1795438800000,
+   "playedAtMs": 1795438800000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/",
+   "firstQueuedAtMs": 1795438800000,
+   "playedAtMs": 1795438800000
+  },
+  {
+   "key": "74426028",
+   "firstQueuedAtMs": 1795438800000,
+   "playedAtMs": 1795438800000
+  },
+  {
+   "key": "https://dev.to/tarunsinghofficial/appsignal-pricing-what-a-rails-team-should-budget-for-3fmf",
+   "firstQueuedAtMs": 1795438800000,
+   "playedAtMs": 1795438800000
+  },
+  {
+   "key": "74505962",
+   "firstQueuedAtMs": 1795438800000,
+   "playedAtMs": 1795438800000
+  },
+  {
+   "key": "https://thehill.com/?p=6236287",
+   "firstQueuedAtMs": 1795438800000,
+   "playedAtMs": 1795438800000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4452715",
+   "firstQueuedAtMs": 1795438800000,
+   "playedAtMs": 1795438800000
+  },
+  {
+   "key": "https://dev.to/sheen_417f0f3a7f4/can-cursor-create-and-edit-videos-setting-it-up-with-a-video-studio-2fon",
+   "firstQueuedAtMs": 1795438800000,
+   "playedAtMs": 1795438800000
+  },
+  {
+   "key": "https://www.royalsreview.com/?p=108413",
+   "firstQueuedAtMs": 1795438800000,
+   "playedAtMs": 1795438800000
+  },
+  {
+   "key": "https://dev.to/vlad_grigoryan/85-of-tech-job-ads-in-europe-state-the-pay-most-of-them-only-say-it-in-the-prose-ob3",
+   "firstQueuedAtMs": 1795438800000,
+   "playedAtMs": 1795438800000
+  },
+  {
+   "key": "https://dev.to/pro2tools/when-the-tape-says-1502-mm-comparing-diagonals-without-premature-rounding-1pn5",
+   "firstQueuedAtMs": 1795438800000,
+   "playedAtMs": 1795438800000
+  },
+  {
+   "key": "e71e7f82-6e9e-4b22-b9a4-b746562af538",
+   "firstQueuedAtMs": 1795438800000,
+   "playedAtMs": 1795438800000
+  },
+  {
+   "key": "https://dev.to/amineoua/if-the-com-is-gone-the-next-best-ending-is-not-the-answer-1j5e",
+   "firstQueuedAtMs": 1795438800000,
+   "playedAtMs": 1795438800000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/politics/how-a-billionaire-tax-proposal-failed-in-california-despite-big-election-wins-for-progressives",
+   "firstQueuedAtMs": 1795438800000,
+   "playedAtMs": 1795438800000
+  },
+  {
+   "key": "74504339",
+   "firstQueuedAtMs": 1795438800000,
+   "playedAtMs": 1795438800000
+  },
+  {
+   "key": "https://capitolnewsillinois.com/?p=134022",
+   "firstQueuedAtMs": 1795438800000,
+   "playedAtMs": 1795438800000
+  },
+  {
+   "key": "https://www.kshb.com/us-news/us-army-plans-to-invoke-emergency-provisions-to-detonate-bomb-making-chemicals-in-iowa",
+   "firstQueuedAtMs": 1795438800000,
+   "playedAtMs": 1795438800000
+  },
+  {
+   "key": "https://www.techdirt.com/?p=552084&preview=true&preview_id=552084",
+   "firstQueuedAtMs": 1795438800000,
+   "playedAtMs": 1795438800000
+  },
+  {
+   "key": "https://michiganadvance.com/?p=116161",
+   "firstQueuedAtMs": 1795438800000,
+   "playedAtMs": 1795438800000
+  },
+  {
+   "key": "https://lobste.rs/s/jagv1r",
+   "firstQueuedAtMs": 1795438800000,
+   "playedAtMs": 1795438800000
+  },
+  {
+   "key": "https://dev.to/neeraj_singhi_golang/go-generics-at-package-boundaries-type-parameter-leakage-interface-erosion-and-the-constraint-3o2b",
+   "firstQueuedAtMs": 1795438800000,
+   "playedAtMs": 1795438800000
+  },
+  {
+   "key": "68e36708-cbec-4323-bb81-b847be87705e",
+   "firstQueuedAtMs": 1795438800000,
+   "playedAtMs": 1795438800000
+  },
+  {
+   "key": "https://dev.to/silpa_nallagopula_4d02cde/redis-80-reaches-end-of-life-on-december-1-redis-72-and-74-are-supported-until-2029-8bf",
+   "firstQueuedAtMs": 1795438800000,
+   "playedAtMs": 1795438800000
+  },
+  {
+   "key": "c1ef2e5a-4e04-4749-84ed-989f1ae2265a",
+   "firstQueuedAtMs": 1795438800000,
+   "playedAtMs": 1795438800000
+  },
+  {
+   "key": "https://www.kshb.com/dont-waste-your-money/thanksgiving-dinner-adding-up-try-these-last-minute-ways-to-save",
+   "firstQueuedAtMs": 1795438800000,
+   "playedAtMs": 1795438800000
   }
  ]
 }
