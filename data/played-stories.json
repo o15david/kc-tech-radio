@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T18:50:23.193Z",
- "lastSyncBucket": 997476,
- "lastSyncCarryInSeconds": 67,
+ "updatedAt": "2026-11-23T19:05:27.067Z",
+ "lastSyncBucket": 997477,
+ "lastSyncCarryInSeconds": 55,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -10964,6 +10964,191 @@
    "key": "https://www.kctv5.com/2026/11/23/while-you-watch-tv-it-may-be-spying-you/",
    "firstQueuedAtMs": 1795456800000,
    "playedAtMs": 1795456800000
+  },
+  {
+   "key": "6b00b43efb286bb31d23be22",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/23/how-support-loved-ones-with-eating-disorders-thanksgiving-table/",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/23/jensen-huang-nvidia-congress-dc-reaction",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "https://www.engadget.com/2320286/underrated-smart-rings-more-affordable-oura-ring-5/",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "BifsxmMyAxtMmbmF5TExZL",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "https://nautil.us/?p=1286969",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=229726",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "https://electrek.co/?p=495515",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/ultra-thin-rainbow-sails-could-power-spacecraft-and-shade-the-earth",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4419288",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1040265",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/23/us-named-host-2031-womens-world-cup-kansas-city-now-competes-matches/",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "WP-MKTW-0005365227",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "https://www.futurity.org/?p=3353542",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/best-kids-brand-collabs-gift-2026-rcna609691",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "TOYXUEVTTCZO00",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "108557540",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4418993",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43237",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/opinion/republicans-maha-democrats-health.html",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "WP-MKTW-0005365238",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "https://www.futurity.org/?p=3353562",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/23/tips-keep-your-brain-healthy/",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=287946",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "https://thehill.com/?p=6237899",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386668",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/23/officer-charged-with-animal-cruelty-after-k-9-found-dead-police-car/",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4453120",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43234",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "https://www.futurity.org/?p=3353622",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/23/black-friday-special-first-15-viewers-get-50-amazon-gift-card-free-ultrasmooth-upgrade/",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1040122",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/23/light-up-pitch-cpkc-stadium/",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "https://thehill.com/?p=6237691",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "https://www.inc.com/aaron-mok/jensen-huangs-nvidia-comeback-has-unleashed-a-flood-of-bizarre-and-jubilant-ai-memes/91441228",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
+  },
+  {
+   "key": "https://www.kshb.com/us-news/consumer-reports-sounds-alarm-over-federal-product-safety-watchdog",
+   "firstQueuedAtMs": 1795458600000,
+   "playedAtMs": 1795458600000
   }
  ]
 }
