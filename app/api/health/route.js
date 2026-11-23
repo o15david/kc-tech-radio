@@ -53,6 +53,11 @@ export async function GET() {
         }
       : null,
     wireDegraded: Boolean(pool.lastRefresh && !pool.lastRefresh.ok),
+    // Language gate observability (David, Nov 23, 2026): how many
+    // items the last accepted refresh dropped as Spanish-language
+    // (lib/language.js, applied in lib/ingest.js). Reported on every
+    // response so the filter's work is measured, not asserted.
+    languageFilter: pool.languageFilter || null,
     // Topic-dedupe stats of the pool being served: how many items the
     // last accepted refresh arrived with, how many survived headline
     // dedupe, and how many syndicated copies were dropped (lib/ingest.js).
