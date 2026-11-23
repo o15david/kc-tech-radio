@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T13:50:21.194Z",
- "lastSyncBucket": 997466,
- "lastSyncCarryInSeconds": 115,
+ "updatedAt": "2026-11-23T14:05:19.017Z",
+ "lastSyncBucket": 997467,
+ "lastSyncCarryInSeconds": 12,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -9109,6 +9109,206 @@
    "key": "https://www.kshb.com/dont-waste-your-money/thanksgiving-dinner-adding-up-try-these-last-minute-ways-to-save",
    "firstQueuedAtMs": 1795438800000,
    "playedAtMs": 1795438800000
+  },
+  {
+   "key": "74506963",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/22/week-ahead-washington-november-22/",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "e6c73d59-750a-45ac-a31c-422ac71d4492",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/23/fire-destroys-paramedics-home-killing-more-than-dozen-pets/",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "0860df5e-5eab-4c3a-a03d-b7755d931254",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "https://www.kshb.com/politics/schumer-van-hollen-clash-over-senate-democratic-leadership-as-trump-wades-into-the-high-stakes-race",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "7fa7ec7c-4cab-4da6-9157-6f6263e8b972",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1106403",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "636ab8c0-5259-4948-a740-d53fb5336b38",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "74506803",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "https://abcnews.com/video/138373307/",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "https://minnesotareformer.com/?p=39948",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "13c63257-c439-4ece-9cfc-bc0963e03ea8",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "https://thehill.com/?p=6236693",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "now_mnn_marris_army_explosion_iowa_261123",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191178",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1039095",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "https://www.sciencenews.org/?p=3182031",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "https://wisconsinwatch.org/?p=1323290",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=230004",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43215",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "https://sifted.eu/articles/agon-raise-northzone-lakestar-defence/",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "https://arstechnica.com/cars/2026/11/f1-in-las-vegas-youve-never-seen-an-f1-race-like-this-before/",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386653",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "news714638633",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "TOXR1TT96OSG00",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "WP-MKTW-0005364547",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43218",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/best-black-friday-deals-2026-rcna610836",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "https://www.engadget.com/2319769/how-to-clear-browser-cache-microsoft-edge/",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "https://fortune.com/?p=4646220&showAdminBar=true",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/technology/spacex-lawsuit-ai-sexualized-images.html",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311640",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/business/crowdstrike-zscaler-cybersecurity.html",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "108557054",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386615",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "https://fortune.com/?p=4648398&showAdminBar=true",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "https://thehill.com/?p=6234609",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "WP-MKTW-0005364629",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4417543",
+   "firstQueuedAtMs": 1795440600000,
+   "playedAtMs": 1795440600000
   }
  ]
 }
