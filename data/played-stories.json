@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T04:20:18.952Z",
- "lastSyncBucket": 997447,
- "lastSyncCarryInSeconds": 77,
+ "updatedAt": "2026-11-23T04:35:19.137Z",
+ "lastSyncBucket": 997448,
+ "lastSyncCarryInSeconds": 31,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -6364,6 +6364,186 @@
    "key": "https://dev.to/_abbdc2/catching-wordpress-privilege-escalation-without-a-signature-check-the-capability-again-at-the-write-fdf",
    "firstQueuedAtMs": 1795404600000,
    "playedAtMs": 1795404600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/23/kc-current-fans-celebrate-first-nwsl-title-champions-return-home/",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/22/former-broncos-star-espn-broadcaster-tom-jackson-dead-75/",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "https://thehill.com/?p=6236538",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/22/us/politics/stephen-miller-fact-check.html",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "https://www.royalsreview.com/?p=108270",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/22/nx-s1-5752261/small-business-loan-merchant-cash-advance",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "https://dev.to/manislab96/java-encapsulation-and-abstraction-36ff",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "https://dev.to/sagarbharvadiya1/why-i-recommend-sanity-cms-for-business-websites-1n10",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/bryce-miller-royals-mariners-trade",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "https://kansascitymag.com/?p=92080",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/22/nx-s1-6044221/npr-senior-podcast-challenge-early-entries",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1106098",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "https://dev.to/lingamsuyambu/dynamic-sql-done-safely-spexecutesql-parameters-and-quotename-c0o",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "https://dev.to/shivaysinghrajput/perplexity-is-the-one-number-that-still-measures-ai-progress-openai-just-proved-it-4o4o",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/22/nyregion/cornell-jane-doe-case.html",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "108557151",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386401",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "TOXS6PKGIFPL00",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "108557083",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "https://www.thepitchkc.com/?p=959533",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "https://github.com/AFK-surf/xnulinux",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "TOXRORN3N08W00",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "TOXQOIKIUPS100",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "https://www.inc.com/kevin-haynes/another-texas-hotel-group-with-big-name-brands-files-for-bankruptcy/91441107",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "108555872",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "https://0rwx.com/",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "108557038",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261120071501.htm",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/22/opinion/europe-us-congress-allies.html",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "https://www.engadget.com/2319533/how-to-use-phone-test-remote-control-battery/",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "https://hackaday.com/?p=1429599",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "https://www.engadget.com/2319522/how-secure-is-password/",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261121221124.htm",
+   "firstQueuedAtMs": 1795406400000,
+   "playedAtMs": 1795406400000
   }
  ]
 }
