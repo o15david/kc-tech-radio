@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T16:20:18.055Z",
- "lastSyncBucket": 997471,
- "lastSyncCarryInSeconds": 106,
+ "updatedAt": "2026-11-23T16:35:22.468Z",
+ "lastSyncBucket": 997472,
+ "lastSyncCarryInSeconds": 114,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -9964,6 +9964,216 @@
    "key": "https://dailygalaxy.com/?p=163420",
    "firstQueuedAtMs": 1795447800000,
    "playedAtMs": 1795447800000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=302130",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "74508811",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "https://missouriindependent.com/?post_type=republished&p=33735",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "https://thehill.com/?p=6234610",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/23/what-travelers-should-know-storms-threaten-thanksgiving-week-travel/",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "93e3eb0a-0822-4804-98ba-d63d55bf39dd",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "https://electrek.co/?p=494573",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "108553236",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4417531",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4418553",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "c9ce1816-f813-4217-a3c7-6966115f575b",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "https://www.inc.com/michael-tasner/nvidia-jensen-huang-ceo-reversal-changing-course/91441247",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "TOYQISKIJH8I00",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "https://lobste.rs/s/pdecff",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191323",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "news714649562",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311656",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=302388",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "0b4d59e5-df4a-46b6-9484-77f319f673aa",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "https://lobste.rs/s/xqbprq",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "https://www.engadget.com/2321531/what-green-flasing-light-roku-remote-telling-you/",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "TOYOXUN3N08Y00",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "https://ladybird.org/posts/alpha/",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "https://lobste.rs/s/ewggds",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "news714650399",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "https://www.eetimes.com/?p=101804217",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "https://www.nasa.gov/?p=1067212",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "WP-MKTW-0005364787",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "TOYPEXRKV2U800",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75702",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "74508314",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "74507965",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "https://thehill.com/?p=6237264",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "https://www.kshb.com/sports/local-sports/kc-current/us-to-host-2031-womens-world-cup-along-with-mexico-costa-rica-and-jamaica",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "https://electrek.co/?p=495443",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "https://physicsworld.com/?p=131728",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "news714650720",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "news714389701",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1039999",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "8852f45a-1375-475e-a7b5-4614bf4353c9",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
+  },
+  {
+   "key": "https://www.fastcompany.com/91646664/young-americans-cant-afford-to-move-out-these-cities-are-seeing-the-biggest-increases",
+   "firstQueuedAtMs": 1795449600000,
+   "playedAtMs": 1795449600000
   }
  ]
 }
