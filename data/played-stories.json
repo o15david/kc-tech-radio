@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T06:20:20.381Z",
- "lastSyncBucket": 997451,
+ "updatedAt": "2026-11-23T06:35:08.608Z",
+ "lastSyncBucket": 997452,
  "lastSyncCarryInSeconds": 17,
  "entries": [
   {
@@ -6984,6 +6984,161 @@
    "key": "https://www.downtownkc.org/?p=68811",
    "firstQueuedAtMs": 1795411800000,
    "playedAtMs": 1795411800000
+  },
+  {
+   "key": "301d749f-1474-48f9-8bdd-8edf631ad23e",
+   "firstQueuedAtMs": 1795413600000,
+   "playedAtMs": 1795413600000
+  },
+  {
+   "key": "https://arkansasadvocate.com/?p=31112",
+   "firstQueuedAtMs": 1795413600000,
+   "playedAtMs": 1795413600000
+  },
+  {
+   "key": "https://abcnews.com/US/woman-center-nvidia-scandal-touch-chinas-top-spy/story?id=138369034",
+   "firstQueuedAtMs": 1795413600000,
+   "playedAtMs": 1795413600000
+  },
+  {
+   "key": "https://www.kcur.org/podcast/kansas-city-today/2026-11-16/what-is-missouris-next-big-ballot-issue-after-amendment-6",
+   "firstQueuedAtMs": 1795413600000,
+   "playedAtMs": 1795413600000
+  },
+  {
+   "key": "https://kcsoccerjournal.com/?p=8728",
+   "firstQueuedAtMs": 1795413600000,
+   "playedAtMs": 1795413600000
+  },
+  {
+   "key": "https://www.nbcnews.com/sports/nfl/san-francisco-49ers-minnesota-vikings-brock-purdy-kirk-cousins-nfl-rcna610810",
+   "firstQueuedAtMs": 1795413600000,
+   "playedAtMs": 1795413600000
+  },
+  {
+   "key": "https://martincitytelegraph.com/?p=81788",
+   "firstQueuedAtMs": 1795413600000,
+   "playedAtMs": 1795413600000
+  },
+  {
+   "key": "625ace52-8fad-4ee5-9e53-2b94b3728f48",
+   "firstQueuedAtMs": 1795413600000,
+   "playedAtMs": 1795413600000
+  },
+  {
+   "key": "https://martincitytelegraph.com/?p=81757",
+   "firstQueuedAtMs": 1795413600000,
+   "playedAtMs": 1795413600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/opinion/defund-iran-war-democrats.html",
+   "firstQueuedAtMs": 1795413600000,
+   "playedAtMs": 1795413600000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/20/trump-arch-blocked-again",
+   "firstQueuedAtMs": 1795413600000,
+   "playedAtMs": 1795413600000
+  },
+  {
+   "key": "https://dosmundos.com/?p=121531",
+   "firstQueuedAtMs": 1795413600000,
+   "playedAtMs": 1795413600000
+  },
+  {
+   "key": "https://dev.to/iamcareers/what-us-sailpoint-identityiq-job-posts-asked-for-in-november-2026-3ak5",
+   "firstQueuedAtMs": 1795413600000,
+   "playedAtMs": 1795413600000
+  },
+  {
+   "key": "https://bridgemi.com/?p=84008",
+   "firstQueuedAtMs": 1795413600000,
+   "playedAtMs": 1795413600000
+  },
+  {
+   "key": "https://dev.to/lineanswered/packagejson-files-what-npm-publish-actually-includes-m9f",
+   "firstQueuedAtMs": 1795413600000,
+   "playedAtMs": 1795413600000
+  },
+  {
+   "key": "https://dev.to/shinkaspool/does-a-bigger-model-loop-less-repetition-at-9b-vs-27b-measured-1cg0",
+   "firstQueuedAtMs": 1795413600000,
+   "playedAtMs": 1795413600000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/20/house-senate-freshmen-class-largest-decades",
+   "firstQueuedAtMs": 1795413600000,
+   "playedAtMs": 1795413600000
+  },
+  {
+   "key": "https://bridgemi.com/?p=84076",
+   "firstQueuedAtMs": 1795413600000,
+   "playedAtMs": 1795413600000
+  },
+  {
+   "key": "https://dev.to/ritompuzari/private-ai-code-review-in-vs-code-with-a-local-ollama-model-1nm3",
+   "firstQueuedAtMs": 1795413600000,
+   "playedAtMs": 1795413600000
+  },
+  {
+   "key": "https://www.kcur.org/news/2026-11-14/kansas-city-travelers-face-lingering-delays-after-faa-ground-stop-and-more-than-100-cancellations",
+   "firstQueuedAtMs": 1795413600000,
+   "playedAtMs": 1795413600000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/mlb-candidates-to-win-first-mvp-cy-young-2027",
+   "firstQueuedAtMs": 1795413600000,
+   "playedAtMs": 1795413600000
+  },
+  {
+   "key": "https://kcstudio.org/?p=125234",
+   "firstQueuedAtMs": 1795413600000,
+   "playedAtMs": 1795413600000
+  },
+  {
+   "key": "https://dev.to/techinnolab/nextjs-164-cache-components-ensurestatic-and-a-security-patch-you-shouldnt-skip-nd",
+   "firstQueuedAtMs": 1795413600000,
+   "playedAtMs": 1795413600000
+  },
+  {
+   "key": "https://kcsoccerjournal.com/?p=8723",
+   "firstQueuedAtMs": 1795413600000,
+   "playedAtMs": 1795413600000
+  },
+  {
+   "key": "https://dev.to/tunmise_alabi_b21b19f3c02/rydra-a-private-one-minute-check-in-for-drivers-beforeduring-and-after-every-trip-1f11",
+   "firstQueuedAtMs": 1795413600000,
+   "playedAtMs": 1795413600000
+  },
+  {
+   "key": "https://martincitytelegraph.com/?p=81749",
+   "firstQueuedAtMs": 1795413600000,
+   "playedAtMs": 1795413600000
+  },
+  {
+   "key": "TOXV9MRKV2TY00",
+   "firstQueuedAtMs": 1795413600000,
+   "playedAtMs": 1795413600000
+  },
+  {
+   "key": "https://abcnews.com/video/138324954/",
+   "firstQueuedAtMs": 1795413600000,
+   "playedAtMs": 1795413600000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75655",
+   "firstQueuedAtMs": 1795413600000,
+   "playedAtMs": 1795413600000
+  },
+  {
+   "key": "https://source.washu.edu/?p=735952",
+   "firstQueuedAtMs": 1795413600000,
+   "playedAtMs": 1795413600000
+  },
+  {
+   "key": "https://hackaday.com/?p=1429694",
+   "firstQueuedAtMs": 1795413600000,
+   "playedAtMs": 1795413600000
   }
  ]
 }
