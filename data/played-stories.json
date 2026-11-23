@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T10:50:20.504Z",
- "lastSyncBucket": 997460,
- "lastSyncCarryInSeconds": 71,
+ "updatedAt": "2026-11-23T11:05:11.210Z",
+ "lastSyncBucket": 997461,
+ "lastSyncCarryInSeconds": 86,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -8264,6 +8264,186 @@
    "key": "TOY71ZKGIFPF00",
    "firstQueuedAtMs": 1795428000000,
    "playedAtMs": 1795428000000
+  },
+  {
+   "key": "https://www.nbcnews.com/world/ukraine/ukraine-sinks-russian-warship-merkury-libya-naval-drones-war-rcna610822",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/22/business/ai-stocks-sp500.html",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "https://www.nbcnews.com/news/us-news/rough-weather-expected-hit-both-coasts-may-disrupt-thanksgiving-travel-rcna610778",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-older-soldiers.html",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "https://wisconsinwatch.org/?p=1323282",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/us/politics/democrats-debates-2028-presidential-race.html",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/business/thanksgiving-grocery-prices.html",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1039874",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "6aff9633a374cc453cbed5ad",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "6b00a370dedf491d3bbcb843",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "https://www.nbcnews.com/politics/2028-election/democratic-national-committee-sets-broad-rules-partys-2028-presidentia-rcna610439",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "https://michiganadvance.com/?post_type=republished&p=116158",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "K4UA7VfNdru9yJs3uJ8ema",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "https://www.infoq.com/podcasts/simulation-agents-actually-doing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "https://dev.to/sophie-pyxis/team-topologies-transforme-uma-dependencia-recorrente-em-servico-de-plataforma-16ma",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "https://dev.to/alexgeorgiev17/why-my-local-docker-registry-broke-the-day-i-upgraded-3olg",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/science/missing-heritability.html",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "kHyLhjkP8fSiZ6dHFxqXoL",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "https://restofworld.org/2026/ibm-consulting-ends-us-visa-green-card-sponsorship/",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "https://stratechery.com/?p=21351",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "108555431",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "WP-MKTW-0005364420",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "WP-MKTW-0005364434",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "https://www.nytimes.com/video/well/100000011088461/gas-station-drugs-vape-weed-kratom-hallucinogens.html",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "https://sifted.eu/articles/plural-fund-ai-podcast/",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75663",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "https://lobste.rs/s/nh5bob",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "https://www.marktechpost.com/?p=84060",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "https://indianacapitalchronicle.com/?p=28221",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "TOTS9XT96OSM00",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "https://lobste.rs/s/t8c4vj",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75672",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "https://z.ai/blog/glm-5.4",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "https://www.fastcompany.com/91645679/los-angeles-freeway-worlds-largest-wildlife-bridge",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/world/europe/ukraine-libya-russian-ships.html",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
+  },
+  {
+   "key": "https://www.fastcompany.com/91646683/the-first-3d-printer-in-space-made-a-wrench-it-could-help-humans-live-on-the-moon",
+   "firstQueuedAtMs": 1795429800000,
+   "playedAtMs": 1795429800000
   }
  ]
 }
