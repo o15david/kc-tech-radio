@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T22:20:10.276Z",
- "lastSyncBucket": 997483,
- "lastSyncCarryInSeconds": 110,
+ "updatedAt": "2026-11-23T22:35:21.410Z",
+ "lastSyncBucket": 997484,
+ "lastSyncCarryInSeconds": 68,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -12339,6 +12339,186 @@
    "key": "https://missouriindependent.com/?post_type=republished&p=33827",
    "firstQueuedAtMs": 1795469400000,
    "playedAtMs": 1795469400000
+  },
+  {
+   "key": "74512319",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "https://missouriindependent.com/?post_type=republished&p=33830",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "TOZ7NMRKV2U000",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "9cdaf23a-2c3c-4e8c-a8b7-f0d0fd009584",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1040652",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "74512136",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "https://github.com/anthropics/formal-math/blob/11b6c7e3c927df2658f513b6b68ea7f8929c62c5/vp-vnp/paper.pdf",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "https://spaceflightnow.com/?p=75012",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/23/mother-accused-spraying-2-children-with-bear-spray-indicted/",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "u2Rxqjutm5qpbkMxJHbrSZ",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "TOZ7E5R24U8200",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "https://www.inc.com/lucia-auerbach/lloyd-blankfein-revised-warning-after-jensen-huang-return-last-4-words-explain-why/91441681",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "news714661201",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "74512010",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "108557527",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "https://lobste.rs/s/rz7m8a",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "https://spaceflightnow.com/?p=75000",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=302410",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1040819",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191583",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "TOYSRJKIJH9200",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "WP-MKTW-0005365162",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "https://www.darkreading.com/ics-ot-security/industrial-serial-gateways-broadcast-insecure",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "https://thehill.com/?p=6238446",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191460",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/23/while-you-watch-tv-it-may-be-spying-you/",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "TOZ642KIP3IF00",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "news714661708",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "news714660801",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311768",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4452977",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191575",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "https://www.kshb.com/us-news/cincinnati-zoo-reopens-hippo-cove-with-new-safety-measures-after-fionas-death",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1034512",
+   "firstQueuedAtMs": 1795471200000,
+   "playedAtMs": 1795471200000
   }
  ]
 }
