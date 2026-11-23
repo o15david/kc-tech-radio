@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T16:50:13.009Z",
- "lastSyncBucket": 997472,
- "lastSyncCarryInSeconds": 114,
+ "updatedAt": "2026-11-23T17:05:12.142Z",
+ "lastSyncBucket": 997473,
+ "lastSyncCarryInSeconds": 28,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -10174,6 +10174,256 @@
    "key": "https://www.fastcompany.com/91646664/young-americans-cant-afford-to-move-out-these-cities-are-seeing-the-biggest-increases",
    "firstQueuedAtMs": 1795449600000,
    "playedAtMs": 1795449600000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386673",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "74509098",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/22/8-year-old-critically-hurt-after-falling-out-trailer-onto-road/",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://thehill.com/?p=6237471",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/23/shoppers-who-are-not-tech-savvy-may-miss-grocery-savings-expert-says/",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/gifts-for-sober-curious-people-rcna610883",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://www.engadget.com/2325245/google-is-finally-retiring-the-nest-app-early-next-year/",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191267",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/technology/trump-nvidia-huang.html",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "108557480",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://thehill.com/?p=6237490",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://www.inc.com/moses-jeanfrancois/mit-brothers-accused-taking-25-million-dollars-12-seconds-judge-just-acquitted-them/91438025",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://www.nbcnews.com/pop-culture/pop-culture-news/bo-derek-john-corbett-adopted-gene-hackmans-dog-bear-actors-death-rcna610884",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315590",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://www.engadget.com/2320282/pros-cons-wearing-fitbit-ankle/",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "74468686",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://bridgemi.com/?p=84168",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/lisas-gravitational-wave-detections-could-reveal-exoplanets",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "74509135",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "TOYOVEKK3NYA00",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "WP-MKTW-0005364777",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "news714651421",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/kansas-city-missouri-packaging-plant-to-close-costing-62-jobs",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "news714650382",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191332",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://www.sci.news/?p=112864",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1040096",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/23/kansas-city-close-layoff-dozens-workers-by-end-year/",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "0c92853b-6653-47c2-862e-2c0e9d56511a",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "news714650923",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1040069",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "TOPG8KKJH6VA00",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://www.inc.com/ash-kumra/ai-was-supposed-to-replace-support-teams-some-companies-are-hiring-more-instead/91440327",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://www.inc.com/temilola-agbede/instagram-creators-amazon-affiliate-links-cyber-week-margins/91440737",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://www.fastcompany.com/91647447/1992-batmobile-going-auction-dont-expect-see-out-road",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4452940",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://www.quantamagazine.org/?p=169527",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://boland.dev/snet/",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=162753",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "74509120",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/23/nx-s1-6047706/health-medicare-for-all-chances",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "74506000",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "TOYKWPKGIFPW00",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "https://www.kshb.com/sports/tennessee-fined-after-fans-throw-golf-balls-mustard-bottles-at-lane-kiffin",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
+  },
+  {
+   "key": "news714642112",
+   "firstQueuedAtMs": 1795451400000,
+   "playedAtMs": 1795451400000
   }
  ]
 }
