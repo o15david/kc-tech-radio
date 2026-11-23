@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T15:20:15.895Z",
- "lastSyncBucket": 997469,
- "lastSyncCarryInSeconds": 9,
+ "updatedAt": "2026-11-23T15:35:19.095Z",
+ "lastSyncBucket": 997470,
+ "lastSyncCarryInSeconds": 82,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -9624,6 +9624,186 @@
    "key": "74507641",
    "firstQueuedAtMs": 1795444200000,
    "playedAtMs": 1795444200000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=164757",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "https://thehill.com/?p=6234167",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191291",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "TOYOB0R24U8800",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "e8d30f44-02dd-4935-b8e0-d0f8d688d3d4",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "https://electrek.co/?p=495414",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/23/some-days-belong-whole-city-mayor-pens-excused-absence-letter-current-celebration/",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "news714642609",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "6e3746b4-0b79-49dc-8b31-d225e58a0cc9",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "news714649752",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "108557089",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "tag:daringfireball.net,2026:/linked//6.43762",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "https://lobste.rs/s/gtc9rg",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/bacteria-and-nuclear-power-could-grow-ready-made-homes-on-mars-before-astronauts-arrive",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "579c2dee-856f-43d5-b8d1-a129d9ed2804",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43216",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "d68eKCsqmj6LiDaswnZWJF",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "TOYNBKKGIFQG00",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=302382",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311684",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/climate/cop31-collapse-what-next.html",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "https://lobste.rs/s/8g6qyx",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1039978",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "news714373839",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "83e831bb-84bd-4f11-87cf-3e8ee5cd15c9",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "news714647221",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "https://hackaday.com/?p=1429127",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/22/high-school-tennis-coach-fired-after-student-overheats-passes-out-tournament/",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "https://www.kshb.com/us-news/us-stocks-soar-and-recover-much-of-last-weeks-brutal-loss-after-jensen-huang-returns-to-nvidia",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1039215",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/world/more-than-12000-fans-were-evacuated-from-don-toliver-concert-after-an-unknown-substance-sickens-fans",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "https://www.inc.com/netta-jenkins/ai-cohorts-could-be-the-secret-to-turning-employees-into-builders/91440339",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "https://www.inc.com/pam-didner/ai-sell-off-market-volatility-real-ai-demand/91441149",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
+  },
+  {
+   "key": "https://www.fastcompany.com/91647455/this-one-your-kitchens-hardest-working-tools-heres-how-keep-food-safe",
+   "firstQueuedAtMs": 1795446000000,
+   "playedAtMs": 1795446000000
   }
  ]
 }
