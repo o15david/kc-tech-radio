@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T12:50:20.005Z",
- "lastSyncBucket": 997464,
- "lastSyncCarryInSeconds": 44,
+ "updatedAt": "2026-11-23T13:05:18.524Z",
+ "lastSyncBucket": 997465,
+ "lastSyncCarryInSeconds": 29,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -8844,6 +8844,136 @@
    "key": "https://dev.to/camaan_ai_team/what-it-takes-to-put-an-agent-on-the-phone-5f36",
    "firstQueuedAtMs": 1795435200000,
    "playedAtMs": 1795435200000
+  },
+  {
+   "key": "https://kansascitymag.com/?p=81656",
+   "firstQueuedAtMs": 1795437000000,
+   "playedAtMs": 1795437000000
+  },
+  {
+   "key": "https://missouriindependent.com/?p=33804",
+   "firstQueuedAtMs": 1795437000000,
+   "playedAtMs": 1795437000000
+  },
+  {
+   "key": "https://www.nbcnews.com/business/markets/stocks-rebound-ai-tech-selloff-nvidia-rcna610833",
+   "firstQueuedAtMs": 1795437000000,
+   "playedAtMs": 1795437000000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31",
+   "firstQueuedAtMs": 1795437000000,
+   "playedAtMs": 1795437000000
+  },
+  {
+   "key": "https://kansascitymag.com/?p=82552",
+   "firstQueuedAtMs": 1795437000000,
+   "playedAtMs": 1795437000000
+  },
+  {
+   "key": "https://thehill.com/?p=6234226",
+   "firstQueuedAtMs": 1795437000000,
+   "playedAtMs": 1795437000000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/new-balance-237-sneakers-deal-of-the-day-rcna610799",
+   "firstQueuedAtMs": 1795437000000,
+   "playedAtMs": 1795437000000
+  },
+  {
+   "key": "https://missouriindependent.com/?post_type=republished&p=33815",
+   "firstQueuedAtMs": 1795437000000,
+   "playedAtMs": 1795437000000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/217276/5-things-we-learned-from-the-chiefs-feasting-on-dirty-bird",
+   "firstQueuedAtMs": 1795437000000,
+   "playedAtMs": 1795437000000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/best-early-black-friday-deals-2026-rcna609512",
+   "firstQueuedAtMs": 1795437000000,
+   "playedAtMs": 1795437000000
+  },
+  {
+   "key": "tdy_sat_tree_arrival_261107",
+   "firstQueuedAtMs": 1795437000000,
+   "playedAtMs": 1795437000000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/missouri/platte-county/kci-braces-for-record-holiday-rush-at-the-airport-this-thanksgiving",
+   "firstQueuedAtMs": 1795437000000,
+   "playedAtMs": 1795437000000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1039838",
+   "firstQueuedAtMs": 1795437000000,
+   "playedAtMs": 1795437000000
+  },
+  {
+   "key": "https://dev.to/tokenpeakai/put-runtime-checks-in-a-dataclass-post-init-hook-8a1",
+   "firstQueuedAtMs": 1795437000000,
+   "playedAtMs": 1795437000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/22/3-dead-including-teen-1-injured-baby-shower-shooting/",
+   "firstQueuedAtMs": 1795437000000,
+   "playedAtMs": 1795437000000
+  },
+  {
+   "key": "zQgzN7HSGbd9SY4pRvyWS6",
+   "firstQueuedAtMs": 1795437000000,
+   "playedAtMs": 1795437000000
+  },
+  {
+   "key": "https://martincitytelegraph.com/?p=82026",
+   "firstQueuedAtMs": 1795437000000,
+   "playedAtMs": 1795437000000
+  },
+  {
+   "key": "4jVPApsSaNLoXegWb838yR",
+   "firstQueuedAtMs": 1795437000000,
+   "playedAtMs": 1795437000000
+  },
+  {
+   "key": "https://nautil.us/?p=1286928",
+   "firstQueuedAtMs": 1795437000000,
+   "playedAtMs": 1795437000000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=229478",
+   "firstQueuedAtMs": 1795437000000,
+   "playedAtMs": 1795437000000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315578",
+   "firstQueuedAtMs": 1795437000000,
+   "playedAtMs": 1795437000000
+  },
+  {
+   "key": "https://www.inc.com/jeff-haden/a-new-study-links-type-2-diabetes-with-a-significantly-greater-risk-of-developing-alzheimers/91441146",
+   "firstQueuedAtMs": 1795437000000,
+   "playedAtMs": 1795437000000
+  },
+  {
+   "key": "108557057",
+   "firstQueuedAtMs": 1795437000000,
+   "playedAtMs": 1795437000000
+  },
+  {
+   "key": "https://electrek.co/?p=495359",
+   "firstQueuedAtMs": 1795437000000,
+   "playedAtMs": 1795437000000
+  },
+  {
+   "key": "https://www.fastcompany.com/91627746/the-conversation-youre-avoiding-is-already-costing-you-leadership-corporate-conversations",
+   "firstQueuedAtMs": 1795437000000,
+   "playedAtMs": 1795437000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/23/shawnee-school-principal-placed-leave-after-iowa-arrest/",
+   "firstQueuedAtMs": 1795437000000,
+   "playedAtMs": 1795437000000
   }
  ]
 }
