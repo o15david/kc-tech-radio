@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T07:50:27.725Z",
- "lastSyncBucket": 997454,
- "lastSyncCarryInSeconds": 6,
+ "updatedAt": "2026-11-23T08:05:18.635Z",
+ "lastSyncBucket": 997455,
+ "lastSyncCarryInSeconds": 89,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -7459,6 +7459,156 @@
    "key": "TOXVOMRKV2TG00",
    "firstQueuedAtMs": 1795417200000,
    "playedAtMs": 1795417200000
+  },
+  {
+   "key": "https://flatlandkc.org/?p=199495",
+   "firstQueuedAtMs": 1795419000000,
+   "playedAtMs": 1795419000000
+  },
+  {
+   "key": "https://michiganadvance.com/?p=116119",
+   "firstQueuedAtMs": 1795419000000,
+   "playedAtMs": 1795419000000
+  },
+  {
+   "key": "https://abcnews.com/US/amtrak-train-derails-after-striking-truck-louisiana/story?id=138369354",
+   "firstQueuedAtMs": 1795419000000,
+   "playedAtMs": 1795419000000
+  },
+  {
+   "key": "https://www.downtownkc.org/?p=68796",
+   "firstQueuedAtMs": 1795419000000,
+   "playedAtMs": 1795419000000
+  },
+  {
+   "key": "https://abcnews.com/Politics/dni-clayton-putin-americas-friend-ukraine/story?id=138356905",
+   "firstQueuedAtMs": 1795419000000,
+   "playedAtMs": 1795419000000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/20/democrat-governors-medicaid-expansion-fallbacks",
+   "firstQueuedAtMs": 1795419000000,
+   "playedAtMs": 1795419000000
+  },
+  {
+   "key": "https://kansascitydefender.com/?p=18913",
+   "firstQueuedAtMs": 1795419000000,
+   "playedAtMs": 1795419000000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/20/phoenix-mayor-data-centers-ai-boom",
+   "firstQueuedAtMs": 1795419000000,
+   "playedAtMs": 1795419000000
+  },
+  {
+   "key": "https://oklahomavoice.com/?p=22815",
+   "firstQueuedAtMs": 1795419000000,
+   "playedAtMs": 1795419000000
+  },
+  {
+   "key": "https://flatlandkc.org/?p=199455",
+   "firstQueuedAtMs": 1795419000000,
+   "playedAtMs": 1795419000000
+  },
+  {
+   "key": "https://www.kcdigitaldrive.org/?post_type=article&p=8564",
+   "firstQueuedAtMs": 1795419000000,
+   "playedAtMs": 1795419000000
+  },
+  {
+   "key": "https://abcnews.com/video/138313101/",
+   "firstQueuedAtMs": 1795419000000,
+   "playedAtMs": 1795419000000
+  },
+  {
+   "key": "https://dev.to/alexar76/my-hermes-agent-used-a-github-token-it-never-saw-151a",
+   "firstQueuedAtMs": 1795419000000,
+   "playedAtMs": 1795419000000
+  },
+  {
+   "key": "https://www.downtownkc.org/?p=68788",
+   "firstQueuedAtMs": 1795419000000,
+   "playedAtMs": 1795419000000
+  },
+  {
+   "key": "https://dev.to/juanauriti/your-cloudflare-settings-are-hiding-your-site-from-chatgpt-heres-how-to-check-11l2",
+   "firstQueuedAtMs": 1795419000000,
+   "playedAtMs": 1795419000000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/20/trump-pushes-putin-ukraine-war-deal",
+   "firstQueuedAtMs": 1795419000000,
+   "playedAtMs": 1795419000000
+  },
+  {
+   "key": "657z9qQQzMGzyhReUE3fna",
+   "firstQueuedAtMs": 1795419000000,
+   "playedAtMs": 1795419000000
+  },
+  {
+   "key": "https://oklahomavoice.com/?post_type=republished&p=22813",
+   "firstQueuedAtMs": 1795419000000,
+   "playedAtMs": 1795419000000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=229738",
+   "firstQueuedAtMs": 1795419000000,
+   "playedAtMs": 1795419000000
+  },
+  {
+   "key": "https://lobste.rs/s/tmehas",
+   "firstQueuedAtMs": 1795419000000,
+   "playedAtMs": 1795419000000
+  },
+  {
+   "key": "https://kansascitydefender.com/?p=18904",
+   "firstQueuedAtMs": 1795419000000,
+   "playedAtMs": 1795419000000
+  },
+  {
+   "key": "https://lobste.rs/s/zorlwr",
+   "firstQueuedAtMs": 1795419000000,
+   "playedAtMs": 1795419000000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
+   "firstQueuedAtMs": 1795419000000,
+   "playedAtMs": 1795419000000
+  },
+  {
+   "key": "https://lobste.rs/s/vldbcn",
+   "firstQueuedAtMs": 1795419000000,
+   "playedAtMs": 1795419000000
+  },
+  {
+   "key": "https://fortune.com/?p=4641515&showAdminBar=true",
+   "firstQueuedAtMs": 1795419000000,
+   "playedAtMs": 1795419000000
+  },
+  {
+   "key": "TOQELEKJH6V400",
+   "firstQueuedAtMs": 1795419000000,
+   "playedAtMs": 1795419000000
+  },
+  {
+   "key": "108557111",
+   "firstQueuedAtMs": 1795419000000,
+   "playedAtMs": 1795419000000
+  },
+  {
+   "key": "https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251/",
+   "firstQueuedAtMs": 1795419000000,
+   "playedAtMs": 1795419000000
+  },
+  {
+   "key": "WP-MKTW-0005362265",
+   "firstQueuedAtMs": 1795419000000,
+   "playedAtMs": 1795419000000
+  },
+  {
+   "key": "https://www.downtownkc.org/?p=68782",
+   "firstQueuedAtMs": 1795419000000,
+   "playedAtMs": 1795419000000
   }
  ]
 }
