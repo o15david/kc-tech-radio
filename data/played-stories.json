@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T20:20:24.427Z",
- "lastSyncBucket": 997479,
- "lastSyncCarryInSeconds": 109,
+ "updatedAt": "2026-11-23T20:35:12.555Z",
+ "lastSyncBucket": 997480,
+ "lastSyncCarryInSeconds": 7,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -11539,6 +11539,261 @@
    "key": "https://www.futurity.org/?p=3353642",
    "firstQueuedAtMs": 1795462200000,
    "playedAtMs": 1795462200000
+  },
+  {
+   "key": "74511254",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/23/captured-fugitive-wanted-texas-county-arrested-arkansas/",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "7a96dc5b-566a-42f2-b7d6-6cc7d692d58e",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://www.kshb.com/life/recalls/honda-recalling-more-than-810-000-vehicles-due-to-airbag-inflator-issue",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "WP-MKTW-0005365301",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "news714658561",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "news714660778",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://lobste.rs/s/znd1r1",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://www.engadget.com/2325713/grand-theft-auto/",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386684",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "TOYYKCKIUPS100",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://missouriindependent.com/?post_type=republished&p=33819",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://thehill.com/?p=6238236",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://www.inc.com/moses-jeanfrancois/elon-musk-wants-in-n-out-aces-data-center-jobs-1-trait-values-most/91441229",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://arstechnica.com/tech-policy/2026/11/surveillance-pricing-uses-our-personal-data-to-make-us-pay-more/",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4419485",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://www.kshb.com/us-news/why-you-may-want-to-check-a-price-twice-before-buying",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315603",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386663",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://www.sci.news/?p=112869",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://www.inc.com/jessica-stillman/scientists-have-studied-the-psychological-effects-of-gta-for-decades-these-are-their-surprising-conclusions/91441139",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "108557714",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://www.engadget.com/2325684/anthropic-softens-its-data-retention-policy-for-mythos-and-fable-model-use/",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://lobste.rs/s/ht8v1g",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4419318",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://thehill.com/?p=6238238",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "news714660383",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "news714656701",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://www.kshb.com/life/holidays-and-celebrations/airline-glitches-storms-could-make-for-a-messy-thanksgiving-travel-week",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "news714661682",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://www.infoq.com/news/2026/11/qcon-ai-agent-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://www.inc.com/robyn-d-shulman/parents-are-suing-schools-over-bad-grades-their-kids-may-pay-the-price-in-the-workplace/91441436",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://www.inc.com/netta-jenkins/ice-alaska-airlines-and-the-2027-warning-every-ceo-should-pay-attention-to/91441120",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://www.inc.com/jennifer-conrad/how-filthy-rode-the-craft-cocktail-boom-to-a-60-million-business/91401228",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://www.inc.com/ash-kumra/colette-kress-is-the-real-hero-of-nvidias-11-day-jensen-huang-chaos/91441620",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://showme.missouri.edu/?p=87571",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://arstechnica.com/tech-policy/2026/11/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages/",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "3ae98035-3840-43ec-bb15-582f893240e0",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://www.inc.com/tony-martignetti/biggest-threat-automation-losing-job-identity-career/91441181",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://electrek.co/?p=495504",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "108557643",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "108555668",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://www.inc.com/jamie-munoz/the-hidden-cost-of-being-the-leader-everyone-depends-on/91440436",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4419529",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "WP-MKTW-0005364628",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191457",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://hackaday.com/?p=1429810",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/23/feeding-10-thanksgiving-heres-what-classic-meal-could-cost/",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/23/missouri-governor-state-leaders-prepare-planned-army-detonation-lead-azide-iowa/",
+   "firstQueuedAtMs": 1795464000000,
+   "playedAtMs": 1795464000000
   }
  ]
 }
