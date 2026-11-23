@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T09:20:18.267Z",
- "lastSyncBucket": 997457,
- "lastSyncCarryInSeconds": 19,
+ "updatedAt": "2026-11-23T09:35:37.609Z",
+ "lastSyncBucket": 997458,
+ "lastSyncCarryInSeconds": 112,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -7814,6 +7814,126 @@
    "key": "https://fortune.com/?p=4648162&showAdminBar=true",
    "firstQueuedAtMs": 1795422600000,
    "playedAtMs": 1795422600000
+  },
+  {
+   "key": "https://www.kcdigitaldrive.org/?post_type=article&p=8439",
+   "firstQueuedAtMs": 1795424400000,
+   "playedAtMs": 1795424400000
+  },
+  {
+   "key": "https://ohiocapitaljournal.com/?p=43230",
+   "firstQueuedAtMs": 1795424400000,
+   "playedAtMs": 1795424400000
+  },
+  {
+   "key": "0c56bea6-b7ea-4a95-8a9d-f72e149eb1c2",
+   "firstQueuedAtMs": 1795424400000,
+   "playedAtMs": 1795424400000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1551306",
+   "firstQueuedAtMs": 1795424400000,
+   "playedAtMs": 1795424400000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1551299",
+   "firstQueuedAtMs": 1795424400000,
+   "playedAtMs": 1795424400000
+  },
+  {
+   "key": "https://abcnews.com/Politics/trump-china-trip-iran-ukraine-peace-declaration-takeaways/story?id=138292154",
+   "firstQueuedAtMs": 1795424400000,
+   "playedAtMs": 1795424400000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1551297",
+   "firstQueuedAtMs": 1795424400000,
+   "playedAtMs": 1795424400000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1550838",
+   "firstQueuedAtMs": 1795424400000,
+   "playedAtMs": 1795424400000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1550229",
+   "firstQueuedAtMs": 1795424400000,
+   "playedAtMs": 1795424400000
+  },
+  {
+   "key": "https://grist.org/?p=761327",
+   "firstQueuedAtMs": 1795424400000,
+   "playedAtMs": 1795424400000
+  },
+  {
+   "key": "https://kansascitydefender.com/?p=18316",
+   "firstQueuedAtMs": 1795424400000,
+   "playedAtMs": 1795424400000
+  },
+  {
+   "key": "https://abcnews.com/video/138288957/",
+   "firstQueuedAtMs": 1795424400000,
+   "playedAtMs": 1795424400000
+  },
+  {
+   "key": "https://dev.to/briteatom/deciding-the-irreversible-first-four-database-choices-i-made-before-writing-any-features-3c0j",
+   "firstQueuedAtMs": 1795424400000,
+   "playedAtMs": 1795424400000
+  },
+  {
+   "key": "https://abcnews.com/video/138287379/",
+   "firstQueuedAtMs": 1795424400000,
+   "playedAtMs": 1795424400000
+  },
+  {
+   "key": "https://dev.to/webtoolshub/stop-writing-typescript-interfaces-by-hand-generate-them-from-json-instead-kcn",
+   "firstQueuedAtMs": 1795424400000,
+   "playedAtMs": 1795424400000
+  },
+  {
+   "key": "https://dev.to/kcltech/how-to-set-up-intellij-idea-maven-and-javafx-29jo",
+   "firstQueuedAtMs": 1795424400000,
+   "playedAtMs": 1795424400000
+  },
+  {
+   "key": "https://abcnews.com/video/138280718/",
+   "firstQueuedAtMs": 1795424400000,
+   "playedAtMs": 1795424400000
+  },
+  {
+   "key": "https://ohiocapitaljournal.com/?p=43232",
+   "firstQueuedAtMs": 1795424400000,
+   "playedAtMs": 1795424400000
+  },
+  {
+   "key": "https://www.kcdigitaldrive.org/?post_type=article&p=8408",
+   "firstQueuedAtMs": 1795424400000,
+   "playedAtMs": 1795424400000
+  },
+  {
+   "key": "https://dev.to/mneno/how-we-built-a-multilingual-knowledge-graph-for-5480-research-backed-pages-56lg",
+   "firstQueuedAtMs": 1795424400000,
+   "playedAtMs": 1795424400000
+  },
+  {
+   "key": "https://dev.to/webtoolshub/cron-expressions-explained-the-cheat-sheet-every-developer-actually-needs-2026-4feb",
+   "firstQueuedAtMs": 1795424400000,
+   "playedAtMs": 1795424400000
+  },
+  {
+   "key": "https://abcnews.com/video/138265776/",
+   "firstQueuedAtMs": 1795424400000,
+   "playedAtMs": 1795424400000
+  },
+  {
+   "key": "https://www.kcdigitaldrive.org/?post_type=article&p=8389",
+   "firstQueuedAtMs": 1795424400000,
+   "playedAtMs": 1795424400000
+  },
+  {
+   "key": "https://dev.to/ytvideodownloader/merging-two-domains-into-one-with-a-350-line-static-site-build-301-maps-hreflang-and-the-service-423",
+   "firstQueuedAtMs": 1795424400000,
+   "playedAtMs": 1795424400000
   }
  ]
 }
