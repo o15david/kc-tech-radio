@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T00:20:08.867Z",
- "lastSyncBucket": 997439,
- "lastSyncCarryInSeconds": 1,
+ "updatedAt": "2026-11-23T00:35:19.274Z",
+ "lastSyncBucket": 997440,
+ "lastSyncCarryInSeconds": 53,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -5304,6 +5304,101 @@
    "key": "https://www.engadget.com/2319546/can-iphone-safely-use-140w-charger/",
    "firstQueuedAtMs": 1795390200000,
    "playedAtMs": 1795390200000
+  },
+  {
+   "key": "https://dev.to/voorai/how-to-change-the-frame-rate-of-a-video-with-ffmpeg-stream-copy-does-not-change-fps-and-r-is-not-5715",
+   "firstQueuedAtMs": 1795392000000,
+   "playedAtMs": 1795392000000
+  },
+  {
+   "key": "74502615",
+   "firstQueuedAtMs": 1795392000000,
+   "playedAtMs": 1795392000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/22/chadwick-bosemans-father-leroy-boseman-dies-82/",
+   "firstQueuedAtMs": 1795392000000,
+   "playedAtMs": 1795392000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/23/man-accused-biting-deportation-officer-during-detainment-affidavit-says/",
+   "firstQueuedAtMs": 1795392000000,
+   "playedAtMs": 1795392000000
+  },
+  {
+   "key": "https://dev.to/kenantabak/330-bilgisayarli-goru-veri-setinde-otomatik-kalite-denetimi-etiketsiz-gorselleri-ve-bozuk-ofa",
+   "firstQueuedAtMs": 1795392000000,
+   "playedAtMs": 1795392000000
+  },
+  {
+   "key": "https://dev.to/cometakaito/gcs-ifgenerationmatch-autoretry-misreads-412-as-already-sent-182j",
+   "firstQueuedAtMs": 1795392000000,
+   "playedAtMs": 1795392000000
+  },
+  {
+   "key": "https://dev.to/the_movie_9b1357e8c99cfaa/i-rebuilt-a-1-junk-removal-kits-60-quote-cells-in-python-then-broke-its-checker-four-ways-a8m",
+   "firstQueuedAtMs": 1795392000000,
+   "playedAtMs": 1795392000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html",
+   "firstQueuedAtMs": 1795392000000,
+   "playedAtMs": 1795392000000
+  },
+  {
+   "key": "https://wisconsinexaminer.com/?p=49026",
+   "firstQueuedAtMs": 1795392000000,
+   "playedAtMs": 1795392000000
+  },
+  {
+   "key": "https://thebeaconnews.org/?p=36240",
+   "firstQueuedAtMs": 1795392000000,
+   "playedAtMs": 1795392000000
+  },
+  {
+   "key": "https://dev.to/minia2a/an-outside-index-graded-3253-x402-sellers-826-answer-a-valid-402-5he1",
+   "firstQueuedAtMs": 1795392000000,
+   "playedAtMs": 1795392000000
+  },
+  {
+   "key": "https://dev.to/sandscale/scoping-api-keys-for-agents-and-ci-least-privilege-for-sandbox-access-5129",
+   "firstQueuedAtMs": 1795392000000,
+   "playedAtMs": 1795392000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/22/us/donald-hooton-sr-dead.html",
+   "firstQueuedAtMs": 1795392000000,
+   "playedAtMs": 1795392000000
+  },
+  {
+   "key": "https://dev.to/johnvithera01/your-postgresql-isnt-slow-its-waiting-5-production-incidents-and-the-queries-that-found-them-1i5c",
+   "firstQueuedAtMs": 1795392000000,
+   "playedAtMs": 1795392000000
+  },
+  {
+   "key": "https://thebeaconnews.org/?p=36342",
+   "firstQueuedAtMs": 1795392000000,
+   "playedAtMs": 1795392000000
+  },
+  {
+   "key": "https://dev.to/mohammad_khalifeh/google-ai-mode-and-ai-overviews-what-your-website-actually-needs-14en",
+   "firstQueuedAtMs": 1795392000000,
+   "playedAtMs": 1795392000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/22/business/mortgage-rates-housing-landlords.html",
+   "firstQueuedAtMs": 1795392000000,
+   "playedAtMs": 1795392000000
+  },
+  {
+   "key": "https://dev.to/mohammad_khalifeh/angular-20-end-of-support-on-28-november-2026-planning-the-move-to-angular-22-4ol1",
+   "firstQueuedAtMs": 1795392000000,
+   "playedAtMs": 1795392000000
+  },
+  {
+   "key": "https://dev.to/kozhevniko/raspaps-app-fingerprint-shows-why-default-router-checks-matter-3gik",
+   "firstQueuedAtMs": 1795392000000,
+   "playedAtMs": 1795392000000
   }
  ]
 }
