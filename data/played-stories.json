@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T06:50:11.097Z",
- "lastSyncBucket": 997452,
- "lastSyncCarryInSeconds": 17,
+ "updatedAt": "2026-11-23T07:05:18.229Z",
+ "lastSyncBucket": 997453,
+ "lastSyncCarryInSeconds": 9,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -7139,6 +7139,166 @@
    "key": "https://hackaday.com/?p=1429694",
    "firstQueuedAtMs": 1795413600000,
    "playedAtMs": 1795413600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/23/2-month-old-girl-found-lying-ditch-with-mother-after-hit-and-run-dies-sheriff-says/",
+   "firstQueuedAtMs": 1795415400000,
+   "playedAtMs": 1795415400000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1104059",
+   "firstQueuedAtMs": 1795415400000,
+   "playedAtMs": 1795415400000
+  },
+  {
+   "key": "https://abcnews.com/video/41463246/",
+   "firstQueuedAtMs": 1795415400000,
+   "playedAtMs": 1795415400000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/20/us-ai-trump-data-centers-overseas",
+   "firstQueuedAtMs": 1795415400000,
+   "playedAtMs": 1795415400000
+  },
+  {
+   "key": "https://martincitytelegraph.com/?p=81785",
+   "firstQueuedAtMs": 1795415400000,
+   "playedAtMs": 1795415400000
+  },
+  {
+   "key": "0e7e6462-5608-4715-9e23-86281e600ce8",
+   "firstQueuedAtMs": 1795415400000,
+   "playedAtMs": 1795415400000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/royals-plan-for-carter-jensen-salvador-perez-at-catcher-in-2027",
+   "firstQueuedAtMs": 1795415400000,
+   "playedAtMs": 1795415400000
+  },
+  {
+   "key": "https://martincitytelegraph.com/?p=81742",
+   "firstQueuedAtMs": 1795415400000,
+   "playedAtMs": 1795415400000
+  },
+  {
+   "key": "https://dev.to/mecanik-dev/salesforce-implementation-cost-timeline-and-failure-modes-2op2",
+   "firstQueuedAtMs": 1795415400000,
+   "playedAtMs": 1795415400000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/20/house-republicans-mike-johnson-attendance-midterms",
+   "firstQueuedAtMs": 1795415400000,
+   "playedAtMs": 1795415400000
+  },
+  {
+   "key": "https://dev.to/amenibensaada/why-did-my-kubernetes-change-disappear-argo-cd-self-heal-explained-2db8",
+   "firstQueuedAtMs": 1795415400000,
+   "playedAtMs": 1795415400000
+  },
+  {
+   "key": "https://dev.to/moaz06/a-confirm-is-not-a-human-i-read-218-mcp-servers-that-control-real-machines-3pjb",
+   "firstQueuedAtMs": 1795415400000,
+   "playedAtMs": 1795415400000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1105871",
+   "firstQueuedAtMs": 1795415400000,
+   "playedAtMs": 1795415400000
+  },
+  {
+   "key": "https://dev.to/saifuddin/should-poorer-countries-ride-the-ai-wave-or-wait-it-out-neither-here-is-the-third-option-3119",
+   "firstQueuedAtMs": 1795415400000,
+   "playedAtMs": 1795415400000
+  },
+  {
+   "key": "https://www.kcur.org/news/2026-11-13/old-tech-blamed-for-the-ground-stop-that-caused-flight-chaos-it-got-overloaded",
+   "firstQueuedAtMs": 1795415400000,
+   "playedAtMs": 1795415400000
+  },
+  {
+   "key": "https://kcstudio.org/?p=125102",
+   "firstQueuedAtMs": 1795415400000,
+   "playedAtMs": 1795415400000
+  },
+  {
+   "key": "https://kcstudio.org/?p=125026",
+   "firstQueuedAtMs": 1795415400000,
+   "playedAtMs": 1795415400000
+  },
+  {
+   "key": "https://abcnews.com/Technology/wireStory/trump-plans-penalize-us-tech-companies-build-ai-138323831",
+   "firstQueuedAtMs": 1795415400000,
+   "playedAtMs": 1795415400000
+  },
+  {
+   "key": "https://dev.to/aheadkit/the-stopped-flag-stops-nothing-that-already-started-3g5o",
+   "firstQueuedAtMs": 1795415400000,
+   "playedAtMs": 1795415400000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/bobby-witt-jr-finishes-3rd-for-al-mvp-award-2026",
+   "firstQueuedAtMs": 1795415400000,
+   "playedAtMs": 1795415400000
+  },
+  {
+   "key": "https://kcstudio.org/?p=125094",
+   "firstQueuedAtMs": 1795415400000,
+   "playedAtMs": 1795415400000
+  },
+  {
+   "key": "https://kcsoccerjournal.com/?p=8710",
+   "firstQueuedAtMs": 1795415400000,
+   "playedAtMs": 1795415400000
+  },
+  {
+   "key": "https://dev.to/debashish_ghosal/three-agents-one-repo-the-coordination-problem-nobody-designed-for-4ag3",
+   "firstQueuedAtMs": 1795415400000,
+   "playedAtMs": 1795415400000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/royals-and-elevate-team-up-on-new-downtown-ballpark-experience",
+   "firstQueuedAtMs": 1795415400000,
+   "playedAtMs": 1795415400000
+  },
+  {
+   "key": "https://dosmundos.com/?p=121535",
+   "firstQueuedAtMs": 1795415400000,
+   "playedAtMs": 1795415400000
+  },
+  {
+   "key": "https://cooking.nytimes.com/article/easy-thanksgiving-recipes-no-oven-space",
+   "firstQueuedAtMs": 1795415400000,
+   "playedAtMs": 1795415400000
+  },
+  {
+   "key": "https://dosmundos.com/?p=121495",
+   "firstQueuedAtMs": 1795415400000,
+   "playedAtMs": 1795415400000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=220244",
+   "firstQueuedAtMs": 1795415400000,
+   "playedAtMs": 1795415400000
+  },
+  {
+   "key": "https://dev.to/miri-calc/grams-to-particles-building-a-mole-pipeline-that-survives-large-numbers-4nje",
+   "firstQueuedAtMs": 1795415400000,
+   "playedAtMs": 1795415400000
+  },
+  {
+   "key": "https://abcnews.com/video/138316025/",
+   "firstQueuedAtMs": 1795415400000,
+   "playedAtMs": 1795415400000
+  },
+  {
+   "key": "TOXZWXKGIFPK00",
+   "firstQueuedAtMs": 1795415400000,
+   "playedAtMs": 1795415400000
+  },
+  {
+   "key": "TOSR2MKJH6V400",
+   "firstQueuedAtMs": 1795415400000,
+   "playedAtMs": 1795415400000
   }
  ]
 }
