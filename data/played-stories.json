@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T12:20:33.339Z",
- "lastSyncBucket": 997463,
- "lastSyncCarryInSeconds": 10,
+ "updatedAt": "2026-11-23T12:35:14.716Z",
+ "lastSyncBucket": 997464,
+ "lastSyncCarryInSeconds": 44,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -8729,6 +8729,121 @@
    "key": "https://sahanjournal.com/?p=89822",
    "firstQueuedAtMs": 1795433400000,
    "playedAtMs": 1795433400000
+  },
+  {
+   "key": "https://dev.to/hackerme/173-of-223-websites-we-scanned-were-missing-at-least-one-basic-security-header-does-your-site-tell-3851",
+   "firstQueuedAtMs": 1795435200000,
+   "playedAtMs": 1795435200000
+  },
+  {
+   "key": "74506245",
+   "firstQueuedAtMs": 1795435200000,
+   "playedAtMs": 1795435200000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/23/first-alert-weather-cooler-monday-kick-off-thanksgiving-week/",
+   "firstQueuedAtMs": 1795435200000,
+   "playedAtMs": 1795435200000
+  },
+  {
+   "key": "1e889e16-bb75-4fd5-b8e3-5f0436501ff5",
+   "firstQueuedAtMs": 1795435200000,
+   "playedAtMs": 1795435200000
+  },
+  {
+   "key": "https://dev.to/michaelfv/why-packet-loss-degrades-gbase-8a-cluster-performance-and-why-its-always-rx-19il",
+   "firstQueuedAtMs": 1795435200000,
+   "playedAtMs": 1795435200000
+  },
+  {
+   "key": "tdy_news_7a_gosk_travel_headache_261123",
+   "firstQueuedAtMs": 1795435200000,
+   "playedAtMs": 1795435200000
+  },
+  {
+   "key": "WP-MKTW-0005362979",
+   "firstQueuedAtMs": 1795435200000,
+   "playedAtMs": 1795435200000
+  },
+  {
+   "key": "https://dev.to/shailendracodes/how-i-built-malik-news-a-fast-zero-backend-bilingual-digital-news-portal-with-pure-html-css--4a2f",
+   "firstQueuedAtMs": 1795435200000,
+   "playedAtMs": 1795435200000
+  },
+  {
+   "key": "https://dev.to/jidongshui/cross-border-payments-compliance-for-solo-developers-oon",
+   "firstQueuedAtMs": 1795435200000,
+   "playedAtMs": 1795435200000
+  },
+  {
+   "key": "https://dev.to/michaelfv/new-gbase-8a-parameters-for-faster-sftp-data-loading-15k2",
+   "firstQueuedAtMs": 1795435200000,
+   "playedAtMs": 1795435200000
+  },
+  {
+   "key": "https://www.nbcnews.com/news/us-news/democrats-look-build-gains-south-weather-thanksgiving-morning-rundown-rcna610650",
+   "firstQueuedAtMs": 1795435200000,
+   "playedAtMs": 1795435200000
+  },
+  {
+   "key": "https://dev.to/onaeiuspkz/sevenz-rust2-extracted-7z-entries-without-containing-paths-3fe5",
+   "firstQueuedAtMs": 1795435200000,
+   "playedAtMs": 1795435200000
+  },
+  {
+   "key": "https://dev.to/ronghui_wang_ba7ee93a9f10/why-steam-pressure-reducing-valves-hunt-and-how-to-fix-it-1gki",
+   "firstQueuedAtMs": 1795435200000,
+   "playedAtMs": 1795435200000
+  },
+  {
+   "key": "https://www.rockchalktalk.com/?p=34574",
+   "firstQueuedAtMs": 1795435200000,
+   "playedAtMs": 1795435200000
+  },
+  {
+   "key": "558bf788-5413-4f8c-ac67-f1dafdb18392",
+   "firstQueuedAtMs": 1795435200000,
+   "playedAtMs": 1795435200000
+  },
+  {
+   "key": "https://dev.to/savva_sicevs_c94bc4ca30eb/i-asked-six-ai-tools-for-a-react-order-book-the-top-pick-was-last-updated-in-2023-93a",
+   "firstQueuedAtMs": 1795435200000,
+   "playedAtMs": 1795435200000
+  },
+  {
+   "key": "https://dev.to/05tin_ttrn_207831b9/viet-nam-vo-dich-gpj",
+   "firstQueuedAtMs": 1795435200000,
+   "playedAtMs": 1795435200000
+  },
+  {
+   "key": "https://thehill.com/?p=6234402",
+   "firstQueuedAtMs": 1795435200000,
+   "playedAtMs": 1795435200000
+  },
+  {
+   "key": "https://dev.to/arjun_07/how-should-health-platforms-connect-search-results-to-community-discussions-5cg9",
+   "firstQueuedAtMs": 1795435200000,
+   "playedAtMs": 1795435200000
+  },
+  {
+   "key": "TOYER3T9NJM200",
+   "firstQueuedAtMs": 1795435200000,
+   "playedAtMs": 1795435200000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/nation/automation-system-problem-at-delta-causes-flight-delays-as-americans-travel-for-thanksgiving",
+   "firstQueuedAtMs": 1795435200000,
+   "playedAtMs": 1795435200000
+  },
+  {
+   "key": "https://dev.to/the_dev_stack/how-one-sql-query-took-down-cloudflare-and-what-the-year-since-looked-like-3b6j",
+   "firstQueuedAtMs": 1795435200000,
+   "playedAtMs": 1795435200000
+  },
+  {
+   "key": "https://dev.to/camaan_ai_team/what-it-takes-to-put-an-agent-on-the-phone-5f36",
+   "firstQueuedAtMs": 1795435200000,
+   "playedAtMs": 1795435200000
   }
  ]
 }
