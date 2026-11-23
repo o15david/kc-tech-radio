@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T11:50:22.908Z",
- "lastSyncBucket": 997462,
- "lastSyncCarryInSeconds": 3,
+ "updatedAt": "2026-11-23T12:05:19.095Z",
+ "lastSyncBucket": 997463,
+ "lastSyncCarryInSeconds": 10,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -8604,6 +8604,131 @@
    "key": "https://lobste.rs/s/bjqpyu",
    "firstQueuedAtMs": 1795431600000,
    "playedAtMs": 1795431600000
+  },
+  {
+   "key": "https://thebeaconnews.org/?p=36350",
+   "firstQueuedAtMs": 1795433400000,
+   "playedAtMs": 1795433400000
+  },
+  {
+   "key": "https://kansasreflector.com/?p=64123",
+   "firstQueuedAtMs": 1795433400000,
+   "playedAtMs": 1795433400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/briefing/nvidia-jensen-huang.html",
+   "firstQueuedAtMs": 1795433400000,
+   "playedAtMs": 1795433400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html",
+   "firstQueuedAtMs": 1795433400000,
+   "playedAtMs": 1795433400000
+  },
+  {
+   "key": "https://thebeaconnews.org/?p=36297",
+   "firstQueuedAtMs": 1795433400000,
+   "playedAtMs": 1795433400000
+  },
+  {
+   "key": "TOT95TT9NJLT00",
+   "firstQueuedAtMs": 1795433400000,
+   "playedAtMs": 1795433400000
+  },
+  {
+   "key": "https://dev.to/kevinrawal/retry-pattern-handling-temporary-failures-in-distributed-systems-579c",
+   "firstQueuedAtMs": 1795433400000,
+   "playedAtMs": 1795433400000
+  },
+  {
+   "key": "8437abbe-cf20-4b6b-8dca-6746f2a5824c",
+   "firstQueuedAtMs": 1795433400000,
+   "playedAtMs": 1795433400000
+  },
+  {
+   "key": "https://dev.to/dati-labs/a-aws-anunciou-e-dai-ja5",
+   "firstQueuedAtMs": 1795433400000,
+   "playedAtMs": 1795433400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/23/branson-mo-adds-new-recreation-option-those-who-love-outdoors/",
+   "firstQueuedAtMs": 1795433400000,
+   "playedAtMs": 1795433400000
+  },
+  {
+   "key": "f_mo_lon_russian_ship_sinks_261123",
+   "firstQueuedAtMs": 1795433400000,
+   "playedAtMs": 1795433400000
+  },
+  {
+   "key": "74505628",
+   "firstQueuedAtMs": 1795433400000,
+   "playedAtMs": 1795433400000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1551716",
+   "firstQueuedAtMs": 1795433400000,
+   "playedAtMs": 1795433400000
+  },
+  {
+   "key": "74505557",
+   "firstQueuedAtMs": 1795433400000,
+   "playedAtMs": 1795433400000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=229396",
+   "firstQueuedAtMs": 1795433400000,
+   "playedAtMs": 1795433400000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75674",
+   "firstQueuedAtMs": 1795433400000,
+   "playedAtMs": 1795433400000
+  },
+  {
+   "key": "https://dev.to/nix_ilands_bf7622f8dc1d30/the-defect-was-real-the-number-i-printed-was-invented-33bh",
+   "firstQueuedAtMs": 1795433400000,
+   "playedAtMs": 1795433400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/nyregion/jessica-ramos-campaign.html",
+   "firstQueuedAtMs": 1795433400000,
+   "playedAtMs": 1795433400000
+  },
+  {
+   "key": "https://yaleclimateconnections.org/?p=144989",
+   "firstQueuedAtMs": 1795433400000,
+   "playedAtMs": 1795433400000
+  },
+  {
+   "key": "https://dev.to/maman_ajobthing/i-built-a-site-that-summarizes-github-trending-every-morning-27ge",
+   "firstQueuedAtMs": 1795433400000,
+   "playedAtMs": 1795433400000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261123005356.htm",
+   "firstQueuedAtMs": 1795433400000,
+   "playedAtMs": 1795433400000
+  },
+  {
+   "key": "https://abcnews.com/Entertainment/wireStory/tom-jackson-broncos-star-espn-sunday-nfl-countdown-138360147",
+   "firstQueuedAtMs": 1795433400000,
+   "playedAtMs": 1795433400000
+  },
+  {
+   "key": "https://dev.to/amit_spitzer/the-tests-passed-on-all-107-wrong-ai-changes-here-is-what-caught-86-of-them-145c",
+   "firstQueuedAtMs": 1795433400000,
+   "playedAtMs": 1795433400000
+  },
+  {
+   "key": "https://dev.to/aimanmalib/amazon-bedrock-guardrails-on-malaysian-id-numbers-what-it-catches-and-where-a-regex-stops-1b65",
+   "firstQueuedAtMs": 1795433400000,
+   "playedAtMs": 1795433400000
+  },
+  {
+   "key": "https://sahanjournal.com/?p=89822",
+   "firstQueuedAtMs": 1795433400000,
+   "playedAtMs": 1795433400000
   }
  ]
 }
