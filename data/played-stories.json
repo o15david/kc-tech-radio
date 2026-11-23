@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T04:50:17.887Z",
- "lastSyncBucket": 997448,
- "lastSyncCarryInSeconds": 31,
+ "updatedAt": "2026-11-23T05:05:18.562Z",
+ "lastSyncBucket": 997449,
+ "lastSyncCarryInSeconds": 115,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -6544,6 +6544,141 @@
    "key": "https://www.sciencedaily.com/releases/2026/11/261121221124.htm",
    "firstQueuedAtMs": 1795406400000,
    "playedAtMs": 1795406400000
+  },
+  {
+   "key": "279867e9-ee9c-4a3e-a12d-24aabeb86961",
+   "firstQueuedAtMs": 1795408200000,
+   "playedAtMs": 1795408200000
+  },
+  {
+   "key": "https://www.missourinet.com/?p=177886",
+   "firstQueuedAtMs": 1795408200000,
+   "playedAtMs": 1795408200000
+  },
+  {
+   "key": "https://abcnews.com/US/fbis-national-crime-database-targeted-hack-trump/story?id=138347810",
+   "firstQueuedAtMs": 1795408200000,
+   "playedAtMs": 1795408200000
+  },
+  {
+   "key": "https://kcsoccerjournal.com/?p=8762",
+   "firstQueuedAtMs": 1795408200000,
+   "playedAtMs": 1795408200000
+  },
+  {
+   "key": "https://capitolnewsillinois.com/?p=134880",
+   "firstQueuedAtMs": 1795408200000,
+   "playedAtMs": 1795408200000
+  },
+  {
+   "key": "https://www.royalsreview.com/?p=108253",
+   "firstQueuedAtMs": 1795408200000,
+   "playedAtMs": 1795408200000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/nation/why-do-people-believe-recent-tech-failures-must-be-connected",
+   "firstQueuedAtMs": 1795408200000,
+   "playedAtMs": 1795408200000
+  },
+  {
+   "key": "https://arkansasadvocate.com/?p=31123",
+   "firstQueuedAtMs": 1795408200000,
+   "playedAtMs": 1795408200000
+  },
+  {
+   "key": "https://www.sciencenews.org/?p=3182216",
+   "firstQueuedAtMs": 1795408200000,
+   "playedAtMs": 1795408200000
+  },
+  {
+   "key": "https://dev.to/auth0/how-to-secure-your-apps-with-auth0-multi-factor-authentication-mfa-5d8a",
+   "firstQueuedAtMs": 1795408200000,
+   "playedAtMs": 1795408200000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/politics/for-families-of-the-fallen-trumps-proposed-arch-casts-a-shadow-over-arlington-national-cemetery",
+   "firstQueuedAtMs": 1795408200000,
+   "playedAtMs": 1795408200000
+  },
+  {
+   "key": "https://dev.to/canro91/this-tv-show-can-teach-problem-solving-better-than-any-coding-class-5dbj",
+   "firstQueuedAtMs": 1795408200000,
+   "playedAtMs": 1795408200000
+  },
+  {
+   "key": "https://dev.to/dannwaneri/wrist-vs-camera-can-i-trust-a-camera-pulse-on-my-own-laptop-4g3o",
+   "firstQueuedAtMs": 1795408200000,
+   "playedAtMs": 1795408200000
+  },
+  {
+   "key": "https://kcstudio.org/?p=125269",
+   "firstQueuedAtMs": 1795408200000,
+   "playedAtMs": 1795408200000
+  },
+  {
+   "key": "0e1dc8d4-fc07-4b77-b379-9190aa7c5404",
+   "firstQueuedAtMs": 1795408200000,
+   "playedAtMs": 1795408200000
+  },
+  {
+   "key": "https://thebeaconnews.org/?p=36245",
+   "firstQueuedAtMs": 1795408200000,
+   "playedAtMs": 1795408200000
+  },
+  {
+   "key": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
+   "firstQueuedAtMs": 1795408200000,
+   "playedAtMs": 1795408200000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75049",
+   "firstQueuedAtMs": 1795408200000,
+   "playedAtMs": 1795408200000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+   "firstQueuedAtMs": 1795408200000,
+   "playedAtMs": 1795408200000
+  },
+  {
+   "key": "https://dev.to/areys/automating-tiktok-and-instagram-slideshows-for-an-ios-app-with-an-mcp-server-58p",
+   "firstQueuedAtMs": 1795408200000,
+   "playedAtMs": 1795408200000
+  },
+  {
+   "key": "https://dev.to/oneakira/kagelin-v150-v151-a-matte-ui-pass-zero-dependency-37k3",
+   "firstQueuedAtMs": 1795408200000,
+   "playedAtMs": 1795408200000
+  },
+  {
+   "key": "https://wisconsinexaminer.com/?p=49019",
+   "firstQueuedAtMs": 1795408200000,
+   "playedAtMs": 1795408200000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/politics/trump-vows-to-work-with-democrats-to-cap-credit-card-interest-rates-at-10",
+   "firstQueuedAtMs": 1795408200000,
+   "playedAtMs": 1795408200000
+  },
+  {
+   "key": "https://dev.to/evanshepherd8274/daily-report-email-dispatch-rate-limits-queue-backpressure-and-https-push-boundaries-1jll",
+   "firstQueuedAtMs": 1795408200000,
+   "playedAtMs": 1795408200000
+  },
+  {
+   "key": "https://kansascitymag.com/?p=91904",
+   "firstQueuedAtMs": 1795408200000,
+   "playedAtMs": 1795408200000
+  },
+  {
+   "key": "https://dev.to/gotoolsonline/base64-images-in-css-and-html-when-inlining-helps-and-when-it-hurts-31na",
+   "firstQueuedAtMs": 1795408200000,
+   "playedAtMs": 1795408200000
+  },
+  {
+   "key": "https://dev.to/samfware/why-does-your-galaxy-say-not-registered-on-network-after-flashing-and-how-do-you-fix-it-hii",
+   "firstQueuedAtMs": 1795408200000,
+   "playedAtMs": 1795408200000
   }
  ]
 }
