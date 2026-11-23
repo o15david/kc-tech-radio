@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T15:50:26.379Z",
- "lastSyncBucket": 997470,
- "lastSyncCarryInSeconds": 82,
+ "updatedAt": "2026-11-23T16:07:25.159Z",
+ "lastSyncBucket": 997471,
+ "lastSyncCarryInSeconds": 106,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -9804,6 +9804,166 @@
    "key": "https://www.fastcompany.com/91647455/this-one-your-kitchens-hardest-working-tools-heres-how-keep-food-safe",
    "firstQueuedAtMs": 1795446000000,
    "playedAtMs": 1795446000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/09/2026-christmas-parades-list-see-list-this-holiday-season/",
+   "firstQueuedAtMs": 1795447800000,
+   "playedAtMs": 1795447800000
+  },
+  {
+   "key": "https://kansasreflector.com/?p=64107",
+   "firstQueuedAtMs": 1795447800000,
+   "playedAtMs": 1795447800000
+  },
+  {
+   "key": "https://thehill.com/?p=6234322",
+   "firstQueuedAtMs": 1795447800000,
+   "playedAtMs": 1795447800000
+  },
+  {
+   "key": "https://capitolnewsillinois.com/?p=134884",
+   "firstQueuedAtMs": 1795447800000,
+   "playedAtMs": 1795447800000
+  },
+  {
+   "key": "https://indianacapitalchronicle.com/?p=28239",
+   "firstQueuedAtMs": 1795447800000,
+   "playedAtMs": 1795447800000
+  },
+  {
+   "key": "https://kcstudio.org/?p=125013",
+   "firstQueuedAtMs": 1795447800000,
+   "playedAtMs": 1795447800000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/217328/emmett-johnson-gets-aps-game-ball-from-win-over-falcons",
+   "firstQueuedAtMs": 1795447800000,
+   "playedAtMs": 1795447800000
+  },
+  {
+   "key": "522fe4c5-4267-425e-a873-a782dd947b91",
+   "firstQueuedAtMs": 1795447800000,
+   "playedAtMs": 1795447800000
+  },
+  {
+   "key": "https://www.sciencenews.org/?p=3181974",
+   "firstQueuedAtMs": 1795447800000,
+   "playedAtMs": 1795447800000
+  },
+  {
+   "key": "https://arstechnica.com/culture/2026/11/marvel-crams-every-superhero-ever-into-avengers-doomsday-final-trailer/",
+   "firstQueuedAtMs": 1795447800000,
+   "playedAtMs": 1795447800000
+  },
+  {
+   "key": "https://thehill.com/?p=6237276",
+   "firstQueuedAtMs": 1795447800000,
+   "playedAtMs": 1795447800000
+  },
+  {
+   "key": "TOYP3TKIUPS200",
+   "firstQueuedAtMs": 1795447800000,
+   "playedAtMs": 1795447800000
+  },
+  {
+   "key": "TOYPDTKGZAIS00",
+   "firstQueuedAtMs": 1795447800000,
+   "playedAtMs": 1795447800000
+  },
+  {
+   "key": "https://www.royalsreview.com/108399/blockbuster-with-seattle-royals-land-bryce-miller-garcia-heads-west",
+   "firstQueuedAtMs": 1795447800000,
+   "playedAtMs": 1795447800000
+  },
+  {
+   "key": "TOYOYKKIUPSL00",
+   "firstQueuedAtMs": 1795447800000,
+   "playedAtMs": 1795447800000
+  },
+  {
+   "key": "news714650253",
+   "firstQueuedAtMs": 1795447800000,
+   "playedAtMs": 1795447800000
+  },
+  {
+   "key": "https://www.engadget.com/2320280/what-is-apple-homepod-sound-glow/",
+   "firstQueuedAtMs": 1795447800000,
+   "playedAtMs": 1795447800000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=162819",
+   "firstQueuedAtMs": 1795447800000,
+   "playedAtMs": 1795447800000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4418443",
+   "firstQueuedAtMs": 1795447800000,
+   "playedAtMs": 1795447800000
+  },
+  {
+   "key": "https://thehill.com/?p=6237099",
+   "firstQueuedAtMs": 1795447800000,
+   "playedAtMs": 1795447800000
+  },
+  {
+   "key": "news714647402",
+   "firstQueuedAtMs": 1795447800000,
+   "playedAtMs": 1795447800000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4418266",
+   "firstQueuedAtMs": 1795447800000,
+   "playedAtMs": 1795447800000
+  },
+  {
+   "key": "6b0457d5d863d10001916038",
+   "firstQueuedAtMs": 1795447800000,
+   "playedAtMs": 1795447800000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/kansas/johnson-county/it-has-certainly-become-part-of-our-mark-how-kc-became-the-sports-architecture-capital-of-the-world",
+   "firstQueuedAtMs": 1795447800000,
+   "playedAtMs": 1795447800000
+  },
+  {
+   "key": "https://www.infoq.com/news/2026/11/jep-545-jdk-28/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795447800000,
+   "playedAtMs": 1795447800000
+  },
+  {
+   "key": "https://www.infoq.com/news/2026/11/java-news-roundup-nov16-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795447800000,
+   "playedAtMs": 1795447800000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1106787",
+   "firstQueuedAtMs": 1795447800000,
+   "playedAtMs": 1795447800000
+  },
+  {
+   "key": "https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings",
+   "firstQueuedAtMs": 1795447800000,
+   "playedAtMs": 1795447800000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163407",
+   "firstQueuedAtMs": 1795447800000,
+   "playedAtMs": 1795447800000
+  },
+  {
+   "key": "https://thehill.com/?p=6237325",
+   "firstQueuedAtMs": 1795447800000,
+   "playedAtMs": 1795447800000
+  },
+  {
+   "key": "https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/",
+   "firstQueuedAtMs": 1795447800000,
+   "playedAtMs": 1795447800000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163420",
+   "firstQueuedAtMs": 1795447800000,
+   "playedAtMs": 1795447800000
   }
  ]
 }
