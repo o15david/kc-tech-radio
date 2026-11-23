@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T21:51:28.821Z",
- "lastSyncBucket": 997482,
- "lastSyncCarryInSeconds": 73,
+ "updatedAt": "2026-11-23T22:05:25.824Z",
+ "lastSyncBucket": 997483,
+ "lastSyncCarryInSeconds": 110,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -12184,6 +12184,161 @@
    "key": "https://hackaday.com/?p=1429194",
    "firstQueuedAtMs": 1795467600000,
    "playedAtMs": 1795467600000
+  },
+  {
+   "key": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/",
+   "firstQueuedAtMs": 1795469400000,
+   "playedAtMs": 1795469400000
+  },
+  {
+   "key": "74512106",
+   "firstQueuedAtMs": 1795469400000,
+   "playedAtMs": 1795469400000
+  },
+  {
+   "key": "https://www.rockchalktalk.com/?p=34587",
+   "firstQueuedAtMs": 1795469400000,
+   "playedAtMs": 1795469400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/opinion/jensen-huang-nvidia-economy-ai.html",
+   "firstQueuedAtMs": 1795469400000,
+   "playedAtMs": 1795469400000
+  },
+  {
+   "key": "https://www.kshb.com/business/company-news/court-approves-7-25-billion-settlement-with-bayer-over-claims-roundup-weed-killer-caused-cancer",
+   "firstQueuedAtMs": 1795469400000,
+   "playedAtMs": 1795469400000
+  },
+  {
+   "key": "https://electrek.co/?p=495596",
+   "firstQueuedAtMs": 1795469400000,
+   "playedAtMs": 1795469400000
+  },
+  {
+   "key": "https://thehill.com/?p=6238473",
+   "firstQueuedAtMs": 1795469400000,
+   "playedAtMs": 1795469400000
+  },
+  {
+   "key": "https://thehill.com/?p=6238496",
+   "firstQueuedAtMs": 1795469400000,
+   "playedAtMs": 1795469400000
+  },
+  {
+   "key": "WP-MKTW-0005365860",
+   "firstQueuedAtMs": 1795469400000,
+   "playedAtMs": 1795469400000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4420171",
+   "firstQueuedAtMs": 1795469400000,
+   "playedAtMs": 1795469400000
+  },
+  {
+   "key": "news714673501",
+   "firstQueuedAtMs": 1795469400000,
+   "playedAtMs": 1795469400000
+  },
+  {
+   "key": "https://fortune.com/?p=4649281&showAdminBar=true",
+   "firstQueuedAtMs": 1795469400000,
+   "playedAtMs": 1795469400000
+  },
+  {
+   "key": "https://missouriindependent.com/?p=33829",
+   "firstQueuedAtMs": 1795469400000,
+   "playedAtMs": 1795469400000
+  },
+  {
+   "key": "https://www.kshb.com/politics/ethics-probe-finds-democratic-rep-jimmy-gomez-made-unwelcome-sexual-advances-to-staffer",
+   "firstQueuedAtMs": 1795469400000,
+   "playedAtMs": 1795469400000
+  },
+  {
+   "key": "https://spaceflightnow.com/?p=74900",
+   "firstQueuedAtMs": 1795469400000,
+   "playedAtMs": 1795469400000
+  },
+  {
+   "key": "ae7a7544-16a3-460b-ac2a-50eb823e6d18",
+   "firstQueuedAtMs": 1795469400000,
+   "playedAtMs": 1795469400000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4420123",
+   "firstQueuedAtMs": 1795469400000,
+   "playedAtMs": 1795469400000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4420071",
+   "firstQueuedAtMs": 1795469400000,
+   "playedAtMs": 1795469400000
+  },
+  {
+   "key": "https://simonwillison.net/2026/Nov/23/ladybird/",
+   "firstQueuedAtMs": 1795469400000,
+   "playedAtMs": 1795469400000
+  },
+  {
+   "key": "https://thehill.com/?p=6238398",
+   "firstQueuedAtMs": 1795469400000,
+   "playedAtMs": 1795469400000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/missouri/kansas-city/quite-an-accomplishment-for-the-citizens-of-jackson-county-judge-finalizes-settlement-in-property-tax-class-action-lawsuit",
+   "firstQueuedAtMs": 1795469400000,
+   "playedAtMs": 1795469400000
+  },
+  {
+   "key": "6b008fb25f35c47a5c1160d8",
+   "firstQueuedAtMs": 1795469400000,
+   "playedAtMs": 1795469400000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4420106",
+   "firstQueuedAtMs": 1795469400000,
+   "playedAtMs": 1795469400000
+  },
+  {
+   "key": "https://fortune.com/?p=4649246&showAdminBar=true",
+   "firstQueuedAtMs": 1795469400000,
+   "playedAtMs": 1795469400000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/politics/federal-appeals-court-gives-president-donald-trump-a-path-to-erasing-hush-money-conviction",
+   "firstQueuedAtMs": 1795469400000,
+   "playedAtMs": 1795469400000
+  },
+  {
+   "key": "news714660788",
+   "firstQueuedAtMs": 1795469400000,
+   "playedAtMs": 1795469400000
+  },
+  {
+   "key": "news714661586",
+   "firstQueuedAtMs": 1795469400000,
+   "playedAtMs": 1795469400000
+  },
+  {
+   "key": "67367a3b42e45bb4956a0b38",
+   "firstQueuedAtMs": 1795469400000,
+   "playedAtMs": 1795469400000
+  },
+  {
+   "key": "https://fortune.com/?p=4649198&showAdminBar=true",
+   "firstQueuedAtMs": 1795469400000,
+   "playedAtMs": 1795469400000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/trump-orders-the-army-not-to-detonate-bomb-making-chemicals-in-iowa-without-court-approval",
+   "firstQueuedAtMs": 1795469400000,
+   "playedAtMs": 1795469400000
+  },
+  {
+   "key": "https://missouriindependent.com/?post_type=republished&p=33827",
+   "firstQueuedAtMs": 1795469400000,
+   "playedAtMs": 1795469400000
   }
  ]
 }
