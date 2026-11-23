@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T10:20:17.312Z",
- "lastSyncBucket": 997459,
- "lastSyncCarryInSeconds": 36,
+ "updatedAt": "2026-11-23T10:35:15.395Z",
+ "lastSyncBucket": 997460,
+ "lastSyncCarryInSeconds": 71,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -8079,6 +8079,191 @@
    "key": "https://fortune.com/?p=4648307&showAdminBar=true",
    "firstQueuedAtMs": 1795426200000,
    "playedAtMs": 1795426200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/10/12/air-watch-kctv5-news-this-morning-live/",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/23/us-army-releases-new-date-planned-detonation-lead-azide/",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/23/un-climate-talks-meltdown-aftermath",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "74504700",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "https://flatwaterfreepress.org/?p=20449",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "https://abcnews.com/Politics/democrats-holding-12-debates-2028-cycle-requiring-candidates/story?id=138321896",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/opinion/national-popular-vote.html",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/opinion/china-ai-race-control.html",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/23/dnc-super-pacs-limits-2028-primary",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "6afcbbefd008af356e3524fd",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "https://dev.to/digistreetinsights/programmatic-seo-for-location-pages-how-to-scale-without-thin-content-3i9f",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "https://indianacapitalchronicle.com/?p=28236",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "https://dev.to/iamantonreznik/why-rereading-feels-productive-but-recall-works-better-3l13",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "https://insideclimatenews.org/?p=116507",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "https://dev.to/kilocode/we-asked-ai-models-to-predict-anthropics-first-close-2fj2",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "2a6d8509-e292-489a-a3af-e98761bab563",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/23/doctors-malpractice-ai-liability-danger",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "news714633612",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "news714633572",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/23/nx-s1-6044207/thanksgiving-meal-costs",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311349",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "108557232",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "6b007c1f3e447d10163e651c",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "WP-MKTW-0005364119",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "108557197",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "TOPD3FT9NJLS00",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "https://www.marktechpost.com/?p=84057",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/23/nx-s1-6047791/mushroom-supplements-health-research",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "https://michiganadvance.com/?p=116156",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "TOY99YR24U8D00",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "WP-MKTW-0005362298",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "WP-MKTW-0005363485",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "108553597",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "https://www.fastcompany.com/91635178/need-to-solve-a-problem-neuroscience-jack-reacher-method",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/23/nx-s1-6020559/senior-drivers-tesla-automated-driving-safety",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "TOY73KKIP3IB00",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
+  },
+  {
+   "key": "TOY71ZKGIFPF00",
+   "firstQueuedAtMs": 1795428000000,
+   "playedAtMs": 1795428000000
   }
  ]
 }
