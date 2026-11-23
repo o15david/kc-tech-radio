@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T22:50:11.025Z",
- "lastSyncBucket": 997484,
- "lastSyncCarryInSeconds": 68,
+ "updatedAt": "2026-11-23T23:05:32.205Z",
+ "lastSyncBucket": 997485,
+ "lastSyncCarryInSeconds": 79,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -12519,6 +12519,216 @@
    "key": "https://www.theverge.com/?p=1034512",
    "firstQueuedAtMs": 1795471200000,
    "playedAtMs": 1795471200000
+  },
+  {
+   "key": "74510475",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/23/springfield-police-bomb-squad-investigating-suspicious-package-found-walmart-e-sunshine-street/",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/us/politics/jimmy-gomez-democrat-resigns.html",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "74511719",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "TOZ8SRKIP3JE00",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4453283",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=229750",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "https://spectator.com/article/the-beauty-of-artists-studios/",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "PbUcKkWQ6QyrMQYQMHumYe",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "74511107",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "74512381",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "https://thehill.com/?p=6238594",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "https://www.inc.com/marc-berman/doctor-who-has-survived-63-years-its-best-business-lesson-isnt-nostalgia/91441624",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "news714649555",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4453431",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/23/all-about-ai-four-pillars-safe-ai-user-framework-with-dr-adetayo/",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "news714662821",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4453353",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "TOZ889R24U8S00",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "TOZ7YGR24U8N00",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "https://stalw.art/blog/microsoft-exchange-replacement/",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/making-sense-of-chaotic-supernova-ejecta-with-the-jwst",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "https://fortune.com/?p=4649334&showAdminBar=true",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=302387",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "https://thehill.com/?p=6238574",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/23/your-side-travel-experts-urge-preparation-ahead-thanksgiving-trips/",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "news714661793",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "news714675481",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "https://twitter.com/__alpoge__/status/2124987173439209561",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "https://fortune.com/?p=4648647",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "https://abcnews.com/Politics/trump-ordered-military-hold-off-iowa-explosives-detonation/story?id=138384845",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "https://semiengineering.com/?p=24284645",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "https://lobste.rs/s/fygpme",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "6b04960ad009ae83a581a9b7",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "https://fortune.com/?p=4649165&showAdminBar=true",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "https://www.kshb.com/sports/u-s-mexico-costa-rica-and-jamaica-to-host-historic-2031-womens-world-cup",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "https://abcnews.com/US/trump-granted-new-chance-potentially-erase-hush-money/story?id=138391922",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "https://www.darkreading.com/endpoint-security/crowdstrike-ai-security-push-zscaler-deal",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "https://openai.com/index/introducing-shirudo",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311754",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
+  },
+  {
+   "key": "https://www.fastcompany.com/91647779/spotify-wrapped-2026-is-almost-here-heres-how-to-make-sure-youre-ready",
+   "firstQueuedAtMs": 1795473000000,
+   "playedAtMs": 1795473000000
   }
  ]
 }
