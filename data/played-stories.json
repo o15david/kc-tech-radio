@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T14:50:06.702Z",
- "lastSyncBucket": 997468,
- "lastSyncCarryInSeconds": 32,
+ "updatedAt": "2026-11-23T15:05:11.444Z",
+ "lastSyncBucket": 997469,
+ "lastSyncCarryInSeconds": 9,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -9414,6 +9414,216 @@
    "key": "https://dev.to/wardterm/ssh-commands-cheat-sheet-connect-keys-files-tunnels-and-debug-1dj",
    "firstQueuedAtMs": 1795442400000,
    "playedAtMs": 1795442400000
+  },
+  {
+   "key": "https://www.rockchalktalk.com/?p=34571",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "https://thehill.com/?p=6235028",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1023471",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "A7VgJJ6AziuP8gjsf9UePk",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "https://thehill.com/?p=6236751",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "https://nautil.us/?p=1286910",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/217307/chiefs-week-10-snap-count-analysis-ashton-gillotte-does-it-all",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "https://www.eetimes.com/?p=101804028",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "https://www.infoq.com/news/2026/11/netflix-sdlc-ai-coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "108557362",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "news714648354",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "https://www.inc.com/victoria-salves/tech-outages-have-exposed-software-beirut-businesses-need-take-3-steps/91440403",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "news714649589",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "https://www.engadget.com/2320151/how-to-pair-bluetooth-headphones-windows-pc/",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43228",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1551802",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191185",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "news714642550",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/22/business/nvidia-stock-huang-ai-sp500-markets.html",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "108557328",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1551809",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "108556799",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "https://www.royalsreview.com/?p=108385",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "https://www.infoq.com/news/2026/11/agoda-modular-monolith-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "https://eos.org/?p=252717",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "https://wisconsinwatch.org/?p=1323301",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "24c17e8d-d8e0-471f-8daf-e26d629a39b1",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43225",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "news714643709",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "news714399737",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "https://fortune.com/?p=4648521&showAdminBar=true",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "289bbf9d-5f99-406c-afa9-858555a67aed",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "108557309",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "6b006f09f7a2ad000155d195",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/10/12/air-watch-mykc-live/",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "108557283",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "https://www.engadget.com/2319938/underrated-apple-watch-shortcuts-quick-setup/",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "f662b162-ef0d-40cd-9908-0643f85f0430",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "108557351",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "WP-MKTW-0005363388",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1039919",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
+  },
+  {
+   "key": "74507641",
+   "firstQueuedAtMs": 1795444200000,
+   "playedAtMs": 1795444200000
   }
  ]
 }
