@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T02:20:13.978Z",
- "lastSyncBucket": 997443,
- "lastSyncCarryInSeconds": 117,
+ "updatedAt": "2026-11-23T02:35:09.066Z",
+ "lastSyncBucket": 997444,
+ "lastSyncCarryInSeconds": 8,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -5759,6 +5759,236 @@
    "key": "https://dev.to/riona_he_211b12cf8ae69e74/dont-fix-accessibility-after-the-fact-constraints-to-put-in-your-first-ai-website-prompt-47bh",
    "firstQueuedAtMs": 1795397400000,
    "playedAtMs": 1795397400000
+  },
+  {
+   "key": "74503003",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=164818",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://abcnews.com/US/army-moves-detonation-10000-pounds-lead-azide-wedneday/story?id=138330909",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://thebeaconnews.org/?p=36303",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "b17b40d0-6097-46e2-8f81-e3373128f1b8",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/zack-greinke-eric-hosmer-elected-to-royals-hall-of-fame",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://www.thepitchkc.com/?p=959517",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://thehill.com/?p=6236489",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=164338",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://martincitytelegraph.com/?p=81954",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "7cebed96-9e30-491f-a009-8d6ee4c61849",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://kcstudio.org/?p=125290",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://martincitytelegraph.com/?p=81948",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "e0fbc23b-abcd-4f8b-ac8b-4d4196399c8b",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4416420",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://www.engadget.com/2319572/how-much-starlink-cost-2020-vs-2026/",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=383807",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4416389",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/22/us/politics/el-sayed-trump-health-care.html",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://spelunkr.tv",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "TOXHHWKK3NYD00",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://www.engadget.com/2319567/how-to-clear-cache-google-tv/",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://www.inc.com/amaya-nichole/dunkin-founder-built-30-location-burger-chain-then-company-abandoned-it/91440624",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://capitolnewsillinois.com/?p=134874",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://hackaday.com/?p=1429560&preview=true&preview_id=1429560",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1105857",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "news714380873",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "wnn_ksi_irgc_targets_us_patriot_missiles_261122",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://www.engadget.com/2310692/public-vs-private-ip-addresses-differences/",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1039851",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://github.com/mjwsolo/localcode",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://www.engadget.com/2319544/free-app-connects-android-phone-windows-pc-wirelessly-plainapp/",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://www.thepitchkc.com/?p=959710",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://www.inc.com/moses-jeanfrancois/american-dream-costs-5-million-dollars-housing-isnt-fastest-rising-expense/91440083",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "TOXBSDKGIFQ300",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://www.engadget.com/2319541/safely-clean-pc-gpu-avoid-damage/",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://lobste.rs/s/leqwqu",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://www.engadget.com/2319538/monitor-flickering-when-turned-on-how-to-fix/",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://lobste.rs/s/g5msf2",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191170",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4416072",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
+  },
+  {
+   "key": "https://www.inc.com/lucia-auerbach/judges-named-worlds-best-18-year-bourbon-one-third-of-it-isnt-bourbon/91440029",
+   "firstQueuedAtMs": 1795399200000,
+   "playedAtMs": 1795399200000
   }
  ]
 }
