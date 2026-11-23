@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-23T21:20:11.349Z",
- "lastSyncBucket": 997481,
- "lastSyncCarryInSeconds": 15,
+ "updatedAt": "2026-11-23T21:35:38.846Z",
+ "lastSyncBucket": 997482,
+ "lastSyncCarryInSeconds": 73,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -12004,6 +12004,186 @@
    "key": "https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/",
    "firstQueuedAtMs": 1795465800000,
    "playedAtMs": 1795465800000
+  },
+  {
+   "key": "https://www.kshb.com/us-news/jensen-huang-was-reinstated-at-nvidia-what-happened-to-other-ousted-ceos",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/23/mother-charged-crash-that-killed-her-8-year-old-child-injured-another/",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "https://www.ky3.com/sponsored/johnston-companies/ozarks-made-missouri-sts-protoplex-helps-build-future-manufacturing/",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "b9cdeead-159f-4f32-9662-3744735147cf",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/23/my-love-is-fire-singer-donny-osmond-douses-flames-spare-familys-home/",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "WP-MKTW-0005365890",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191574",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/technology/trump-administration-megaspeed-trade-blacklist-nvidia.html",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1552108",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "6dqpvWjkvSPvdP9WVPUYkC",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "https://www.nbcnews.com/pop-culture/pop-culture-news/tyson-fury-former-boxing-champ-reveals-schizophrenia-diagnosis-rcna610901",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "news714661522",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "news714659283",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/10/12/air-watch-kctv5-news-live/",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "https://semiengineering.com/?p=24284642",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/23/chiefs-have-won-3-straight-retake-afc-west-setting-up-thanksgiving-night-buffalo/",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "TOZ0AIKJH6V700",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "https://grist.org/?p=761391",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "https://thehill.com/?p=6238400",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "https://thehill.com/?p=6238399",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "https://www.techdirt.com/?p=552147&preview=true&preview_id=552147",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "74511715",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "74511660",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "news714669181",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "74511349",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "https://www.nasa.gov/?post_type=press-release&p=1067593",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "https://www.kshb.com/world/don-toliver-postpones-show-after-12-000-fans-evacuated-from-manchester-concert",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1040497",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "https://thehill.com/?p=6238377",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "https://semiengineering.com/?p=24284638",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "https://www.inc.com/amaya-nichole/white-castle-ignored-fast-food-playbook-105-years-ceo-says-decision-1-advantage/91441480",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4419987",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "108557778",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "https://www.sciencenews.org/?p=3182264",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
+  },
+  {
+   "key": "https://hackaday.com/?p=1429194",
+   "firstQueuedAtMs": 1795467600000,
+   "playedAtMs": 1795467600000
   }
  ]
 }
