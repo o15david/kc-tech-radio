@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T08:20:02.769Z",
- "lastSyncBucket": 997503,
- "lastSyncCarryInSeconds": 74,
+ "updatedAt": "2026-11-24T08:35:17.624Z",
+ "lastSyncBucket": 997504,
+ "lastSyncCarryInSeconds": 8,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -16189,6 +16189,156 @@
    "key": "https://retractionwatch.com/?p=136635",
    "firstQueuedAtMs": 1795505400000,
    "playedAtMs": 1795505400000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75717",
+   "firstQueuedAtMs": 1795507200000,
+   "playedAtMs": 1795507200000
+  },
+  {
+   "key": "https://michiganadvance.com/?p=116164",
+   "firstQueuedAtMs": 1795507200000,
+   "playedAtMs": 1795507200000
+  },
+  {
+   "key": "TOZYMYR24U8G00",
+   "firstQueuedAtMs": 1795507200000,
+   "playedAtMs": 1795507200000
+  },
+  {
+   "key": "TOZYSIKGIFPO00",
+   "firstQueuedAtMs": 1795507200000,
+   "playedAtMs": 1795507200000
+  },
+  {
+   "key": "https://semiengineering.com/?p=24284523",
+   "firstQueuedAtMs": 1795507200000,
+   "playedAtMs": 1795507200000
+  },
+  {
+   "key": "https://semiengineering.com/?p=24284587",
+   "firstQueuedAtMs": 1795507200000,
+   "playedAtMs": 1795507200000
+  },
+  {
+   "key": "https://semiengineering.com/?p=24284611",
+   "firstQueuedAtMs": 1795507200000,
+   "playedAtMs": 1795507200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795502283",
+   "firstQueuedAtMs": 1795507200000,
+   "playedAtMs": 1795507200000
+  },
+  {
+   "key": "https://semiengineering.com/?p=24284678",
+   "firstQueuedAtMs": 1795507200000,
+   "playedAtMs": 1795507200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795507896",
+   "firstQueuedAtMs": 1795507200000,
+   "playedAtMs": 1795507200000
+  },
+  {
+   "key": "https://semiengineering.com/?p=24284659",
+   "firstQueuedAtMs": 1795507200000,
+   "playedAtMs": 1795507200000
+  },
+  {
+   "key": "https://www.scmp.com/business/markets/article/3375599/chinese-drug-stocks-sink-us-lawmakers-threaten-cross-border-collaboration",
+   "firstQueuedAtMs": 1795507200000,
+   "playedAtMs": 1795507200000
+  },
+  {
+   "key": "https://www.minnpost.com/?p=2243879",
+   "firstQueuedAtMs": 1795507200000,
+   "playedAtMs": 1795507200000
+  },
+  {
+   "key": "https://semiengineering.com/?p=24283843",
+   "firstQueuedAtMs": 1795507200000,
+   "playedAtMs": 1795507200000
+  },
+  {
+   "key": "https://semiengineering.com/?p=24284673",
+   "firstQueuedAtMs": 1795507200000,
+   "playedAtMs": 1795507200000
+  },
+  {
+   "key": "https://semiengineering.com/?p=24284683",
+   "firstQueuedAtMs": 1795507200000,
+   "playedAtMs": 1795507200000
+  },
+  {
+   "key": "https://semiengineering.com/?p=24284591",
+   "firstQueuedAtMs": 1795507200000,
+   "playedAtMs": 1795507200000
+  },
+  {
+   "key": "https://semiengineering.com/?p=24284667",
+   "firstQueuedAtMs": 1795507200000,
+   "playedAtMs": 1795507200000
+  },
+  {
+   "key": "https://www.scmp.com/week-asia/politics/article/3375596/not-true-anwar-denies-malaysian-government-leaked-najib-pardon-minutes",
+   "firstQueuedAtMs": 1795507200000,
+   "playedAtMs": 1795507200000
+  },
+  {
+   "key": "news714386641",
+   "firstQueuedAtMs": 1795507200000,
+   "playedAtMs": 1795507200000
+  },
+  {
+   "key": "https://fzakaria.com/2026/11/23/2035-came-early",
+   "firstQueuedAtMs": 1795507200000,
+   "playedAtMs": 1795507200000
+  },
+  {
+   "key": "https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge",
+   "firstQueuedAtMs": 1795507200000,
+   "playedAtMs": 1795507200000
+  },
+  {
+   "key": "https://sifted.eu/articles/schneider-electric-ventures-accelerator-scheme-europe/",
+   "firstQueuedAtMs": 1795507200000,
+   "playedAtMs": 1795507200000
+  },
+  {
+   "key": "https://sifted.eu/articles/inside-the-next-big-bets-in-ai-compute/",
+   "firstQueuedAtMs": 1795507200000,
+   "playedAtMs": 1795507200000
+  },
+  {
+   "key": "https://sifted.eu/articles/eqt-ai-talent-polly-barnes-opinion/",
+   "firstQueuedAtMs": 1795507200000,
+   "playedAtMs": 1795507200000
+  },
+  {
+   "key": "https://sifted.eu/articles/lato-seed-round/",
+   "firstQueuedAtMs": 1795507200000,
+   "playedAtMs": 1795507200000
+  },
+  {
+   "key": "https://sifted.eu/articles/ineffable-david-silver-ai-super-intelligence-safety/",
+   "firstQueuedAtMs": 1795507200000,
+   "playedAtMs": 1795507200000
+  },
+  {
+   "key": "https://news.mit.edu/2026/confirmed-numbers-tell-language-sells-1119",
+   "firstQueuedAtMs": 1795507200000,
+   "playedAtMs": 1795507200000
+  },
+  {
+   "key": "https://news.fnal.gov/?p=343581",
+   "firstQueuedAtMs": 1795507200000,
+   "playedAtMs": 1795507200000
+  },
+  {
+   "key": "https://www.sci.news/?p=112807",
+   "firstQueuedAtMs": 1795507200000,
+   "playedAtMs": 1795507200000
   }
  ]
 }
