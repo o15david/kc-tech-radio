@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T14:20:29.348Z",
- "lastSyncBucket": 997515,
- "lastSyncCarryInSeconds": 50,
+ "updatedAt": "2026-11-24T14:35:27.452Z",
+ "lastSyncBucket": 997516,
+ "lastSyncCarryInSeconds": 7,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -18349,6 +18349,201 @@
    "key": "https://fortune.com/?p=4648122&showAdminBar=true",
    "firstQueuedAtMs": 1795527000000,
    "playedAtMs": 1795527000000
+  },
+  {
+   "key": "https://insideclimatenews.org/?p=116582",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "https://missouriindependent.com/?post_type=republished&p=33821",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "https://thehill.com/?p=6237895",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "https://sifted.eu/articles/europes-sovereignty-debate-luxembourg-brnd/",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311883",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "https://thehill.com/?p=6239400",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43264",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1552339",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "https://flatlandkc.org/?p=199687",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "74518826",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "1ff2eed7-f3e4-457a-9e94-cdb927ba17f6",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1552300",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "https://eos.org/?p=252672",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4453827",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "https://www.kshb.com/politics/the-president/federal-appeals-court-gives-trump-path-to-erasing-hush-money-conviction",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "news714725539",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "news714732121",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1552302",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "WP-MKTW-0005366848",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "https://www.marktechpost.com/?p=84070",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "https://kansasreflector.com/?p=64084",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1552297",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "https://www.engadget.com/2320467/never-ignore-cars-software-updates-reasons/",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "https://earthsky.org/?p=376739",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "57e0c490-7d26-4d5f-9b91-4fcce594fac0",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1040300",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "74518527",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "https://www.royalsreview.com/?p=108467",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "https://lobste.rs/s/c1vzom",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "https://lobste.rs/s/j66n8x",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43263",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/space-lasers-are-fast-but-clouds-still-rule-the-forecast",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "news714671881",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "news714660781",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "TOYZUZKK3NYA00",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "https://www.inc.com/jennifer-knowles/nvidia-changed-its-mind-about-jensen-huang-in-just-six-days-heres-why/91441438",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
+  },
+  {
+   "key": "https://www.inc.com/michael-tasner/recession-warnings-how-to-market-money-gets-tight/91441157",
+   "firstQueuedAtMs": 1795528800000,
+   "playedAtMs": 1795528800000
   }
  ]
 }
