@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T08:50:09.190Z",
- "lastSyncBucket": 997504,
- "lastSyncCarryInSeconds": 8,
+ "updatedAt": "2026-11-24T09:05:05.130Z",
+ "lastSyncBucket": 997505,
+ "lastSyncCarryInSeconds": 119,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -16339,6 +16339,171 @@
    "key": "https://www.sci.news/?p=112807",
    "firstQueuedAtMs": 1795507200000,
    "playedAtMs": 1795507200000
+  },
+  {
+   "key": "https://www.kcur.org/podcast/kansas-city-today/2026-11-24/kansas-city-current-fans-celebrate-first-championship-win",
+   "firstQueuedAtMs": 1795509000000,
+   "playedAtMs": 1795509000000
+  },
+  {
+   "key": "https://oklahomavoice.com/?post_type=republished&p=22835",
+   "firstQueuedAtMs": 1795509000000,
+   "playedAtMs": 1795509000000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/three-taken-to-hospital-after-overnight-house-fire-in-overland-park",
+   "firstQueuedAtMs": 1795509000000,
+   "playedAtMs": 1795509000000
+  },
+  {
+   "key": "https://www.engadget.com/2325316/honor-teams-up-with-cinema-camera-maker-arri-on-the-magic-9-pro-max/",
+   "firstQueuedAtMs": 1795509000000,
+   "playedAtMs": 1795509000000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=228647",
+   "firstQueuedAtMs": 1795509000000,
+   "playedAtMs": 1795509000000
+  },
+  {
+   "key": "https://www.pymnts.com/?post_type=report&p=4403616",
+   "firstQueuedAtMs": 1795509000000,
+   "playedAtMs": 1795509000000
+  },
+  {
+   "key": "https://www.eetimes.com/?p=101804370",
+   "firstQueuedAtMs": 1795509000000,
+   "playedAtMs": 1795509000000
+  },
+  {
+   "key": "https://lobste.rs/s/uf8vxo",
+   "firstQueuedAtMs": 1795509000000,
+   "playedAtMs": 1795509000000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311622",
+   "firstQueuedAtMs": 1795509000000,
+   "playedAtMs": 1795509000000
+  },
+  {
+   "key": "https://www.canarymedia.com/articles/clean-energy/north-carolina-clean-transition-tariff-punt",
+   "firstQueuedAtMs": 1795509000000,
+   "playedAtMs": 1795509000000
+  },
+  {
+   "key": "https://fortune.com/?p=4649489&showAdminBar=true",
+   "firstQueuedAtMs": 1795509000000,
+   "playedAtMs": 1795509000000
+  },
+  {
+   "key": "https://fortune.com/?p=4649113&showAdminBar=true",
+   "firstQueuedAtMs": 1795509000000,
+   "playedAtMs": 1795509000000
+  },
+  {
+   "key": "https://fortune.com/?p=4641440&showAdminBar=true",
+   "firstQueuedAtMs": 1795509000000,
+   "playedAtMs": 1795509000000
+  },
+  {
+   "key": "https://fortune.com/?p=4648656&showAdminBar=true",
+   "firstQueuedAtMs": 1795509000000,
+   "playedAtMs": 1795509000000
+  },
+  {
+   "key": "https://www.minnpost.com/?p=2243873",
+   "firstQueuedAtMs": 1795509000000,
+   "playedAtMs": 1795509000000
+  },
+  {
+   "key": "https://fortune.com/?p=4649324&showAdminBar=true",
+   "firstQueuedAtMs": 1795509000000,
+   "playedAtMs": 1795509000000
+  },
+  {
+   "key": "https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/",
+   "firstQueuedAtMs": 1795509000000,
+   "playedAtMs": 1795509000000
+  },
+  {
+   "key": "https://openai.com/business/learn/pr-scans-demo",
+   "firstQueuedAtMs": 1795509000000,
+   "playedAtMs": 1795509000000
+  },
+  {
+   "key": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+   "firstQueuedAtMs": 1795509000000,
+   "playedAtMs": 1795509000000
+  },
+  {
+   "key": "https://openai.com/business/learn/codex-security-plugin-demo",
+   "firstQueuedAtMs": 1795509000000,
+   "playedAtMs": 1795509000000
+  },
+  {
+   "key": "https://openai.com/business/learn/deploying-daybreak-red",
+   "firstQueuedAtMs": 1795509000000,
+   "playedAtMs": 1795509000000
+  },
+  {
+   "key": "https://www.sci.news/?p=112801",
+   "firstQueuedAtMs": 1795509000000,
+   "playedAtMs": 1795509000000
+  },
+  {
+   "key": "https://news.crunchbase.com/?p=94423",
+   "firstQueuedAtMs": 1795509000000,
+   "playedAtMs": 1795509000000
+  },
+  {
+   "key": "https://spacenews.com/?p=628380",
+   "firstQueuedAtMs": 1795509000000,
+   "playedAtMs": 1795509000000
+  },
+  {
+   "key": "01M7R89D5X67THE8N5T2YSWARZ",
+   "firstQueuedAtMs": 1795509000000,
+   "playedAtMs": 1795509000000
+  },
+  {
+   "key": "9.7433543",
+   "firstQueuedAtMs": 1795509000000,
+   "playedAtMs": 1795509000000
+  },
+  {
+   "key": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
+   "firstQueuedAtMs": 1795509000000,
+   "playedAtMs": 1795509000000
+  },
+  {
+   "key": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+   "firstQueuedAtMs": 1795509000000,
+   "playedAtMs": 1795509000000
+  },
+  {
+   "key": "https://spaceflightnow.com/?p=74973",
+   "firstQueuedAtMs": 1795509000000,
+   "playedAtMs": 1795509000000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/reconstructing-cosmic-history-and-earths-evolution-from-cosmic-explosions",
+   "firstQueuedAtMs": 1795509000000,
+   "playedAtMs": 1795509000000
+  },
+  {
+   "key": "9.7433260",
+   "firstQueuedAtMs": 1795509000000,
+   "playedAtMs": 1795509000000
+  },
+  {
+   "key": "https://www.darkreading.com/cyber-risk/strike-graph-launches-integration-ai-to-automate-continuous-compliance-evidence-using-any-existing-tool",
+   "firstQueuedAtMs": 1795509000000,
+   "playedAtMs": 1795509000000
+  },
+  {
+   "key": "tag:daringfireball.net,2026://1.43751",
+   "firstQueuedAtMs": 1795509000000,
+   "playedAtMs": 1795509000000
   }
  ]
 }
