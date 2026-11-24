@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T20:20:11.753Z",
- "lastSyncBucket": 997527,
- "lastSyncCarryInSeconds": 8,
+ "updatedAt": "2026-11-24T20:35:12.606Z",
+ "lastSyncBucket": 997528,
+ "lastSyncCarryInSeconds": 95,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -20704,6 +20704,226 @@
    "key": "https://www.fastcompany.com/91648069/elon-musk-once-again-promises-teslas-new-autonomous-driving-is-better-than-humans",
    "firstQueuedAtMs": 1795548600000,
    "playedAtMs": 1795548600000
+  },
+  {
+   "key": "https://startlandnews.com/?p=723041",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "https://kansasreflector.com/?post_type=republished&p=64164",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "https://startlandnews.com/?p=723048",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "74522376",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "https://www.thepitchkc.com/?p=959593",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "https://electrek.co/?p=495883",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386725",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1041618",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "TP0WIQKGZALR00",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "news714745261",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "news714737605",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "TP0S8GT3BZMN00",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "TP0W44KGZAJ000",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/?p=217485",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "TP0VA6RKV2UM00",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/a-gigantic-stellar-eruption-spreads-planetary-material-into-space",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "https://electrek.co/?p=495794",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4423204",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "TP0VQFN3N08W00",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1041571",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "https://www.inc.com/nicole-ramirez/vanity-fair-taylor-swift-mastermind-own-your-career-narrative/91442002",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "https://kansasreflector.com/?p=64160",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "https://lobste.rs/s/to5j9p",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "https://arstechnica.com/health/2026/11/measles-death-toll-rises-to-14-as-national-case-tally-nears-6000/",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "866cb9b1-441c-45fc-a62b-7ce1ead6d5e3",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "news714736921",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "news714744662",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "https://www.inc.com/alexis-franzese/florence-pughs-rest-mentor/91442114",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "108558505",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/popular-christmas-light-display-closes-after-what-organizers-believe-was-an-intentional-act-sabotage/",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "https://science.nasa.gov/get-involved/citizen-science/amateur-astronomer-be-a-kilonova-catcher/",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "https://thehill.com/?p=6240728",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "https://thehill.com/?p=6240535",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "https://www.techdirt.com/?p=552243&preview=true&preview_id=552243",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/nationwide-ground-stop-was-unusual-air-traffic-control-equipment-failures-arent/",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4422949",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "WP-MKTW-0005367191",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "https://www.inc.com/chloe-rosenberg/old-navy-blame-weak-sales-on-weather-holiday-fix-could-make-things-worse/91442091",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "news714671701",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "news714738481",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
+  },
+  {
+   "key": "https://www.fastcompany.com/91646067/why-your-boss-can-basically-fire-you-for-anything-and-why-its-not-like-that-outside-the-u-s",
+   "firstQueuedAtMs": 1795550400000,
+   "playedAtMs": 1795550400000
   }
  ]
 }
