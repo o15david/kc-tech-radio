@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T16:50:19.891Z",
- "lastSyncBucket": 997520,
- "lastSyncCarryInSeconds": 16,
+ "updatedAt": "2026-11-24T17:05:14.619Z",
+ "lastSyncBucket": 997521,
+ "lastSyncCarryInSeconds": 112,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -19279,6 +19279,221 @@
    "key": "https://www.inc.com/michael-tasner/1-trillion-holiday-spending-record-small-business-trap/91442004",
    "firstQueuedAtMs": 1795536000000,
    "playedAtMs": 1795536000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/24/sponsored-place-support-women-need-wild-turkey-wednesday-bake-sale/",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "https://thehill.com/?p=6234029",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/217456/nfl-power-rankings-week-11-roundup-chiefs-inching-towards-top",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191770",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "https://thehill.com/?p=6240078",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "https://nautil.us/?p=1287005",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/24/sponsored-place-join-clinvest-change-life-challenge/",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311922",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/24/police-chief-elect-indicted-child-sex-charges/",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311895",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "06c875a3-3e02-4767-b553-bbdec28b29bc",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "https://arstechnica.com/cars/2026/11/fake-gears-and-real-911-dna-driving-porsches-electric-718-boxster/",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/nfm-is-holiday-hosting-headquarters/",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "74520766",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "https://www.inc.com/rachel-suleymanov/us-mba-applications-just-plunged-27-percent-degree-is-not-problem/91441527",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "TORWEAKK3NYD00",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "https://www.kshb.com/health/the-cdc-stays-quiet-on-flu-as-an-early-season-catches-many-americans-off-guard",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4422578",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191757",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "a5326038-3082-4ea9-a7c9-71bbb549d6bf",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "https://www.engadget.com/2320821/wireless-android-auto-battery-drain-fix/",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "6b04561d307e146147156ba5",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191779",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "news714735461",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "news714736021",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1041270",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4422046",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "https://www.engadget.com/2326681/google-maps-dark-mode-is-getting-even-darker/",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4422515",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "https://www.fastcompany.com/91643017/leaders-transformation-should-not-be-your-focus",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "e646b5fe-53c5-4e05-a104-f8b84d483d15",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "tag:daringfireball.net,2026:/linked//6.43769",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "https://thebeaconnews.org/?p=36392",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "https://hackaday.com/?p=1429984",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "https://www.nbcnews.com/politics/trump-administration/trump-giuliani-medal-freedom-2020-election-nyc-mayor-911-attacks-rcna611099",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "news714734570",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "https://news.mit.edu/2026/excess-renewable-energy-could-power-new-industrial-processes-1124",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "https://www.inc.com/marcel-schwantes/relational-intelligence-5-questions/91441686",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "http://hypercritical.co/2026/11/23/jetty-pro",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "https://www.worksinprogress.news/p/how-to-make-a-lovable-city",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
+  },
+  {
+   "key": "https://fortune.com/?p=4649883&showAdminBar=true",
+   "firstQueuedAtMs": 1795537800000,
+   "playedAtMs": 1795537800000
   }
  ]
 }
