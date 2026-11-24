@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T17:20:35.427Z",
- "lastSyncBucket": 997521,
- "lastSyncCarryInSeconds": 112,
+ "updatedAt": "2026-11-24T17:35:06.177Z",
+ "lastSyncBucket": 997522,
+ "lastSyncCarryInSeconds": 95,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -19494,6 +19494,236 @@
    "key": "https://fortune.com/?p=4649883&showAdminBar=true",
    "firstQueuedAtMs": 1795537800000,
    "playedAtMs": 1795537800000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/24/sponsored-place-wendys-coffee-break-2/",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "https://www.techdirt.com/?p=552259",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/24/man-accused-making-anti-muslim-threats-against-ilhan-omar-zohran-mamdani-others/",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191897",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "tag:daringfireball.net,2026:/linked//6.43771",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "TP0O51RKV2TM00",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "TP0O7LKIP3IQ00",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/24/nyregion/graffiti-sane-nyc-david-smith-art.html",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "news714736433",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "news714735983",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "https://electrek.co/?p=494769",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386698",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "https://lobste.rs/s/qrhnbc",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/43-year-old-woman-faked-childs-death-defraud-elderly-victim-with-dementia/",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1041362",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "https://electrek.co/?p=495741",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "https://www.engadget.com/2320960/macbook-desktop-spaces-rearranging-fix/",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4422718",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/24/us/harvard-maga-class.html",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/politics/rep-raskin-expands-investigation-into-donald-trump-jr-s-investment-firm",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "WP-MKTW-0005358777",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "108558455",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "https://insideclimatenews.org/?p=116606",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4422480",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/24/man-accused-shooting-wife-stepdaughter-her-boyfriend-while-they-were-sleeping/",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "TOZ8FMKJH6V400",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/24/us/politics/tennessee-house-election-results-broderick-wins.html",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "https://jobs.ashbyhq.com/weave-os",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "tag:daringfireball.net,2026:/linked//6.43770",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "news714735922",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "74520126",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "news714736424",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "https://www.engadget.com/2326663/meta-is-bringing-muse-to-instagram/",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "https://www.fastcompany.com/91647653/ai-upended-entry-level-jobs-heres-what-employers-are-actually-looking-for",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "74520465",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/platte-county-auditor-review-11-million-property-tax-credits/",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "https://www.inc.com/scott-hutcheson/93-of-hiltons-hotel-leaders-started-on-the-frontline-its-not-just-a-retention-strategy/91441462",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "https://thehill.com/?p=6240166",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "https://www.inc.com/divya-bhardwaj/is-your-company-one-of-americas-fastest-growing-heres-what-happens-when-you-make-the-inc-regionals-list/91440830",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "https://www.inc.com/divya-bhardwaj/these-female-founders-500-honorees-built-bala-dreamday-and-more-what-came-next/91440826",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "TP0MK3KK3NY900",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "TP02OGKK3NY800",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "https://www.nasa.gov/?post_type=image-article&p=1067540",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "https://www.societyforscience.org/?p=68592",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "74518541",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
+  },
+  {
+   "key": "https://fortune.com/?p=4649841&showAdminBar=true",
+   "firstQueuedAtMs": 1795539600000,
+   "playedAtMs": 1795539600000
   }
  ]
 }
