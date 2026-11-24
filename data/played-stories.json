@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T21:50:42.045Z",
- "lastSyncBucket": 997530,
- "lastSyncCarryInSeconds": 4,
+ "updatedAt": "2026-11-24T22:05:37.512Z",
+ "lastSyncBucket": 997531,
+ "lastSyncCarryInSeconds": 90,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -21319,6 +21319,216 @@
    "key": "https://dailygalaxy.com/?p=163688",
    "firstQueuedAtMs": 1795554000000,
    "playedAtMs": 1795554000000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/kansas/wyandotte-county/rose-watkins-als-tour-expands-brings-thanksgiving-joy",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/15/list-see-restaurants-opened-thanksgiving-ozarks/",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "https://thehill.com/?p=6241202",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/24/sponsored-place-youve-heard-smurfit-westrock-learn-about-their-worldwide-impact/",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "108558721",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "news714759601",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3192009",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/24/style/black-friday-sales-2026-earlier.html",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/kansas-city-man-sentenced-decade-prison-illegal-gun-possession/",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "TP10K1VTTCZW00",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "dcmsXUpx4pWZnyZjjtqSzM",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "https://source.washu.edu/?p=736122",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/21/climate/what-to-know-about-the-planned-explosion-in-iowa.html",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "74523755",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4423809",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "https://fortune.com/?p=4650096&showAdminBar=true",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "https://www.kshb.com/life/holidays-and-celebrations/thanksgiving-travel-rush-could-bring-crowded-skies-weather-delays",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "news714742021",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "acf36c34-5157-495a-8be2-714be5cd6393",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "news714747541",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1041690",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "TP100NRKV2TM00",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "https://www.inc.com/ali-donaldson/lodge-cast-iron-no-ai-social-media-promise/91442276",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "https://www.kshb.com/politics/what-nvidia-ceo-jensen-huang-will-face-when-he-testifies-before-congress",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "https://thehill.com/?p=6241094",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3192038",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3192047",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "TP0ZHXKGIFPH00",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "https://www.inc.com/nick-hobson/starbucks-made-a-tiny-change-to-its-checkout-screen-a-behavioral-scientist-explains-why-its-backfiring/91440065",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "TP0YXAR24U8100",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163745",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "https://iowacapitaldispatch.com/?p=61433",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "https://lobste.rs/s/vciex6",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "https://fortune.com/?p=4650032&showAdminBar=true",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/nation/paxton-drops-texas-lawsuits-that-accused-doctors-of-illegally-providing-transgender-youth-care",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "74523951",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1041417",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "74522285",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163699",
+   "firstQueuedAtMs": 1795555800000,
+   "playedAtMs": 1795555800000
   }
  ]
 }
