@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T19:20:32.891Z",
- "lastSyncBucket": 997525,
- "lastSyncCarryInSeconds": 92,
+ "updatedAt": "2026-11-24T19:35:21.451Z",
+ "lastSyncBucket": 997526,
+ "lastSyncCarryInSeconds": 8,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -20329,6 +20329,191 @@
    "key": "https://www.kshb.com/science-and-tech/animals-and-insects/man-who-alerted-cincinnati-zoo-staff-to-hat-that-killed-fiona-shares-what-he-saw",
    "firstQueuedAtMs": 1795545000000,
    "playedAtMs": 1795545000000
+  },
+  {
+   "key": "https://northdakotamonitor.com/?p=23696",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "https://www.kshb.com/life/holidays-and-celebrations/holiday-toy-trends-what-kids-are-really-asking-for-this-season-from-squishies-to-pokemon-cards",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/24/parenting-playbook-rising-costs-thanksgiving-dinner-mothers-fight-against-kratom/",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/24/arts/design/smithsonian-letter-lonnie-bunch-white-house.html",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "https://missouriindependent.com/?post_type=republished&p=33748",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "https://abcnews.com/US/threat-finally-real-judge-rips-white-house-weaponization/story?id=138417990",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "https://www.engadget.com/2321243/why-never-reply-stop-when-receive-spam-texts/",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "https://news.mit.edu/2026/tangimap-agentic-system-personalizes-physical-controls-help-users-dj-their-art-1124",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "https://www.futurity.org/?p=3355002",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "108558362",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "108558588",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "https://thehill.com/?p=6240493",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "74522154",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "108558641",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "https://grafana.com/grafana/download",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43279",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4454137",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386735",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "https://yaleclimateconnections.org/?p=145148",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "WP-MKTW-0005367752",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "news714738961",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/first-time-17-years-indycar-series-returns-kansas-speedway/",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "tag:daringfireball.net,2026:/linked//6.43773",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "https://thehill.com/?p=6239129/",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386731",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315673",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "https://minnesotareformer.com/?p=39994",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "tag:daringfireball.net,2026:/linked//6.43772",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "https://protocolis.co/paper/",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/the-rise-of-astrosociology-what-can-analogue-astronaut-studies-teach-us-about-the-future-of-humanity",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/24/upshot/midterm-elections-upsets-predictions.html",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "https://www.fastcompany.com/91648571/kalshi-prediction-markets-utah",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/man-accused-killing-wife-after-her-body-was-found-septic-tank-6-years-after-she-went-missing/",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=262387",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "d62b7d37-722b-4feb-879e-ac57a7b4016e",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
+  },
+  {
+   "key": "https://www.nasa.gov/?p=1067477",
+   "firstQueuedAtMs": 1795546800000,
+   "playedAtMs": 1795546800000
   }
  ]
 }
