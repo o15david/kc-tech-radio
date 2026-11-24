@@ -1754,8 +1754,7 @@ export default function Player() {
         {health ? (
           <p className="signal-readout">
             Wire pool {health.totalItems} stories · queue buffer {health.bufferMinutes} min
-            · Voices on the Wire: {health.socialFeedItems} on deck, {health.callerCount} in
-            this queue · transmitter: the Bunker, beneath Union Station
+            · transmitter: the Bunker, beneath Union Station
           </p>
         ) : (
           <p className="signal-readout">Warming up the tubes…</p>
