@@ -1,7 +1,6 @@
 import { NextResponse } from 'next/server';
 import { getNewsPool, countByCategory } from '../../../lib/ingest';
 import { getKansasCityWeather } from '../../../lib/weather';
-import { getSocialItems } from '../../../lib/social';
 import { getPlayedMap } from '../../../lib/played';
 import { buildPlaylist } from '../../../lib/format';
 import { warmSegmentAudio } from '../../../lib/tts';
@@ -9,17 +8,18 @@ import { warmSegmentAudio } from '../../../lib/tts';
 export const dynamic = 'force-dynamic';
 
 export async function GET() {
-  const [pool, weather, socialItems, playedMap] = await Promise.all([
+  const [pool, weather, playedMap] = await Promise.all([
     getNewsPool(),
     getKansasCityWeather(),
-    getSocialItems(),
     getPlayedMap(),
   ]);
+  // Social callers removed (David, Nov 24, 2026): health builds the
+  // queue with an empty caller list, same as the playlist route.
   const { segments, bufferSeconds, callerCount } = buildPlaylist(
     pool,
     weather,
     Date.now(),
-    socialItems,
+    [],
     playedMap
   );
   // Health checks build the queue anyway; use the pass to warm the
@@ -34,10 +34,11 @@ export async function GET() {
     countsByCategory: countByCategory(pool),
     bufferMinutes: Math.round((bufferSeconds / 60) * 10) / 10,
     weatherAvailable: Boolean(weather),
-    // Social callers in the queue this health pass built, and how
-    // many validated caller items the social feed currently offers.
+    // Social callers were removed from the station (David, Nov 24,
+    // 2026); callerCount is structurally 0 and kept on the response
+    // so its absence is measured, not asserted.
     callerCount,
-    socialFeedItems: socialItems.length,
+    socialFeedItems: 0,
     // Per-feed status of the last ACCEPTED refresh. A rejected
     // (collapsed) refresh never overwrites these counts; the failed
     // attempt itself is reported in lastRefresh instead.
