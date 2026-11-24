@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T05:50:20.519Z",
- "lastSyncBucket": 997498,
- "lastSyncCarryInSeconds": 36,
+ "updatedAt": "2026-11-24T06:05:07.718Z",
+ "lastSyncBucket": 997499,
+ "lastSyncCarryInSeconds": 67,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -15284,6 +15284,206 @@
    "key": "tag:daringfireball.net,2026://1.43755",
    "firstQueuedAtMs": 1795496400000,
    "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=229853",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "https://iowacapitaldispatch.com/?p=61408",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "https://thehill.com/?p=6238637",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75707",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "https://science.nasa.gov/image-article/apod-2026-november-24-galaxies-battle-in-the-ngc-7771-group/",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "https://science.nasa.gov/earth/earth-observatory/eruption-extends-iwo-jimas-beach/",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "https://abcnews.com/Politics/led-democrats-sweeping-victories-georgia-abc-news-analysis/story?id=138297496",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "https://micjm.com/blog/lowering-perplexity-without-scaling/",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "https://www.eetimes.com/?p=101803831",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "1330a64685170b909926b2b4b2a02424e8e39834",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-stock-market.html",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "a212bfea16460bf7a9bea632edeb986e07e0bc27",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "https://www.sci.news/?p=112827",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/23/nx-s1-6045883/they-attended-trumps-controversial-meme-coin-dinner-it-didnt-go-well",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "gEkBoWkDqcp48tsiT7MdFi",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/19/technology/downdetector-tech-outages-microsoft-chase-apple.html",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "bd2756a23322a6c423c6a0c059236125af9e54b9",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "e173d85d5b258de98c02cefa501644ec74000613",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "https://eos.org/?p=252388",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "https://yaleclimateconnections.org/?p=144876",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "https://thehill.com/?p=6238137",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "tag:daringfireball.net,2026:/linked//6.43754",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "https://iowacapitaldispatch.com/?p=61348",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "https://thehill.com/?p=6238186",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "V6ah7uTJ2ficGSZgQSn88i",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "https://thehill.com/?p=6238573",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "83c0c30f184dfdf0ae395f9aa3d7c3629ffc28b5",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "https://blogs.nvidia.com/?p=100047",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/nation/trump-told-the-army-to-pause-the-detonation-of-9500-pounds-of-lead-azide-in-iowa-heres-what-to-know",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "https://www.nytimes.com/live/2026/11/19/technology/anthropic-ipo-ai/what-are-anthropics-financials",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "https://source.washu.edu/?p=735704",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "https://www.sciencenews.org/?p=3182010",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "https://news.mit.edu/2026/ultrasound-imaging-without-gel-1119",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "https://www.canarymedia.com/articles/politics/becerra-solar-power-hour",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
+  },
+  {
+   "key": "https://eos.org/?p=252649",
+   "firstQueuedAtMs": 1795498200000,
+   "playedAtMs": 1795498200000
   }
  ]
 }
