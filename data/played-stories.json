@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T18:50:11.010Z",
- "lastSyncBucket": 997524,
- "lastSyncCarryInSeconds": 8,
+ "updatedAt": "2026-11-24T19:05:03.954Z",
+ "lastSyncBucket": 997525,
+ "lastSyncCarryInSeconds": 92,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -20119,6 +20119,216 @@
    "key": "https://dailygalaxy.com/?p=163723",
    "firstQueuedAtMs": 1795543200000,
    "playedAtMs": 1795543200000
+  },
+  {
+   "key": "74455717",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/24/government-agencies-give-update-detonation-iowa/",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "74522101",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/rapper-2chainz-injured-head-on-crash/",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1040046",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/24/climate/iowa-army-ammunition-plant-explostion.html",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "6995d27ca90a7d64f4b87d63",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "https://www.engadget.com/2321242/chatgpt-biggest-limitations/",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "6zqu9hm6UQNYHccyk4Wjk3",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "74521441",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "https://electrek.co/?p=495812",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/fake-holiday-stores-are-getting-more-convincing-with-ai-heres-what-shoppers-should-know/",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "https://abcnews.com/US/us-army-details-mitigation-plans-controlled-iowa-munition/story?id=138410668",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "https://www.techdirt.com/?p=552287&preview=true&preview_id=552287",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315411",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315658",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "news714736558",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "WP-MKTW-0005367361",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "https://www.nbcnews.com/health/health-news/hepatitis-b-vaccination-decline-newborns-liver-disease-study-rcna611070",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "https://www.fastcompany.com/91648299/hsa-succession-plan",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/24/youll-be-able-see-beaver-supermoon-tuesday-night/",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "https://www.inc.com/brian-contreras/jensen-huang-ceo-return-nvidia-stock-price-rally-falling/91442019",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/financial-advisor-explains-what-changed-529-plans-2026/",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "https://lobste.rs/s/beyzsq",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1041474",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4423077",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "news714737521",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "https://thehill.com/?p=6240331/",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "108557355",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "WP-MKTW-0005367088",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191971",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "https://arstechnica.com/space/2026/11/amazon-surges-launches-with-rival-spacex-after-ula-fails-to-deliver/",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "108558377",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "news714736543",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "https://www.fastcompany.com/91646680/94-of-the-worlds-biggest-songs-have-one-surprising-thing-in-common",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "74520738",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "108558552",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "TP0R21R24U9Q00",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "108558444",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
+  },
+  {
+   "key": "https://www.kshb.com/science-and-tech/animals-and-insects/man-who-alerted-cincinnati-zoo-staff-to-hat-that-killed-fiona-shares-what-he-saw",
+   "firstQueuedAtMs": 1795545000000,
+   "playedAtMs": 1795545000000
   }
  ]
 }
