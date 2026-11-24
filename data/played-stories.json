@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T22:50:42.914Z",
- "lastSyncBucket": 997532,
- "lastSyncCarryInSeconds": 66,
+ "updatedAt": "2026-11-24T23:05:58.121Z",
+ "lastSyncBucket": 997533,
+ "lastSyncCarryInSeconds": 16,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -21744,6 +21744,181 @@
    "key": "https://www.fastcompany.com/91648438/dollar-trees-stock-is-skyrocketing-one-number-in-its-earnings-report-helps-explain-why",
    "firstQueuedAtMs": 1795557600000,
    "playedAtMs": 1795557600000
+  },
+  {
+   "key": "74524319",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/24/springfield-sisters-raise-money-angel-tree-gifts-older-children/",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
+  },
+  {
+   "key": "perf:98",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/chiefs-sign-ot-fred-johnson-practice-squad-move-fullback-injured-reserve/",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
+  },
+  {
+   "key": "perf:83",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
+  },
+  {
+   "key": "https://www.engadget.com/2321248/starlink-wifi-speed-split-network-app-setting/",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=289898",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
+  },
+  {
+   "key": "TP13MDKGIFPN00",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
+  },
+  {
+   "key": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/24/springfield-police-seek-suspect-business-burglaries-attempted-burglaries/",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
+  },
+  {
+   "key": "perf:85",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
+  },
+  {
+   "key": "74524371",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
+  },
+  {
+   "key": "news714762181",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/a-brief-ish-history-of-meti-part-iv-millennial-meti-experiments",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
+  },
+  {
+   "key": "WP-MKTW-0005368485",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
+  },
+  {
+   "key": "74524468",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
+  },
+  {
+   "key": "news714735452",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
+  },
+  {
+   "key": "news714747002",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
+  },
+  {
+   "key": "74523765",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
+  },
+  {
+   "key": "jmGQ6RwsZh6JRQEMKFp3Zm",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/217437/kingdom-keys-3-keys-to-a-chiefs-victory-over-the-cardinals-in-week-11",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
+  },
+  {
+   "key": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
+  },
+  {
+   "key": "https://thehill.com/?p=6241322",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
+  },
+  {
+   "key": "https://www.sci.news/?p=112888",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
+  },
+  {
+   "key": "TP0W7LKGZAIY00",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
+  },
+  {
+   "key": "news714761581",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
+  },
+  {
+   "key": "https://lobste.rs/s/w3zni2",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163003",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
+  },
+  {
+   "key": "https://minnesotareformer.com/?post_type=republished&p=39999",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
+  },
+  {
+   "key": "https://masondata.ai/",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
+  },
+  {
+   "key": "https://retractionwatch.com/?p=136711",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/hickman-mills-school-board-extends-contract-for-superintendent-dennis-carpenter",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
+  },
+  {
+   "key": "https://science.nasa.gov/missions/dragonfly/nasas-titan-bound-dragonfly-rotorcraft-gets-its-eyes/",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/24/us/politics/aaron-reitz-justice-dept-anosh-ahmed.html",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=162904",
+   "firstQueuedAtMs": 1795559400000,
+   "playedAtMs": 1795559400000
   }
  ]
 }
