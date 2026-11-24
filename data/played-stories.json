@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T23:20:30.634Z",
- "lastSyncBucket": 997533,
- "lastSyncCarryInSeconds": 16,
+ "updatedAt": "2026-11-24T23:35:28.938Z",
+ "lastSyncBucket": 997534,
+ "lastSyncCarryInSeconds": 5,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -21919,6 +21919,186 @@
    "key": "https://dailygalaxy.com/?p=162904",
    "firstQueuedAtMs": 1795559400000,
    "playedAtMs": 1795559400000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1041819",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "74523486",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "https://insideclimatenews.org/?p=116648",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/kc-area-officials-say-exposure-risk-is-low-army-set-detonate-lead-azide-iowa/",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "https://www.engadget.com/2321249/fitbit-edge-replaceable-battery-not-easy/",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "https://www.engadget.com/2327499/australia-to-pass-safety-bill-that-could-result-in-massive-fines-for-tech-platforms/",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "https://www.sci.news/?p=112892",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "news714748261",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "news714752881",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "https://thehill.com/?p=6241465",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "TP14ATKGZAIY00",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "TP0OWXKIP3IS00",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "https://www.techdirt.com/?p=552246",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "https://lobste.rs/s/em9zdb",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "news714747519",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "TP14AFKIP3IE00",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "tag:daringfireball.net,2026:/linked//6.43776",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/15-girls-found-after-video-appears-show-some-escaping-facility-by-crawling-under-fence/",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "https://www.marktechpost.com/?p=84080",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4424000",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "74524688",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/24/mindful-monday-holiday-travel-caring-someone-with-alzheimers-disease/",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4423945",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "https://www.kshb.com/sports/local-sports/kc-current/kansas-city-current-fans-celebrate-nwsl-title-eager-for-womens-world-cup-bid",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/24/us/iowa-ammunition-plant-lead-explosion-middletown.html",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/24/10-year-old-girl-dies-gunshot-wound-competition-mo-home-sheriff-says/",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "news714752701",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "https://www.fastcompany.com/91648459/billy-evans-may-have-gotten-a-profit-share-from-you-can-see-everything-after-all",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "https://abcnews.com/Health/potential-health-effects-armys-controlled-detonation-5-tons/story?id=138415656",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "TOS83PVTTD0H00",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261122060332.htm",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "https://www.fastcompany.com/91648303/why-donald-trump-jr-s-investment-firm-focus-widening-probe-house",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
+  },
+  {
+   "key": "74522361",
+   "firstQueuedAtMs": 1795561200000,
+   "playedAtMs": 1795561200000
   }
  ]
 }
