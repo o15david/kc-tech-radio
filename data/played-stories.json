@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T07:50:13.392Z",
- "lastSyncBucket": 997502,
- "lastSyncCarryInSeconds": 15,
+ "updatedAt": "2026-11-24T08:05:12.200Z",
+ "lastSyncBucket": 997503,
+ "lastSyncCarryInSeconds": 74,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -16024,6 +16024,171 @@
    "key": "https://earthsky.org/?p=565752",
    "firstQueuedAtMs": 1795503600000,
    "playedAtMs": 1795503600000
+  },
+  {
+   "key": "https://flatwaterfreepress.org/?p=20478",
+   "firstQueuedAtMs": 1795505400000,
+   "playedAtMs": 1795505400000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya",
+   "firstQueuedAtMs": 1795505400000,
+   "playedAtMs": 1795505400000
+  },
+  {
+   "key": "oP2dHujHyqTYnY34HxB7hC",
+   "firstQueuedAtMs": 1795505400000,
+   "playedAtMs": 1795505400000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75485",
+   "firstQueuedAtMs": 1795505400000,
+   "playedAtMs": 1795505400000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1552266",
+   "firstQueuedAtMs": 1795505400000,
+   "playedAtMs": 1795505400000
+  },
+  {
+   "key": "https://www.nbcnews.com/pop-culture/pop-culture-news/grand-theft-auto-six-fans-reaction-celebration-player-profiles-rcna609640",
+   "firstQueuedAtMs": 1795505400000,
+   "playedAtMs": 1795505400000
+  },
+  {
+   "key": "TOZRQ5T96OSK00",
+   "firstQueuedAtMs": 1795505400000,
+   "playedAtMs": 1795505400000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315647",
+   "firstQueuedAtMs": 1795505400000,
+   "playedAtMs": 1795505400000
+  },
+  {
+   "key": "https://www.eetimes.com/?p=101803574",
+   "firstQueuedAtMs": 1795505400000,
+   "playedAtMs": 1795505400000
+  },
+  {
+   "key": "https://github.com/anthropics/formal-math/blob/vp-vnp/vp-vnp/paper.pdf",
+   "firstQueuedAtMs": 1795505400000,
+   "playedAtMs": 1795505400000
+  },
+  {
+   "key": "TOZGBUKGIFQJ00",
+   "firstQueuedAtMs": 1795505400000,
+   "playedAtMs": 1795505400000
+  },
+  {
+   "key": "TOY9GGT3BZM100",
+   "firstQueuedAtMs": 1795505400000,
+   "playedAtMs": 1795505400000
+  },
+  {
+   "key": "TOZVFOKIP3ID00",
+   "firstQueuedAtMs": 1795505400000,
+   "playedAtMs": 1795505400000
+  },
+  {
+   "key": "https://github.com/ItsNotRexed/Leonida/issues",
+   "firstQueuedAtMs": 1795505400000,
+   "playedAtMs": 1795505400000
+  },
+  {
+   "key": "https://sqlride.com/",
+   "firstQueuedAtMs": 1795505400000,
+   "playedAtMs": 1795505400000
+  },
+  {
+   "key": "https://www.snexplores.org/?p=246006",
+   "firstQueuedAtMs": 1795505400000,
+   "playedAtMs": 1795505400000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/21/trump-credit-cards-rates-warren",
+   "firstQueuedAtMs": 1795505400000,
+   "playedAtMs": 1795505400000
+  },
+  {
+   "key": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
+   "firstQueuedAtMs": 1795505400000,
+   "playedAtMs": 1795505400000
+  },
+  {
+   "key": "https://stratechery.com/?p=21285",
+   "firstQueuedAtMs": 1795505400000,
+   "playedAtMs": 1795505400000
+  },
+  {
+   "key": "https://grist.org/?p=761203",
+   "firstQueuedAtMs": 1795505400000,
+   "playedAtMs": 1795505400000
+  },
+  {
+   "key": "https://physicsworld.com/?p=131663",
+   "firstQueuedAtMs": 1795505400000,
+   "playedAtMs": 1795505400000
+  },
+  {
+   "key": "https://grist.org/?p=761172",
+   "firstQueuedAtMs": 1795505400000,
+   "playedAtMs": 1795505400000
+  },
+  {
+   "key": "https://northdakotamonitor.com/?p=23666",
+   "firstQueuedAtMs": 1795505400000,
+   "playedAtMs": 1795505400000
+  },
+  {
+   "key": "https://sifted.eu/articles/peace-is-a-system-europe-stopped-maintaining-it-brnd/",
+   "firstQueuedAtMs": 1795505400000,
+   "playedAtMs": 1795505400000
+  },
+  {
+   "key": "https://www.canarymedia.com/articles/batteries/massachusetts-pilot-program-free-batteries",
+   "firstQueuedAtMs": 1795505400000,
+   "playedAtMs": 1795505400000
+  },
+  {
+   "key": "https://www.canarymedia.com/articles/sponsored/how-solar-and-storage-are-powering-a-new-era-of-american-manufacturing",
+   "firstQueuedAtMs": 1795505400000,
+   "playedAtMs": 1795505400000
+  },
+  {
+   "key": "https://semiengineering.com/?p=24284370",
+   "firstQueuedAtMs": 1795505400000,
+   "playedAtMs": 1795505400000
+  },
+  {
+   "key": "https://semiengineering.com/?p=24284319",
+   "firstQueuedAtMs": 1795505400000,
+   "playedAtMs": 1795505400000
+  },
+  {
+   "key": "https://semiengineering.com/?p=24284379",
+   "firstQueuedAtMs": 1795505400000,
+   "playedAtMs": 1795505400000
+  },
+  {
+   "key": "https://semiengineering.com/?p=24284388",
+   "firstQueuedAtMs": 1795505400000,
+   "playedAtMs": 1795505400000
+  },
+  {
+   "key": "https://semiengineering.com/?p=24284373",
+   "firstQueuedAtMs": 1795505400000,
+   "playedAtMs": 1795505400000
+  },
+  {
+   "key": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+   "firstQueuedAtMs": 1795505400000,
+   "playedAtMs": 1795505400000
+  },
+  {
+   "key": "https://retractionwatch.com/?p=136635",
+   "firstQueuedAtMs": 1795505400000,
+   "playedAtMs": 1795505400000
   }
  ]
 }
