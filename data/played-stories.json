@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T04:20:21.173Z",
- "lastSyncBucket": 997495,
- "lastSyncCarryInSeconds": 46,
+ "updatedAt": "2026-11-24T04:35:19.981Z",
+ "lastSyncBucket": 997496,
+ "lastSyncCarryInSeconds": 81,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -14679,6 +14679,176 @@
    "key": "https://source.washu.edu/?p=735735",
    "firstQueuedAtMs": 1795491000000,
    "playedAtMs": 1795491000000
+  },
+  {
+   "key": "108558030",
+   "firstQueuedAtMs": 1795492800000,
+   "playedAtMs": 1795492800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/kansas-city-current-fans-march-with-players-nwsl-championship-celebration/",
+   "firstQueuedAtMs": 1795492800000,
+   "playedAtMs": 1795492800000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/24/first-alert-weather-winter-2026-27-outlook/",
+   "firstQueuedAtMs": 1795492800000,
+   "playedAtMs": 1795492800000
+  },
+  {
+   "key": "https://thehill.com/?p=6239029",
+   "firstQueuedAtMs": 1795492800000,
+   "playedAtMs": 1795492800000
+  },
+  {
+   "key": "news714649747",
+   "firstQueuedAtMs": 1795492800000,
+   "playedAtMs": 1795492800000
+  },
+  {
+   "key": "TOZNBNT9NJLS00",
+   "firstQueuedAtMs": 1795492800000,
+   "playedAtMs": 1795492800000
+  },
+  {
+   "key": "https://www.techdirt.com/?p=552060&preview=true&preview_id=552060",
+   "firstQueuedAtMs": 1795492800000,
+   "playedAtMs": 1795492800000
+  },
+  {
+   "key": "https://salvageyarddrone.wordpress.com/",
+   "firstQueuedAtMs": 1795492800000,
+   "playedAtMs": 1795492800000
+  },
+  {
+   "key": "https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards",
+   "firstQueuedAtMs": 1795492800000,
+   "playedAtMs": 1795492800000
+  },
+  {
+   "key": "https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/",
+   "firstQueuedAtMs": 1795492800000,
+   "playedAtMs": 1795492800000
+  },
+  {
+   "key": "https://eos.org/?p=252609",
+   "firstQueuedAtMs": 1795492800000,
+   "playedAtMs": 1795492800000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/severe-drought-pushes-millions-in-afghanistan-deeper-into-crisis",
+   "firstQueuedAtMs": 1795492800000,
+   "playedAtMs": 1795492800000
+  },
+  {
+   "key": "https://eos.org/?p=252623",
+   "firstQueuedAtMs": 1795492800000,
+   "playedAtMs": 1795492800000
+  },
+  {
+   "key": "74514616",
+   "firstQueuedAtMs": 1795492800000,
+   "playedAtMs": 1795492800000
+  },
+  {
+   "key": "https://physicsworld.com/?p=131665",
+   "firstQueuedAtMs": 1795492800000,
+   "playedAtMs": 1795492800000
+  },
+  {
+   "key": "https://www.canarymedia.com/articles/clean-energy/senate-oks-permitting-bill-that-would-boost-clean-and-dirty-energy",
+   "firstQueuedAtMs": 1795492800000,
+   "playedAtMs": 1795492800000
+  },
+  {
+   "key": "https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools",
+   "firstQueuedAtMs": 1795492800000,
+   "playedAtMs": 1795492800000
+  },
+  {
+   "key": "74514574",
+   "firstQueuedAtMs": 1795492800000,
+   "playedAtMs": 1795492800000
+  },
+  {
+   "key": "https://www.technologyreview.com/?p=1149371",
+   "firstQueuedAtMs": 1795492800000,
+   "playedAtMs": 1795492800000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/this-is-the-first-time-astronomers-have-seen-one-of-these-stellar-mergers",
+   "firstQueuedAtMs": 1795492800000,
+   "playedAtMs": 1795492800000
+  },
+  {
+   "key": "https://sifted.eu/articles/hoplite-raise-stripe-founders/",
+   "firstQueuedAtMs": 1795492800000,
+   "playedAtMs": 1795492800000
+  },
+  {
+   "key": "https://physicsworld.com/?p=131699",
+   "firstQueuedAtMs": 1795492800000,
+   "playedAtMs": 1795492800000
+  },
+  {
+   "key": "https://www.sciencenews.org/?p=3181770",
+   "firstQueuedAtMs": 1795492800000,
+   "playedAtMs": 1795492800000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261120075602.htm",
+   "firstQueuedAtMs": 1795492800000,
+   "playedAtMs": 1795492800000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/tamara-keith-and-amy-walter-on-trumps-role-in-huangs-reinstatement",
+   "firstQueuedAtMs": 1795492800000,
+   "playedAtMs": 1795492800000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
+   "firstQueuedAtMs": 1795492800000,
+   "playedAtMs": 1795492800000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261120075551.htm",
+   "firstQueuedAtMs": 1795492800000,
+   "playedAtMs": 1795492800000
+  },
+  {
+   "key": "https://earthsky.org/?p=565606",
+   "firstQueuedAtMs": 1795492800000,
+   "playedAtMs": 1795492800000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/23/trump-pardon-turkeys-freedom-feathers/",
+   "firstQueuedAtMs": 1795492800000,
+   "playedAtMs": 1795492800000
+  },
+  {
+   "key": "https://earthsky.org/?p=565649",
+   "firstQueuedAtMs": 1795492800000,
+   "playedAtMs": 1795492800000
+  },
+  {
+   "key": "https://www.schneier.com/?p=72961",
+   "firstQueuedAtMs": 1795492800000,
+   "playedAtMs": 1795492800000
+  },
+  {
+   "key": "https://news.crunchbase.com/?p=94408",
+   "firstQueuedAtMs": 1795492800000,
+   "playedAtMs": 1795492800000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/the-science-of-how-pets-see-and-respond-to-screens",
+   "firstQueuedAtMs": 1795492800000,
+   "playedAtMs": 1795492800000
+  },
+  {
+   "key": "https://news.crunchbase.com/?p=94419",
+   "firstQueuedAtMs": 1795492800000,
+   "playedAtMs": 1795492800000
   }
  ]
 }
