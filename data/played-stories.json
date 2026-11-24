@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T10:20:08.622Z",
- "lastSyncBucket": 997507,
- "lastSyncCarryInSeconds": 41,
+ "updatedAt": "2026-11-24T10:35:08.116Z",
+ "lastSyncBucket": 997508,
+ "lastSyncCarryInSeconds": 34,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -16834,6 +16834,206 @@
    "key": "https://news.fnal.gov/?p=343521",
    "firstQueuedAtMs": 1795512600000,
    "playedAtMs": 1795512600000
+  },
+  {
+   "key": "108558131",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/man-accused-shooting-wife-stepdaughter-her-boyfriend-while-they-were-sleeping/",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/24/rep-don-bacon-floats-white-house-run/",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "6b043f405f8e6c0d7b84ae91",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "WP-MKTW-0005366423",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "TOXZYUT9NJLS00",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311704",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "WP-MKTW-0005364017",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "https://www.fastcompany.com/91647528/grand-theft-auto-vi-could-be-last-of-its-kind",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/24/opinion/nvidia-board-jensen-huang-reinstated.html",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "https://www.fastcompany.com/91647974/krillion-is-hooking-gen-z-and-gen-alpha-heres-what-you-need-to-know-about-the-viral-word-game",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/24/opinion/disability-politics-trump-sharpie-line.html",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "https://www.inc.com/stefanie-fackrell/the-binance-heist-wasnt-just-a-cybersecurity-failure-it-started-with-a-job-interview/91440145",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "https://news.fnal.gov/?p=343446",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "https://yaleclimateconnections.org/?p=144855",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/24/nx-s1-6001723/vitamin-k-deficiency-refusal-vaccine-misinformation-newborn-bleeding",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "https://news.mit.edu/2026/featherweight-flying-robot-carries-its-own-sensors-and-computers-1118",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "https://www.sci.news/?p=112795",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "https://news.climate.columbia.edu/?p=129151",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "https://deepmind.google/blog/genie-4-is-now-available/",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "https://spaceflightnow.com/?p=74967",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/24/nx-s1-6051604/trump-crypto-corruption-meme-coin-dinner",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "https://spacenews.com/?p=628450",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "https://showme.missouri.edu/?p=87494",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "https://news.mit.edu/2026/joe-higgins-to-step-down-vp-campus-services-stewardship-1118",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "https://www.sciencenews.org/?p=3181903",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "https://www.quantamagazine.org/?p=168911",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/24/nx-s1-6038806/colombia-water-plants-frailejons",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "6afdc77180b152000157100d",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "tag:daringfireball.net,2026:/linked//6.43750",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "https://showme.missouri.edu/?p=87548",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "01M7QERD06VJ8ESJENBCYJESX5",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/24/nx-s1-6051028/jamie-raskin-donald-trump-jr-1789-capital-democrats-investigation",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
+  },
+  {
+   "key": "https://indianacapitalchronicle.com/?p=28249",
+   "firstQueuedAtMs": 1795514400000,
+   "playedAtMs": 1795514400000
   }
  ]
 }
