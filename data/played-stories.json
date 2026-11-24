@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T02:20:33.314Z",
- "lastSyncBucket": 997491,
- "lastSyncCarryInSeconds": 50,
+ "updatedAt": "2026-11-24T02:35:30.715Z",
+ "lastSyncBucket": 997492,
+ "lastSyncCarryInSeconds": 56,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -13879,6 +13879,211 @@
    "key": "https://dailygalaxy.com/?p=163346",
    "firstQueuedAtMs": 1795483800000,
    "playedAtMs": 1795483800000
+  },
+  {
+   "key": "https://lobste.rs/s/2k95fs",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "74514015",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/24/st-louis-man-accused-repeatedly-assaulting-woman-springfield/",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://www.nbcnews.com/politics/congress/judge-unseals-court-documents-related-search-ilhan-omar-home-washingto-rcna611027",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261122060329.htm",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://github.com/os6/nospeaker",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261122060342.htm",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/belton-police-respond-to-report-of-explosive-inside-business",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311585",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/city-police-current-officials-outline-plans-nwsl-champions-march-rally/",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "108557260",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://link.mail.beehiiv.com/ss/c/u001.dSnm3kaGd0BkNqLYPjeMf_DKThdpaPaB9_aROy42m3-QkrpXFAupeHADtSyezHztzSRqfdI5KA69nA7xk0zTSXEmevCz9Jn_3XGqFo9_wa9heqdjYA7koSefo0645oHtZUTxAXvsPPxgCxH7dLfyFF4gVjtvcYQQohLTl-mivTC3D3QMh5Ts57VmBRmbuc0zavzhCl0k-J_B5ogpVji_QySQLUnjVSEIAiHfoUdLbIA/4vz/JmpM8lmnTUyIN_KRAPNY-A/h27/h001.AAD30RxCaoSotFaw_OxjXe4ZPa2Ogq_Ir03X9I0TFKQ",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://link.mail.beehiiv.com/ss/c/u001.dSnm3kaGd0BkNqLYPjeMf0gyeM8tESkQ4qmvKtcxeZ9Sf8FWzyiEWE10HHsJrV5cblVac8sPVuUw3gneLIw3rtqW6_4IEyEyGCvBdTH6tfKtx4hRcRZzrew8RfHWk9lJYhE7qhWf23ISlzVNOGbSJibZYj2IFmIMbBK8ka_gcCLzj0dQ3zvvN5xyxTF2QlHKUt0kH_uMS4yGXhXNXzKHRM-nARH2ucowCuv3PG82Sys/4vz/JmpM8lmnTUyIN_KRAPNY-A/h32/h001.QzQYZ99cFvk7fFtNhUcBsCtOcb_OqkAaL1TKfjFyMbA",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://thehill.com/?p=6238953",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://link.mail.beehiiv.com/ss/c/u001.Q334NVcZU4O6L6VKRz8ijB1TBWraWSjSa1EgItxTfJGLIvJAG36TdoN_RcL5Qcb4l-TTKJ7kJ40VnFns1HNbTrS7dbLgPHI8dLrwXl8iOfb2ljYNEeE0q2TWET6YxEhgc6wA30v1AH50GDP_JrWdpZrYXwZd-0pUADEHB5Ux9MAFseGmQ8AVw14ufwWyXy1in-tTjPV_Ocq_ekfzqDsiCH_YftSMK3dijFMPXXyOh8g/4vz/JmpM8lmnTUyIN_KRAPNY-A/h38/h001.4Sb3jzLBLg1qYqOl2DS-yEM-uWBsuUQWSTHLSDs0WFU",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://link.mail.beehiiv.com/ss/c/u001.KT4rQsO6sHS_v2VASG2xupywTByilB7vBf1gbeXMnd8Hof3Ca4zliYIk5t4pKnVtdKtfjcRsdlABoWM1f2xRqbFtEoijeNFSOo3EBbFrZB1XKqphW1kM9RnumyVI2_CuOmz8zLiYB5dWao-VuirZlms-6Wdbl7cE3LjWXCKHxYUdrS6T7uZ1tMkwid2XnO5_grBw72fz4m-D-9KV-0CYb11PHYaIDE6G9P57syzVhnVrbw60a5S6FcihsZY7omWO7mfFZDKz1E8iXXbLWKPs2nokJZQiZJ_fpwl4UHHdAwEZMGoXmp8GsyDu9IYGwrPDelWfUFmhDr65m1TYpb27AY2ml-7nOuKZsD2XIwbRZ4GIcn-T_EVXK80qJBrj_o3kbjPz8oXvYW4KvEEAr7NdhriNGCb-KZilHcbMQBe6AwfLUbbK4BJzmNy2Seg0q0SOGR8KPAFw5f3dID-Nmtd8vyLrpmDAI4llBXkCrd8UBPSG9ctzn7XL61WPOgluljZ_Y-fa_MHVPrTLaL_d9aoaJhkr9hiNwCtg8E3AaRkoU-DL8aEHW0Nljbf82YFJgQrFD9vgziYOaW8vSYFfmg6xUWNUhhx8q05OfxXGWb9BVDP0zhvNRoqSP4r1rrXhu8g-MJY1_U-crHdP1Xk6_l91839ybe-7-xbylzTJ_WR9I2nuYTJRUlkov4q0MHnUQifkX7NL2SJcH2Yf_MYxO7FkqeZmGmL7LlLWKnimOgwitHE617j1Zn0Psb2_vCMscoR8UcB3ONpmEUarmOc89wrTfXvQtxY0ZKgh4HsR9CWssvQfQh24_j5qEBYlEFIQ-benZxDowLa0S8zouVKF4fIEr1mRUe0blVFS84301ajsvnAnhNRovM0EclkXlDbuno6EvujSJR2QUDp0z4W6RBNAsBQMHD_dwuIO_ZdpV3sfIchUM9hFiRaIK1RPf25jlcHs2XpYkjufzMZ6cKpiUJg9RBqZrxeJskMoRX5K8am89MRGHNOlkBQaetr8wsJkBce1lokj9-Qv9n7F_Mu6PTQ7hQ/4vz/JmpM8lmnTUyIN_KRAPNY-A/h44/h001.AjOybBGjOm8Gy26_mgwyNGcuA4B14G45GvqyeYDfzDA",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://physicsworld.com/?p=131725",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://www.technologyreview.com/?p=1149392",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261122060334.htm",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261121221122.htm",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://links.morningbrew.com/c/Zyu?mblid=2a9b06b73e3b&mbcid=48557708.3912223&mid=1e8203ce88986da9aabbf2faa16b5ab0&mbuuid=enwFAdGao8KESKxNukTu1EGE",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://links.morningbrew.com/c/ZyE?mblid=387e37bd52a9&mbcid=48557708.3912223&mid=1e8203ce88986da9aabbf2faa16b5ab0&mbuuid=enwFAdGao8KESKxNukTu1EGE",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75659",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "0e492828-c4a2-47eb-b250-c7094ee73766",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4453506",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75661",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/23/12-year-old-girl-shot-hospitalized-after-gunfire-strikes-her-home/",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "nn_cln_gha_trump_nvidia_261123",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://sifted.eu/articles/why-ai-startups-should-build-governance-early-brnd/",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://www.canarymedia.com/articles/batteries/24-7-clean-power-giant-heat-batteries",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://semiengineering.com/?p=24284564",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://www.rockchalktalk.com/?p=34590",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311554",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://iowacapitaldispatch.com/?p=61414",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "5ce952a0-a864-4c77-b220-7dafe6352eff",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261122060338.htm",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/23/lego-recreation-country-club-plaza-display-union-station/",
+   "firstQueuedAtMs": 1795485600000,
+   "playedAtMs": 1795485600000
   }
  ]
 }
