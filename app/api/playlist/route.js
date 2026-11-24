@@ -1,7 +1,6 @@
 import { NextResponse, after } from 'next/server';
 import { getNewsPool, kickBodyEnrichment } from '../../../lib/ingest';
 import { getKansasCityWeather } from '../../../lib/weather';
-import { getSocialItems } from '../../../lib/social';
 import { getPlayedMap } from '../../../lib/played';
 import { buildPlaylist, TIME_ZONE } from '../../../lib/format';
 import { warmSegmentAudio } from '../../../lib/tts';
@@ -15,12 +14,15 @@ export const dynamic = 'force-dynamic';
 export const maxDuration = 60;
 
 export async function GET() {
-  const [pool, weather, socialItems, playedMap] = await Promise.all([
+  const [pool, weather, playedMap] = await Promise.all([
     getNewsPool(),
     getKansasCityWeather(),
-    getSocialItems(),
     getPlayedMap(),
   ]);
+  // Social callers removed (David, Nov 24, 2026): the station no
+  // longer airs caller segments, so the playlist is built with an
+  // empty caller list and the queue is exactly the just-news queue.
+  const socialItems = [];
   const {
     generatedAt,
     segments,
