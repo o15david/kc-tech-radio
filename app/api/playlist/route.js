@@ -32,6 +32,7 @@ export async function GET() {
     topicGuardSkipped,
     entityBudgetSkipped,
     expiredStories,
+    expiredPerformances,
     ageCappedStories,
     neverAiredStories,
     recycledStories,
@@ -89,6 +90,11 @@ export async function GET() {
     // "Election Day is here" items, stale tonight claims). The drop is
     // never silent; the count rides every response.
     expiredStories,
+    // Marquee date-gate observability (David, Nov 24, 2026):
+    // performance listings this build dropped because their run had
+    // already ended. The drop is never silent; the count rides every
+    // response, and a nonzero count here means the feed went stale.
+    expiredPerformances,
     // Age-cap observability: recycled stories this build dropped for
     // being older than 72 hours (David's Nov 20, 2026 ruling).
     ageCappedStories,
