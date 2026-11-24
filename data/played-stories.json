@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T06:20:23.091Z",
- "lastSyncBucket": 997499,
- "lastSyncCarryInSeconds": 67,
+ "updatedAt": "2026-11-24T06:35:09.250Z",
+ "lastSyncBucket": 997500,
+ "lastSyncCarryInSeconds": 47,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -15484,6 +15484,211 @@
    "key": "https://eos.org/?p=252649",
    "firstQueuedAtMs": 1795498200000,
    "playedAtMs": 1795498200000
+  },
+  {
+   "key": "74515041",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "https://michiganadvance.com/?p=116174",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "https://hackaday.com/?p=1429906",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "673d17683f0c60a2ac246f61",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "69c56eb0f8dc7d17ee9704f1",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "69a5cf29a4156f3d517b71cc",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "66e8704eec595f4f2617f9f8",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/24/style/miss-universe-pageant-puerto-rico-feud.html",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "695ff3f3f68acf71d298da25",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "69d676a75ed03f09403e5ea0",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "https://www.fastcompany.com/91647666/who-gets-to-decide-what-bad-things-we-should-accept-about-ai",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "https://onlinebackrooms.com/",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "0284d123338e8b4392bdbafcf50be65e5c2ba081",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "956ccf301033a9414ae29d032c3df0b75681b861",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "f3760d486fc3a253f618f5aadd62c89dc2633b7d",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "https://abcnews.com/video/138392581/",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "6aff39e450c3d200013d072e",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/earths-atmosphere-took-three-deep-breaths-of-oxygen-before-the-oceans-caught-up",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "https://www.sci.news/?p=112820",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "https://spacenews.com/?p=628726",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "https://www.societyforscience.org/?p=68550",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/23/nx-s1-6045799/how-some-women-in-tech-are-responding-to-jensen-huangs-return-to-nvidia",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "https://blogs.nvidia.com/?p=98677",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "https://michiganadvance.com/?p=116172",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "https://news.mit.edu/2026/first-whole-body-single-cell-atlas-adult-vertebrate-1119",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "https://retractionwatch.com/?p=136653",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/23/axios-show-moore-trump-nvidia",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "https://capitolnewsillinois.com/?p=135020",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "tag:daringfireball.net,2026:/linked//6.43752",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "https://www.eetimes.com/?p=101803763",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "https://news.climate.columbia.edu/?p=129170",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1107126",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "https://www.sciencenews.org/?p=3182004",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "https://github.blog/?p=100161",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "https://www.sci.news/?p=112817",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "https://spacenews.com/?p=628555",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "6aff15e650c3d200013ced1d",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
+  },
+  {
+   "key": "https://source.washu.edu/?p=735351",
+   "firstQueuedAtMs": 1795500000000,
+   "playedAtMs": 1795500000000
   }
  ]
 }
