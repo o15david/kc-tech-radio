@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T22:20:31.439Z",
- "lastSyncBucket": 997531,
- "lastSyncCarryInSeconds": 90,
+ "updatedAt": "2026-11-24T22:35:29.695Z",
+ "lastSyncBucket": 997532,
+ "lastSyncCarryInSeconds": 66,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -21529,6 +21529,221 @@
    "key": "https://dailygalaxy.com/?p=163699",
    "firstQueuedAtMs": 1795555800000,
    "playedAtMs": 1795555800000
+  },
+  {
+   "key": "74524252",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/24/thanksgiving-travel-period-begins-wednesday-officials-offer-tips-drivers-flyers/",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "https://www.nbcnews.com/politics/politics-news/democrats-are-gaming-timing-2028-bids-politics-desk-rcna611193",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "TP12G5KIUPSA00",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "74524134",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "https://lobste.rs/s/sv2flr",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3192058",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "https://thehill.com/?p=6241139",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/raytown-police-officer-dies-standoff-shooting/",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386740",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "https://news.mit.edu/2026/3-questions-tackling-energy-challenges-changing-world-1124",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "691e4b9bf2b91809d95c122a",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "TP11ARKIUPSJ00",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "https://electrek.co/?p=495916",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "news714745403",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "3b699bd6-dec0-43df-8265-09918a3af273",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "news714749076",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "https://www.inc.com/leah-carroll/from-oceans-eleven-to-singani-63-inside-steven-soderberghs-14-year-journey-building-a-spirits-brand/91442121",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "tag:daringfireball.net,2026:/linked//6.43775",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "https://www.kshb.com/life/holidays-and-celebrations/want-to-get-paid-to-watch-holiday-movies-heres-how-to-apply",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "https://www.inc.com/bryan-elliott/hailey-bieber-rhode-1-billion-nyt-dealbook-summit-customer-demand/91442449",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "news714745067",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "https://fortune.com/?p=4650189&showAdminBar=true",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "https://thehill.com/?p=6241274",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/florida-woman-with-retired-drug-dealer-shirt-accused-intending-distribute-crack-cocaine/",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "108558543",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "tag:daringfireball.net,2026:/linked//6.43774",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "https://www.darkreading.com/cyber-risk/satellites-ground-level-cybersecurity-problem",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "TP0ZPTT96OSN00",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "108558817",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "https://www.nbcnews.com/news/us-news/four-former-detainees-allege-raped-subject-forced-labor-louisiana-ice-rcna611006",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "https://www.societyforscience.org/?p=68692",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/kansas-city-man-sentenced-10-years-prison-drug-trafficking-case/",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "https://www.missourinet.com/?p=178044",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/24/sponsored-place-wendys-coffee-break-3/",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "news714747721",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "https://www.fastcompany.com/91648621/jensen-huang-poses-the-question-what-happens-when-a-leader-becomes-too-big-to-fail",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "https://michiganadvance.com/?p=116216",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "https://thehill.com/?p=6241021",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "https://www.inc.com/chris-morris/trump-took-credit-jensen-huang-return-nvidia-stake-may-have-gained-15-million-dollars/91442110",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
+  },
+  {
+   "key": "https://www.fastcompany.com/91648438/dollar-trees-stock-is-skyrocketing-one-number-in-its-earnings-report-helps-explain-why",
+   "firstQueuedAtMs": 1795557600000,
+   "playedAtMs": 1795557600000
   }
  ]
 }
