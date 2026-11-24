@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T02:50:37.735Z",
- "lastSyncBucket": 997492,
- "lastSyncCarryInSeconds": 56,
+ "updatedAt": "2026-11-24T03:05:33.927Z",
+ "lastSyncBucket": 997493,
+ "lastSyncCarryInSeconds": 44,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -14084,6 +14084,196 @@
    "key": "https://www.kctv5.com/2026/11/23/lego-recreation-country-club-plaza-display-union-station/",
    "firstQueuedAtMs": 1795485600000,
    "playedAtMs": 1795485600000
+  },
+  {
+   "key": "https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/investigation-opens-into-funeral-home-after-family-told-body-cant-be-found/",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "https://northdakotamonitor.com/?p=23690",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "ae5f4cba-cbc8-4fe0-9dd0-e67c47883e73",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "https://sifted.eu/articles/acorda-pre-seed/",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "https://sifted.eu/articles/black-forest-labs-nvidia-a16z-andreas-blattmann-interview/",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "89UD689XDHoodHRHaiR6Lb",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311547",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "e218fbc6-8061-4c73-8f81-d7b29e940955",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261122060343.htm",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261122060336.htm",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261122060323.htm",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4453612",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261121221132.htm",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "74513064",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/23/judge-approves-225m-class-action-settlement-jackson-county-homeowners/",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "https://www.nature.com/articles/s41586-026-11449-9",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03827-0",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "https://www.nature.com/articles/s41586-026-11448-w",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "https://www.nature.com/articles/s41586-026-11458-8",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03722-8",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03720-w",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03808-3",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03818-1",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-02203-2",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03721-9",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03724-6",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03795-5",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "https://simonwillison.net/2026/Nov/22/select-styling/",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "https://nebraskaexaminer.com/?p=46005",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "https://electrek.co/?p=467348",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "https://lobste.rs/s/oeamed",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "https://www.nasa.gov/?p=1066805",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "https://insideclimatenews.org/?p=116576",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/23/trump-pardon-turkeys-freedom-feathers/",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
+  },
+  {
+   "key": "https://www.marktechpost.com/?p=84047",
+   "firstQueuedAtMs": 1795487400000,
+   "playedAtMs": 1795487400000
   }
  ]
 }
