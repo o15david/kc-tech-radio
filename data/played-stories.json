@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T09:50:13.504Z",
- "lastSyncBucket": 997506,
- "lastSyncCarryInSeconds": 39,
+ "updatedAt": "2026-11-24T10:05:24.921Z",
+ "lastSyncBucket": 997507,
+ "lastSyncCarryInSeconds": 41,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -16664,6 +16664,176 @@
    "key": "changelog.com/1/2838",
    "firstQueuedAtMs": 1795510800000,
    "playedAtMs": 1795510800000
+  },
+  {
+   "key": "74516161",
+   "firstQueuedAtMs": 1795512600000,
+   "playedAtMs": 1795512600000
+  },
+  {
+   "key": "https://kansasreflector.com/?p=64007",
+   "firstQueuedAtMs": 1795512600000,
+   "playedAtMs": 1795512600000
+  },
+  {
+   "key": "https://abcnews.com/International/russian-drone-flies-poland-overnight-strikes-ukraine-warsaw/story?id=138403724",
+   "firstQueuedAtMs": 1795512600000,
+   "playedAtMs": 1795512600000
+  },
+  {
+   "key": "6af273f8df48aa5160f99af7",
+   "firstQueuedAtMs": 1795512600000,
+   "playedAtMs": 1795512600000
+  },
+  {
+   "key": "WEa7bpyjkR86hmfB643BeL",
+   "firstQueuedAtMs": 1795512600000,
+   "playedAtMs": 1795512600000
+  },
+  {
+   "key": "74516016",
+   "firstQueuedAtMs": 1795512600000,
+   "playedAtMs": 1795512600000
+  },
+  {
+   "key": "https://insideclimatenews.org/?p=116592",
+   "firstQueuedAtMs": 1795512600000,
+   "playedAtMs": 1795512600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/lets-celebrate-kansas-city-current-hold-championship-rally-march-tuesday/",
+   "firstQueuedAtMs": 1795512600000,
+   "playedAtMs": 1795512600000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75720",
+   "firstQueuedAtMs": 1795512600000,
+   "playedAtMs": 1795512600000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/24/nx-s1-6047113/morning-news-brief",
+   "firstQueuedAtMs": 1795512600000,
+   "playedAtMs": 1795512600000
+  },
+  {
+   "key": "WP-MKTW-0005364034",
+   "firstQueuedAtMs": 1795512600000,
+   "playedAtMs": 1795512600000
+  },
+  {
+   "key": "WP-MKTW-0005366552",
+   "firstQueuedAtMs": 1795512600000,
+   "playedAtMs": 1795512600000
+  },
+  {
+   "key": "news714718413",
+   "firstQueuedAtMs": 1795512600000,
+   "playedAtMs": 1795512600000
+  },
+  {
+   "key": "https://thehill.com/?p=6238445",
+   "firstQueuedAtMs": 1795512600000,
+   "playedAtMs": 1795512600000
+  },
+  {
+   "key": "https://grist.org/?p=761320",
+   "firstQueuedAtMs": 1795512600000,
+   "playedAtMs": 1795512600000
+  },
+  {
+   "key": "nn_tll_whale_shark_rescue_261123",
+   "firstQueuedAtMs": 1795512600000,
+   "playedAtMs": 1795512600000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/a-stars-obliquity-likely-has-little-impact-on-a-given-planets-habitability",
+   "firstQueuedAtMs": 1795512600000,
+   "playedAtMs": 1795512600000
+  },
+  {
+   "key": "https://fortune.com/?p=4649498&showAdminBar=true",
+   "firstQueuedAtMs": 1795512600000,
+   "playedAtMs": 1795512600000
+  },
+  {
+   "key": "74510864",
+   "firstQueuedAtMs": 1795512600000,
+   "playedAtMs": 1795512600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/police-say-possible-explosive-device-belton-business-isnt-threat/",
+   "firstQueuedAtMs": 1795512600000,
+   "playedAtMs": 1795512600000
+  },
+  {
+   "key": "https://fortune.com/?p=4649590&showAdminBar=true",
+   "firstQueuedAtMs": 1795512600000,
+   "playedAtMs": 1795512600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/jensen-huang-returns-nvidia-ceo/",
+   "firstQueuedAtMs": 1795512600000,
+   "playedAtMs": 1795512600000
+  },
+  {
+   "key": "TOZIG5KJH6V400",
+   "firstQueuedAtMs": 1795512600000,
+   "playedAtMs": 1795512600000
+  },
+  {
+   "key": "TP02G8RKV2TE00",
+   "firstQueuedAtMs": 1795512600000,
+   "playedAtMs": 1795512600000
+  },
+  {
+   "key": "https://www.infoq.com/articles/llm-agent-architecture-evals-grounding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795512600000,
+   "playedAtMs": 1795512600000
+  },
+  {
+   "key": "https://www.inc.com/amanda-jefferson/apple-put-apps-on-your-macs-dock-you-dont-need-heres-how-to-remove-them/91440104",
+   "firstQueuedAtMs": 1795512600000,
+   "playedAtMs": 1795512600000
+  },
+  {
+   "key": "https://fortune.com/?p=4649589&showAdminBar=true",
+   "firstQueuedAtMs": 1795512600000,
+   "playedAtMs": 1795512600000
+  },
+  {
+   "key": "https://wisconsinexaminer.com/?p=49073",
+   "firstQueuedAtMs": 1795512600000,
+   "playedAtMs": 1795512600000
+  },
+  {
+   "key": "https://www.nbcnews.com/politics/congress/rep-jimmy-gomez-resign-ethics-report-sexual-misconduct-rcna610895",
+   "firstQueuedAtMs": 1795512600000,
+   "playedAtMs": 1795512600000
+  },
+  {
+   "key": "TOYIGNT9NJLT00",
+   "firstQueuedAtMs": 1795512600000,
+   "playedAtMs": 1795512600000
+  },
+  {
+   "key": "https://sifted.eu/articles/cybersecurity-startups-mapped-108-companies-guarding-europes-digital-frontline/",
+   "firstQueuedAtMs": 1795512600000,
+   "playedAtMs": 1795512600000
+  },
+  {
+   "key": "https://reiver.link/atproto/falsehoods-programmers-believe/",
+   "firstQueuedAtMs": 1795512600000,
+   "playedAtMs": 1795512600000
+  },
+  {
+   "key": "https://news.crunchbase.com/?p=94421",
+   "firstQueuedAtMs": 1795512600000,
+   "playedAtMs": 1795512600000
+  },
+  {
+   "key": "https://news.fnal.gov/?p=343521",
+   "firstQueuedAtMs": 1795512600000,
+   "playedAtMs": 1795512600000
   }
  ]
 }
