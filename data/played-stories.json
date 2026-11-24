@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T04:50:11.770Z",
- "lastSyncBucket": 997496,
- "lastSyncCarryInSeconds": 81,
+ "updatedAt": "2026-11-24T05:05:20.190Z",
+ "lastSyncBucket": 997497,
+ "lastSyncCarryInSeconds": 6,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -14849,6 +14849,181 @@
    "key": "https://news.crunchbase.com/?p=94419",
    "firstQueuedAtMs": 1795492800000,
    "playedAtMs": 1795492800000
+  },
+  {
+   "key": "74448740",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
+  },
+  {
+   "key": "https://iowacapitaldispatch.com/?post_type=republished&p=61411",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
+  },
+  {
+   "key": "74514777",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=229702",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
+  },
+  {
+   "key": "https://news.mit.edu/2026/arianna-doss-prescribes-change-1124",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75051",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/kcmo-holds-info-session-ahead-i-670-closure/",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
+  },
+  {
+   "key": "https://abcnews.com/US/trump-owned-12-million-nvidia-stock-end-year/story?id=138393684",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
+  },
+  {
+   "key": "https://davidtemkin.github.io/declarelang/",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
+  },
+  {
+   "key": "https://source.washu.edu/2026/11/breakthrough-material-gets-stronger-the-more-it-bends/",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
+  },
+  {
+   "key": "NG2rkDyXNzYRscmFT55RdY",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
+  },
+  {
+   "key": "https://yaleclimateconnections.org/?p=144929",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
+  },
+  {
+   "key": "https://yaleclimateconnections.org/?p=144687",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/tiny-grains-of-sand-act-as-cosmic-speedometers-for-alien-winds",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
+  },
+  {
+   "key": "https://www.snexplores.org/?p=245988",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/us/politics/fbi-raia-retiring.html",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
+  },
+  {
+   "key": "https://www.kcur.org/podcast/kansas-city-today/2026-11-19/kansas-politics-will-look-a-bit-different-without-a-gop-supermajority",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
+  },
+  {
+   "key": "5CCZgNCVFsAuDUZJMDdkjN",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
+  },
+  {
+   "key": "https://www.nbcnews.com/news/us-news/amazon-drone-shampoo-wire-michigan-roof-rcna611005",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
+  },
+  {
+   "key": "https://stratechery.com/?p=21304",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
+  },
+  {
+   "key": "https://news.cnrs.fr/articles/when-the-living-aims-high",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
+  },
+  {
+   "key": "https://bridgemi.com/?p=84269",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/20/magazine/ai-slop-taste-aesthetic-silicon-valley.html",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
+  },
+  {
+   "key": "https://openai.com/index/combatting-adversarial-distillation",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
+  },
+  {
+   "key": "https://grist.org/?p=761251",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
+  },
+  {
+   "key": "https://www.eetimes.com/?p=101803923",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
+  },
+  {
+   "key": "https://physicsworld.com/?p=131691",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
+  },
+  {
+   "key": "https://earthsky.org/?p=371272",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
+  },
+  {
+   "key": "nn_mch_amazon_drone_delivery_crash_261123",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
+  },
+  {
+   "key": "https://eos.org/?p=252685",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
+  },
+  {
+   "key": "https://sifted.eu/articles/inside-the-swedish-city-building-the-future-of-food-brnd/",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
+  },
+  {
+   "key": "https://www.canarymedia.com/articles/solar/2026-year-of-lost-solar-north-carolina",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
+  },
+  {
+   "key": "now_hallie_cku_iowa_trump_detonation_261123",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
+  },
+  {
+   "key": "https://www.canarymedia.com/articles/batteries/another-banner-year-us-energy-storage-installations",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
+  },
+  {
+   "key": "https://semiengineering.com/?p=24284286",
+   "firstQueuedAtMs": 1795494600000,
+   "playedAtMs": 1795494600000
   }
  ]
 }
