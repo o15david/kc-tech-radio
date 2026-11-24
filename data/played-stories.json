@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T12:50:12.209Z",
- "lastSyncBucket": 997512,
- "lastSyncCarryInSeconds": 47,
+ "updatedAt": "2026-11-24T13:06:35.694Z",
+ "lastSyncBucket": 997513,
+ "lastSyncCarryInSeconds": 58,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -17849,6 +17849,176 @@
    "key": "https://www.fastcompany.com/91633052/spam-brands-that-matter-2026-hormel-hello-kitty-green-egg-seuss-minnesota-vikings-dog-musubi-kroger-ralphs",
    "firstQueuedAtMs": 1795521600000,
    "playedAtMs": 1795521600000
+  },
+  {
+   "key": "https://www.rockchalktalk.com/?p=34593",
+   "firstQueuedAtMs": 1795523400000,
+   "playedAtMs": 1795523400000
+  },
+  {
+   "key": "https://thehill.com/?p=6238198",
+   "firstQueuedAtMs": 1795523400000,
+   "playedAtMs": 1795523400000
+  },
+  {
+   "key": "https://www.missourinet.com/?p=178030",
+   "firstQueuedAtMs": 1795523400000,
+   "playedAtMs": 1795523400000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1040676",
+   "firstQueuedAtMs": 1795523400000,
+   "playedAtMs": 1795523400000
+  },
+  {
+   "key": "FDVEVijT47UcpnfXajmZfE",
+   "firstQueuedAtMs": 1795523400000,
+   "playedAtMs": 1795523400000
+  },
+  {
+   "key": "https://kansascitymag.com/?p=81660",
+   "firstQueuedAtMs": 1795523400000,
+   "playedAtMs": 1795523400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/23/first-alert-weather-colder-this-week/",
+   "firstQueuedAtMs": 1795523400000,
+   "playedAtMs": 1795523400000
+  },
+  {
+   "key": "308d4a6d-533a-42fa-a562-4b7722778219",
+   "firstQueuedAtMs": 1795523400000,
+   "playedAtMs": 1795523400000
+  },
+  {
+   "key": "https://nautil.us/?p=1286992",
+   "firstQueuedAtMs": 1795523400000,
+   "playedAtMs": 1795523400000
+  },
+  {
+   "key": "WP-MKTW-0005364964",
+   "firstQueuedAtMs": 1795523400000,
+   "playedAtMs": 1795523400000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75732",
+   "firstQueuedAtMs": 1795523400000,
+   "playedAtMs": 1795523400000
+  },
+  {
+   "key": "https://www.inc.com/ashley-couto/mrbeast-startup-fame-business-asset-feastables/91441577",
+   "firstQueuedAtMs": 1795523400000,
+   "playedAtMs": 1795523400000
+  },
+  {
+   "key": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+   "firstQueuedAtMs": 1795523400000,
+   "playedAtMs": 1795523400000
+  },
+  {
+   "key": "news714721101",
+   "firstQueuedAtMs": 1795523400000,
+   "playedAtMs": 1795523400000
+  },
+  {
+   "key": "108558126",
+   "firstQueuedAtMs": 1795523400000,
+   "playedAtMs": 1795523400000
+  },
+  {
+   "key": "https://abcnews.com/International/wireStory/pope-francis-private-diary-details-profound-spiritual-crisis-138401988",
+   "firstQueuedAtMs": 1795523400000,
+   "playedAtMs": 1795523400000
+  },
+  {
+   "key": "61524334aef2e52736bc9fd8",
+   "firstQueuedAtMs": 1795523400000,
+   "playedAtMs": 1795523400000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43251",
+   "firstQueuedAtMs": 1795523400000,
+   "playedAtMs": 1795523400000
+  },
+  {
+   "key": "https://physicsworld.com/?p=131688",
+   "firstQueuedAtMs": 1795523400000,
+   "playedAtMs": 1795523400000
+  },
+  {
+   "key": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+   "firstQueuedAtMs": 1795523400000,
+   "playedAtMs": 1795523400000
+  },
+  {
+   "key": "https://kansascitymag.com/?p=82656",
+   "firstQueuedAtMs": 1795523400000,
+   "playedAtMs": 1795523400000
+  },
+  {
+   "key": "news714718302",
+   "firstQueuedAtMs": 1795523400000,
+   "playedAtMs": 1795523400000
+  },
+  {
+   "key": "tdy_news_7a_shaq_iowa_detonation_261124",
+   "firstQueuedAtMs": 1795523400000,
+   "playedAtMs": 1795523400000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311877",
+   "firstQueuedAtMs": 1795523400000,
+   "playedAtMs": 1795523400000
+  },
+  {
+   "key": "https://www.fastcompany.com/91633055/bar-keepers-friend-brands-that-matter-2026-rebrand-diy-gen-z",
+   "firstQueuedAtMs": 1795523400000,
+   "playedAtMs": 1795523400000
+  },
+  {
+   "key": "https://www.fastcompany.com/91633061/verizon-brands-that-matter-2026-heated-rivalry-love-island-leslie-berland-cmo-connor-storrie",
+   "firstQueuedAtMs": 1795523400000,
+   "playedAtMs": 1795523400000
+  },
+  {
+   "key": "https://www.fastcompany.com/91633065/lyft-brands-that-matter-2026-silver-billie-jean-king-ride",
+   "firstQueuedAtMs": 1795523400000,
+   "playedAtMs": 1795523400000
+  },
+  {
+   "key": "https://missouriindependent.com/?p=33825",
+   "firstQueuedAtMs": 1795523400000,
+   "playedAtMs": 1795523400000
+  },
+  {
+   "key": "74516447",
+   "firstQueuedAtMs": 1795523400000,
+   "playedAtMs": 1795523400000
+  },
+  {
+   "key": "https://www.fastcompany.com/91633073/npr-brands-that-matter-2026-national-public-radio-trump-ballmer-campaign-fundraise",
+   "firstQueuedAtMs": 1795523400000,
+   "playedAtMs": 1795523400000
+  },
+  {
+   "key": "74469576",
+   "firstQueuedAtMs": 1795523400000,
+   "playedAtMs": 1795523400000
+  },
+  {
+   "key": "https://thehill.com/?p=6237310",
+   "firstQueuedAtMs": 1795523400000,
+   "playedAtMs": 1795523400000
+  },
+  {
+   "key": "https://www.fastcompany.com/91633152/womens-super-league-football-brands-that-matter-2026-soccer-rebrand",
+   "firstQueuedAtMs": 1795523400000,
+   "playedAtMs": 1795523400000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/?p=217358",
+   "firstQueuedAtMs": 1795523400000,
+   "playedAtMs": 1795523400000
   }
  ]
 }
