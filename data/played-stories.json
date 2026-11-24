@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T03:50:34.794Z",
- "lastSyncBucket": 997494,
- "lastSyncCarryInSeconds": 3,
+ "updatedAt": "2026-11-24T04:05:07.736Z",
+ "lastSyncBucket": 997495,
+ "lastSyncCarryInSeconds": 46,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -14464,6 +14464,221 @@
    "key": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
    "firstQueuedAtMs": 1795489200000,
    "playedAtMs": 1795489200000
+  },
+  {
+   "key": "108557972",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/10/13/air-watch-kctv5-news-10-live/",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/24/man-charged-deadly-2025-boone-county-ark-crash/",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "7ada7e3c-8ac0-4672-9c3f-9cdb029d7ab8",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "TOZN2QKGIFPO00",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "news714642571",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "news714667085",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "https://www.npmjs.com/package/@hashshabbir/mcp-pack",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "news714661814",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "74514169",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "https://github.com/CeleritasCelery/rune",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "https://blog.daniel-baumann.ch/posts/20261122-1.html",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "H2d9A8v6LfKehqoXC3guiL",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "6a142091-9423-4e85-92c4-92e263cff71b",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "74514264",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "74514446",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "74514411",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "https://www.canarymedia.com/articles/offshore-wind/new-york-ports-get-230m-boost-for-offshore-wind-other-industries",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "https://sifted.eu/articles/exclusive-aikido-4bn-valuation/",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "https://news.fnal.gov/?p=343284",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/kansas/johnson-county/could-a-data-center-be-headed-to-olathe-kshb-41-investigates-after-viewers-reached-out",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1551157",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "nn_tco_thanksgiving_weather_261123",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "6b0066f8f7a2ad000155d049",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/24/cassville-mo-police-urge-parents-talk-with-children-about-stranger-danger/",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "https://www.eetimes.com/?p=101803998",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "https://sifted.eu/articles/european-angels-anthropic-ipo/",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "https://source.washu.edu/?p=735755",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "https://physicsworld.com/?p=131706",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "https://www.sciencenews.org/?p=3181817",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/sound-waves-from-sunspots-launch-fiery-plasma-jets-across-the-sun",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/overland-park-police-search-for-missing-79-year-old-man",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "https://www.quantamagazine.org/?p=169214",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "https://source.washu.edu/?p=735478",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1550616",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/us/politics/trump-floyd-mayweather-gala.html",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
+  },
+  {
+   "key": "https://source.washu.edu/?p=735735",
+   "firstQueuedAtMs": 1795491000000,
+   "playedAtMs": 1795491000000
   }
  ]
 }
