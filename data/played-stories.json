@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T06:50:10.147Z",
- "lastSyncBucket": 997500,
- "lastSyncCarryInSeconds": 47,
+ "updatedAt": "2026-11-24T07:05:07.866Z",
+ "lastSyncBucket": 997501,
+ "lastSyncCarryInSeconds": 108,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -15689,6 +15689,196 @@
    "key": "https://source.washu.edu/?p=735351",
    "firstQueuedAtMs": 1795500000000,
    "playedAtMs": 1795500000000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75708",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/wife-burn-surgeon-killed-plane-crash-shares-moments-she-will-miss-most/",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "https://wisconsinexaminer.com/?p=49072",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "https://abcnews.com/US/nyc-mayor-mamdani-undergo-surgery-week-soccer-injury/story?id=138380557",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "108557205",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75719",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/politics/watch-live-trump-delivers-address-on-newsoms-move-to-grant-clemency-for-californias-death-row",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75718",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "https://electrek.co/?p=486667",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "https://www.infoq.com/news/2026/11/qcon-sf-openai-lessons/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "https://lobste.rs/s/rkk6o8",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "TOY2IIKIJH8I00",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "6a0cb2f3783504bef308aa6c",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "69b81ce77b39c7582d3336f8",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/arts/writers-unhappy-with-pen-americas-response-to-war-in-gaza-form-new-chapter",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "69fa05183c28ca0af10fcf06",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "https://www.usenix.org/conference/osdi26/presentation/ni",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "https://news.mit.edu/2026/if-tiny-primordial-black-holes-exist-heres-how-we-might-find-them-1119",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "6afefe8250c3d200013a0b5e",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "https://www.nbcnews.com/politics/congress/congress-criticism-jensen-huang-nvidia-reinstated-ceo-trump-rcna610926",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "6aff0a0550c3d200013a0f0e",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/esas-hera-probe-uses-superhuman-vision-to-inspect-nasas-asteroid-crash-site",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/euclids-hunt-for-strong-gravitational-lenses-is-off-to-a-strong-start",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "6afdfdff80b152000159f978",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1107145",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/nation/some-sheriffs-who-signed-pacts-to-help-trumps-immigration-enforcement-efforts-ousted-by-voters",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "https://source.washu.edu/?p=735585",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "https://physicsworld.com/?p=131408",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "https://knowablemagazine.org/content/article/health-disease/2026/role-of-tunneling-nanotubes-in-health-and-disease",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "https://blogs.nvidia.com/?p=100100",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/23/schumer-trump-nvidia-huang-reinstated",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "https://www.sciencenews.org/?p=3181594",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "01M7R5N9JG35DGY66ZG3E9RXSW",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/feast-your-eyes-on-uranus-at-opposition-this-thanksgiving-2026",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "https://sifted.eu/articles/menlo-ventures-podcast/",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
+  },
+  {
+   "key": "https://eos.org/?p=252605",
+   "firstQueuedAtMs": 1795501800000,
+   "playedAtMs": 1795501800000
   }
  ]
 }
