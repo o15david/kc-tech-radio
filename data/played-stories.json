@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T15:50:20.270Z",
- "lastSyncBucket": 997518,
- "lastSyncCarryInSeconds": 115,
+ "updatedAt": "2026-11-24T16:05:07.583Z",
+ "lastSyncBucket": 997519,
+ "lastSyncCarryInSeconds": 107,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -18894,6 +18894,176 @@
    "key": "https://www.fastcompany.com/91645866/byds-new-car-has-a-disappearing-steering-wheel-because-it-can",
    "firstQueuedAtMs": 1795532400000,
    "playedAtMs": 1795532400000
+  },
+  {
+   "key": "74520092",
+   "firstQueuedAtMs": 1795534200000,
+   "playedAtMs": 1795534200000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/24/sponsored-place-wendys-coffee-break/",
+   "firstQueuedAtMs": 1795534200000,
+   "playedAtMs": 1795534200000
+  },
+  {
+   "key": "https://www.kshb.com/politics/the-president/trump-will-give-medal-of-freedom-to-former-new-york-city-mayor-rudy-giuliani",
+   "firstQueuedAtMs": 1795534200000,
+   "playedAtMs": 1795534200000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1107245",
+   "firstQueuedAtMs": 1795534200000,
+   "playedAtMs": 1795534200000
+  },
+  {
+   "key": "6b04860c53bb4d55d8bfbf94",
+   "firstQueuedAtMs": 1795534200000,
+   "playedAtMs": 1795534200000
+  },
+  {
+   "key": "https://www.sciencenews.org/?p=3182210",
+   "firstQueuedAtMs": 1795534200000,
+   "playedAtMs": 1795534200000
+  },
+  {
+   "key": "https://github.blog/?p=100438",
+   "firstQueuedAtMs": 1795534200000,
+   "playedAtMs": 1795534200000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=229756",
+   "firstQueuedAtMs": 1795534200000,
+   "playedAtMs": 1795534200000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311841",
+   "firstQueuedAtMs": 1795534200000,
+   "playedAtMs": 1795534200000
+  },
+  {
+   "key": "TP0KFTR24U8B00",
+   "firstQueuedAtMs": 1795534200000,
+   "playedAtMs": 1795534200000
+  },
+  {
+   "key": "TP0KCBKIP3IQ00",
+   "firstQueuedAtMs": 1795534200000,
+   "playedAtMs": 1795534200000
+  },
+  {
+   "key": "https://www.kshb.com/sports/local-sports/kc-current/live-updates-kansas-city-set-to-celebrate-kc-current-nwsl-championship",
+   "firstQueuedAtMs": 1795534200000,
+   "playedAtMs": 1795534200000
+  },
+  {
+   "key": "TP0KACKGZAJI00",
+   "firstQueuedAtMs": 1795534200000,
+   "playedAtMs": 1795534200000
+  },
+  {
+   "key": "TP0K38RKV2TI00",
+   "firstQueuedAtMs": 1795534200000,
+   "playedAtMs": 1795534200000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191706",
+   "firstQueuedAtMs": 1795534200000,
+   "playedAtMs": 1795534200000
+  },
+  {
+   "key": "TP0JC0R24U8A00",
+   "firstQueuedAtMs": 1795534200000,
+   "playedAtMs": 1795534200000
+  },
+  {
+   "key": "108557611",
+   "firstQueuedAtMs": 1795534200000,
+   "playedAtMs": 1795534200000
+  },
+  {
+   "key": "https://thehill.com/?p=6239080",
+   "firstQueuedAtMs": 1795534200000,
+   "playedAtMs": 1795534200000
+  },
+  {
+   "key": "https://www.engadget.com/2322030/make-usb-c-cables-last-longer/",
+   "firstQueuedAtMs": 1795534200000,
+   "playedAtMs": 1795534200000
+  },
+  {
+   "key": "https://www.fastcompany.com/91638523/google-broke-biggest-promise-about-gmail-1-thing-no-company-should-do",
+   "firstQueuedAtMs": 1795534200000,
+   "playedAtMs": 1795534200000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163679",
+   "firstQueuedAtMs": 1795534200000,
+   "playedAtMs": 1795534200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/ten-displaced-after-kansas-city-house-fire/",
+   "firstQueuedAtMs": 1795534200000,
+   "playedAtMs": 1795534200000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/why-mega-constellations-have-a-hidden-space-junk-blind-spot",
+   "firstQueuedAtMs": 1795534200000,
+   "playedAtMs": 1795534200000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=302402",
+   "firstQueuedAtMs": 1795534200000,
+   "playedAtMs": 1795534200000
+  },
+  {
+   "key": "https://thehill.com/?p=6239781",
+   "firstQueuedAtMs": 1795534200000,
+   "playedAtMs": 1795534200000
+  },
+  {
+   "key": "tag:daringfireball.net,2026:/linked//6.43768",
+   "firstQueuedAtMs": 1795534200000,
+   "playedAtMs": 1795534200000
+  },
+  {
+   "key": "https://www.minnpost.com/?p=2243906",
+   "firstQueuedAtMs": 1795534200000,
+   "playedAtMs": 1795534200000
+  },
+  {
+   "key": "https://electrek.co/?p=495688",
+   "firstQueuedAtMs": 1795534200000,
+   "playedAtMs": 1795534200000
+  },
+  {
+   "key": "news714734581",
+   "firstQueuedAtMs": 1795534200000,
+   "playedAtMs": 1795534200000
+  },
+  {
+   "key": "news714731969",
+   "firstQueuedAtMs": 1795534200000,
+   "playedAtMs": 1795534200000
+  },
+  {
+   "key": "108558298",
+   "firstQueuedAtMs": 1795534200000,
+   "playedAtMs": 1795534200000
+  },
+  {
+   "key": "https://electrek.co/?p=495702",
+   "firstQueuedAtMs": 1795534200000,
+   "playedAtMs": 1795534200000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/uk-built-x-ray-telescope-ready-for-action-at-mercury",
+   "firstQueuedAtMs": 1795534200000,
+   "playedAtMs": 1795534200000
+  },
+  {
+   "key": "https://fortune.com/?p=4649844&showAdminBar=true",
+   "firstQueuedAtMs": 1795534200000,
+   "playedAtMs": 1795534200000
   }
  ]
 }
