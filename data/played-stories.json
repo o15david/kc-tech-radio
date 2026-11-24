@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T17:50:16.381Z",
- "lastSyncBucket": 997522,
- "lastSyncCarryInSeconds": 95,
+ "updatedAt": "2026-11-24T18:05:16.309Z",
+ "lastSyncBucket": 997523,
+ "lastSyncCarryInSeconds": 18,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -19724,6 +19724,201 @@
    "key": "https://fortune.com/?p=4649841&showAdminBar=true",
    "firstQueuedAtMs": 1795539600000,
    "playedAtMs": 1795539600000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/?p=217402",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/24/sponsored-place-check-out-play-it-again-sports-all-your-athletic-needs/",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "https://www.engadget.com/2324749/video-doorbell-winter-charging-tips/",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=164796",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=230159",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "108558545",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43274",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "https://electrek.co/?p=495761",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "https://thehill.com/?p=6239118",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4422726",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "WP-MKTW-0005366978",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "TP0OFBKGIFPN00",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "https://www.inc.com/moses-jeanfrancois/kalshi-pulled-out-of-utah-14-criminal-charges-could-return-1-condition/91442071",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "https://source.washu.edu/?p=735356",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "https://lobste.rs/s/y56k2b",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "https://www.engadget.com/2321241/how-much-replace-tesla-battery-out-of-warranty/",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "74521430",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163681",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "https://thehill.com/?p=6240220",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "https://www.kshb.com/politics/how-latino-voters-in-south-texas-turned-a-gop-redistricting-strategy-upside-down",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "6b04eb5fff1e0201b5018edc",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191903",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315650",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "https://daringfireball.net/linked/2026/11/24/enron-ovation-1991",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "https://www.fastcompany.com/91647751/getting-asked-why-you-havent-bought-a-house-this-thanksgiving-heres-what-to-tell-your-relatives",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "news714737041",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/politics/trump-will-give-medal-of-freedom-to-giuliani-a-fierce-political-ally-who-led-new-york-through-9-11",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "news714736197",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/free-lyft-rides-available-kansas-city-thanksgiving-eve/",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "news714741287",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1040315",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/24/wife-burn-surgeon-killed-plane-crash-shares-moments-she-will-miss-most/",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "https://www.inc.com/dan-schawbel/lush-ceo-parental-leave/91441497",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "https://abcnews.com/US/philadelphia-groups-sue-trump-administration-slavery-memorial/story?id=138408214",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "108558515",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "https://www.inc.com/victoria-salves/mackenzie-scott-just-gave-2-nonprofits-12-million-dollars/91442000",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163058",
+   "firstQueuedAtMs": 1795541400000,
+   "playedAtMs": 1795541400000
   }
  ]
 }
