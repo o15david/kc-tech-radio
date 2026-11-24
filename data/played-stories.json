@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T13:50:31.920Z",
- "lastSyncBucket": 997514,
- "lastSyncCarryInSeconds": 1,
+ "updatedAt": "2026-11-24T14:05:33.875Z",
+ "lastSyncBucket": 997515,
+ "lastSyncCarryInSeconds": 50,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -18199,6 +18199,156 @@
    "key": "https://www.inc.com/inc-leadership-forum/25-insights-on-choosing-causes-that-get-company-support/91434976",
    "firstQueuedAtMs": 1795525200000,
    "playedAtMs": 1795525200000
+  },
+  {
+   "key": "https://kansasreflector.com/?post_type=republished&p=64085",
+   "firstQueuedAtMs": 1795527000000,
+   "playedAtMs": 1795527000000
+  },
+  {
+   "key": "74518727",
+   "firstQueuedAtMs": 1795527000000,
+   "playedAtMs": 1795527000000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1041034",
+   "firstQueuedAtMs": 1795527000000,
+   "playedAtMs": 1795527000000
+  },
+  {
+   "key": "https://www.sciencenews.org/?p=3182247",
+   "firstQueuedAtMs": 1795527000000,
+   "playedAtMs": 1795527000000
+  },
+  {
+   "key": "https://martincitytelegraph.com/?p=82054",
+   "firstQueuedAtMs": 1795527000000,
+   "playedAtMs": 1795527000000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=230020",
+   "firstQueuedAtMs": 1795527000000,
+   "playedAtMs": 1795527000000
+  },
+  {
+   "key": "MY9swyBvXXLAH8yaZCLZcd",
+   "firstQueuedAtMs": 1795527000000,
+   "playedAtMs": 1795527000000
+  },
+  {
+   "key": "3070eeb8-6d24-4554-8c93-879795faef76",
+   "firstQueuedAtMs": 1795527000000,
+   "playedAtMs": 1795527000000
+  },
+  {
+   "key": "108558271",
+   "firstQueuedAtMs": 1795527000000,
+   "playedAtMs": 1795527000000
+  },
+  {
+   "key": "WP-MKTW-0005363228",
+   "firstQueuedAtMs": 1795527000000,
+   "playedAtMs": 1795527000000
+  },
+  {
+   "key": "TP0E94T3BZLT00",
+   "firstQueuedAtMs": 1795527000000,
+   "playedAtMs": 1795527000000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75735",
+   "firstQueuedAtMs": 1795527000000,
+   "playedAtMs": 1795527000000
+  },
+  {
+   "key": "765d1b4c-aade-439f-8cd2-be561547bbba",
+   "firstQueuedAtMs": 1795527000000,
+   "playedAtMs": 1795527000000
+  },
+  {
+   "key": "https://www.engadget.com/2320357/why-faa-doesnt-want-airpods-in-luggage/",
+   "firstQueuedAtMs": 1795527000000,
+   "playedAtMs": 1795527000000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163603",
+   "firstQueuedAtMs": 1795527000000,
+   "playedAtMs": 1795527000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/missouri-capitol-dome-glow-teal-kansas-city-current-championship/",
+   "firstQueuedAtMs": 1795527000000,
+   "playedAtMs": 1795527000000
+  },
+  {
+   "key": "6b04f389d863d10001946ec3",
+   "firstQueuedAtMs": 1795527000000,
+   "playedAtMs": 1795527000000
+  },
+  {
+   "key": "6b049ef5d863d10001945f08",
+   "firstQueuedAtMs": 1795527000000,
+   "playedAtMs": 1795527000000
+  },
+  {
+   "key": "https://www.kshb.com/us-news/whats-in-the-box-why-mystery-toys-have-become-a-billion-dollar-business",
+   "firstQueuedAtMs": 1795527000000,
+   "playedAtMs": 1795527000000
+  },
+  {
+   "key": "https://thehill.com/?p=6239266",
+   "firstQueuedAtMs": 1795527000000,
+   "playedAtMs": 1795527000000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1104859",
+   "firstQueuedAtMs": 1795527000000,
+   "playedAtMs": 1795527000000
+  },
+  {
+   "key": "news714724581",
+   "firstQueuedAtMs": 1795527000000,
+   "playedAtMs": 1795527000000
+  },
+  {
+   "key": "news714731762",
+   "firstQueuedAtMs": 1795527000000,
+   "playedAtMs": 1795527000000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
+   "firstQueuedAtMs": 1795527000000,
+   "playedAtMs": 1795527000000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75733",
+   "firstQueuedAtMs": 1795527000000,
+   "playedAtMs": 1795527000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/24/us/haitians-deportations-canada-immigration.html",
+   "firstQueuedAtMs": 1795527000000,
+   "playedAtMs": 1795527000000
+  },
+  {
+   "key": "news714723942",
+   "firstQueuedAtMs": 1795527000000,
+   "playedAtMs": 1795527000000
+  },
+  {
+   "key": "https://fortune.com/?p=4643003",
+   "firstQueuedAtMs": 1795527000000,
+   "playedAtMs": 1795527000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/will-storms-disrupt-macys-thanksgiving-day-parade-heres-what-we-know/",
+   "firstQueuedAtMs": 1795527000000,
+   "playedAtMs": 1795527000000
+  },
+  {
+   "key": "https://fortune.com/?p=4648122&showAdminBar=true",
+   "firstQueuedAtMs": 1795527000000,
+   "playedAtMs": 1795527000000
   }
  ]
 }
