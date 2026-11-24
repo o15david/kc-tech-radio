@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T15:20:32.380Z",
- "lastSyncBucket": 997517,
- "lastSyncCarryInSeconds": 33,
+ "updatedAt": "2026-11-24T15:35:28.724Z",
+ "lastSyncBucket": 997518,
+ "lastSyncCarryInSeconds": 115,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -18714,6 +18714,186 @@
    "key": "https://www.fastcompany.com/91648292/gas-price-map-thanksgiving-2026-how-much-will-i-pay-50-states",
    "firstQueuedAtMs": 1795530600000,
    "playedAtMs": 1795530600000
+  },
+  {
+   "key": "74519474",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/24/sponsored-place-outdoor-home-roasted-thanksgiving-turkey-big-green-egg/",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "108549103",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "https://earthsky.org/?p=523623",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/dont-feel-like-cooking-heres-whats-open-thanksgiving/",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=164895",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1041150",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "https://thehill.com/?p=6238065",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "https://lobste.rs/s/yyktrz",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "https://www.inc.com/moses-jeanfrancois/shopify-ceo-jensen-huang-exit-choreographed-questions-who-stood-to-benefit/91441567",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "news714734341",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "news714731365",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "https://spacenews.com/?p=629520",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=302463",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "TP0IH9KGIFPM00",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "https://www.technologyreview.com/?p=1148091",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "d81be910-a12f-413b-91fd-b213eeb54441",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4453652",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311901",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/missouri/platte-county/kansas-city-current-championship-march-road-closures-parade-route-and-rally-times-fans-should-know",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1041164",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "https://thehill.com/?p=6239758",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "https://www.inc.com/danielle-forte/etsy-new-ai-terms-sellers-leaving-small-business-saturday/91440409",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "6b04b2a69bbf186d7c16e855",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "108558124",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "news714729143",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "https://hackaday.com/?p=1117206",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/24/investigation-opens-into-funeral-home-after-family-told-body-cant-be-found/",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=302446",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "news714734041",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "https://www.inc.com/kamya-marwah/walmart-thanksgiving-meal-bundle-discount-marketing-brand-loyalty/91441955",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "https://www.inc.com/peter-economy/california-banned-waymo-from-freeways-the-second-time-is-the-part-that-worries-me/91441443",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "https://fortune.com/?p=4649605&showAdminBar=true",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
+  },
+  {
+   "key": "https://www.fastcompany.com/91645866/byds-new-car-has-a-disappearing-steering-wheel-because-it-can",
+   "firstQueuedAtMs": 1795532400000,
+   "playedAtMs": 1795532400000
   }
  ]
 }
