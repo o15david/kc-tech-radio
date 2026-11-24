@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T21:20:38.920Z",
- "lastSyncBucket": 997529,
- "lastSyncCarryInSeconds": 53,
+ "updatedAt": "2026-11-24T21:35:36.106Z",
+ "lastSyncBucket": 997530,
+ "lastSyncCarryInSeconds": 4,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -21099,6 +21099,226 @@
    "key": "https://www.theregister.com/a/5311978",
    "firstQueuedAtMs": 1795552200000,
    "playedAtMs": 1795552200000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/24/indycar-adds-kansas-speedway-race-may-schedule-alongside-nascar-cup-weekend/",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "https://thehill.com/?p=6241076",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=230197",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "TP0ZD5KGZAJ100",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "WP-MKTW-0005368256",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4423685",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "TP0UE2T9NJLT00",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "news714740001",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "news714747241",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191989",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "https://www.techdirt.com/?p=552257",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "https://thehill.com/?p=6241039",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "https://www.nasa.gov/?p=1067960",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/how-watch-charlie-brown-christmas-free/",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "WP-MKTW-0005368076",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "https://www.inc.com/kamya-marwah/burger-king-700-million-reclaim-the-flame-turnaroud-strategy/91442105",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "news714739246",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "news714757382",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1021621",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "https://thehill.com/?p=6241034",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3192013",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "TP0QGTKJH6V400",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "https://www.anthropic.com/research/working-with-ai",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "https://www.nasa.gov/?p=1067471",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "74523184",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "74523336",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "news714746882",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "https://hackaday.com/?p=1430065",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "74521068",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/24/modot-urges-drivers-plan-ahead-thanksgiving-travel/",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "https://www.kshb.com/us-news/military/army-auditors-fear-key-units-are-unprepared-to-deploy-in-pacific-war-scenario",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/24/us/politics/account-park-service-trump-ballroom-donation.html",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "https://www.fastcompany.com/91648406/trump-is-deploying-a-special-tiger-team-for-thanksgiving-air-travel-heres-why",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "https://www.inc.com/amaya-nichole/dominos-franchisees-just-filed-bankruptcy-cheap-pizza-is-not-biggest-problem/91442144",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "https://www.inc.com/soren-kaplan/today-is-1-of-the-busiest-travel-days-of-the-year-will-the-faa-ground-planes-again/91442136",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "https://www.inc.com/michael-tasner/best-buy-5-year-growth-competing-with-amazon-immediacy/91442297",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "https://prismml.com/news/bonsai-2-5-27b",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "https://nautil.us/?p=1286989",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "https://www.inc.com/aaron-mok/make-chatgpt-claude-and-gemini-do-hours-of-market-research-in-minutes-with-this-prompt/91425782",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "https://www.inc.com/sadiya-kherani/a-court-just-struck-down-protections-for-pregnant-workers-other-covid-era-laws-could-be-next/91442032",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "https://science.nasa.gov/earth/agu-hyperwall-schedule/",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "https://thehill.com/?p=6241030",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "TP0NHZKJH6VM00",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163688",
+   "firstQueuedAtMs": 1795554000000,
+   "playedAtMs": 1795554000000
   }
  ]
 }
