@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T05:20:26.790Z",
- "lastSyncBucket": 997497,
- "lastSyncCarryInSeconds": 6,
+ "updatedAt": "2026-11-24T05:35:19.625Z",
+ "lastSyncBucket": 997498,
+ "lastSyncCarryInSeconds": 36,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -15024,6 +15024,266 @@
    "key": "https://semiengineering.com/?p=24284286",
    "firstQueuedAtMs": 1795494600000,
    "playedAtMs": 1795494600000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311802",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "74514909",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/23/12-year-old-girl-shot-hospitalized-after-gunfire-strikes-her-home/",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/24/world/europe/ukraine-russia-psyops-radio-izium.html",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/man-accused-impulse-hiking-trail-murder-before-killing-friend-with-crossbow-2-days-later/",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "108558036",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "108558014",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "TOZNSFKIUPS500",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "76b2285b501c3518d9f413fc227aa9b97a5e6b72",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/whats-driving-up-the-cost-of-thanksgiving-dinner",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4420551",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "74514572",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://www.eetimes.com/?p=101803139",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://sifted.eu/articles/kanishka-narayan-ai-uk-minister-sovereign/",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://sifted.eu/articles/pre-seed-fintechs-to-watch/",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://sifted.eu/articles/inside-slush-2026-robots-riches-and-the-race-to-superintelligence/",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://sifted.eu/articles/slush-20u20-2026/",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://sifted.eu/articles/espoo-closes-in-on-helsinki-as-finlands-startup-funding-race-tightens/",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://simonwillison.net/2026/Nov/20/llm-gemini/",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://www.nbcnews.com/politics/donald-trump/appeals-court-gives-another-chance-move-hush-money-case-federal-court-rcna610988",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://www.sci.news/?p=112834",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "01M7V6MST3Z48AB8DBH1WGS8EX",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "6aff93fe62d8ed0001648c07",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/what-editors-buy-every-black-friday-rcna610942",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://nebraskaexaminer.com/?p=46000",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://news.fnal.gov/?p=343605",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "19955f2885c60f352884dbb3fc318cc9afbc5339",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "71f08435a376a063de0a38fc52648940b0309672",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://openai.com/business/customer-stories/hebbia",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://openai.com/index/introducing-medchembench",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03680-1",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03751-3",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03776-8",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03590-2",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03805-6",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03789-3",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/walmart-black-friday-deals-2026-rcna610982",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03812-7",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03799-1",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03787-5",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://www.nature.com/articles/s41586-026-10974-x",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03816-3",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://spaceflightnow.com/?p=74981",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "1b0652cc95393da48c861946cd586856ffb3f573",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://www.sciencenews.org/?p=3182071",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "https://www.sci.news/?p=112831",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
+  },
+  {
+   "key": "tag:daringfireball.net,2026://1.43755",
+   "firstQueuedAtMs": 1795496400000,
+   "playedAtMs": 1795496400000
   }
  ]
 }
