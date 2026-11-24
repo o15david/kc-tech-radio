@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T12:20:15.691Z",
- "lastSyncBucket": 997511,
- "lastSyncCarryInSeconds": 37,
+ "updatedAt": "2026-11-24T12:35:25.433Z",
+ "lastSyncBucket": 997512,
+ "lastSyncCarryInSeconds": 47,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -17664,6 +17664,191 @@
    "key": "https://grist.org/?p=761086",
    "firstQueuedAtMs": 1795519800000,
    "playedAtMs": 1795519800000
+  },
+  {
+   "key": "74517486",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "https://missouriindependent.com/?p=33832",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "https://abcnews.com/video/138392309/",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "74492702",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75731",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "74517801",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/2-hospitalized-dogs-killed-overland-park-house-fire/",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "TP07KBR24U8500",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "WP-MKTW-0005365839",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75730",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "https://arstechnica.com/gadgets/2026/11/one-terminal-command-gave-my-forgotten-android-device-a-desk-job/",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "https://www.nbcnews.com/news/us-news/congress-huang-nvidia-return-army-iowa-detonation-morning-rundown-rcna611054",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "TP09Y4R24U8000",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/24/nyregion/campaign-solicitation-came-with-unusual-offer-can-i-zelle-you-money.html",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "https://www.engadget.com/2326351/grand-theft-auto-6-is-the-biggest-playstation-launch-of-all-time/",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "https://www.schneier.com/?p=72991",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "108557962",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "TP09M4KIP3IB00",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "TP09JIR24U8300",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=165036",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "13a6734d-b6b8-446d-89ef-e828d4c58640",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "6abd5a2199edf0dddca3a44a",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "TP09FDKIJH8J00",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "TP0845N3N09300",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "WP-MKTW-0005365827",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "https://arstechnica.com/gadgets/2026/11/ukraines-sea-drones-blow-up-russian-warship-in-benghazi-operation/",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "https://news.crunchbase.com/?p=94439",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "https://hackaday.com/?p=1429957",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "https://news.crunchbase.com/?p=94441",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "https://thehill.com/?p=6238620",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "https://physicsworld.com/?p=131713",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "108438334",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "news714718220",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "6b045df8c433b8421f8e9af6",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "https://www.fastcompany.com/91632411/cerave-brands-that-matter-2026-nba-kevin-durant-carmelo-anthony-moisturizer-shampoo-new-face-of-legs-head-coach",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
+  },
+  {
+   "key": "https://www.fastcompany.com/91633052/spam-brands-that-matter-2026-hormel-hello-kitty-green-egg-seuss-minnesota-vikings-dog-musubi-kroger-ralphs",
+   "firstQueuedAtMs": 1795521600000,
+   "playedAtMs": 1795521600000
   }
  ]
 }
