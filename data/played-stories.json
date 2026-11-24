@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T16:20:26.642Z",
- "lastSyncBucket": 997519,
- "lastSyncCarryInSeconds": 107,
+ "updatedAt": "2026-11-24T16:35:09.945Z",
+ "lastSyncBucket": 997520,
+ "lastSyncCarryInSeconds": 16,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -19064,6 +19064,221 @@
    "key": "https://fortune.com/?p=4649844&showAdminBar=true",
    "firstQueuedAtMs": 1795534200000,
    "playedAtMs": 1795534200000
+  },
+  {
+   "key": "https://thehill.com/?p=6240011",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "https://missouriindependent.com/?post_type=republished&p=33737",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1041222",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "https://lobste.rs/s/xst6fv",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "https://electrek.co/?p=495731",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "WP-MKTW-0005367021",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/a-dark-energy-camera-portrait-of-the-betta-fish-nebula",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "https://arstechnica.com/cars/2026/11/new-york-says-no-more-subscriptions-for-in-car-features-or-does-it/",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "bfa28dc4-1556-49c8-acdf-88e616d28776",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "news714735443",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "WP-MKTW-0005365989",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/kctv5-programming-changes-due-kc-current-champions-march-rally/",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "https://www.eetimes.com/?p=101797269",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "https://electrek.co/?p=495728",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "1259e2de-76bb-4122-b516-352b19126419",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "https://eos.org/?p=252779",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/merriam-voters-to-decide-on-downtown-sales-tax-proposal",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "https://www.engadget.com/2326647/researchers-find-3-6-billion-usernames-passwords-and-documents-in-unsecured-database/",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "https://www.engadget.com/2320810/built-in-windows-tool-find-pc-stability-issues-reliability-monitor/",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "https://arstechnica.com/space/2026/11/nasa-may-get-2-billion-boost-as-white-house-seeks-to-accelerate-artemis/",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "108558305",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "8610d305-13d4-4513-b00f-91d2c941dff1",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "https://www.engadget.com/2326638/commerce-department-adds-megaspeed-to-trade-blacklist/",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "news714733175",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191518",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/youll-be-able-see-beaver-supermoon-tuesday-night/",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1041227",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "https://michiganadvance.com/?post_type=republished&p=116195",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "https://www.upi.com/Top_News/US/2026/11/24/NVIDIA-partner-Megaspeed/1701795520063/",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "108558435",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4422019",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191752",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "https://arstechnica.com/science/2026/11/homo-erectus-lived-in-the-rainforest-alongside-denisovans/",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "https://abcnews.com/video/138408122/",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/?p=217395",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "news714735436",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "j5VzpoNwiJrbYvHKor9kZW",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
+  },
+  {
+   "key": "https://www.inc.com/michael-tasner/1-trillion-holiday-spending-record-small-business-trap/91442004",
+   "firstQueuedAtMs": 1795536000000,
+   "playedAtMs": 1795536000000
   }
  ]
 }
