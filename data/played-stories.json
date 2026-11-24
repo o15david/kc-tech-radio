@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T14:50:32.509Z",
- "lastSyncBucket": 997516,
- "lastSyncCarryInSeconds": 7,
+ "updatedAt": "2026-11-24T15:05:35.391Z",
+ "lastSyncBucket": 997517,
+ "lastSyncCarryInSeconds": 33,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -18544,6 +18544,176 @@
    "key": "https://www.inc.com/michael-tasner/recession-warnings-how-to-market-money-gets-tight/91441157",
    "firstQueuedAtMs": 1795528800000,
    "playedAtMs": 1795528800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/government-agencies-give-update-detonation-iowa/",
+   "firstQueuedAtMs": 1795530600000,
+   "playedAtMs": 1795530600000
+  },
+  {
+   "key": "https://kansasreflector.com/?post_type=republished&p=64113",
+   "firstQueuedAtMs": 1795530600000,
+   "playedAtMs": 1795530600000
+  },
+  {
+   "key": "https://nautil.us/?p=1286982",
+   "firstQueuedAtMs": 1795530600000,
+   "playedAtMs": 1795530600000
+  },
+  {
+   "key": "WP-MKTW-0005366818",
+   "firstQueuedAtMs": 1795530600000,
+   "playedAtMs": 1795530600000
+  },
+  {
+   "key": "https://arstechnica.com/tech-policy/2026/11/how-trump-and-silicon-valley-forced-nvidia-to-take-jensen-huang-back/",
+   "firstQueuedAtMs": 1795530600000,
+   "playedAtMs": 1795530600000
+  },
+  {
+   "key": "WP-MKTW-0005365936",
+   "firstQueuedAtMs": 1795530600000,
+   "playedAtMs": 1795530600000
+  },
+  {
+   "key": "WP-MKTW-0005366790",
+   "firstQueuedAtMs": 1795530600000,
+   "playedAtMs": 1795530600000
+  },
+  {
+   "key": "https://lobste.rs/s/rfcgkx",
+   "firstQueuedAtMs": 1795530600000,
+   "playedAtMs": 1795530600000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4421463",
+   "firstQueuedAtMs": 1795530600000,
+   "playedAtMs": 1795530600000
+  },
+  {
+   "key": "https://thehill.com/?p=6238310",
+   "firstQueuedAtMs": 1795530600000,
+   "playedAtMs": 1795530600000
+  },
+  {
+   "key": "https://www.inc.com/phil-rosen/jensen-huang-nvidia-best-stock-market-day-history/91441838",
+   "firstQueuedAtMs": 1795530600000,
+   "playedAtMs": 1795530600000
+  },
+  {
+   "key": "https://www.engadget.com/2320475/essential-car-gadgets-and-accessories/",
+   "firstQueuedAtMs": 1795530600000,
+   "playedAtMs": 1795530600000
+  },
+  {
+   "key": "https://electrek.co/?p=495689",
+   "firstQueuedAtMs": 1795530600000,
+   "playedAtMs": 1795530600000
+  },
+  {
+   "key": "https://www.inc.com/amaya-nichole/bojangles-workers-say-chain-did-not-pay-all-their-work-lawsuit-cleared-hurdle/91441472",
+   "firstQueuedAtMs": 1795530600000,
+   "playedAtMs": 1795530600000
+  },
+  {
+   "key": "news714733441",
+   "firstQueuedAtMs": 1795530600000,
+   "playedAtMs": 1795530600000
+  },
+  {
+   "key": "news714725969",
+   "firstQueuedAtMs": 1795530600000,
+   "playedAtMs": 1795530600000
+  },
+  {
+   "key": "https://news.fnal.gov/?p=343365",
+   "firstQueuedAtMs": 1795530600000,
+   "playedAtMs": 1795530600000
+  },
+  {
+   "key": "953bf6d9-d507-4c43-8bdf-eb4e43c6c73d",
+   "firstQueuedAtMs": 1795530600000,
+   "playedAtMs": 1795530600000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/kansas/johnson-county/winning-is-contagious-what-can-you-say-kc-current-fans-snap-up-championship-gear",
+   "firstQueuedAtMs": 1795530600000,
+   "playedAtMs": 1795530600000
+  },
+  {
+   "key": "https://news.fnal.gov/?p=343440",
+   "firstQueuedAtMs": 1795530600000,
+   "playedAtMs": 1795530600000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75739",
+   "firstQueuedAtMs": 1795530600000,
+   "playedAtMs": 1795530600000
+  },
+  {
+   "key": "https://thehill.com/?p=6239478",
+   "firstQueuedAtMs": 1795530600000,
+   "playedAtMs": 1795530600000
+  },
+  {
+   "key": "https://www.fastcompany.com/91648294/trumps-intervention-nvidia-just-gave-democrats-another-2028-target",
+   "firstQueuedAtMs": 1795530600000,
+   "playedAtMs": 1795530600000
+  },
+  {
+   "key": "https://wisconsinwatch.org/?p=1323334",
+   "firstQueuedAtMs": 1795530600000,
+   "playedAtMs": 1795530600000
+  },
+  {
+   "key": "https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar/",
+   "firstQueuedAtMs": 1795530600000,
+   "playedAtMs": 1795530600000
+  },
+  {
+   "key": "74517487",
+   "firstQueuedAtMs": 1795530600000,
+   "playedAtMs": 1795530600000
+  },
+  {
+   "key": "https://sifted.eu/articles/starling-veteran-to-take-over-as-ceo/",
+   "firstQueuedAtMs": 1795530600000,
+   "playedAtMs": 1795530600000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311889",
+   "firstQueuedAtMs": 1795530600000,
+   "playedAtMs": 1795530600000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4453817",
+   "firstQueuedAtMs": 1795530600000,
+   "playedAtMs": 1795530600000
+  },
+  {
+   "key": "https://abcnews.com/video/138408581/",
+   "firstQueuedAtMs": 1795530600000,
+   "playedAtMs": 1795530600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/missouri-officials-prepare-possible-effects-army-detonation-iowa/",
+   "firstQueuedAtMs": 1795530600000,
+   "playedAtMs": 1795530600000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1552256",
+   "firstQueuedAtMs": 1795530600000,
+   "playedAtMs": 1795530600000
+  },
+  {
+   "key": "https://www.inc.com/ali-donaldson/how-jshealth-reached-100-million-in-revenue/91441425",
+   "firstQueuedAtMs": 1795530600000,
+   "playedAtMs": 1795530600000
+  },
+  {
+   "key": "https://www.fastcompany.com/91648292/gas-price-map-thanksgiving-2026-how-much-will-i-pay-50-states",
+   "firstQueuedAtMs": 1795530600000,
+   "playedAtMs": 1795530600000
   }
  ]
 }
