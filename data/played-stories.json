@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T10:50:04.679Z",
- "lastSyncBucket": 997508,
- "lastSyncCarryInSeconds": 34,
+ "updatedAt": "2026-11-24T11:05:18.717Z",
+ "lastSyncBucket": 997509,
+ "lastSyncCarryInSeconds": 13,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -17034,6 +17034,191 @@
    "key": "https://indianacapitalchronicle.com/?p=28249",
    "firstQueuedAtMs": 1795514400000,
    "playedAtMs": 1795514400000
+  },
+  {
+   "key": "https://www.minnpost.com/?p=2243939",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/24/behind-the-curtain-when-reality-shouts",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "6b008649d1264ea744d12ee1",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "69a8e94bd14e8cb494411ac0",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "JRhC5rbdiMDYADbSgjfMTH",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "https://www.infoq.com/presentations/enterprise-ai-inference-architecture-costs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "fgBrca377t5Nqd4B9Ff6BN",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=229470",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "https://stratechery.com/?p=21369",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/217406/chiefs-news-george-karlaftis-continues-impressive-run-of-sacks",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315635",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "news714721890",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "https://lobste.rs/s/voxuev",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/24/aclu-state-supreme-court-south-democrats-religion",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "6af62f9e3f2d552ac8ce19a0",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75724",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "e465b996-27be-4f9b-80e1-5959c0c27052",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "https://lobste.rs/s/pxvmxo",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "6b045fd2ac369b2dba4b2b82",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/podcasts/why-trump-put-jensen-huang-back-in-charge-at-nvidia.html",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "74516562",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03824-3",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03822-5",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03825-2",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03823-4",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/17/obituaries/del-casher-dead.html",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "https://www.technologyreview.com/?p=1148650",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "https://flatwaterfreepress.org/?p=20408",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "https://physicsworld.com/?p=131215",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "https://blogs.nvidia.com/?p=100079",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "https://www.nbcnews.com/health/health-news/measles-babies-vaccine-dose-protect-outbreaks-rcna610383",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "https://www.darkreading.com/vulnerabilities-threats/major-brazilian-signature-app-rce-fraud",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "https://eos.org/?p=252556",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/24/democrats-medicare-eligibility-affordability-challenges",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "https://showme.missouri.edu/?p=87138",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
+  },
+  {
+   "key": "https://www.technologyreview.com/?p=1148845",
+   "firstQueuedAtMs": 1795516200000,
+   "playedAtMs": 1795516200000
   }
  ]
 }
