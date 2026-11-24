@@ -15,7 +15,7 @@ export async function GET() {
   ]);
   // Social callers removed (David, Nov 24, 2026): health builds the
   // queue with an empty caller list, same as the playlist route.
-  const { segments, bufferSeconds, callerCount } = buildPlaylist(
+  const { segments, bufferSeconds, callerCount, expiredPerformances } = buildPlaylist(
     pool,
     weather,
     Date.now(),
@@ -59,6 +59,13 @@ export async function GET() {
     // (lib/language.js, applied in lib/ingest.js). Reported on every
     // response so the filter's work is measured, not asserted.
     languageFilter: pool.languageFilter || null,
+    // Performances date gate (David, Nov 24, 2026): ingest-side drops
+    // from the performances feed (unverifiable dates, already-ended
+    // runs) plus the queue-build drop count for listings whose run
+    // ended after ingest. A healthy station reads droppedExpired 0
+    // and expiredPerformances 0; nonzero means the feed went stale.
+    performanceFilter: pool.performanceFilter || null,
+    expiredPerformances,
     // Topic-dedupe stats of the pool being served: how many items the
     // last accepted refresh arrived with, how many survived headline
     // dedupe, and how many syndicated copies were dropped (lib/ingest.js).
