@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T07:20:20.246Z",
- "lastSyncBucket": 997501,
- "lastSyncCarryInSeconds": 108,
+ "updatedAt": "2026-11-24T07:35:10.142Z",
+ "lastSyncBucket": 997502,
+ "lastSyncCarryInSeconds": 15,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -15879,6 +15879,151 @@
    "key": "https://eos.org/?p=252605",
    "firstQueuedAtMs": 1795501800000,
    "playedAtMs": 1795501800000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75713",
+   "firstQueuedAtMs": 1795503600000,
+   "playedAtMs": 1795503600000
+  },
+  {
+   "key": "https://nebraskaexaminer.com/?p=45990",
+   "firstQueuedAtMs": 1795503600000,
+   "playedAtMs": 1795503600000
+  },
+  {
+   "key": "07cf18a9-df2b-4eaa-a2be-32f37509fe95",
+   "firstQueuedAtMs": 1795503600000,
+   "playedAtMs": 1795503600000
+  },
+  {
+   "key": "108558074",
+   "firstQueuedAtMs": 1795503600000,
+   "playedAtMs": 1795503600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/24/arts/television/jimmy-kimmel-trump-jensen-huang.html",
+   "firstQueuedAtMs": 1795503600000,
+   "playedAtMs": 1795503600000
+  },
+  {
+   "key": "TOZFWMT9NJQ000",
+   "firstQueuedAtMs": 1795503600000,
+   "playedAtMs": 1795503600000
+  },
+  {
+   "key": "6a9847c1166fe3bd973cc308",
+   "firstQueuedAtMs": 1795503600000,
+   "playedAtMs": 1795503600000
+  },
+  {
+   "key": "68c8302f6aec50ed2359ebd3",
+   "firstQueuedAtMs": 1795503600000,
+   "playedAtMs": 1795503600000
+  },
+  {
+   "key": "6a6b8ed35926d140f76c554a",
+   "firstQueuedAtMs": 1795503600000,
+   "playedAtMs": 1795503600000
+  },
+  {
+   "key": "https://www.phoronix.com/review/amd-epyc-9006-7601",
+   "firstQueuedAtMs": 1795503600000,
+   "playedAtMs": 1795503600000
+  },
+  {
+   "key": "https://eos.org/?p=252541",
+   "firstQueuedAtMs": 1795503600000,
+   "playedAtMs": 1795503600000
+  },
+  {
+   "key": "https://sifted.eu/articles/eu-inc-watered-down-rules-rewrite-campaign/",
+   "firstQueuedAtMs": 1795503600000,
+   "playedAtMs": 1795503600000
+  },
+  {
+   "key": "6afe0c6b80b15200015a0151",
+   "firstQueuedAtMs": 1795503600000,
+   "playedAtMs": 1795503600000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/world/u-s-to-co-host-2031-womens-world-cup-with-mexico-costa-rica-and-jamaica",
+   "firstQueuedAtMs": 1795503600000,
+   "playedAtMs": 1795503600000
+  },
+  {
+   "key": "https://www.technologyreview.com/?p=1148979",
+   "firstQueuedAtMs": 1795503600000,
+   "playedAtMs": 1795503600000
+  },
+  {
+   "key": "https://abcnews.com/video/138372830/",
+   "firstQueuedAtMs": 1795503600000,
+   "playedAtMs": 1795503600000
+  },
+  {
+   "key": "https://showme.missouri.edu/?p=87557",
+   "firstQueuedAtMs": 1795503600000,
+   "playedAtMs": 1795503600000
+  },
+  {
+   "key": "https://knowablemagazine.org/content/article/food-environment/2026/secrets-superfruit-acai-genome-gets-decoded",
+   "firstQueuedAtMs": 1795503600000,
+   "playedAtMs": 1795503600000
+  },
+  {
+   "key": "https://earthsky.org/?p=565568",
+   "firstQueuedAtMs": 1795503600000,
+   "playedAtMs": 1795503600000
+  },
+  {
+   "key": "https://abcnews.com/video/138373151/",
+   "firstQueuedAtMs": 1795503600000,
+   "playedAtMs": 1795503600000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1107202",
+   "firstQueuedAtMs": 1795503600000,
+   "playedAtMs": 1795503600000
+  },
+  {
+   "key": "https://news.crunchbase.com/?p=94402",
+   "firstQueuedAtMs": 1795503600000,
+   "playedAtMs": 1795503600000
+  },
+  {
+   "key": "https://news.crunchbase.com/?p=94414",
+   "firstQueuedAtMs": 1795503600000,
+   "playedAtMs": 1795503600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/business/electric-motorcyles-vietnam.html",
+   "firstQueuedAtMs": 1795503600000,
+   "playedAtMs": 1795503600000
+  },
+  {
+   "key": "https://news.crunchbase.com/?p=94416",
+   "firstQueuedAtMs": 1795503600000,
+   "playedAtMs": 1795503600000
+  },
+  {
+   "key": "https://www.technologyreview.com/?p=1148934",
+   "firstQueuedAtMs": 1795503600000,
+   "playedAtMs": 1795503600000
+  },
+  {
+   "key": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-strait-hormuz-safe-demands/?id=138369648",
+   "firstQueuedAtMs": 1795503600000,
+   "playedAtMs": 1795503600000
+  },
+  {
+   "key": "https://yaleclimateconnections.org/?p=144689",
+   "firstQueuedAtMs": 1795503600000,
+   "playedAtMs": 1795503600000
+  },
+  {
+   "key": "https://earthsky.org/?p=565752",
+   "firstQueuedAtMs": 1795503600000,
+   "playedAtMs": 1795503600000
   }
  ]
 }
