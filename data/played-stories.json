@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T09:20:10.224Z",
- "lastSyncBucket": 997505,
- "lastSyncCarryInSeconds": 119,
+ "updatedAt": "2026-11-24T09:35:07.858Z",
+ "lastSyncBucket": 997506,
+ "lastSyncCarryInSeconds": 39,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -16504,6 +16504,166 @@
    "key": "tag:daringfireball.net,2026://1.43751",
    "firstQueuedAtMs": 1795509000000,
    "playedAtMs": 1795509000000
+  },
+  {
+   "key": "https://ohiocapitaljournal.com/?p=43233",
+   "firstQueuedAtMs": 1795510800000,
+   "playedAtMs": 1795510800000
+  },
+  {
+   "key": "40dfd5f8-92b0-4d32-a28c-f4e44b738988",
+   "firstQueuedAtMs": 1795510800000,
+   "playedAtMs": 1795510800000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1551981",
+   "firstQueuedAtMs": 1795510800000,
+   "playedAtMs": 1795510800000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1551848",
+   "firstQueuedAtMs": 1795510800000,
+   "playedAtMs": 1795510800000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1551461",
+   "firstQueuedAtMs": 1795510800000,
+   "playedAtMs": 1795510800000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1550592",
+   "firstQueuedAtMs": 1795510800000,
+   "playedAtMs": 1795510800000
+  },
+  {
+   "key": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
+   "firstQueuedAtMs": 1795510800000,
+   "playedAtMs": 1795510800000
+  },
+  {
+   "key": "https://grist.org/?p=761355",
+   "firstQueuedAtMs": 1795510800000,
+   "playedAtMs": 1795510800000
+  },
+  {
+   "key": "https://www.engadget.com/2326288/openai-employee-recorded-meetings-allegedly-affiliated-saudi-government/",
+   "firstQueuedAtMs": 1795510800000,
+   "playedAtMs": 1795510800000
+  },
+  {
+   "key": "108558094",
+   "firstQueuedAtMs": 1795510800000,
+   "playedAtMs": 1795510800000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75723",
+   "firstQueuedAtMs": 1795510800000,
+   "playedAtMs": 1795510800000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311707",
+   "firstQueuedAtMs": 1795510800000,
+   "playedAtMs": 1795510800000
+  },
+  {
+   "key": "https://grist.org/?p=761363",
+   "firstQueuedAtMs": 1795510800000,
+   "playedAtMs": 1795510800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo#2",
+   "firstQueuedAtMs": 1795510800000,
+   "playedAtMs": 1795510800000
+  },
+  {
+   "key": "https://wisconsinexaminer.com/?p=49083",
+   "firstQueuedAtMs": 1795510800000,
+   "playedAtMs": 1795510800000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75483",
+   "firstQueuedAtMs": 1795510800000,
+   "playedAtMs": 1795510800000
+  },
+  {
+   "key": "https://www.dw.com/en/pakistani-astronaut-to-join-chinese-space-mission/a-80028922?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795510800000,
+   "playedAtMs": 1795510800000
+  },
+  {
+   "key": "WP-MKTW-0005366539",
+   "firstQueuedAtMs": 1795510800000,
+   "playedAtMs": 1795510800000
+  },
+  {
+   "key": "TOZYQIT3BZLU00",
+   "firstQueuedAtMs": 1795510800000,
+   "playedAtMs": 1795510800000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4420276",
+   "firstQueuedAtMs": 1795510800000,
+   "playedAtMs": 1795510800000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4418673",
+   "firstQueuedAtMs": 1795510800000,
+   "playedAtMs": 1795510800000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4419866",
+   "firstQueuedAtMs": 1795510800000,
+   "playedAtMs": 1795510800000
+  },
+  {
+   "key": "https://hackaday.com/?p=1429937",
+   "firstQueuedAtMs": 1795510800000,
+   "playedAtMs": 1795510800000
+  },
+  {
+   "key": "https://www.scmp.com/economy/global-economy/article/3375609/china-approves-2-month-extension-select-us-export-restrictions",
+   "firstQueuedAtMs": 1795510800000,
+   "playedAtMs": 1795510800000
+  },
+  {
+   "key": "https://physicsworld.com/?p=131734",
+   "firstQueuedAtMs": 1795510800000,
+   "playedAtMs": 1795510800000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4419292",
+   "firstQueuedAtMs": 1795510800000,
+   "playedAtMs": 1795510800000
+  },
+  {
+   "key": "https://www.inc.com/jessica-stillman/costco-nearly-sold-out-of-1-item-that-has-nothing-to-do-with-thanksgiving-it-points-to-a-worrying-trend/91441144",
+   "firstQueuedAtMs": 1795510800000,
+   "playedAtMs": 1795510800000
+  },
+  {
+   "key": "https://www.coryd.dev/posts/2026/im-not-excited-about-tech-anymore",
+   "firstQueuedAtMs": 1795510800000,
+   "playedAtMs": 1795510800000
+  },
+  {
+   "key": "https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups",
+   "firstQueuedAtMs": 1795510800000,
+   "playedAtMs": 1795510800000
+  },
+  {
+   "key": "https://spacenews.com/?p=628533",
+   "firstQueuedAtMs": 1795510800000,
+   "playedAtMs": 1795510800000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/the-simons-observatory-is-online-and-surveying-the-cosmic-microwave-background",
+   "firstQueuedAtMs": 1795510800000,
+   "playedAtMs": 1795510800000
+  },
+  {
+   "key": "changelog.com/1/2838",
+   "firstQueuedAtMs": 1795510800000,
+   "playedAtMs": 1795510800000
   }
  ]
 }
