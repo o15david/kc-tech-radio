@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T03:20:48.314Z",
- "lastSyncBucket": 997493,
- "lastSyncCarryInSeconds": 44,
+ "updatedAt": "2026-11-24T03:35:52.158Z",
+ "lastSyncBucket": 997494,
+ "lastSyncCarryInSeconds": 3,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -14274,6 +14274,196 @@
    "key": "https://www.marktechpost.com/?p=84047",
    "firstQueuedAtMs": 1795487400000,
    "playedAtMs": 1795487400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/police-chief-elect-indicted-child-sex-charges/",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/24/city-willard-mo-votes-bolster-recycling-center/",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "https://thehill.com/?p=6238980",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "108557945",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "https://hackaday.com/?p=1429872",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311795",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "108557052",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163231",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163225",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "74514374",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "74514319",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "74499223",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261121221126.htm",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261121221128.htm",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/2020/4/7/21212402/kansas-city-chiefs-roster",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261121221130.htm",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261120075604.htm",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/24/thanksgiving-air-travel-record-expected",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261120075600.htm",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "https://brooker.co.za/blog/2026/11/16/understanding.html",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "http://blog.sigfpe.com/2026/11/derivative-flipping.html",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "https://www.thedeletedscenes.com/p/blight-and-entrepreneurship-in-manassas",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "ZVgScSunFX4dHQ2ibZMSKL",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "TOTSMQKGIFPK00",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "https://kottke.org/24/03/how-photos-were-transmitted-by-wire-in-the-1930s",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached-norwegian",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "08fb4e238d4eba4747871a78311b05e8f79a2286",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "https://missouriindependent.com/?post_type=republished&p=33835",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "https://www.technologyreview.com/?p=1149399",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "https://www.sciencenews.org/?p=3182078",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "nn_mal_congressman_jimmy_gomez261123",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "https://www.canarymedia.com/articles/solar/trump-epa-solar-for-all",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "gaD5s2mCA3Y8EeLGJv5ZSA",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
+   "firstQueuedAtMs": 1795489200000,
+   "playedAtMs": 1795489200000
   }
  ]
 }
