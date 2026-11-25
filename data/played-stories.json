@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T00:20:15.073Z",
- "lastSyncBucket": 997535,
- "lastSyncCarryInSeconds": 100,
+ "updatedAt": "2026-11-25T00:35:23.114Z",
+ "lastSyncBucket": 997536,
+ "lastSyncCarryInSeconds": 93,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -22269,6 +22269,246 @@
    "key": "https://dailygalaxy.com/?p=162880",
    "firstQueuedAtMs": 1795563000000,
    "playedAtMs": 1795563000000
+  },
+  {
+   "key": "https://www.engadget.com/2321253/haptic-navigation-helpful-apple-watch-feature-works-seamlessly-carplay/",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "74525195",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/your-side-expert-shares-tips-staying-alert-safe-during-holiday-shopping-season/",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4424126",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/missouri/kansas-city/soul-of-santa-brings-holiday-spirit-community-resources-to-kansas-city",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "news714753601",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "news714753062",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://www.inc.com/jason-aten/trump-took-credit-for-getting-jensen-huang-his-job-back-nvidias-ceo-just-said-thats-completely-untrue/91442624",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3191990",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3192124",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "news714735061",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "80ed5237-a6d9-4daa-9bc4-786d616f7916",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://insideclimatenews.org/?p=116664",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://www.sciencenews.org/?p=3182304",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://hackaday.com/?p=1430062",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "news714749109",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://www.inc.com/amaya-nichole/bojangles-charged-100-dollars-10-minute-seat/91442347",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386744",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "TOSCLAT9NJM200",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://lobste.rs/s/khb1yv",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163568",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/go-safari-seat-your-car/",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "55c4117b-b0cd-45f2-9153-355ab378c09a",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=162847",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2026%2F11%2F23%2Ftrump-nvidia-jensen-huang.html%3Futm_source=tldrnewsletter/1/010001a20d616441-d01e98b9-dde2-4ca6-bfba-5c99cf888008-000000/JnfMIY3gYoDoUy9vfYBxh4Brtxn-skV7idAIrjMdoGI=452",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Felectrek.co%2F2026%2F11%2F23%2Ftesla-fsd-v15-ai4-last-shot-compute-limit%2F%3Futm_source=tldrnewsletter/1/010001a20d616441-d01e98b9-dde2-4ca6-bfba-5c99cf888008-000000/7A9filivN2dfOlMJEPjcLIQz_tTQYcC5WeqtSdSR6ls=452",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffandf.co%2F4Azlet8/1/010001a20d616441-d01e98b9-dde2-4ca6-bfba-5c99cf888008-000000/xfsFpLTxA-Adzf2hyKyCwiy1g66p7J93svxT3RKHs-Y=452",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjan.miksovsky.com%2Fposts%2F2026%2F11-23-observing-users.html%3Futm_source=tldrnewsletter/1/010001a20d616441-d01e98b9-dde2-4ca6-bfba-5c99cf888008-000000/sE6DIsqegdCBTA8fBeOELjoQJH0B_2E3OgdICi9rvvE=452",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://thehustle.co/e3t/Ctc/UB+113/d2q-Vf04/MWYQ8CYRrmjW1bb6S04kTXR2VcSh175XM42GN1h3yqg2-ZW0W5BW0B06lZ3l-W7kW2KV79zX_rN5YKklDxf-HmW4qmrx96DxzZHW6yYrYt6cRHpYW5zxjhP4FH2Z4W8x5RTF3DyhsGN2lzkbqMddlMW4zc7Sr1PWTN6W8k9Gh272w_FnW7MBGDf6gpQk9W3DcRLw8r9RsdW65-D3P7bxKxSW4qp9LY1GQzHQW2fxqmP772DfTW9gL_Q_1MDgWYW7NjQC_1x-VzPW8-y40W8D_bDxVPXVhk1fWB45dnsjsW04",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://thehustle.co/e3t/Ctc/UB+113/d2q-Vf04/MWYQ8CYRrmjW1bb6S04kTXR2VcSh175XM42GN1h3yqT2-ZW0W6N1vHY6lZ3kQW7FkDRQ42HT43VZWtGl2vSzQpW1c2Kps4Wn-XjVxSS743b8xswW3y_51h3NdKnvW7jds0l5M01xVW3JZ9HV6hhsJlW8NDW2V7-TSybN9lrZHshZHQ7W5xgCk14_F87hW29V8zG5FsMYdW4tb-Qg2pFcbQN73r3r4w_YB7W49nqLw73bVgwW424VQp1XZvz5W3WLxB81Z6c1zW57MYRC326V-YW3hdkCt36Mn9rW3DjqvZ6cHXMtN2wR21GL9GNBW4GtXjN27h6tcN1h3gJz9ch0Pf6fG3pg04",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://thehustle.co/e3t/Ctc/UB+113/d2q-Vf04/MWYQ8CYRrmjW1bb6S04kTXR2VcSh175XM42GN1h3ys23qgz0W95jsWP6lZ3nMW2CHYXY3Svk87W55Sk8C2-9nWdW2jrZ1n27Y5TlW5j-ngg5PhvkRW82DxCZ6qyvN8W6TVxPH4JmJr_W1DWTXB13RJrFW4c7prz2jcPY3W35jnw_6p9lvBW7q574w7lJptlW7VLKMr5-vtJhW86VDdp8Cg15YW2WXmCp71B3tFW8qGS7R8ZBTnpW5b118c7zTh6ZW5zn6MF5vXG-lW37DzDN7L4Y4rW7NbjdQ2VlMXsVcNz_M94v_9HW6B3MgY4n_lWGW6CPMtg4747pwW2X02fw7_BnFcW7DkQhV3kwVRVW1V4_Gx8R6X1qW6gktlG5Y9nkhW6W1H4f7qq32BW8jxwsm8ls4G6W8jzq2617wC4tW7MjQQr3bfP9xN6Q2RXlCgQZHdTbfDK04",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "74525180",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://thehustle.co/e3t/Ctc/UB+113/d2q-Vf04/MWYQ8CYRrmjW1bb6S04kTXR2VcSh175XM42GN1h3yr82-ZW0W7lCdLW6lZ3nBN73gYpjS-FlHW53Vy-C2x4DHlN3xb0ZDP8qb1W8JvFXT3qsLx0N5zrpwjmKrdjW4SYt8Y5lyqfPV3cgh69gSng8N4V-xzNGXRpGW8tRh7h7--f5TW2VWWTw5yD1JwW2l8NWr2-b2x6W84GYbb7d96WcW8sZyC17GHz8fVT0qyD5pbmb8W2Sjydr7rP2gxN3MF1bTzqftpW4m_lcK687QBpN8nMZRSSLBGQW3BpBQN4tMKt0W5jdjTS7btm6rW8Rh0yN3_-kK8W2rTzpv3MVjX1W6cjZT74w_q8VW3qLcjs7gql7Pf3C7CdW04",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://thehustle.co/e3t/Ctc/UB+113/d2q-Vf04/MWYQ8CYRrmjW1bb6S04kTXR2VcSh175XM42GN1h3yqg2-ZW0W5BW0B06lZ3lMN8lkxg14xlhjW6t4NrJ2mxZk1W7GSvD34BrXSyW1lXpY87phy4-N4pW5kTTlN2nW43F4DS7K2kZJW191Jkc6VjCbBN8BKxmT_CgNpW1TB_fs219sbRN2q8762mpgKMW1P0J4X8KsJzWW2_Ftqv2_gmZ3W7hYNhj1W43BHW3H9L6d1kSGTsW4NxjNd64vvGNW3j5x0h2dRbvcW3RKP615lpF3vMr-DBpLSSygf1jCR6R04",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://thehustle.co/e3t/Ctc/UB+113/d2q-Vf04/MWYQ8CYRrmjW1bb6S04kTXR2VcSh175XM42GN1h3yr82-ZW0W7lCdLW6lZ3n0W270vPF6LDPsMW7zYw-G7YJRLmW8hYc5v85k7rXN6k-gQ_BqQ1nW3L0PMM96VmZLW63nsq84NhSGXW7X03MK2HGLFzW7XcjRp1dbqRWW5G3YJH27Wp1tW2Cg32Z2Z71FdW8YPJ5B4Mph63N4cPqF4Rg659W2N6z6P32HFWdW8p0BFy8VlywXW34QMV81rLv-hW65lNkG7LhlzPW5n-Xq_3tvDQcVNz8sg6BZGgKN2vHvHGwpWm9W4TVfPt8Yxv61W43mW016HqW4GW3xzfv_7v6yfmW2fLkGY2Yk_ZqN7FPLKqcPw_ff8QLS0n04",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "4ec5da1e-d32f-4e3a-93f4-7a3bbd44d018",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://thehustle.co/e3t/Ctc/UB+113/d2q-Vf04/MWYQ8CYRrmjW1bb6S04kTXR2VcSh175XM42GN1h3yr82-ZW0W7lCdLW6lZ3pGW6jCNsC23gQjQVRlC4t3DWtfcVQ3G9Y8cmxfLW97Z7lT5K_CH3W1D1xbj2fTCJPW4G6hxF6KQK4gW3PDfFx82zQdvW47BcCs8r503sV-J51y24XL5YW21GMtL1jklLwW4qzkW81mL7gjW1zpMMX78Fq61N6KcPzHQ65BmW4r280M6PgkGZW27G1dw4x7VYNW10FGdJ4Fvk8FW6l_8H37pMLNMW14kTM01q8W74W7zJzdp26bj-1W3Gy8bD1nCFckW1-_0Ry475hHFVRbwl-4vklCGW414f4_6KrfYVW6W7_KQ2Xx1vKf5L0lSP04",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/law-enforcement-community-missouri-officials-express-condolences-after-officers-death/",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311834",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/go-safari-seat-your-car/",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://link.mail.beehiiv.com/ss/c/u001.dSnm3kaGd0BkNqLYPjeMf_DKThdpaPaB9_aROy42m3-QkrpXFAupeHADtSyezHztzSRqfdI5KA69nA7xk0zTSXEmevCz9Jn_3XGqFo9_wa9heqdjYA7koSefo0645oHtZUTxAXvsPPxgCxH7dLfyFOkQ52_JkY-TJ8BHBUu5UuivmejpWIQkalMhvyYggt-nlWIotda3tMYqXDnuu76s1RJadbVX3Jjj9OT2a28haUI/4w0/jpT8XSNiSlOMg7KqsQcQfA/h29/h001.TOvD1UBFAQ8BA8QjU0i5UkQB8rUHo4agB1JNdY9-JyA",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://link.mail.beehiiv.com/ss/c/u001.dSnm3kaGd0BkNqLYPjeMf0gyeM8tESkQ4qmvKtcxeZ9Sf8FWzyiEWE10HHsJrV5cblVac8sPVuUw3gneLIw3rtqW6_4IEyEyGCvBdTH6tfKtx4hRcRZzrew8RfHWk9lJYhE7qhWf23ISlzVNOGbSJtG31hLnP1_c7cp9hBWBpFBIp7ySfytu7yj9XvGTESCc0oLYX7Nq5iSr1cr3Wpi_7Mcjbr_ba608pKDvKKA0y5I/4w0/jpT8XSNiSlOMg7KqsQcQfA/h34/h001.Da46Wk17xZQm6JVT48qjJUgqt1S5OlSJyvts3lbteAM",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://link.mail.beehiiv.com/ss/c/u001.Q334NVcZU4O6L6VKRz8ijB1TBWraWSjSa1EgItxTfJGLIvJAG36TdoN_RcL5Qcb4l-TTKJ7kJ40VnFns1HNbTrS7dbLgPHI8dLrwXl8iOfb2ljYNEeE0q2TWET6YxEhgc6wA30v1AH50GDP_JrWdpcuntsd2BWuD4FzTgD1P0iuHUQEf-jcjA4ryVeBSOO_qPce-K-_cfTLl5QQGVyX5FLd9_ja1CH1oBuD1ov4P1-s/4w0/jpT8XSNiSlOMg7KqsQcQfA/h40/h001.5zfAEoLsvHaMLy-kMnCavXYtqM7HMv2saMwW8d_Q7cs",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://link.mail.beehiiv.com/ss/c/u001.KT4rQsO6sHS_v2VASG2xupywTByilB7vBf1gbeXMnd8Hof3Ca4zliYIk5t4pKnVtdKtfjcRsdlABoWM1f2xRqbFtEoijeNFSOo3EBbFrZB1XKqphW1kM9RnumyVI2_CuOmz8zLiYB5dWao-VuirZlms-6Wdbl7cE3LjWXCKHxYUsLn0xkJ6o8gXjg8J5XuTgG5MIqDfldd-pXhLS5fNGDXSWKqHzmrfxvxcg9bUezMSbbiajn8jYe6ey7ZZFbn5kYJZB-bj5MRMSHd1V2e4L7OafNVm_zCEC8AxV7HowxKW4IGdpoEhztJ6czMkGQZAok92XzN37OIVACtMQaeENL3prlexD062w0mZBiLNB_nUABqU90pu2eGmDV0rfddVQ5Rz1v1e4IOT49ChTOTopEFlWqFn-wocDCxsBZ8lcPS9PoXhEPZIxGOvtQ7R1t3EhfaGQ-o4UT-y0o5JOBE9EfYeQLFoRceTuEnUrJZGsf1TCpL9w1TaQNmcEObi72UZUeQDOwg2sDpJubzIFk8MJKw81Ah7sayYtl1lG93c6nQ6yfbj3Mh7EFCzAyLjQKCACkAWDeP66rXhEIxjtltRrRSr1Gmw8FcU3s2WGWtiw7m2Inpw5TCC1OpAZq1IeluH_0Xeh0m5Ue8FDbQM1rW4mGt7algF1Cboq6yt2vXXTICkrEagf0CFT6Ah1C86dj94DdEDqLW9u1eQa5Dsw2gM7CbAj5QL2Zc0tknmG2GhilhRPpxuSv3JsRT94hvmSfMCCvuMLYQka8iF9cKLwiQUI10MnVUgYyQ6Ia-P6-bOuoCky7YUQ1kAf5B5WuBcs6h7UDTc0QgzpaQYxVbYppzTsE1fWt5f48CU-QYTVeJJtYCnnNiy1BB23hxkCTgT_4MMckM-f3hQ-6DR_U9zKTNLPQd4VkxQCqobH8HTF1C0QU07d8Cd8mDS95J-naPsbFz7N-GOCVS7jslkYr0sV2vkSH2ecsI3H2sl0RJCuLjVBOQoHiv6htZiVknTuqN1seAHvJXy8jz0y5N2LCY-fcPZiKg/4w0/jpT8XSNiSlOMg7KqsQcQfA/h46/h001.3Leg4hnyBF1GL_T2Bd5IR9YUkM-A_FFxKeglcMX2f80",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311825",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://openai.com/index/searching-for-distant-planets-with-astra",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
+  },
+  {
+   "key": "https://208.96.63.114/?p=3652",
+   "firstQueuedAtMs": 1795564800000,
+   "playedAtMs": 1795564800000
   }
  ]
 }
