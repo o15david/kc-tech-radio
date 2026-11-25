@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T14:50:11.036Z",
- "lastSyncBucket": 997564,
- "lastSyncCarryInSeconds": 109,
+ "updatedAt": "2026-11-25T15:05:15.649Z",
+ "lastSyncBucket": 997565,
+ "lastSyncCarryInSeconds": 29,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -27489,6 +27489,161 @@
    "key": "https://www.fastcompany.com/91647961/why-isnt-ai-changing-career-advice",
    "firstQueuedAtMs": 1795615200000,
    "playedAtMs": 1795615200000
+  },
+  {
+   "key": "https://bridgemi.com/?p=84305",
+   "firstQueuedAtMs": 1795617000000,
+   "playedAtMs": 1795617000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/missouri-highway-patrol-shares-winter-driving-safety-reminders/",
+   "firstQueuedAtMs": 1795617000000,
+   "playedAtMs": 1795617000000
+  },
+  {
+   "key": "https://thehill.com/?p=6238570",
+   "firstQueuedAtMs": 1795617000000,
+   "playedAtMs": 1795617000000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1023735",
+   "firstQueuedAtMs": 1795617000000,
+   "playedAtMs": 1795617000000
+  },
+  {
+   "key": "https://www.sciencenews.org/?p=3182033",
+   "firstQueuedAtMs": 1795617000000,
+   "playedAtMs": 1795617000000
+  },
+  {
+   "key": "anBpxzrftKQRynk8jqpfue",
+   "firstQueuedAtMs": 1795617000000,
+   "playedAtMs": 1795617000000
+  },
+  {
+   "key": "874bd952-ab29-4e74-8fc5-906f520b1b2d",
+   "firstQueuedAtMs": 1795617000000,
+   "playedAtMs": 1795617000000
+  },
+  {
+   "key": "https://nautil.us/?p=1287012",
+   "firstQueuedAtMs": 1795617000000,
+   "playedAtMs": 1795617000000
+  },
+  {
+   "key": "https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide",
+   "firstQueuedAtMs": 1795617000000,
+   "playedAtMs": 1795617000000
+  },
+  {
+   "key": "news714811423",
+   "firstQueuedAtMs": 1795617000000,
+   "playedAtMs": 1795617000000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163832",
+   "firstQueuedAtMs": 1795617000000,
+   "playedAtMs": 1795617000000
+  },
+  {
+   "key": "https://thehill.com/?p=6242120",
+   "firstQueuedAtMs": 1795617000000,
+   "playedAtMs": 1795617000000
+  },
+  {
+   "key": "https://www.inc.com/moses-jeanfrancois/local-resident-took-on-google-3-billion-dollar-data-center-now-construction-frozen/91442075",
+   "firstQueuedAtMs": 1795617000000,
+   "playedAtMs": 1795617000000
+  },
+  {
+   "key": "https://www.infoq.com/news/2026/11/doordash-dispatch-redesign/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795617000000,
+   "playedAtMs": 1795617000000
+  },
+  {
+   "key": "https://electrek.co/?p=496005",
+   "firstQueuedAtMs": 1795617000000,
+   "playedAtMs": 1795617000000
+  },
+  {
+   "key": "news714821342",
+   "firstQueuedAtMs": 1795617000000,
+   "playedAtMs": 1795617000000
+  },
+  {
+   "key": "https://lobste.rs/s/tf9ldm",
+   "firstQueuedAtMs": 1795617000000,
+   "playedAtMs": 1795617000000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315752",
+   "firstQueuedAtMs": 1795617000000,
+   "playedAtMs": 1795617000000
+  },
+  {
+   "key": "https://www.fastcompany.com/91648932/6-tips-use-thanksgiving-when-family-asks-about-your-career",
+   "firstQueuedAtMs": 1795617000000,
+   "playedAtMs": 1795617000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/crowe-scores-27-his-33-points-2nd-half-lead-missouri-over-evansville/",
+   "firstQueuedAtMs": 1795617000000,
+   "playedAtMs": 1795617000000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/217547/how-to-watch-chiefs-cardinals-week-11-tv-channel-start-time-and-more",
+   "firstQueuedAtMs": 1795617000000,
+   "playedAtMs": 1795617000000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163101",
+   "firstQueuedAtMs": 1795617000000,
+   "playedAtMs": 1795617000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html",
+   "firstQueuedAtMs": 1795617000000,
+   "playedAtMs": 1795617000000
+  },
+  {
+   "key": "74531350",
+   "firstQueuedAtMs": 1795617000000,
+   "playedAtMs": 1795617000000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3192253",
+   "firstQueuedAtMs": 1795617000000,
+   "playedAtMs": 1795617000000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163803",
+   "firstQueuedAtMs": 1795617000000,
+   "playedAtMs": 1795617000000
+  },
+  {
+   "key": "74531288",
+   "firstQueuedAtMs": 1795617000000,
+   "playedAtMs": 1795617000000
+  },
+  {
+   "key": "https://kansascitymag.com/?p=92113",
+   "firstQueuedAtMs": 1795617000000,
+   "playedAtMs": 1795617000000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163091",
+   "firstQueuedAtMs": 1795617000000,
+   "playedAtMs": 1795617000000
+  },
+  {
+   "key": "ce63bab1-e770-4dc2-bde0-8d0de0fe79a3",
+   "firstQueuedAtMs": 1795617000000,
+   "playedAtMs": 1795617000000
+  },
+  {
+   "key": "https://fortune.com/?p=4650554&showAdminBar=true",
+   "firstQueuedAtMs": 1795617000000,
+   "playedAtMs": 1795617000000
   }
  ]
 }
