@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T23:20:07.225Z",
- "lastSyncBucket": 997581,
- "lastSyncCarryInSeconds": 72,
+ "updatedAt": "2026-11-25T23:35:13.838Z",
+ "lastSyncBucket": 997582,
+ "lastSyncCarryInSeconds": 66,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -30659,6 +30659,131 @@
    "key": "changelog.com/1/2831",
    "firstQueuedAtMs": 1795645800000,
    "playedAtMs": 1795645800000
+  },
+  {
+   "key": "https://lobste.rs/s/mzffbj",
+   "firstQueuedAtMs": 1795647600000,
+   "playedAtMs": 1795647600000
+  },
+  {
+   "key": "74535539",
+   "firstQueuedAtMs": 1795647600000,
+   "playedAtMs": 1795647600000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/search-continues-dade-county-mo-man-with-alzheimers/",
+   "firstQueuedAtMs": 1795647600000,
+   "playedAtMs": 1795647600000
+  },
+  {
+   "key": "https://thehill.com/?p=6244109",
+   "firstQueuedAtMs": 1795647600000,
+   "playedAtMs": 1795647600000
+  },
+  {
+   "key": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
+   "firstQueuedAtMs": 1795647600000,
+   "playedAtMs": 1795647600000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386804",
+   "firstQueuedAtMs": 1795647600000,
+   "playedAtMs": 1795647600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/chiefs-owner-clark-hunt-expresses-sympathies-lions-after-death-martha-ford/",
+   "firstQueuedAtMs": 1795647600000,
+   "playedAtMs": 1795647600000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/euclids-record-setting-quasar-probes-black-hole-formation",
+   "firstQueuedAtMs": 1795647600000,
+   "playedAtMs": 1795647600000
+  },
+  {
+   "key": "https://modaic.dev/blog/latency-doesnt-lie",
+   "firstQueuedAtMs": 1795647600000,
+   "playedAtMs": 1795647600000
+  },
+  {
+   "key": "https://importai.substack.com/p/import-ai-470-no-rights-for-machines",
+   "firstQueuedAtMs": 1795647600000,
+   "playedAtMs": 1795647600000
+  },
+  {
+   "key": "https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens",
+   "firstQueuedAtMs": 1795647600000,
+   "playedAtMs": 1795647600000
+  },
+  {
+   "key": "https://thehill.com/?p=6244150",
+   "firstQueuedAtMs": 1795647600000,
+   "playedAtMs": 1795647600000
+  },
+  {
+   "key": "https://importai.substack.com/p/import-ai-469-science-ai-rsi-simulator",
+   "firstQueuedAtMs": 1795647600000,
+   "playedAtMs": 1795647600000
+  },
+  {
+   "key": "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
+   "firstQueuedAtMs": 1795647600000,
+   "playedAtMs": 1795647600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/former-general-counsel-missouri-dept-revenue-pleads-guilty-federal-sex-charges/",
+   "firstQueuedAtMs": 1795647600000,
+   "playedAtMs": 1795647600000
+  },
+  {
+   "key": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+   "firstQueuedAtMs": 1795647600000,
+   "playedAtMs": 1795647600000
+  },
+  {
+   "key": "https://thehill.com/?p=6244013",
+   "firstQueuedAtMs": 1795647600000,
+   "playedAtMs": 1795647600000
+  },
+  {
+   "key": "https://www.interconnects.ai/p/5-useful-things-youll-learn-in-my",
+   "firstQueuedAtMs": 1795647600000,
+   "playedAtMs": 1795647600000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/thanksgiving-fun-starts-early-32nd-annual-turkey-trot-springfield/",
+   "firstQueuedAtMs": 1795647600000,
+   "playedAtMs": 1795647600000
+  },
+  {
+   "key": "74535693",
+   "firstQueuedAtMs": 1795647600000,
+   "playedAtMs": 1795647600000
+  },
+  {
+   "key": "74535028",
+   "firstQueuedAtMs": 1795647600000,
+   "playedAtMs": 1795647600000
+  },
+  {
+   "key": "https://importai.substack.com/p/import-ai-468-23-rsi-ideas-posttrainbench",
+   "firstQueuedAtMs": 1795647600000,
+   "playedAtMs": 1795647600000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/missouri/kansas-city/reentry-program-for-seniors-expanding-into-kansas-city-missouri-during-holidays",
+   "firstQueuedAtMs": 1795647600000,
+   "playedAtMs": 1795647600000
+  },
+  {
+   "key": "e9038802-e568-48be-8b12-abb789043ad3",
+   "firstQueuedAtMs": 1795647600000,
+   "playedAtMs": 1795647600000
+  },
+  {
+   "key": "https://importai.substack.com/p/import-ai-467-self-sustaining-ai",
+   "firstQueuedAtMs": 1795647600000,
+   "playedAtMs": 1795647600000
   }
  ]
 }
