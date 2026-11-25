@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T08:50:09.649Z",
- "lastSyncBucket": 997552,
- "lastSyncCarryInSeconds": 30,
+ "updatedAt": "2026-11-25T09:05:10.554Z",
+ "lastSyncBucket": 997553,
+ "lastSyncCarryInSeconds": 32,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -25354,6 +25354,181 @@
    "key": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
    "firstQueuedAtMs": 1795593600000,
    "playedAtMs": 1795593600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/college-student-england-playing-soccer-us-killed-outside-popular-taco-restaurant/",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
+  },
+  {
+   "key": "https://ohiocapitaljournal.com/?post_type=republished&p=43267",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
+  },
+  {
+   "key": "e6b84aff-7660-448a-9636-d29fd24146c9",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/what-is-black-friday-rcna611184",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=229217",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75591",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
+  },
+  {
+   "key": "https://www.pymnts.com/?post_type=report&p=4365976",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
+  },
+  {
+   "key": "https://www.eetimes.com/?p=101804635",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
+  },
+  {
+   "key": "TP1UU6N3N09D00",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
+  },
+  {
+   "key": "TP1T9RR24U8000",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
+  },
+  {
+   "key": "https://www.eetimes.com/?p=101804594",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/best-black-friday-deals-11-24-2026-rcna610836",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312024",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
+  },
+  {
+   "key": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
+  },
+  {
+   "key": "https://news.cnrs.fr/articles/fertility-and-the-environment-a-tricky-equation",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
+  },
+  {
+   "key": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
+  },
+  {
+   "key": "6ac92d517ce9570001c9d80b",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
+  },
+  {
+   "key": "https://krebsonsecurity.com/?p=74435",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
+  },
+  {
+   "key": "https://abcnews.com/video/138401803/",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
+  },
+  {
+   "key": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
+  },
+  {
+   "key": "6acec3f2d4d23400011cc862",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
+  },
+  {
+   "key": "https://knowablemagazine.org/content/article/society/2026/can-science-save-meetings",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
+  },
+  {
+   "key": "https://krebsonsecurity.com/?p=74474",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1108113",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
+  },
+  {
+   "key": "https://abcnews.com/Politics/navy-black-pearl-harbor-heros-carrier-after-weighing/story?id=138382599",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
+  },
+  {
+   "key": "https://www.nsf.gov/news/podcast-hidden-dna-code-controls-your-genes",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
+  },
+  {
+   "key": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
+  },
+  {
+   "key": "https://news.cnrs.fr/articles/long-forgotten-womens-health",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
+  },
+  {
+   "key": "https://importai.substack.com/p/import-ai-476-creativity-and-rsi",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/23/iowa-lead-detonation-delayed-trump",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
+  },
+  {
+   "key": "https://www.lakescientist.com/new-waters-new-wave-buoys-safety-science-and-40-years-of-monitoring-green-bay/",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
+  },
+  {
+   "key": "https://www.lakescientist.com/?p=12839",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
+  },
+  {
+   "key": "https://knowablemagazine.org/content/article/health-disease/2026/rise-in-aging-doctors-spurs-questions-patient-safety",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
+  },
+  {
+   "key": "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
+  },
+  {
+   "key": "changelog.com/1/2834",
+   "firstQueuedAtMs": 1795595400000,
+   "playedAtMs": 1795595400000
   }
  ]
 }
