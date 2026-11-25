@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T08:20:11.667Z",
- "lastSyncBucket": 997551,
- "lastSyncCarryInSeconds": 24,
+ "updatedAt": "2026-11-25T08:35:18.818Z",
+ "lastSyncBucket": 997552,
+ "lastSyncCarryInSeconds": 30,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -25234,6 +25234,126 @@
    "key": "https://krebsonsecurity.com/?p=74480",
    "firstQueuedAtMs": 1795591800000,
    "playedAtMs": 1795591800000
+  },
+  {
+   "key": "https://fortune.com/?p=4649231&showAdminBar=true",
+   "firstQueuedAtMs": 1795593600000,
+   "playedAtMs": 1795593600000
+  },
+  {
+   "key": "https://www.minnpost.com/?p=2244024",
+   "firstQueuedAtMs": 1795593600000,
+   "playedAtMs": 1795593600000
+  },
+  {
+   "key": "https://abcnews.com/US/wireStory/pentagon-hires-conservative-contractors-audit-military-base-schools-138432116",
+   "firstQueuedAtMs": 1795593600000,
+   "playedAtMs": 1795593600000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez",
+   "firstQueuedAtMs": 1795593600000,
+   "playedAtMs": 1795593600000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75752",
+   "firstQueuedAtMs": 1795593600000,
+   "playedAtMs": 1795593600000
+  },
+  {
+   "key": "TNXBHHT9NJM400",
+   "firstQueuedAtMs": 1795593600000,
+   "playedAtMs": 1795593600000
+  },
+  {
+   "key": "TP1TPNR24U8100",
+   "firstQueuedAtMs": 1795593600000,
+   "playedAtMs": 1795593600000
+  },
+  {
+   "key": "https://fortune.com/?p=4650404&showAdminBar=true",
+   "firstQueuedAtMs": 1795593600000,
+   "playedAtMs": 1795593600000
+  },
+  {
+   "key": "https://abcnews.com/Politics/democratic-rep-jimmy-gomez-resign-house-ethics-report/story?id=138389265",
+   "firstQueuedAtMs": 1795593600000,
+   "playedAtMs": 1795593600000
+  },
+  {
+   "key": "https://semiengineering.com/?p=24284750",
+   "firstQueuedAtMs": 1795593600000,
+   "playedAtMs": 1795593600000
+  },
+  {
+   "key": "https://semiengineering.com/?p=24284651",
+   "firstQueuedAtMs": 1795593600000,
+   "playedAtMs": 1795593600000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/24/nvidias-one-man-board-how-trump-inherited-jensen-huangs-scandal",
+   "firstQueuedAtMs": 1795593600000,
+   "playedAtMs": 1795593600000
+  },
+  {
+   "key": "https://fortune.com/?p=4650331&showAdminBar=true",
+   "firstQueuedAtMs": 1795593600000,
+   "playedAtMs": 1795593600000
+  },
+  {
+   "key": "https://fortune.com/?p=4650473&showAdminBar=true",
+   "firstQueuedAtMs": 1795593600000,
+   "playedAtMs": 1795593600000
+  },
+  {
+   "key": "https://www.minnpost.com/?p=2244031",
+   "firstQueuedAtMs": 1795593600000,
+   "playedAtMs": 1795593600000
+  },
+  {
+   "key": "https://fortune.com/?p=4649938&showAdminBar=true",
+   "firstQueuedAtMs": 1795593600000,
+   "playedAtMs": 1795593600000
+  },
+  {
+   "key": "https://fortune.com/?p=4650541&showAdminBar=true",
+   "firstQueuedAtMs": 1795593600000,
+   "playedAtMs": 1795593600000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/24/nx-s1-5928337/threatt-filling-station-oklahoma-route-66",
+   "firstQueuedAtMs": 1795593600000,
+   "playedAtMs": 1795593600000
+  },
+  {
+   "key": "https://importai.substack.com/p/import-ai-477-in-which-i-tell-the",
+   "firstQueuedAtMs": 1795593600000,
+   "playedAtMs": 1795593600000
+  },
+  {
+   "key": "https://www.lakescientist.com/?p=12849",
+   "firstQueuedAtMs": 1795593600000,
+   "playedAtMs": 1795593600000
+  },
+  {
+   "key": "https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/",
+   "firstQueuedAtMs": 1795593600000,
+   "playedAtMs": 1795593600000
+  },
+  {
+   "key": "https://news.cnrs.fr/articles/cancer-resistance-yields-fundamental-secret",
+   "firstQueuedAtMs": 1795593600000,
+   "playedAtMs": 1795593600000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/24/nx-s1-6051583/nvidia-huang-dei-trump-women",
+   "firstQueuedAtMs": 1795593600000,
+   "playedAtMs": 1795593600000
+  },
+  {
+   "key": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+   "firstQueuedAtMs": 1795593600000,
+   "playedAtMs": 1795593600000
   }
  ]
 }
