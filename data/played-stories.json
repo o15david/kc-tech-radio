@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T15:50:11.114Z",
- "lastSyncBucket": 997566,
- "lastSyncCarryInSeconds": 109,
+ "updatedAt": "2026-11-25T16:28:33.340Z",
+ "lastSyncBucket": 997567,
+ "lastSyncCarryInSeconds": 95,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -27879,6 +27879,156 @@
    "key": "https://www.kshb.com/life/holidays-and-celebrations/how-windy-is-too-windy-for-macys-thanksgiving-parade-balloons",
    "firstQueuedAtMs": 1795618800000,
    "playedAtMs": 1795618800000
+  },
+  {
+   "key": "https://startlandnews.com/?p=723064",
+   "firstQueuedAtMs": 1795620600000,
+   "playedAtMs": 1795620600000
+  },
+  {
+   "key": "https://tf8z58tab.cc.rs6.net/tn.jsp?f=001eHq0SttMYQW-Lnsd0OSInagrBB2xEHILOjK2a69vlkT-M6OIq3t715kRXNDgP8jX70xQx8caeb3iCV0tF00nRIvg8JvZoSHMVqX1AAQQlcpHOempHt2O3guNcWsAafoIP1odCl4x1W26HGc8rgDyLMVIjqCZnrZjjHdSgURFSLRYO55O-kid5cBLxpz4LEL-ZyAxSG4x05h73mqEc3924EYLRsSxCTCE&c=9L5MIyAs7rFON6PyLa8DCUJM6tzp_W4aiuG1BHF2VUqOQ1xZqGkQhQ==&ch=wr9rUmpH8sOI5mvF1XfkfD6VqvFMNFS1dwNT7ZTXe-KOyD8msFOlng==",
+   "firstQueuedAtMs": 1795620600000,
+   "playedAtMs": 1795620600000
+  },
+  {
+   "key": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/",
+   "firstQueuedAtMs": 1795620600000,
+   "playedAtMs": 1795620600000
+  },
+  {
+   "key": "https://kansasreflector.com/?post_type=republished&p=64185",
+   "firstQueuedAtMs": 1795620600000,
+   "playedAtMs": 1795620600000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/217434/week-ap-nfl-power-rankings",
+   "firstQueuedAtMs": 1795620600000,
+   "playedAtMs": 1795620600000
+  },
+  {
+   "key": "https://www.fastcompany.com/91648944/10-person-board-voted-reinstate-nvidias-ceo-also-now-under-scrutiny",
+   "firstQueuedAtMs": 1795620600000,
+   "playedAtMs": 1795620600000
+  },
+  {
+   "key": "bKHbAXkLejjoMz44hBipGj",
+   "firstQueuedAtMs": 1795620600000,
+   "playedAtMs": 1795620600000
+  },
+  {
+   "key": "https://github.blog/?p=100468",
+   "firstQueuedAtMs": 1795620600000,
+   "playedAtMs": 1795620600000
+  },
+  {
+   "key": "https://nautil.us/?p=1287070",
+   "firstQueuedAtMs": 1795620600000,
+   "playedAtMs": 1795620600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/leawood-snow-crews-prepare-clear-roads-winter-approaches/",
+   "firstQueuedAtMs": 1795620600000,
+   "playedAtMs": 1795620600000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=230244",
+   "firstQueuedAtMs": 1795620600000,
+   "playedAtMs": 1795620600000
+  },
+  {
+   "key": "https://news.mit.edu/2026/draining-peatlands-leaves-long-warming-legacy-1125",
+   "firstQueuedAtMs": 1795620600000,
+   "playedAtMs": 1795620600000
+  },
+  {
+   "key": "https://www.githubstatus.com/incidents/qn8mfv6q5hlx",
+   "firstQueuedAtMs": 1795620600000,
+   "playedAtMs": 1795620600000
+  },
+  {
+   "key": "https://fortune.com/?p=4650970&showAdminBar=true",
+   "firstQueuedAtMs": 1795620600000,
+   "playedAtMs": 1795620600000
+  },
+  {
+   "key": "https://www.minnpost.com/?p=2243971",
+   "firstQueuedAtMs": 1795620600000,
+   "playedAtMs": 1795620600000
+  },
+  {
+   "key": "https://fortune.com/?p=4650969&showAdminBar=true",
+   "firstQueuedAtMs": 1795620600000,
+   "playedAtMs": 1795620600000
+  },
+  {
+   "key": "https://kansascitymag.com/?p=76019",
+   "firstQueuedAtMs": 1795620600000,
+   "playedAtMs": 1795620600000
+  },
+  {
+   "key": "https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments",
+   "firstQueuedAtMs": 1795620600000,
+   "playedAtMs": 1795620600000
+  },
+  {
+   "key": "https://electrek.co/?p=496018",
+   "firstQueuedAtMs": 1795620600000,
+   "playedAtMs": 1795620600000
+  },
+  {
+   "key": "https://electrek.co/?p=496003",
+   "firstQueuedAtMs": 1795620600000,
+   "playedAtMs": 1795620600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/technology/anthropic-stock-tech-start-ups.html",
+   "firstQueuedAtMs": 1795620600000,
+   "playedAtMs": 1795620600000
+  },
+  {
+   "key": "WP-MKTW-0005369228",
+   "firstQueuedAtMs": 1795620600000,
+   "playedAtMs": 1795620600000
+  },
+  {
+   "key": "https://techcrunch.com/?post_type=tc_podcast&p=3192333",
+   "firstQueuedAtMs": 1795620600000,
+   "playedAtMs": 1795620600000
+  },
+  {
+   "key": "https://www.inc.com/michael-tasner/small-business-saturday-2026-spending-drop-how-owners-win-now/91442567",
+   "firstQueuedAtMs": 1795620600000,
+   "playedAtMs": 1795620600000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4425904",
+   "firstQueuedAtMs": 1795620600000,
+   "playedAtMs": 1795620600000
+  },
+  {
+   "key": "news714816865",
+   "firstQueuedAtMs": 1795620600000,
+   "playedAtMs": 1795620600000
+  },
+  {
+   "key": "TP2E0GT3BZMF00",
+   "firstQueuedAtMs": 1795620600000,
+   "playedAtMs": 1795620600000
+  },
+  {
+   "key": "news714822961",
+   "firstQueuedAtMs": 1795620600000,
+   "playedAtMs": 1795620600000
+  },
+  {
+   "key": "TP2DYOR24U8400",
+   "firstQueuedAtMs": 1795620600000,
+   "playedAtMs": 1795620600000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75793",
+   "firstQueuedAtMs": 1795620600000,
+   "playedAtMs": 1795620600000
   }
  ]
 }
