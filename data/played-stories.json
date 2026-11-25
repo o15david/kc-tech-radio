@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T01:20:05.629Z",
- "lastSyncBucket": 997537,
- "lastSyncCarryInSeconds": 2,
+ "updatedAt": "2026-11-25T01:35:09.664Z",
+ "lastSyncBucket": 997538,
+ "lastSyncCarryInSeconds": 91,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -22829,6 +22829,216 @@
    "key": "74525435",
    "firstQueuedAtMs": 1795566600000,
    "playedAtMs": 1795566600000
+  },
+  {
+   "key": "news714754201",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/charles-kent-sunderland-named-2026-kansas-citians-year/",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "https://missouriindependent.com/?post_type=republished&p=33863",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "aed83beb-787a-4b00-85a0-d86b2d595c59",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4424181",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "news714749090",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "https://literaryreview.co.uk/here-in-the-world",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "https://lobste.rs/s/qavfgc",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-ceo-return-silicon-valley.html",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "https://grist.org/?p=761256",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "tag:daringfireball.net,2026:/linked//6.43753",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/mizzous-win-over-kentucky-vaults-tigers-back-into-cfp-top-25/",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "https://physicsworld.com/?p=131617",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "https://news.mit.edu/2026/founders-academy-designing-next-chapter-professional-athletes-1118",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "https://physicsworld.com/?p=131521",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "0373e6ca-6b09-4e2c-a4b6-d00f7c9ebc78",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "74524890",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "https://physicsworld.com/?p=131515",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "74525520",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "74525417",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "https://openai.com/business/customer-stories/sumitomo-life",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "https://openai.com/index/research-acceleration-jagged-frontier",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "https://openai.com/index/inside-the-codex-sandbox",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "https://openai.com/index/managing-frontier-ai-risk",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4454624",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "6afd00b2ee552b0001c3a34a",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "https://krebsonsecurity.com/?p=74672",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/missouri/kansas-city/from-a-high-school-field-to-a-world-first-how-the-kc-current-built-a-soccer-home-in-kansas-city",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/school-principal-accused-grooming-enticing-minor-authorities-say/",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "https://thehill.com/?p=6241645",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "https://www.sci.news/?p=112780",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "https://www.sci.news/?p=112776",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "https://openai.com/index/advancing-chip-design-with-our-models",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "https://www.sci.news/?p=112770",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "https://news.mit.edu/2026/putting-spotlight-ai-society-humanity-1117",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "01M7NJA4ESQ31MDVBT2RBP1ZHX",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "bf283f89-6e46-4657-8180-381eaddd2764",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "74524600",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
+  },
+  {
+   "key": "https://retractionwatch.com/?p=136616",
+   "firstQueuedAtMs": 1795568400000,
+   "playedAtMs": 1795568400000
   }
  ]
 }
