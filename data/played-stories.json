@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T20:50:24.464Z",
- "lastSyncBucket": 997576,
- "lastSyncCarryInSeconds": 14,
+ "updatedAt": "2026-11-25T21:05:15.963Z",
+ "lastSyncBucket": 997577,
+ "lastSyncCarryInSeconds": 104,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -29634,6 +29634,161 @@
    "key": "https://www.arrowheadpride.com/?p=217427",
    "firstQueuedAtMs": 1795636800000,
    "playedAtMs": 1795636800000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/kansas-city-royals-reach-2-year-20m-agreement-with-free-agent-alec-bohm-ap-source-says/",
+   "firstQueuedAtMs": 1795638600000,
+   "playedAtMs": 1795638600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/opinion/politics-family-midterms-voting-holidays.html",
+   "firstQueuedAtMs": 1795638600000,
+   "playedAtMs": 1795638600000
+  },
+  {
+   "key": "https://nautil.us/?p=1287118",
+   "firstQueuedAtMs": 1795638600000,
+   "playedAtMs": 1795638600000
+  },
+  {
+   "key": "74535015",
+   "firstQueuedAtMs": 1795638600000,
+   "playedAtMs": 1795638600000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=229761",
+   "firstQueuedAtMs": 1795638600000,
+   "playedAtMs": 1795638600000
+  },
+  {
+   "key": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/",
+   "firstQueuedAtMs": 1795638600000,
+   "playedAtMs": 1795638600000
+  },
+  {
+   "key": "https://www.kshb.com/life/holidays-and-celebrations/delays-and-weather-set-to-slow-down-thanksgiving-travel",
+   "firstQueuedAtMs": 1795638600000,
+   "playedAtMs": 1795638600000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43322",
+   "firstQueuedAtMs": 1795638600000,
+   "playedAtMs": 1795638600000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163942",
+   "firstQueuedAtMs": 1795638600000,
+   "playedAtMs": 1795638600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html",
+   "firstQueuedAtMs": 1795638600000,
+   "playedAtMs": 1795638600000
+  },
+  {
+   "key": "https://lobste.rs/s/pceggz",
+   "firstQueuedAtMs": 1795638600000,
+   "playedAtMs": 1795638600000
+  },
+  {
+   "key": "TP2S89KIUPS900",
+   "firstQueuedAtMs": 1795638600000,
+   "playedAtMs": 1795638600000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4427011",
+   "firstQueuedAtMs": 1795638600000,
+   "playedAtMs": 1795638600000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1552849",
+   "firstQueuedAtMs": 1795638600000,
+   "playedAtMs": 1795638600000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4427035",
+   "firstQueuedAtMs": 1795638600000,
+   "playedAtMs": 1795638600000
+  },
+  {
+   "key": "https://www.eetimes.com/?p=101797298",
+   "firstQueuedAtMs": 1795638600000,
+   "playedAtMs": 1795638600000
+  },
+  {
+   "key": "https://www.inc.com/victoria-salves/coffee-shop-owner-refused-service-infuencer-then-had-3-busiest-days-ever/91442560",
+   "firstQueuedAtMs": 1795638600000,
+   "playedAtMs": 1795638600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/missouri-family-perfect-harmony-two-siblings-get-perfect-act-scores/",
+   "firstQueuedAtMs": 1795638600000,
+   "playedAtMs": 1795638600000
+  },
+  {
+   "key": "https://thehill.com/?p=6243542",
+   "firstQueuedAtMs": 1795638600000,
+   "playedAtMs": 1795638600000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1042532",
+   "firstQueuedAtMs": 1795638600000,
+   "playedAtMs": 1795638600000
+  },
+  {
+   "key": "https://www.fastcompany.com/91648582/screen-time-got-your-brain-fried-try-a-brain-stack",
+   "firstQueuedAtMs": 1795638600000,
+   "playedAtMs": 1795638600000
+  },
+  {
+   "key": "https://fortune.com/?p=4651227&showAdminBar=true",
+   "firstQueuedAtMs": 1795638600000,
+   "playedAtMs": 1795638600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/us/politics/lukoil-deal.html",
+   "firstQueuedAtMs": 1795638600000,
+   "playedAtMs": 1795638600000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163937",
+   "firstQueuedAtMs": 1795638600000,
+   "playedAtMs": 1795638600000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163931",
+   "firstQueuedAtMs": 1795638600000,
+   "playedAtMs": 1795638600000
+  },
+  {
+   "key": "74534557",
+   "firstQueuedAtMs": 1795638600000,
+   "playedAtMs": 1795638600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/holiday-themed-kc-streetcar-celebrates-crown-center-union-station/",
+   "firstQueuedAtMs": 1795638600000,
+   "playedAtMs": 1795638600000
+  },
+  {
+   "key": "https://retractionwatch.com/?p=136699",
+   "firstQueuedAtMs": 1795638600000,
+   "playedAtMs": 1795638600000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/nation/macys-thanksgiving-day-parade-to-celebrate-a-milestone-with-blue-hippo-bluey-and-megan-moroney",
+   "firstQueuedAtMs": 1795638600000,
+   "playedAtMs": 1795638600000
+  },
+  {
+   "key": "https://fortune.com/?p=4650934&showAdminBar=true",
+   "firstQueuedAtMs": 1795638600000,
+   "playedAtMs": 1795638600000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/under-the-microscope-examining-the-role-of-ai-in-scientific-discovery",
+   "firstQueuedAtMs": 1795638600000,
+   "playedAtMs": 1795638600000
   }
  ]
 }
