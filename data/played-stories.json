@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T05:50:05.052Z",
- "lastSyncBucket": 997546,
- "lastSyncCarryInSeconds": 2,
+ "updatedAt": "2026-11-25T06:05:12.652Z",
+ "lastSyncBucket": 997547,
+ "lastSyncCarryInSeconds": 17,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -24424,6 +24424,151 @@
    "key": "01M6SMASVYY5EVPJPHFF7WNPFG",
    "firstQueuedAtMs": 1795582800000,
    "playedAtMs": 1795582800000
+  },
+  {
+   "key": "https://northdakotamonitor.com/?p=23728",
+   "firstQueuedAtMs": 1795584600000,
+   "playedAtMs": 1795584600000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/deals-drama-drive-traces-how-the-mondavi-family-helped-spark-napa-valleys-wine-boom",
+   "firstQueuedAtMs": 1795584600000,
+   "playedAtMs": 1795584600000
+  },
+  {
+   "key": "67100c9a82459143cee93f27",
+   "firstQueuedAtMs": 1795584600000,
+   "playedAtMs": 1795584600000
+  },
+  {
+   "key": "67463b86d8f07d6a30d2b661",
+   "firstQueuedAtMs": 1795584600000,
+   "playedAtMs": 1795584600000
+  },
+  {
+   "key": "6a01ef5ee68772550ebc7017",
+   "firstQueuedAtMs": 1795584600000,
+   "playedAtMs": 1795584600000
+  },
+  {
+   "key": "674f69a3d91167082bf1b530",
+   "firstQueuedAtMs": 1795584600000,
+   "playedAtMs": 1795584600000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=230131",
+   "firstQueuedAtMs": 1795584600000,
+   "playedAtMs": 1795584600000
+  },
+  {
+   "key": "https://www.marktechpost.com/?p=84086",
+   "firstQueuedAtMs": 1795584600000,
+   "playedAtMs": 1795584600000
+  },
+  {
+   "key": "TP1LCDR24U8W00",
+   "firstQueuedAtMs": 1795584600000,
+   "playedAtMs": 1795584600000
+  },
+  {
+   "key": "https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/",
+   "firstQueuedAtMs": 1795584600000,
+   "playedAtMs": 1795584600000
+  },
+  {
+   "key": "https://fortune.com/?p=4648550&showAdminBar=true",
+   "firstQueuedAtMs": 1795584600000,
+   "playedAtMs": 1795584600000
+  },
+  {
+   "key": "https://thehill.com/?p=6241448",
+   "firstQueuedAtMs": 1795584600000,
+   "playedAtMs": 1795584600000
+  },
+  {
+   "key": "https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/",
+   "firstQueuedAtMs": 1795584600000,
+   "playedAtMs": 1795584600000
+  },
+  {
+   "key": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+   "firstQueuedAtMs": 1795584600000,
+   "playedAtMs": 1795584600000
+  },
+  {
+   "key": "https://boyesm.ca/vtech",
+   "firstQueuedAtMs": 1795584600000,
+   "playedAtMs": 1795584600000
+  },
+  {
+   "key": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+   "firstQueuedAtMs": 1795584600000,
+   "playedAtMs": 1795584600000
+  },
+  {
+   "key": "https://www.snexplores.org/?p=245834",
+   "firstQueuedAtMs": 1795584600000,
+   "playedAtMs": 1795584600000
+  },
+  {
+   "key": "https://www.snexplores.org/?p=245756",
+   "firstQueuedAtMs": 1795584600000,
+   "playedAtMs": 1795584600000
+  },
+  {
+   "key": "https://www.nbcnews.com/health/health-news/measles-death-wisconsin-outbreak-vaccines-cdc-us-rcna611176",
+   "firstQueuedAtMs": 1795584600000,
+   "playedAtMs": 1795584600000
+  },
+  {
+   "key": "https://capitolnewsillinois.com/?p=135089",
+   "firstQueuedAtMs": 1795584600000,
+   "playedAtMs": 1795584600000
+  },
+  {
+   "key": "https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/",
+   "firstQueuedAtMs": 1795584600000,
+   "playedAtMs": 1795584600000
+  },
+  {
+   "key": "https://github.blog/?p=100047",
+   "firstQueuedAtMs": 1795584600000,
+   "playedAtMs": 1795584600000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1108257",
+   "firstQueuedAtMs": 1795584600000,
+   "playedAtMs": 1795584600000
+  },
+  {
+   "key": "https://thehill.com/?p=6241364",
+   "firstQueuedAtMs": 1795584600000,
+   "playedAtMs": 1795584600000
+  },
+  {
+   "key": "https://www.societyforscience.org/?p=68411",
+   "firstQueuedAtMs": 1795584600000,
+   "playedAtMs": 1795584600000
+  },
+  {
+   "key": "https://news.cnrs.fr/articles/war-and-peace",
+   "firstQueuedAtMs": 1795584600000,
+   "playedAtMs": 1795584600000
+  },
+  {
+   "key": "01M6PDR60R01B25PZF6REB72W3",
+   "firstQueuedAtMs": 1795584600000,
+   "playedAtMs": 1795584600000
+  },
+  {
+   "key": "https://www.snexplores.org/?p=245744",
+   "firstQueuedAtMs": 1795584600000,
+   "playedAtMs": 1795584600000
+  },
+  {
+   "key": "6aecf6db72f2d40001289c29",
+   "firstQueuedAtMs": 1795584600000,
+   "playedAtMs": 1795584600000
   }
  ]
 }
