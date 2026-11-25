@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T04:20:15.183Z",
- "lastSyncBucket": 997543,
- "lastSyncCarryInSeconds": 54,
+ "updatedAt": "2026-11-25T04:35:22.427Z",
+ "lastSyncBucket": 997544,
+ "lastSyncCarryInSeconds": 124,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -23884,6 +23884,171 @@
    "key": "https://johnsoncountypost.com/?p=302488",
    "firstQueuedAtMs": 1795577400000,
    "playedAtMs": 1795577400000
+  },
+  {
+   "key": "74526456",
+   "firstQueuedAtMs": 1795579200000,
+   "playedAtMs": 1795579200000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/troopers-urge-caution-after-buggy-crashes-webster-county-mo/",
+   "firstQueuedAtMs": 1795579200000,
+   "playedAtMs": 1795579200000
+  },
+  {
+   "key": "530e06dc-24a8-4538-9298-92f9f28bf88c",
+   "firstQueuedAtMs": 1795579200000,
+   "playedAtMs": 1795579200000
+  },
+  {
+   "key": "https://lobste.rs/s/zc12ap",
+   "firstQueuedAtMs": 1795579200000,
+   "playedAtMs": 1795579200000
+  },
+  {
+   "key": "https://lobste.rs/s/ohh8pd",
+   "firstQueuedAtMs": 1795579200000,
+   "playedAtMs": 1795579200000
+  },
+  {
+   "key": "108558991",
+   "firstQueuedAtMs": 1795579200000,
+   "playedAtMs": 1795579200000
+  },
+  {
+   "key": "74524632",
+   "firstQueuedAtMs": 1795579200000,
+   "playedAtMs": 1795579200000
+  },
+  {
+   "key": "https://www.techdirt.com/?p=552272&preview=true&preview_id=552272",
+   "firstQueuedAtMs": 1795579200000,
+   "playedAtMs": 1795579200000
+  },
+  {
+   "key": "https://www.kshb.com/entertainment/tv/believe-it-ted-lasso-is-officially-coming-back-for-season-five",
+   "firstQueuedAtMs": 1795579200000,
+   "playedAtMs": 1795579200000
+  },
+  {
+   "key": "news714736256",
+   "firstQueuedAtMs": 1795579200000,
+   "playedAtMs": 1795579200000
+  },
+  {
+   "key": "https://vcarl.com/sashay/",
+   "firstQueuedAtMs": 1795579200000,
+   "playedAtMs": 1795579200000
+  },
+  {
+   "key": "https://citrons.xyz/journal/2025-07-23",
+   "firstQueuedAtMs": 1795579200000,
+   "playedAtMs": 1795579200000
+  },
+  {
+   "key": "https://www.schneier.com/?p=72930",
+   "firstQueuedAtMs": 1795579200000,
+   "playedAtMs": 1795579200000
+  },
+  {
+   "key": "https://www.nbcnews.com/business/business-news/jensen-huang-says-s-thankful-second-chance-nvidia-employee-meeting-rcna611235",
+   "firstQueuedAtMs": 1795579200000,
+   "playedAtMs": 1795579200000
+  },
+  {
+   "key": "01M7B8MAKWAA44XACM7ZT7P4NN",
+   "firstQueuedAtMs": 1795579200000,
+   "playedAtMs": 1795579200000
+  },
+  {
+   "key": "https://www.canarymedia.com/articles/politics/california-gov-elect-becerra-climate",
+   "firstQueuedAtMs": 1795579200000,
+   "playedAtMs": 1795579200000
+  },
+  {
+   "key": "01M7B3YSRJB0B2GD4ZN00Q227F",
+   "firstQueuedAtMs": 1795579200000,
+   "playedAtMs": 1795579200000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=302486",
+   "firstQueuedAtMs": 1795579200000,
+   "playedAtMs": 1795579200000
+  },
+  {
+   "key": "https://spaceflightnow.com/?p=74924",
+   "firstQueuedAtMs": 1795579200000,
+   "playedAtMs": 1795579200000
+  },
+  {
+   "key": "https://abcnews.com/GMA/Culture/dancing-with-the-stars-season-35-champion/story?id=138388712",
+   "firstQueuedAtMs": 1795579200000,
+   "playedAtMs": 1795579200000
+  },
+  {
+   "key": "https://stratechery.com/?p=21174",
+   "firstQueuedAtMs": 1795579200000,
+   "playedAtMs": 1795579200000
+  },
+  {
+   "key": "https://thehill.com/?p=6241772",
+   "firstQueuedAtMs": 1795579200000,
+   "playedAtMs": 1795579200000
+  },
+  {
+   "key": "https://spacenews.com/?p=627510",
+   "firstQueuedAtMs": 1795579200000,
+   "playedAtMs": 1795579200000
+  },
+  {
+   "key": "https://news.cnrs.fr/articles/turning-waste-into-wealth",
+   "firstQueuedAtMs": 1795579200000,
+   "playedAtMs": 1795579200000
+  },
+  {
+   "key": "https://restofworld.org/2026/jensen-huang-nvidia-exit-china-ai-chip-impact/",
+   "firstQueuedAtMs": 1795579200000,
+   "playedAtMs": 1795579200000
+  },
+  {
+   "key": "https://www.canarymedia.com/articles/electrification/electrify-everything-cop31-climate-conference",
+   "firstQueuedAtMs": 1795579200000,
+   "playedAtMs": 1795579200000
+  },
+  {
+   "key": "https://news.climate.columbia.edu/?p=129099",
+   "firstQueuedAtMs": 1795579200000,
+   "playedAtMs": 1795579200000
+  },
+  {
+   "key": "https://www.kshb.com/entertainment/movies/marvel-is-taking-no-chances-with-avengers-doomsday-spoilers",
+   "firstQueuedAtMs": 1795579200000,
+   "playedAtMs": 1795579200000
+  },
+  {
+   "key": "01M7950HA1NFDM7V5HW3AMZ0SB",
+   "firstQueuedAtMs": 1795579200000,
+   "playedAtMs": 1795579200000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=165128",
+   "firstQueuedAtMs": 1795579200000,
+   "playedAtMs": 1795579200000
+  },
+  {
+   "key": "https://blogs.nvidia.com/?p=99829",
+   "firstQueuedAtMs": 1795579200000,
+   "playedAtMs": 1795579200000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/whats-next-for-nvidia-and-jensen-huang-after-trumps-intervention",
+   "firstQueuedAtMs": 1795579200000,
+   "playedAtMs": 1795579200000
+  },
+  {
+   "key": "https://www.schneier.com/?p=72922",
+   "firstQueuedAtMs": 1795579200000,
+   "playedAtMs": 1795579200000
   }
  ]
 }
