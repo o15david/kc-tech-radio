@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T02:50:08.353Z",
- "lastSyncBucket": 997540,
- "lastSyncCarryInSeconds": 92,
+ "updatedAt": "2026-11-25T03:05:31.886Z",
+ "lastSyncBucket": 997541,
+ "lastSyncCarryInSeconds": 101,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -23414,6 +23414,151 @@
    "key": "https://retractionwatch.com/?p=136603",
    "firstQueuedAtMs": 1795572000000,
    "playedAtMs": 1795572000000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/maybe-dark-energy-isnt-so-inexplicable-after-all",
+   "firstQueuedAtMs": 1795573800000,
+   "playedAtMs": 1795573800000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=165078",
+   "firstQueuedAtMs": 1795573800000,
+   "playedAtMs": 1795573800000
+  },
+  {
+   "key": "https://www.nbcnews.com/world/canada/nearly-6-decades-teen-was-killed-leaving-job-canada-authorities-know-rcna611227",
+   "firstQueuedAtMs": 1795573800000,
+   "playedAtMs": 1795573800000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386752",
+   "firstQueuedAtMs": 1795573800000,
+   "playedAtMs": 1795573800000
+  },
+  {
+   "key": "108558959",
+   "firstQueuedAtMs": 1795573800000,
+   "playedAtMs": 1795573800000
+  },
+  {
+   "key": "news714760201",
+   "firstQueuedAtMs": 1795573800000,
+   "playedAtMs": 1795573800000
+  },
+  {
+   "key": "108558939",
+   "firstQueuedAtMs": 1795573800000,
+   "playedAtMs": 1795573800000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4424322",
+   "firstQueuedAtMs": 1795573800000,
+   "playedAtMs": 1795573800000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312003",
+   "firstQueuedAtMs": 1795573800000,
+   "playedAtMs": 1795573800000
+  },
+  {
+   "key": "9c8d4fe3-7827-44a2-bc22-55bfc816be5b",
+   "firstQueuedAtMs": 1795573800000,
+   "playedAtMs": 1795573800000
+  },
+  {
+   "key": "74526110",
+   "firstQueuedAtMs": 1795573800000,
+   "playedAtMs": 1795573800000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03802-9",
+   "firstQueuedAtMs": 1795573800000,
+   "playedAtMs": 1795573800000
+  },
+  {
+   "key": "https://blogs.nvidia.com/?p=100011",
+   "firstQueuedAtMs": 1795573800000,
+   "playedAtMs": 1795573800000
+  },
+  {
+   "key": "https://www.kshb.com/science-and-tech/data-privacy-and-cybersecurity/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says",
+   "firstQueuedAtMs": 1795573800000,
+   "playedAtMs": 1795573800000
+  },
+  {
+   "key": "https://spacenews.com/?p=627916",
+   "firstQueuedAtMs": 1795573800000,
+   "playedAtMs": 1795573800000
+  },
+  {
+   "key": "https://news.mit.edu/2026/pipilotti-rist-receives-eugene-mcdermott-award-arts-mit-1116",
+   "firstQueuedAtMs": 1795573800000,
+   "playedAtMs": 1795573800000
+  },
+  {
+   "key": "https://physicsworld.com/?p=131549",
+   "firstQueuedAtMs": 1795573800000,
+   "playedAtMs": 1795573800000
+  },
+  {
+   "key": "https://blogs.nvidia.com/?p=99949",
+   "firstQueuedAtMs": 1795573800000,
+   "playedAtMs": 1795573800000
+  },
+  {
+   "key": "5ae1fcac-f101-45ab-b8f8-93d3baa394fe",
+   "firstQueuedAtMs": 1795573800000,
+   "playedAtMs": 1795573800000
+  },
+  {
+   "key": "https://blogs.nvidia.com/?p=99969",
+   "firstQueuedAtMs": 1795573800000,
+   "playedAtMs": 1795573800000
+  },
+  {
+   "key": "https://www.kshb.com/raytown-police-officer-shot-and-killed-during-standoff",
+   "firstQueuedAtMs": 1795573800000,
+   "playedAtMs": 1795573800000
+  },
+  {
+   "key": "https://blogs.nvidia.com/?p=99933",
+   "firstQueuedAtMs": 1795573800000,
+   "playedAtMs": 1795573800000
+  },
+  {
+   "key": "https://blogs.nvidia.com/?p=99929",
+   "firstQueuedAtMs": 1795573800000,
+   "playedAtMs": 1795573800000
+  },
+  {
+   "key": "e5661a09-684b-4605-8a93-fafa66f7707f",
+   "firstQueuedAtMs": 1795573800000,
+   "playedAtMs": 1795573800000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=165089",
+   "firstQueuedAtMs": 1795573800000,
+   "playedAtMs": 1795573800000
+  },
+  {
+   "key": "https://blogs.nvidia.com/?p=99922",
+   "firstQueuedAtMs": 1795573800000,
+   "playedAtMs": 1795573800000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=302523",
+   "firstQueuedAtMs": 1795573800000,
+   "playedAtMs": 1795573800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/24/world/americas/ecuador-us-military-operations-trump.html",
+   "firstQueuedAtMs": 1795573800000,
+   "playedAtMs": 1795573800000
+  },
+  {
+   "key": "https://blogs.nvidia.com/?p=99921",
+   "firstQueuedAtMs": 1795573800000,
+   "playedAtMs": 1795573800000
   }
  ]
 }
