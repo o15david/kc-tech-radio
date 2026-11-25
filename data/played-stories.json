@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T07:20:13.011Z",
- "lastSyncBucket": 997549,
- "lastSyncCarryInSeconds": 99,
+ "updatedAt": "2026-11-25T07:35:09.011Z",
+ "lastSyncBucket": 997550,
+ "lastSyncCarryInSeconds": 9,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -24884,6 +24884,176 @@
    "key": "01M66XYRNK559YY01V2P37EBD7",
    "firstQueuedAtMs": 1795588200000,
    "playedAtMs": 1795588200000
+  },
+  {
+   "key": "https://capitolnewsillinois.com/?p=135048",
+   "firstQueuedAtMs": 1795590000000,
+   "playedAtMs": 1795590000000
+  },
+  {
+   "key": "https://abcnews.com/Politics/watch-fort-hood-shooter-nidal-hasan-die-army/story?id=138377471",
+   "firstQueuedAtMs": 1795590000000,
+   "playedAtMs": 1795590000000
+  },
+  {
+   "key": "TP1R7XKGIFPJ00",
+   "firstQueuedAtMs": 1795590000000,
+   "playedAtMs": 1795590000000
+  },
+  {
+   "key": "https://lobste.rs/s/5gefep",
+   "firstQueuedAtMs": 1795590000000,
+   "playedAtMs": 1795590000000
+  },
+  {
+   "key": "https://www.infoq.com/news/2026/11/aws-lambda-30-minute-timeout/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795590000000,
+   "playedAtMs": 1795590000000
+  },
+  {
+   "key": "https://indianacapitalchronicle.com/?p=28282",
+   "firstQueuedAtMs": 1795590000000,
+   "playedAtMs": 1795590000000
+  },
+  {
+   "key": "TP1Q5JKGZAIO00",
+   "firstQueuedAtMs": 1795590000000,
+   "playedAtMs": 1795590000000
+  },
+  {
+   "key": "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
+   "firstQueuedAtMs": 1795590000000,
+   "playedAtMs": 1795590000000
+  },
+  {
+   "key": "01M64V2TDYZYSS8RE60T3MWKSM",
+   "firstQueuedAtMs": 1795590000000,
+   "playedAtMs": 1795590000000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/world/pentagon-sharply-criticizes-canada-over-modernizing-military",
+   "firstQueuedAtMs": 1795590000000,
+   "playedAtMs": 1795590000000
+  },
+  {
+   "key": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+   "firstQueuedAtMs": 1795590000000,
+   "playedAtMs": 1795590000000
+  },
+  {
+   "key": "6ad9050dfc71fb0001d96bc8",
+   "firstQueuedAtMs": 1795590000000,
+   "playedAtMs": 1795590000000
+  },
+  {
+   "key": "https://thehill.com/?p=6240698",
+   "firstQueuedAtMs": 1795590000000,
+   "playedAtMs": 1795590000000
+  },
+  {
+   "key": "https://restofworld.org/2026/africa-sovereign-ai-off-switch/",
+   "firstQueuedAtMs": 1795590000000,
+   "playedAtMs": 1795590000000
+  },
+  {
+   "key": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+   "firstQueuedAtMs": 1795590000000,
+   "playedAtMs": 1795590000000
+  },
+  {
+   "key": "changelog.com/1/2832",
+   "firstQueuedAtMs": 1795590000000,
+   "playedAtMs": 1795590000000
+  },
+  {
+   "key": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+   "firstQueuedAtMs": 1795590000000,
+   "playedAtMs": 1795590000000
+  },
+  {
+   "key": "https://thehill.com/?p=6240874",
+   "firstQueuedAtMs": 1795590000000,
+   "playedAtMs": 1795590000000
+  },
+  {
+   "key": "https://news.cnrs.fr/articles/searching-the-milky-way-for-bits-of-mars",
+   "firstQueuedAtMs": 1795590000000,
+   "playedAtMs": 1795590000000
+  },
+  {
+   "key": "https://www.societyforscience.org/?p=67860",
+   "firstQueuedAtMs": 1795590000000,
+   "playedAtMs": 1795590000000
+  },
+  {
+   "key": "6ae1370c482765000141e5cc",
+   "firstQueuedAtMs": 1795590000000,
+   "playedAtMs": 1795590000000
+  },
+  {
+   "key": "https://knowablemagazine.org/content/article/mind/2026/when-scammers-target-seniors",
+   "firstQueuedAtMs": 1795590000000,
+   "playedAtMs": 1795590000000
+  },
+  {
+   "key": "https://www.nsf.gov/news/podcast-future-electronics-goes-beyond-circuit-boards",
+   "firstQueuedAtMs": 1795590000000,
+   "playedAtMs": 1795590000000
+  },
+  {
+   "key": "https://www.nsf.gov/news/new-dwarf-planet-candidate-discovered-nsf-doe-rubin",
+   "firstQueuedAtMs": 1795590000000,
+   "playedAtMs": 1795590000000
+  },
+  {
+   "key": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+   "firstQueuedAtMs": 1795590000000,
+   "playedAtMs": 1795590000000
+  },
+  {
+   "key": "https://www.societyforscience.org/?p=68132",
+   "firstQueuedAtMs": 1795590000000,
+   "playedAtMs": 1795590000000
+  },
+  {
+   "key": "https://iowacapitaldispatch.com/?post_type=republished&p=61429",
+   "firstQueuedAtMs": 1795590000000,
+   "playedAtMs": 1795590000000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/world/australia-set-to-pass-online-safety-laws-with-multibillion-dollar-fines-for-tech-giants",
+   "firstQueuedAtMs": 1795590000000,
+   "playedAtMs": 1795590000000
+  },
+  {
+   "key": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+   "firstQueuedAtMs": 1795590000000,
+   "playedAtMs": 1795590000000
+  },
+  {
+   "key": "https://importai.substack.com/p/import-ai-478-math-for-alignment",
+   "firstQueuedAtMs": 1795590000000,
+   "playedAtMs": 1795590000000
+  },
+  {
+   "key": "https://www.lakescientist.com/?p=12859",
+   "firstQueuedAtMs": 1795590000000,
+   "playedAtMs": 1795590000000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/24/trump-turkey-pardon-ballroom",
+   "firstQueuedAtMs": 1795590000000,
+   "playedAtMs": 1795590000000
+  },
+  {
+   "key": "https://restofworld.org/2026/ai-tokenizer-tax-non-english-languages-cost-inequity/",
+   "firstQueuedAtMs": 1795590000000,
+   "playedAtMs": 1795590000000
+  },
+  {
+   "key": "https://www.societyforscience.org/?p=68104",
+   "firstQueuedAtMs": 1795590000000,
+   "playedAtMs": 1795590000000
   }
  ]
 }
