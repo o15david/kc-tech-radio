@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T04:50:10.388Z",
- "lastSyncBucket": 997544,
- "lastSyncCarryInSeconds": 124,
+ "updatedAt": "2026-11-25T05:05:21.524Z",
+ "lastSyncBucket": 997545,
+ "lastSyncCarryInSeconds": 99,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -24049,6 +24049,201 @@
    "key": "https://www.schneier.com/?p=72922",
    "firstQueuedAtMs": 1795579200000,
    "playedAtMs": 1795579200000
+  },
+  {
+   "key": "74526723",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/endangered-person-advisory-issued-missing-dadeville-man/",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "now_hallie_dce_markle_charges_261124",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=230115",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "https://news.mit.edu/2026/electric-seaglider-from-mit-alumni-takes-flight-1125",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "news714723536",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "74526057",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "https://www.interstateweather.com/",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "https://gpu-demo-gallery.pages.dev/",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=302473",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "https://www.stylewarning.com/posts/faster-digit-extraction/",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "https://lobste.rs/s/l7fel2",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "https://dominicroye.github.io/shapes-of-rivers/",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "https://www.snexplores.org/?p=245817",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "https://www.royalsreview.com/?p=108479",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "https://www.canarymedia.com/articles/politics/solar-pac-revenge-in-congress",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "https://www.canarymedia.com/articles/emissions-reduction/turns-out-the-worlds-fossil-fuel-emissions-will-actually-drop-this-year",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "https://stratechery.com/?p=21196",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "changelog.com/1/2837",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/24/us/politics/house-lawyer-ilhan-omar-search.html",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "6aecef3d72f2d40001289bc0",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "https://bridgemi.com/?p=84397",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "https://github.blog/?p=100130",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/news-wrap-californias-king-tides-could-be-biggest-in-4-decades",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "https://github.blog/?p=100122",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "https://spacenews.com/?p=627202",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "https://www.quantamagazine.org/?p=168928",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "https://spacenews.com/?p=627276",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "https://news.climate.columbia.edu/?p=129115",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "https://blogs.nvidia.com/?p=99861",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/army-plans-explosive-detonation-in-iowa-despite-residents-concerns",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "https://www.snexplores.org/?p=245804",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "https://restofworld.org/2026/ai-government-ethics-bias-risk/",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "https://news.climate.columbia.edu/?p=129069",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "https://news.climate.columbia.edu/?p=129066",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "https://news.climate.columbia.edu/?p=129009",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
+  },
+  {
+   "key": "https://krebsonsecurity.com/?p=74550",
+   "firstQueuedAtMs": 1795581000000,
+   "playedAtMs": 1795581000000
   }
  ]
 }
