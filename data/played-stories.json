@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T12:20:10.140Z",
- "lastSyncBucket": 997559,
- "lastSyncCarryInSeconds": 15,
+ "updatedAt": "2026-11-25T12:35:12.729Z",
+ "lastSyncBucket": 997560,
+ "lastSyncCarryInSeconds": 72,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -26569,6 +26569,186 @@
    "key": "https://thehill.com/?p=6241294",
    "firstQueuedAtMs": 1795606200000,
    "playedAtMs": 1795606200000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/carter-jensen-royals-run-thanksgiving-food-drive",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "WP-MKTW-0005368741",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "108559141",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "https://www.engadget.com/2327763/whatsapp-is-testing-stickers-with-sound/",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "WP-MKTW-0005367197",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "https://www.schneier.com/?p=72967",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "https://sifted.eu/articles/au-quantum-act-sovereign-tech-fund/",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "6b069b65755cac0001c8df50",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "TP243ET3BZM500",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "https://news.crunchbase.com/?p=94443",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "https://www.nbcnews.com/news/us-news/iowa-army-lead-detonation-trump-huang-nvidia-morning-rundown-rcna611257",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "https://www.societyforscience.org/?p=68684",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "https://thehill.com/?p=6239732",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "https://physicsworld.com/?p=131759",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "https://arstechnica.com/ai/2026/11/ai-can-do-the-calculations-physicists-are-figuring-out-what-comes-next/",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "https://hackaday.com/?p=1430219",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "https://www.nbcnews.com/news/us-news/holidays-affording-presents-spending-rcna610963",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "https://news.crunchbase.com/?p=94444",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/24/first-alert-weather-winter-storm-watch-eastern-missouri/",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "108549359",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "https://www.fastcompany.com/91648105/touchtunes-just-added-a-social-feed-to-your-local-jukebox",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "https://www.nbcnews.com/news/us-news/macys-parade-2026-where-watch-time-thanksgiving-day-streaming-channel-rcna609932",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "https://fortune.com/?p=4646361",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "https://fortune.com/?p=4649923&showAdminBar=true",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/opinion/trump-corruption-investigate-democrats.html",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "https://fortune.com/?p=4650761&showAdminBar=true",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/25/lawsuit-dhs-ice-operation-midway-blitz-figueroa",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "https://www.inc.com/lucia-auerbach/total-wine-fighting-save-fastest-growing-category-federal-ban-takes-effect/91442324",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "https://www.inc.com/scott-hutcheson/61-percent-of-employees-dont-feel-appreciated-at-work-heres-what-leaders-get-wrong-about-gratitude/91440357",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "https://www.inc.com/john-hall/every-agency-promises-chatgpt-recommendations-ask-these-7-questions-before-signing-with-them/91434670",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "https://www.fastcompany.com/91628314/why-playfulness-is-becoming-the-real-commercial-advantage-for-brands-leadership-play",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "108559122",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "https://www.missourinet.com/?p=178054",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
+  },
+  {
+   "key": "https://missouriindependent.com/?p=33862",
+   "firstQueuedAtMs": 1795608000000,
+   "playedAtMs": 1795608000000
   }
  ]
 }
