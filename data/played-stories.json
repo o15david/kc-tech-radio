@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T21:20:12.312Z",
- "lastSyncBucket": 997577,
- "lastSyncCarryInSeconds": 104,
+ "updatedAt": "2026-11-25T21:35:13.900Z",
+ "lastSyncBucket": 997578,
+ "lastSyncCarryInSeconds": 106,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -29789,6 +29789,166 @@
    "key": "https://www.kshb.com/news/local-news/under-the-microscope-examining-the-role-of-ai-in-scientific-discovery",
    "firstQueuedAtMs": 1795638600000,
    "playedAtMs": 1795638600000
+  },
+  {
+   "key": "https://insideclimatenews.org/?p=116731",
+   "firstQueuedAtMs": 1795640400000,
+   "playedAtMs": 1795640400000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4455626",
+   "firstQueuedAtMs": 1795640400000,
+   "playedAtMs": 1795640400000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1108732",
+   "firstQueuedAtMs": 1795640400000,
+   "playedAtMs": 1795640400000
+  },
+  {
+   "key": "741b73a7-5aac-412a-ba2b-42fac9950938",
+   "firstQueuedAtMs": 1795640400000,
+   "playedAtMs": 1795640400000
+  },
+  {
+   "key": "WP-MKTW-0005370245",
+   "firstQueuedAtMs": 1795640400000,
+   "playedAtMs": 1795640400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/mom-4-killed-by-husband-after-allegedly-arguing-over-childrens-christmas-gifts-reports-say/",
+   "firstQueuedAtMs": 1795640400000,
+   "playedAtMs": 1795640400000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1553032",
+   "firstQueuedAtMs": 1795640400000,
+   "playedAtMs": 1795640400000
+  },
+  {
+   "key": "HkVLuiNewNUvRcgGjNSeb8",
+   "firstQueuedAtMs": 1795640400000,
+   "playedAtMs": 1795640400000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4427032",
+   "firstQueuedAtMs": 1795640400000,
+   "playedAtMs": 1795640400000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/25/macys-thanksgiving-parade-2026-balloons-weather",
+   "firstQueuedAtMs": 1795640400000,
+   "playedAtMs": 1795640400000
+  },
+  {
+   "key": "TP2DLJT9NJLS00",
+   "firstQueuedAtMs": 1795640400000,
+   "playedAtMs": 1795640400000
+  },
+  {
+   "key": "TP2FOQT96OSL00",
+   "firstQueuedAtMs": 1795640400000,
+   "playedAtMs": 1795640400000
+  },
+  {
+   "key": "TP2PLZKJH6V500",
+   "firstQueuedAtMs": 1795640400000,
+   "playedAtMs": 1795640400000
+  },
+  {
+   "key": "https://electrek.co/?p=496225",
+   "firstQueuedAtMs": 1795640400000,
+   "playedAtMs": 1795640400000
+  },
+  {
+   "key": "https://hackaday.com/?p=1430292",
+   "firstQueuedAtMs": 1795640400000,
+   "playedAtMs": 1795640400000
+  },
+  {
+   "key": "https://www.fastcompany.com/91648591/some-people-dont-use-ai-at-work-and-feel-judged-for-it",
+   "firstQueuedAtMs": 1795640400000,
+   "playedAtMs": 1795640400000
+  },
+  {
+   "key": "https://www.fastcompany.com/91649141/tariffs-inflation-stock-tumble-ai-selloff",
+   "firstQueuedAtMs": 1795640400000,
+   "playedAtMs": 1795640400000
+  },
+  {
+   "key": "66b29623-868a-4442-9720-21b6c5841413",
+   "firstQueuedAtMs": 1795640400000,
+   "playedAtMs": 1795640400000
+  },
+  {
+   "key": "https://www.inc.com/kit-eaton/amazon-meta-ai-agents-future-shopping-technology/91443060",
+   "firstQueuedAtMs": 1795640400000,
+   "playedAtMs": 1795640400000
+  },
+  {
+   "key": "https://www.inc.com/temilola-agbede/fancy-water-bottles-sales-up-consumer-habits-strategy/91443008",
+   "firstQueuedAtMs": 1795640400000,
+   "playedAtMs": 1795640400000
+  },
+  {
+   "key": "https://www.infoq.com/news/2026/11/deepmind-gemini-robotics-2-5/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795640400000,
+   "playedAtMs": 1795640400000
+  },
+  {
+   "key": "https://nautil.us/?p=1287067",
+   "firstQueuedAtMs": 1795640400000,
+   "playedAtMs": 1795640400000
+  },
+  {
+   "key": "https://www.inc.com/peter-economy/you-dont-need-more-people-in-your-life-you-need-these-7-types/91441938",
+   "firstQueuedAtMs": 1795640400000,
+   "playedAtMs": 1795640400000
+  },
+  {
+   "key": "https://www.nasa.gov/?post_type=image-article&p=1067603",
+   "firstQueuedAtMs": 1795640400000,
+   "playedAtMs": 1795640400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/video-shows-suv-driver-crash-into-swimming-pool-before-being-arrested/",
+   "firstQueuedAtMs": 1795640400000,
+   "playedAtMs": 1795640400000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163122",
+   "firstQueuedAtMs": 1795640400000,
+   "playedAtMs": 1795640400000
+  },
+  {
+   "key": "https://nebraskaexaminer.com/?post_type=republished&p=46040",
+   "firstQueuedAtMs": 1795640400000,
+   "playedAtMs": 1795640400000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/economy/3-tips-for-getting-the-best-deals-this-holiday-shopping-season",
+   "firstQueuedAtMs": 1795640400000,
+   "playedAtMs": 1795640400000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163871",
+   "firstQueuedAtMs": 1795640400000,
+   "playedAtMs": 1795640400000
+  },
+  {
+   "key": "https://thehill.com/?p=6243654",
+   "firstQueuedAtMs": 1795640400000,
+   "playedAtMs": 1795640400000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163112",
+   "firstQueuedAtMs": 1795640400000,
+   "playedAtMs": 1795640400000
+  },
+  {
+   "key": "https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/",
+   "firstQueuedAtMs": 1795640400000,
+   "playedAtMs": 1795640400000
   }
  ]
 }
