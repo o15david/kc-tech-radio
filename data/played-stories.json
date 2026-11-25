@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T19:50:33.040Z",
- "lastSyncBucket": 997574,
- "lastSyncCarryInSeconds": 63,
+ "updatedAt": "2026-11-25T20:05:26.650Z",
+ "lastSyncBucket": 997575,
+ "lastSyncCarryInSeconds": 73,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -29239,6 +29239,246 @@
    "key": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/",
    "firstQueuedAtMs": 1795633200000,
    "playedAtMs": 1795633200000
+  },
+  {
+   "key": "74534456",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/baxter-county-authorities-search-missing-18-year-old-after-boat-found-lake-norfork/",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://nautil.us/?p=1287078",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3192475",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "74525066",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3192474",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "TP2PVJT3BZMM00",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/edwardsville-police-seek-occupants-vehicle-involved-near-collision-k-32/",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://yaleclimateconnections.org/?p=145286",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3192506",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "WP-MKTW-0005370179",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://thehill.com/?p=6243439",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "TP2P97RKV2TG00",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "WP-MKTW-0005367387",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/the-physics-wall-facing-orbital-ai-data-centers",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://www.inc.com/lucia-auerbach/bacardi-bought-angels-envy-11-years-ago-now-suing-former-executive-new-whiskey/91442766",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://www.inc.com/sneha-saigal/75-percent-of-holiday-shoppers-want-to-buy-from-a-small-business-and-many-are-asking-ai-for-ideas-take-4-steps-to-get-recommended/91435732",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://www.inc.com/tim-hilcove/ai-could-be-harming-your-brand-without-you-even-knowing-it/91441190",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://www.techdirt.com/?p=552313",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "74534170",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/cleaver-davids-introduce-resolution-honoring-kansas-city-currents-championship/",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://hackaday.com/?p=1430227",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://arkansasadvocate.com/?post_type=republished&p=31224",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://www.inc.com/marc-berman/own-bank-on-her-shark-tank/91442817",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163908",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://www.inc.com/moses-jeanfrancois/stripe-nearing-200-billion-dollar-valuation-surprising-part-is-not-number/91442816",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "WP-MKTW-0005369369",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3192425",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3192361",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/minskys-brings-back-joes-kansas-city-barbecue-pizza-holidays/",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "b1be69f6-9f00-4b94-8d94-4e83ddd1c072",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://www.inc.com/joseph-s-pete/indycar-sponsors-accused-of-600-million-ponzi-scheme/91441723",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://www.eetimes.com/?p=101804393",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386770",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4426488",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://physicsworld.com/?p=131773",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://thehill.com/?p=6243397",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "2RVm3qMuPLrhKEep7GimYe",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "108559079",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "TP2J59RKV2TF00",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://www.inc.com/esther-lian/blood-test-predict-cognitive-decline-10-years-before-symptoms-appear/91442546",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://www.inc.com/brian-contreras/elon-musk-trillion-tesla-spacex-merger-special-directors/91442832",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://david.alvarezrosa.com/posts/deriving-black-scholes/",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
+  },
+  {
+   "key": "https://www.fastcompany.com/91648939/digital-duty-care-act-passes-australia-opposition-says-law-authoritarian",
+   "firstQueuedAtMs": 1795635000000,
+   "playedAtMs": 1795635000000
   }
  ]
 }
