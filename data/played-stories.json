@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T13:50:05.800Z",
- "lastSyncBucket": 997562,
- "lastSyncCarryInSeconds": 9,
+ "updatedAt": "2026-11-25T14:05:11.296Z",
+ "lastSyncBucket": 997563,
+ "lastSyncCarryInSeconds": 71,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -27119,6 +27119,176 @@
    "key": "https://abcnews.com/video/138435897/",
    "firstQueuedAtMs": 1795611600000,
    "playedAtMs": 1795611600000
+  },
+  {
+   "key": "74530750",
+   "firstQueuedAtMs": 1795613400000,
+   "playedAtMs": 1795613400000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=165071",
+   "firstQueuedAtMs": 1795613400000,
+   "playedAtMs": 1795613400000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1040178",
+   "firstQueuedAtMs": 1795613400000,
+   "playedAtMs": 1795613400000
+  },
+  {
+   "key": "74530734",
+   "firstQueuedAtMs": 1795613400000,
+   "playedAtMs": 1795613400000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/missouri/platte-county/grocery-stores-across-kansas-city-prepare-for-thanksgiving-rush",
+   "firstQueuedAtMs": 1795613400000,
+   "playedAtMs": 1795613400000
+  },
+  {
+   "key": "caabb628-4626-43e1-b9df-aa7b0c942080",
+   "firstQueuedAtMs": 1795613400000,
+   "playedAtMs": 1795613400000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1041596",
+   "firstQueuedAtMs": 1795613400000,
+   "playedAtMs": 1795613400000
+  },
+  {
+   "key": "icWbkhc3HU7rcyaQoawhVj",
+   "firstQueuedAtMs": 1795613400000,
+   "playedAtMs": 1795613400000
+  },
+  {
+   "key": "73b1e6d5-46e8-4fa6-80b0-3722a8d8f452",
+   "firstQueuedAtMs": 1795613400000,
+   "playedAtMs": 1795613400000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=230301",
+   "firstQueuedAtMs": 1795613400000,
+   "playedAtMs": 1795613400000
+  },
+  {
+   "key": "https://www.darkreading.com/cyberattacks-data-breaches/latin-america-cyberattacks-ports-pipelines-manufacturing",
+   "firstQueuedAtMs": 1795613400000,
+   "playedAtMs": 1795613400000
+  },
+  {
+   "key": "6b05a395755cac0001c8a5f0",
+   "firstQueuedAtMs": 1795613400000,
+   "playedAtMs": 1795613400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/midland-adventist-academy-principal-fired-after-arrest-iowa/",
+   "firstQueuedAtMs": 1795613400000,
+   "playedAtMs": 1795613400000
+  },
+  {
+   "key": "https://www.nbcnews.com/world/ukraine/russia-soldiers-killed-ukraine-war-new-estimate-suggests-700000-rcna611048",
+   "firstQueuedAtMs": 1795613400000,
+   "playedAtMs": 1795613400000
+  },
+  {
+   "key": "https://www.eetimes.com/?p=101803992",
+   "firstQueuedAtMs": 1795613400000,
+   "playedAtMs": 1795613400000
+  },
+  {
+   "key": "https://www.infoq.com/news/2026/11/vercel-board-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795613400000,
+   "playedAtMs": 1795613400000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1552855",
+   "firstQueuedAtMs": 1795613400000,
+   "playedAtMs": 1795613400000
+  },
+  {
+   "key": "3b4604bc-6735-45a9-958a-4b5dbba5879a",
+   "firstQueuedAtMs": 1795613400000,
+   "playedAtMs": 1795613400000
+  },
+  {
+   "key": "news714806988",
+   "firstQueuedAtMs": 1795613400000,
+   "playedAtMs": 1795613400000
+  },
+  {
+   "key": "WP-MKTW-0005367386",
+   "firstQueuedAtMs": 1795613400000,
+   "playedAtMs": 1795613400000
+  },
+  {
+   "key": "news714818162",
+   "firstQueuedAtMs": 1795613400000,
+   "playedAtMs": 1795613400000
+  },
+  {
+   "key": "108558929",
+   "firstQueuedAtMs": 1795613400000,
+   "playedAtMs": 1795613400000
+  },
+  {
+   "key": "https://fortune.com/?p=4650412&showAdminBar=true",
+   "firstQueuedAtMs": 1795613400000,
+   "playedAtMs": 1795613400000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4454967",
+   "firstQueuedAtMs": 1795613400000,
+   "playedAtMs": 1795613400000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1107266",
+   "firstQueuedAtMs": 1795613400000,
+   "playedAtMs": 1795613400000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=302524",
+   "firstQueuedAtMs": 1795613400000,
+   "playedAtMs": 1795613400000
+  },
+  {
+   "key": "5c3928c6-18d2-4780-ae54-986caf9c7209",
+   "firstQueuedAtMs": 1795613400000,
+   "playedAtMs": 1795613400000
+  },
+  {
+   "key": "WP-MKTW-0005367385",
+   "firstQueuedAtMs": 1795613400000,
+   "playedAtMs": 1795613400000
+  },
+  {
+   "key": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+   "firstQueuedAtMs": 1795613400000,
+   "playedAtMs": 1795613400000
+  },
+  {
+   "key": "news714806809",
+   "firstQueuedAtMs": 1795613400000,
+   "playedAtMs": 1795613400000
+  },
+  {
+   "key": "https://fortune.com/?p=4645611",
+   "firstQueuedAtMs": 1795613400000,
+   "playedAtMs": 1795613400000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
+   "firstQueuedAtMs": 1795613400000,
+   "playedAtMs": 1795613400000
+  },
+  {
+   "key": "https://lobste.rs/s/lyyksp",
+   "firstQueuedAtMs": 1795613400000,
+   "playedAtMs": 1795613400000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75781",
+   "firstQueuedAtMs": 1795613400000,
+   "playedAtMs": 1795613400000
   }
  ]
 }
