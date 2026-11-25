@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T18:50:07.269Z",
- "lastSyncBucket": 997572,
- "lastSyncCarryInSeconds": 3,
+ "updatedAt": "2026-11-25T19:05:24.081Z",
+ "lastSyncBucket": 997573,
+ "lastSyncCarryInSeconds": 36,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -28894,6 +28894,176 @@
    "key": "https://michiganadvance.com/?post_type=republished&p=116242",
    "firstQueuedAtMs": 1795629600000,
    "playedAtMs": 1795629600000
+  },
+  {
+   "key": "6b0702ee7bc7a3d1d5921a07",
+   "firstQueuedAtMs": 1795631400000,
+   "playedAtMs": 1795631400000
+  },
+  {
+   "key": "74533842",
+   "firstQueuedAtMs": 1795631400000,
+   "playedAtMs": 1795631400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/garden-spot-why-not-all-firewood-heads-equally/",
+   "firstQueuedAtMs": 1795631400000,
+   "playedAtMs": 1795631400000
+  },
+  {
+   "key": "4e86d6fd-c12a-4027-91f0-9ff380d1955c",
+   "firstQueuedAtMs": 1795631400000,
+   "playedAtMs": 1795631400000
+  },
+  {
+   "key": "ahexibSNMrAH8gZF94y4UB",
+   "firstQueuedAtMs": 1795631400000,
+   "playedAtMs": 1795631400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/sponsored-place-get-your-tickets-now-lion-king-juanita-k-hammons-hall/",
+   "firstQueuedAtMs": 1795631400000,
+   "playedAtMs": 1795631400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/pay-job-growth-differ-by-industry-analysis-finds/",
+   "firstQueuedAtMs": 1795631400000,
+   "playedAtMs": 1795631400000
+  },
+  {
+   "key": "5tHJbq2kkfSVLtzp5eZCTF",
+   "firstQueuedAtMs": 1795631400000,
+   "playedAtMs": 1795631400000
+  },
+  {
+   "key": "https://abcnews.com/Business/stocks-tumble-tech-sell-off-resumes-nvidia-falls/story?id=138442070",
+   "firstQueuedAtMs": 1795631400000,
+   "playedAtMs": 1795631400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/man-critically-injured-stabbing-during-domestic-incident-bolivar-mo/",
+   "firstQueuedAtMs": 1795631400000,
+   "playedAtMs": 1795631400000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=230347",
+   "firstQueuedAtMs": 1795631400000,
+   "playedAtMs": 1795631400000
+  },
+  {
+   "key": "https://eos.org/?p=252880",
+   "firstQueuedAtMs": 1795631400000,
+   "playedAtMs": 1795631400000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios",
+   "firstQueuedAtMs": 1795631400000,
+   "playedAtMs": 1795631400000
+  },
+  {
+   "key": "https://source.washu.edu/?p=735361",
+   "firstQueuedAtMs": 1795631400000,
+   "playedAtMs": 1795631400000
+  },
+  {
+   "key": "6b06017e755cac0001c8c97c",
+   "firstQueuedAtMs": 1795631400000,
+   "playedAtMs": 1795631400000
+  },
+  {
+   "key": "https://www.kshb.com/science-and-tech/social-media/viral-beat-the-sign-challenge-has-teens-speeding-through-intersections-officials-warn",
+   "firstQueuedAtMs": 1795631400000,
+   "playedAtMs": 1795631400000
+  },
+  {
+   "key": "https://electrek.co/?p=496149",
+   "firstQueuedAtMs": 1795631400000,
+   "playedAtMs": 1795631400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/leighs-lost-found-digital-extra-search-lost-miniature-dachshund-service-dog/",
+   "firstQueuedAtMs": 1795631400000,
+   "playedAtMs": 1795631400000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3192489",
+   "firstQueuedAtMs": 1795631400000,
+   "playedAtMs": 1795631400000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315690",
+   "firstQueuedAtMs": 1795631400000,
+   "playedAtMs": 1795631400000
+  },
+  {
+   "key": "hvQHPm7xPu7Z9vqXFkxuMQ",
+   "firstQueuedAtMs": 1795631400000,
+   "playedAtMs": 1795631400000
+  },
+  {
+   "key": "https://thehill.com/?p=6243237",
+   "firstQueuedAtMs": 1795631400000,
+   "playedAtMs": 1795631400000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386782",
+   "firstQueuedAtMs": 1795631400000,
+   "playedAtMs": 1795631400000
+  },
+  {
+   "key": "74532733",
+   "firstQueuedAtMs": 1795631400000,
+   "playedAtMs": 1795631400000
+  },
+  {
+   "key": "https://www.inc.com/aaron-mok/anthropic-claude-turn-workflows-into-desktop-apps/91442773",
+   "firstQueuedAtMs": 1795631400000,
+   "playedAtMs": 1795631400000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163926",
+   "firstQueuedAtMs": 1795631400000,
+   "playedAtMs": 1795631400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/kehoe-environmental-protection-agency-gives-good-news-missouri-after-iowa-lead-detonation/",
+   "firstQueuedAtMs": 1795631400000,
+   "playedAtMs": 1795631400000
+  },
+  {
+   "key": "https://www.inc.com/melissa-angell/small-businesses-are-not-thankful-for-trumps-thanksgiving-tariff-surprise/91440688",
+   "firstQueuedAtMs": 1795631400000,
+   "playedAtMs": 1795631400000
+  },
+  {
+   "key": "TP2MGDKIP3IB00",
+   "firstQueuedAtMs": 1795631400000,
+   "playedAtMs": 1795631400000
+  },
+  {
+   "key": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+   "firstQueuedAtMs": 1795631400000,
+   "playedAtMs": 1795631400000
+  },
+  {
+   "key": "TP2M5ST3BZM400",
+   "firstQueuedAtMs": 1795631400000,
+   "playedAtMs": 1795631400000
+  },
+  {
+   "key": "TP2M2RR24U8N00",
+   "firstQueuedAtMs": 1795631400000,
+   "playedAtMs": 1795631400000
+  },
+  {
+   "key": "https://www.inc.com/tomas-gorny/the-real-small-business-saturday-payoff-isnt-the-first-sale-its-the-second-heres-how-to-earn-it/91442828",
+   "firstQueuedAtMs": 1795631400000,
+   "playedAtMs": 1795631400000
+  },
+  {
+   "key": "https://fortune.com/?p=4650926&showAdminBar=true",
+   "firstQueuedAtMs": 1795631400000,
+   "playedAtMs": 1795631400000
   }
  ]
 }
