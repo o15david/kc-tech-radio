@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T06:50:05.974Z",
- "lastSyncBucket": 997548,
- "lastSyncCarryInSeconds": 21,
+ "updatedAt": "2026-11-25T07:05:07.144Z",
+ "lastSyncBucket": 997549,
+ "lastSyncCarryInSeconds": 99,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -24719,6 +24719,171 @@
    "key": "01M6HZ245M2MBZAF7ZQXKC85X6",
    "firstQueuedAtMs": 1795586400000,
    "playedAtMs": 1795586400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/suspect-brutal-stabbing-22-year-old-outside-childrens-center-arrested-trying-fly-france/",
+   "firstQueuedAtMs": 1795588200000,
+   "playedAtMs": 1795588200000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1107838",
+   "firstQueuedAtMs": 1795588200000,
+   "playedAtMs": 1795588200000
+  },
+  {
+   "key": "adee2893-9608-4833-8c0f-d3f2b0e74fc5",
+   "firstQueuedAtMs": 1795588200000,
+   "playedAtMs": 1795588200000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75746",
+   "firstQueuedAtMs": 1795588200000,
+   "playedAtMs": 1795588200000
+  },
+  {
+   "key": "TP1Q1FT3BZLS00",
+   "firstQueuedAtMs": 1795588200000,
+   "playedAtMs": 1795588200000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315743",
+   "firstQueuedAtMs": 1795588200000,
+   "playedAtMs": 1795588200000
+  },
+  {
+   "key": "108558146",
+   "firstQueuedAtMs": 1795588200000,
+   "playedAtMs": 1795588200000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco",
+   "firstQueuedAtMs": 1795588200000,
+   "playedAtMs": 1795588200000
+  },
+  {
+   "key": "https://www.fastcompany.com/91647827/ai-can-help-moms-it-cant-replace-the-village",
+   "firstQueuedAtMs": 1795588200000,
+   "playedAtMs": 1795588200000
+  },
+  {
+   "key": "https://www.seangoedecke.com/when-in-doubt-flail-about/",
+   "firstQueuedAtMs": 1795588200000,
+   "playedAtMs": 1795588200000
+  },
+  {
+   "key": "https://knowablemagazine.org/content/article/living-world/2026/why-did-pregnancy-evolve-in-animals",
+   "firstQueuedAtMs": 1795588200000,
+   "playedAtMs": 1795588200000
+  },
+  {
+   "key": "https://www.snexplores.org/?p=245671",
+   "firstQueuedAtMs": 1795588200000,
+   "playedAtMs": 1795588200000
+  },
+  {
+   "key": "6aea7a8eb1fc8f0001faf888",
+   "firstQueuedAtMs": 1795588200000,
+   "playedAtMs": 1795588200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/arts/television/late-night-rips-into-trump-for-honoring-rudy-giuliani.html",
+   "firstQueuedAtMs": 1795588200000,
+   "playedAtMs": 1795588200000
+  },
+  {
+   "key": "https://www.societyforscience.org/?p=68324",
+   "firstQueuedAtMs": 1795588200000,
+   "playedAtMs": 1795588200000
+  },
+  {
+   "key": "https://news.cnrs.fr/articles/death-a-down-to-earth-matter",
+   "firstQueuedAtMs": 1795588200000,
+   "playedAtMs": 1795588200000
+  },
+  {
+   "key": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+   "firstQueuedAtMs": 1795588200000,
+   "playedAtMs": 1795588200000
+  },
+  {
+   "key": "01M6GJ3RNQ17SDPWXJVW49JAFW",
+   "firstQueuedAtMs": 1795588200000,
+   "playedAtMs": 1795588200000
+  },
+  {
+   "key": "https://www.nbcnews.com/news/us-news/chinese-tech-company-huawei-convicted-federal-charges-rcna611189",
+   "firstQueuedAtMs": 1795588200000,
+   "playedAtMs": 1795588200000
+  },
+  {
+   "key": "https://southdakotasearchlight.com/?p=26239",
+   "firstQueuedAtMs": 1795588200000,
+   "playedAtMs": 1795588200000
+  },
+  {
+   "key": "https://krebsonsecurity.com/?p=74548",
+   "firstQueuedAtMs": 1795588200000,
+   "playedAtMs": 1795588200000
+  },
+  {
+   "key": "https://knowablemagazine.org/content/article/society/2026/how-the-bantu-migration-remade-africa",
+   "firstQueuedAtMs": 1795588200000,
+   "playedAtMs": 1795588200000
+  },
+  {
+   "key": "https://www.nsf.gov/news/podcast-laser-could-break-laws-physics",
+   "firstQueuedAtMs": 1795588200000,
+   "playedAtMs": 1795588200000
+  },
+  {
+   "key": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+   "firstQueuedAtMs": 1795588200000,
+   "playedAtMs": 1795588200000
+  },
+  {
+   "key": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
+   "firstQueuedAtMs": 1795588200000,
+   "playedAtMs": 1795588200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/24/arts/design/thelma-golden-steps-down-studio-museum-harlem.html",
+   "firstQueuedAtMs": 1795588200000,
+   "playedAtMs": 1795588200000
+  },
+  {
+   "key": "01M5J4YTFMTRT7PG1Y8HAPNPYG",
+   "firstQueuedAtMs": 1795588200000,
+   "playedAtMs": 1795588200000
+  },
+  {
+   "key": "https://www.lakescientist.com/?p=12876",
+   "firstQueuedAtMs": 1795588200000,
+   "playedAtMs": 1795588200000
+  },
+  {
+   "key": "https://www.lakescientist.com/?p=12865",
+   "firstQueuedAtMs": 1795588200000,
+   "playedAtMs": 1795588200000
+  },
+  {
+   "key": "https://thehill.com/?p=6240909",
+   "firstQueuedAtMs": 1795588200000,
+   "playedAtMs": 1795588200000
+  },
+  {
+   "key": "https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/",
+   "firstQueuedAtMs": 1795588200000,
+   "playedAtMs": 1795588200000
+  },
+  {
+   "key": "https://knowablemagazine.org/content/article/health-disease/2026/disease-sniffing-tests-get-closer-to-reality",
+   "firstQueuedAtMs": 1795588200000,
+   "playedAtMs": 1795588200000
+  },
+  {
+   "key": "01M66XYRNK559YY01V2P37EBD7",
+   "firstQueuedAtMs": 1795588200000,
+   "playedAtMs": 1795588200000
   }
  ]
 }
