@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T10:50:08.150Z",
- "lastSyncBucket": 997556,
- "lastSyncCarryInSeconds": 1,
+ "updatedAt": "2026-11-25T11:05:10.682Z",
+ "lastSyncBucket": 997557,
+ "lastSyncCarryInSeconds": 67,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -26074,6 +26074,196 @@
    "key": "https://importai.substack.com/p/import-ai-473-the-uss-superintelligence",
    "firstQueuedAtMs": 1795600800000,
    "playedAtMs": 1795600800000
+  },
+  {
+   "key": "https://www.minnpost.com/?p=2244048",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "7eabfb8c-0d61-488d-b23a-45e962e33e9c",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "aWz2PhGM63VNAUn5QRhapm",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "https://www.infoq.com/presentations/ai-engineering-culture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=230212",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "https://restofworld.org/2026/ai-companion-apps-africa-character-ai/",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75761",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/25/wes-moore-ai-plan-axios-show",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "https://news.cnrs.fr/articles/ukraine-the-environment-as-a-target-i",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "https://lobste.rs/s/fxfl8u",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "https://the-decoder.com/?p=42829",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315755",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "74480064",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "6b056573cdc31c39933d9839",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "TP1MPAKIP3IF00",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "https://sifted.eu/articles/the-best-christmas-gifts-for-founders/",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "6afb57f444f979cc615251c1",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/217555/chiefs-news-thanksgiving-night-could-be-rainy-in-buffalo",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "https://www.fastcompany.com/91647946/to-tap-the-planets-heath-for-clean-energy-this-texas-company-leaned-on-oil-industry-knowledge",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03718-4",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03809-2",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "https://simpleflying.com/airlines-accept-airbus-a321xlr-heavier-101-tonne-maximum-takeoff-weight-flights-shorter-hour/",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/weather/california-king-tides-sf-la.html",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "https://www.interconnects.ai/p/where-i-stand-on-rsi",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "https://www.minnpost.com/?p=2244058",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "https://www.nsf.gov/news/nsf-invests-translating-low-dimensional-semiconductor",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "https://www.nsf.gov/news/nsf-announces-3-additional-topics-part-nsf-x-labs-initiative",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "https://knowablemagazine.org/content/article/food-environment/2026/tempo-satellite-enables-better-tracking-of-bad-air-days",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "74528747",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "https://www.nsf.gov/news/podcast-creating-thermal-cloaking-new-structures",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "changelog.com/posts/2627",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/upshot/tarmac-delays-flights-trump.html",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/realestate/new-england-oil-heating-homeowners.html",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
+  },
+  {
+   "key": "https://www.interconnects.ai/p/when-will-average-people-feel-ais",
+   "firstQueuedAtMs": 1795602600000,
+   "playedAtMs": 1795602600000
   }
  ]
 }
