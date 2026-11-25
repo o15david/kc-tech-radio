@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T16:28:33.340Z",
- "lastSyncBucket": 997567,
- "lastSyncCarryInSeconds": 95,
+ "updatedAt": "2026-11-25T16:35:22.160Z",
+ "lastSyncBucket": 997568,
+ "lastSyncCarryInSeconds": 15,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -28029,6 +28029,176 @@
    "key": "https://www.pv-magazine.com/?p=75793",
    "firstQueuedAtMs": 1795620600000,
    "playedAtMs": 1795620600000
+  },
+  {
+   "key": "mWW54SPoRwYkMwCEZKH7xK",
+   "firstQueuedAtMs": 1795622400000,
+   "playedAtMs": 1795622400000
+  },
+  {
+   "key": "https://thehill.com/?p=6240832",
+   "firstQueuedAtMs": 1795622400000,
+   "playedAtMs": 1795622400000
+  },
+  {
+   "key": "https://missouriindependent.com/?post_type=republished&p=33817",
+   "firstQueuedAtMs": 1795622400000,
+   "playedAtMs": 1795622400000
+  },
+  {
+   "key": "tag:daringfireball.net,2026:/linked//6.43778",
+   "firstQueuedAtMs": 1795622400000,
+   "playedAtMs": 1795622400000
+  },
+  {
+   "key": "https://thehill.com/?p=6242731",
+   "firstQueuedAtMs": 1795622400000,
+   "playedAtMs": 1795622400000
+  },
+  {
+   "key": "https://source.washu.edu/?p=736043",
+   "firstQueuedAtMs": 1795622400000,
+   "playedAtMs": 1795622400000
+  },
+  {
+   "key": "https://www.inc.com/divya-bhardwaj/eos-gen-z-growth-body-care-fragrance-community-feedback/91441914",
+   "firstQueuedAtMs": 1795622400000,
+   "playedAtMs": 1795622400000
+  },
+  {
+   "key": "news714820090",
+   "firstQueuedAtMs": 1795622400000,
+   "playedAtMs": 1795622400000
+  },
+  {
+   "key": "news714824282",
+   "firstQueuedAtMs": 1795622400000,
+   "playedAtMs": 1795622400000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315767",
+   "firstQueuedAtMs": 1795622400000,
+   "playedAtMs": 1795622400000
+  },
+  {
+   "key": "TP2FVTKGZAJQ00",
+   "firstQueuedAtMs": 1795622400000,
+   "playedAtMs": 1795622400000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
+   "firstQueuedAtMs": 1795622400000,
+   "playedAtMs": 1795622400000
+  },
+  {
+   "key": "https://www.inc.com/chris-morris/jensen-huang-faces-congress-1-week-trump-already-floating-pardon/91442744",
+   "firstQueuedAtMs": 1795622400000,
+   "playedAtMs": 1795622400000
+  },
+  {
+   "key": "TP2FC5KGZAJG00",
+   "firstQueuedAtMs": 1795622400000,
+   "playedAtMs": 1795622400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/business/corporate-america-democrats.html",
+   "firstQueuedAtMs": 1795622400000,
+   "playedAtMs": 1795622400000
+  },
+  {
+   "key": "https://electrek.co/?p=496048",
+   "firstQueuedAtMs": 1795622400000,
+   "playedAtMs": 1795622400000
+  },
+  {
+   "key": "108558576",
+   "firstQueuedAtMs": 1795622400000,
+   "playedAtMs": 1795622400000
+  },
+  {
+   "key": "https://www.engadget.com/2328122/nothings-ear-note-is-a-pair-of-earbuds-with-built-in-ai-notetaking/",
+   "firstQueuedAtMs": 1795622400000,
+   "playedAtMs": 1795622400000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/using-lunar-craters-as-free-radiation-shields-for-moon-base-nuclear-reactors",
+   "firstQueuedAtMs": 1795622400000,
+   "playedAtMs": 1795622400000
+  },
+  {
+   "key": "https://thehill.com/?p=6242772",
+   "firstQueuedAtMs": 1795622400000,
+   "playedAtMs": 1795622400000
+  },
+  {
+   "key": "https://fortune.com/?p=4650996&showAdminBar=true",
+   "firstQueuedAtMs": 1795622400000,
+   "playedAtMs": 1795622400000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=165003",
+   "firstQueuedAtMs": 1795622400000,
+   "playedAtMs": 1795622400000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/alec-bohm-royals-contract",
+   "firstQueuedAtMs": 1795622400000,
+   "playedAtMs": 1795622400000
+  },
+  {
+   "key": "https://www.thepitchkc.com/?p=960365",
+   "firstQueuedAtMs": 1795622400000,
+   "playedAtMs": 1795622400000
+  },
+  {
+   "key": "TOQP9AT96OSG00",
+   "firstQueuedAtMs": 1795622400000,
+   "playedAtMs": 1795622400000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1042162",
+   "firstQueuedAtMs": 1795622400000,
+   "playedAtMs": 1795622400000
+  },
+  {
+   "key": "https://www.kshb.com/us-news/tennessee-newspaper-says-its-new-owner-will-be-former-vice-president-al-gore",
+   "firstQueuedAtMs": 1795622400000,
+   "playedAtMs": 1795622400000
+  },
+  {
+   "key": "108559329",
+   "firstQueuedAtMs": 1795622400000,
+   "playedAtMs": 1795622400000
+  },
+  {
+   "key": "news714823320",
+   "firstQueuedAtMs": 1795622400000,
+   "playedAtMs": 1795622400000
+  },
+  {
+   "key": "news714818959",
+   "firstQueuedAtMs": 1795622400000,
+   "playedAtMs": 1795622400000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75787",
+   "firstQueuedAtMs": 1795622400000,
+   "playedAtMs": 1795622400000
+  },
+  {
+   "key": "56d856f0-006f-4d7f-80c7-7c349d26bce7",
+   "firstQueuedAtMs": 1795622400000,
+   "playedAtMs": 1795622400000
+  },
+  {
+   "key": "https://news.fnal.gov/?p=343638",
+   "firstQueuedAtMs": 1795622400000,
+   "playedAtMs": 1795622400000
+  },
+  {
+   "key": "https://www.infoq.com/news/2026/11/github-css-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795622400000,
+   "playedAtMs": 1795622400000
   }
  ]
 }
