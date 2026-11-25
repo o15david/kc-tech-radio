@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T06:20:06.140Z",
- "lastSyncBucket": 997547,
- "lastSyncCarryInSeconds": 17,
+ "updatedAt": "2026-11-25T06:35:23.869Z",
+ "lastSyncBucket": 997548,
+ "lastSyncCarryInSeconds": 21,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -24569,6 +24569,156 @@
    "key": "6aecf6db72f2d40001289c29",
    "firstQueuedAtMs": 1795584600000,
    "playedAtMs": 1795584600000
+  },
+  {
+   "key": "https://southdakotasearchlight.com/?p=26273",
+   "firstQueuedAtMs": 1795586400000,
+   "playedAtMs": 1795586400000
+  },
+  {
+   "key": "https://www.nbcnews.com/news/us-news/4-adults-2-kids-are-missing-plane-crashes-mississippi-coast-rcna611218",
+   "firstQueuedAtMs": 1795586400000,
+   "playedAtMs": 1795586400000
+  },
+  {
+   "key": "https://www.infoq.com/news/2026/11/openai-spark-fleet/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795586400000,
+   "playedAtMs": 1795586400000
+  },
+  {
+   "key": "https://lobste.rs/s/n0itvf",
+   "firstQueuedAtMs": 1795586400000,
+   "playedAtMs": 1795586400000
+  },
+  {
+   "key": "108559000",
+   "firstQueuedAtMs": 1795586400000,
+   "playedAtMs": 1795586400000
+  },
+  {
+   "key": "TP1BJ3KK3NYA00",
+   "firstQueuedAtMs": 1795586400000,
+   "playedAtMs": 1795586400000
+  },
+  {
+   "key": "https://hackaday.com/?p=1430014",
+   "firstQueuedAtMs": 1795586400000,
+   "playedAtMs": 1795586400000
+  },
+  {
+   "key": "https://abcnews.com/video/138424081/",
+   "firstQueuedAtMs": 1795586400000,
+   "playedAtMs": 1795586400000
+  },
+  {
+   "key": "6abff7f8aaf34f8d315f6b84",
+   "firstQueuedAtMs": 1795586400000,
+   "playedAtMs": 1795586400000
+  },
+  {
+   "key": "69dd14dc718b510536f28dad",
+   "firstQueuedAtMs": 1795586400000,
+   "playedAtMs": 1795586400000
+  },
+  {
+   "key": "TOZR4HVTTCZU00",
+   "firstQueuedAtMs": 1795586400000,
+   "playedAtMs": 1795586400000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312017",
+   "firstQueuedAtMs": 1795586400000,
+   "playedAtMs": 1795586400000
+  },
+  {
+   "key": "https://github.com/samcorcos/legatum/issues/147",
+   "firstQueuedAtMs": 1795586400000,
+   "playedAtMs": 1795586400000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312010",
+   "firstQueuedAtMs": 1795586400000,
+   "playedAtMs": 1795586400000
+  },
+  {
+   "key": "now_mtp_clip_kapur_261124",
+   "firstQueuedAtMs": 1795586400000,
+   "playedAtMs": 1795586400000
+  },
+  {
+   "key": "https://github.blog/?p=100002",
+   "firstQueuedAtMs": 1795586400000,
+   "playedAtMs": 1795586400000
+  },
+  {
+   "key": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+   "firstQueuedAtMs": 1795586400000,
+   "playedAtMs": 1795586400000
+  },
+  {
+   "key": "01M6HXVSQY6XGPSH12AFMB81B9",
+   "firstQueuedAtMs": 1795586400000,
+   "playedAtMs": 1795586400000
+  },
+  {
+   "key": "https://abcnews.com/Politics/trump-award-medal-freedom-former-nyc-mayor-rudy/story?id=138411544",
+   "firstQueuedAtMs": 1795586400000,
+   "playedAtMs": 1795586400000
+  },
+  {
+   "key": "https://michiganadvance.com/?p=116211",
+   "firstQueuedAtMs": 1795586400000,
+   "playedAtMs": 1795586400000
+  },
+  {
+   "key": "https://github.blog/?p=99949",
+   "firstQueuedAtMs": 1795586400000,
+   "playedAtMs": 1795586400000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/nation/u-s-jury-finds-chinese-tech-giant-huawei-guilty-of-conspiracy-to-steal-trade-secrets-bank-fraud",
+   "firstQueuedAtMs": 1795586400000,
+   "playedAtMs": 1795586400000
+  },
+  {
+   "key": "https://www.snexplores.org/?p=245678",
+   "firstQueuedAtMs": 1795586400000,
+   "playedAtMs": 1795586400000
+  },
+  {
+   "key": "https://restofworld.org/2026/taiwan-labor-strike-ai-profits/",
+   "firstQueuedAtMs": 1795586400000,
+   "playedAtMs": 1795586400000
+  },
+  {
+   "key": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers",
+   "firstQueuedAtMs": 1795586400000,
+   "playedAtMs": 1795586400000
+  },
+  {
+   "key": "https://krebsonsecurity.com/?p=74588",
+   "firstQueuedAtMs": 1795586400000,
+   "playedAtMs": 1795586400000
+  },
+  {
+   "key": "changelog.com/1/2835",
+   "firstQueuedAtMs": 1795586400000,
+   "playedAtMs": 1795586400000
+  },
+  {
+   "key": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+   "firstQueuedAtMs": 1795586400000,
+   "playedAtMs": 1795586400000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran",
+   "firstQueuedAtMs": 1795586400000,
+   "playedAtMs": 1795586400000
+  },
+  {
+   "key": "01M6HZ245M2MBZAF7ZQXKC85X6",
+   "firstQueuedAtMs": 1795586400000,
+   "playedAtMs": 1795586400000
   }
  ]
 }
