@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T22:50:24.250Z",
- "lastSyncBucket": 997580,
- "lastSyncCarryInSeconds": 4,
+ "updatedAt": "2026-11-25T23:05:11.347Z",
+ "lastSyncBucket": 997581,
+ "lastSyncCarryInSeconds": 72,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -30504,6 +30504,161 @@
    "key": "https://knowablemagazine.org/content/article/health-disease/2026/red-meat-allergy-how-ticks-spread-alpha-gal-syndrome",
    "firstQueuedAtMs": 1795644000000,
    "playedAtMs": 1795644000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/talking-politics-how-handle-awkward-family-run-ins-following-election/",
+   "firstQueuedAtMs": 1795645800000,
+   "playedAtMs": 1795645800000
+  },
+  {
+   "key": "74535524",
+   "firstQueuedAtMs": 1795645800000,
+   "playedAtMs": 1795645800000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/warsaw-mo-restaurants-adjust-boil-water-advisory-reaches-eighth-day/",
+   "firstQueuedAtMs": 1795645800000,
+   "playedAtMs": 1795645800000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/politics/alaska-ends-voter-data-agreement-with-justice-department-which-had-been-searching-for-noncitizens",
+   "firstQueuedAtMs": 1795645800000,
+   "playedAtMs": 1795645800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/how-rising-prices-are-affect-missourians-holiday-shopping/",
+   "firstQueuedAtMs": 1795645800000,
+   "playedAtMs": 1795645800000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/sparta-middle-school-students-raise-more-than-2100-angel-tree/",
+   "firstQueuedAtMs": 1795645800000,
+   "playedAtMs": 1795645800000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386789",
+   "firstQueuedAtMs": 1795645800000,
+   "playedAtMs": 1795645800000
+  },
+  {
+   "key": "TP12UIN3N09Q00",
+   "firstQueuedAtMs": 1795645800000,
+   "playedAtMs": 1795645800000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/study-finds-artemis-astronauts-will-enjoy-moon-grown-potatoes",
+   "firstQueuedAtMs": 1795645800000,
+   "playedAtMs": 1795645800000
+  },
+  {
+   "key": "https://lobste.rs/s/l6g7j1",
+   "firstQueuedAtMs": 1795645800000,
+   "playedAtMs": 1795645800000
+  },
+  {
+   "key": "TP2Y11KGZAIO00",
+   "firstQueuedAtMs": 1795645800000,
+   "playedAtMs": 1795645800000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=257101",
+   "firstQueuedAtMs": 1795645800000,
+   "playedAtMs": 1795645800000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3192614",
+   "firstQueuedAtMs": 1795645800000,
+   "playedAtMs": 1795645800000
+  },
+  {
+   "key": "https://lobste.rs/s/8rgqmw",
+   "firstQueuedAtMs": 1795645800000,
+   "playedAtMs": 1795645800000
+  },
+  {
+   "key": "TP2XL3KGZAK100",
+   "firstQueuedAtMs": 1795645800000,
+   "playedAtMs": 1795645800000
+  },
+  {
+   "key": "https://www.nbcnews.com/politics/elections/judge-halts-order-fulton-county-copies-2020-ballots-georgia-election-rcna611353",
+   "firstQueuedAtMs": 1795645800000,
+   "playedAtMs": 1795645800000
+  },
+  {
+   "key": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+   "firstQueuedAtMs": 1795645800000,
+   "playedAtMs": 1795645800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/after-layoffs-fairfax-workers-help-put-thanksgiving-dinner-table-kansas-city-families/",
+   "firstQueuedAtMs": 1795645800000,
+   "playedAtMs": 1795645800000
+  },
+  {
+   "key": "https://www.techdirt.com/?p=552306&preview=true&preview_id=552306",
+   "firstQueuedAtMs": 1795645800000,
+   "playedAtMs": 1795645800000
+  },
+  {
+   "key": "d91770c0-baea-4be9-b64d-b0f94e593c63",
+   "firstQueuedAtMs": 1795645800000,
+   "playedAtMs": 1795645800000
+  },
+  {
+   "key": "https://github.com/pportilla/atlas",
+   "firstQueuedAtMs": 1795645800000,
+   "playedAtMs": 1795645800000
+  },
+  {
+   "key": "https://www.canarymedia.com/articles/virtual-power-plants/new-net-zero-community-michigan-vpp",
+   "firstQueuedAtMs": 1795645800000,
+   "playedAtMs": 1795645800000
+  },
+  {
+   "key": "https://www.interconnects.ai/p/latest-open-artifacts-24-motif-3",
+   "firstQueuedAtMs": 1795645800000,
+   "playedAtMs": 1795645800000
+  },
+  {
+   "key": "https://importai.substack.com/p/import-ai-472-deepminds-cheating",
+   "firstQueuedAtMs": 1795645800000,
+   "playedAtMs": 1795645800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/raytown-man-indicted-meth-possession-firearms-violations-after-traffic-stop/",
+   "firstQueuedAtMs": 1795645800000,
+   "playedAtMs": 1795645800000
+  },
+  {
+   "key": "changelog.com/1/2836",
+   "firstQueuedAtMs": 1795645800000,
+   "playedAtMs": 1795645800000
+  },
+  {
+   "key": "https://www.rockmnation.com/165157/study-hall-mizzou-91-le-moyne-64",
+   "firstQueuedAtMs": 1795645800000,
+   "playedAtMs": 1795645800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/nyregion/macys-thanksgiving-parade-preparation-setup.html",
+   "firstQueuedAtMs": 1795645800000,
+   "playedAtMs": 1795645800000
+  },
+  {
+   "key": "https://importai.substack.com/p/import-ai-471-why-hugging-face-worries",
+   "firstQueuedAtMs": 1795645800000,
+   "playedAtMs": 1795645800000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4455765",
+   "firstQueuedAtMs": 1795645800000,
+   "playedAtMs": 1795645800000
+  },
+  {
+   "key": "changelog.com/1/2831",
+   "firstQueuedAtMs": 1795645800000,
+   "playedAtMs": 1795645800000
   }
  ]
 }
