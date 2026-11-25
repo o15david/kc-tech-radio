@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T20:20:22.052Z",
- "lastSyncBucket": 997575,
- "lastSyncCarryInSeconds": 73,
+ "updatedAt": "2026-11-25T20:35:16.181Z",
+ "lastSyncBucket": 997576,
+ "lastSyncCarryInSeconds": 14,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -29479,6 +29479,161 @@
    "key": "https://www.fastcompany.com/91648939/digital-duty-care-act-passes-australia-opposition-says-law-authoritarian",
    "firstQueuedAtMs": 1795635000000,
    "playedAtMs": 1795635000000
+  },
+  {
+   "key": "74534802",
+   "firstQueuedAtMs": 1795636800000,
+   "playedAtMs": 1795636800000
+  },
+  {
+   "key": "74534580",
+   "firstQueuedAtMs": 1795636800000,
+   "playedAtMs": 1795636800000
+  },
+  {
+   "key": "https://source.washu.edu/?p=736169",
+   "firstQueuedAtMs": 1795636800000,
+   "playedAtMs": 1795636800000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=302634",
+   "firstQueuedAtMs": 1795636800000,
+   "playedAtMs": 1795636800000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/the-event-horizon-telescope-views-the-dynamics-and-geometry-of-a-black-hole-jet-in-extreme-detailele",
+   "firstQueuedAtMs": 1795636800000,
+   "playedAtMs": 1795636800000
+  },
+  {
+   "key": "108559578",
+   "firstQueuedAtMs": 1795636800000,
+   "playedAtMs": 1795636800000
+  },
+  {
+   "key": "kZSuEcU4Mnoway9Af8Yt78",
+   "firstQueuedAtMs": 1795636800000,
+   "playedAtMs": 1795636800000
+  },
+  {
+   "key": "https://www.inc.com/sadiya-kherani/trump-posted-an-image-of-jensen-huang-holding-a-red-bra-women-in-tech-say-the-message-was-unmistakable/91442966",
+   "firstQueuedAtMs": 1795636800000,
+   "playedAtMs": 1795636800000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4426843",
+   "firstQueuedAtMs": 1795636800000,
+   "playedAtMs": 1795636800000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43318",
+   "firstQueuedAtMs": 1795636800000,
+   "playedAtMs": 1795636800000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386785",
+   "firstQueuedAtMs": 1795636800000,
+   "playedAtMs": 1795636800000
+  },
+  {
+   "key": "https://lobste.rs/s/wzlzlh",
+   "firstQueuedAtMs": 1795636800000,
+   "playedAtMs": 1795636800000
+  },
+  {
+   "key": "https://www.fastcompany.com/91648046/innovation-doesnt-scale-on-its-own",
+   "firstQueuedAtMs": 1795636800000,
+   "playedAtMs": 1795636800000
+  },
+  {
+   "key": "https://www.kshb.com/sports/your-guide-to-the-nfls-thanksgiving-week-games-from-wednesday-to-friday",
+   "firstQueuedAtMs": 1795636800000,
+   "playedAtMs": 1795636800000
+  },
+  {
+   "key": "https://thehill.com/?p=6243540",
+   "firstQueuedAtMs": 1795636800000,
+   "playedAtMs": 1795636800000
+  },
+  {
+   "key": "pKDADC2ZR8DKwM2wTFt2Xn",
+   "firstQueuedAtMs": 1795636800000,
+   "playedAtMs": 1795636800000
+  },
+  {
+   "key": "https://electrek.co/?p=496155",
+   "firstQueuedAtMs": 1795636800000,
+   "playedAtMs": 1795636800000
+  },
+  {
+   "key": "m8auDT96uDVUMMSxkLaFeG",
+   "firstQueuedAtMs": 1795636800000,
+   "playedAtMs": 1795636800000
+  },
+  {
+   "key": "https://www.kshb.com/sports/aaron-rodgers-says-he-found-out-about-benching-from-steelers-teammate-accuses-coach-of-inattentiveness",
+   "firstQueuedAtMs": 1795636800000,
+   "playedAtMs": 1795636800000
+  },
+  {
+   "key": "https://thehill.com/?p=6243528",
+   "firstQueuedAtMs": 1795636800000,
+   "playedAtMs": 1795636800000
+  },
+  {
+   "key": "https://www.engadget.com/2328630/state-ags-are-trying-to-stop-characterai-from-auctioning-off-users-chat-histories/",
+   "firstQueuedAtMs": 1795636800000,
+   "playedAtMs": 1795636800000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3192524",
+   "firstQueuedAtMs": 1795636800000,
+   "playedAtMs": 1795636800000
+  },
+  {
+   "key": "https://www.engadget.com/2328617/nasas-dart-mission-left-a-stadium-sized-crater-in-an-asteroid-the-esa-finds/",
+   "firstQueuedAtMs": 1795636800000,
+   "playedAtMs": 1795636800000
+  },
+  {
+   "key": "https://www.fastcompany.com/91649055/workers-hoard-ai-knowledge-to-stay-competitive-anthropic-report-says",
+   "firstQueuedAtMs": 1795636800000,
+   "playedAtMs": 1795636800000
+  },
+  {
+   "key": "https://danprice.ai/blog/opus-symphony",
+   "firstQueuedAtMs": 1795636800000,
+   "playedAtMs": 1795636800000
+  },
+  {
+   "key": "https://www.fastcompany.com/91647755/the-most-dangerous-election-disinformation-campaigns",
+   "firstQueuedAtMs": 1795636800000,
+   "playedAtMs": 1795636800000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/25/democrats-ai-safety-restrictions-openai-anthropic-axios",
+   "firstQueuedAtMs": 1795636800000,
+   "playedAtMs": 1795636800000
+  },
+  {
+   "key": "108559570",
+   "firstQueuedAtMs": 1795636800000,
+   "playedAtMs": 1795636800000
+  },
+  {
+   "key": "https://www.inc.com/chloe-aiello/hackers-breached-u-s-intelligence-agencies-with-a-tool-anyone-can-still-find-online/91443083",
+   "firstQueuedAtMs": 1795636800000,
+   "playedAtMs": 1795636800000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163903",
+   "firstQueuedAtMs": 1795636800000,
+   "playedAtMs": 1795636800000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/?p=217427",
+   "firstQueuedAtMs": 1795636800000,
+   "playedAtMs": 1795636800000
   }
  ]
 }
