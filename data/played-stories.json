@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T03:20:12.685Z",
- "lastSyncBucket": 997541,
- "lastSyncCarryInSeconds": 101,
+ "updatedAt": "2026-11-25T03:35:11.767Z",
+ "lastSyncBucket": 997542,
+ "lastSyncCarryInSeconds": 88,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -23559,6 +23559,161 @@
    "key": "https://blogs.nvidia.com/?p=99921",
    "firstQueuedAtMs": 1795573800000,
    "playedAtMs": 1795573800000
+  },
+  {
+   "key": "news714735967",
+   "firstQueuedAtMs": 1795575600000,
+   "playedAtMs": 1795575600000
+  },
+  {
+   "key": "74526361",
+   "firstQueuedAtMs": 1795575600000,
+   "playedAtMs": 1795575600000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/nixa-mo-celebrates-completion-new-police-headquarters/",
+   "firstQueuedAtMs": 1795575600000,
+   "playedAtMs": 1795575600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/24/us/politics/intelligence-nvidia-affair-congressional-briefing.html",
+   "firstQueuedAtMs": 1795575600000,
+   "playedAtMs": 1795575600000
+  },
+  {
+   "key": "https://hackaday.com/?p=1429981",
+   "firstQueuedAtMs": 1795575600000,
+   "playedAtMs": 1795575600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/doctor-discusses-needoh-toy-risks-alabama-poison-control-calls-increase-312/",
+   "firstQueuedAtMs": 1795575600000,
+   "playedAtMs": 1795575600000
+  },
+  {
+   "key": "TP1E0MKGIFQ300",
+   "firstQueuedAtMs": 1795575600000,
+   "playedAtMs": 1795575600000
+  },
+  {
+   "key": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+   "firstQueuedAtMs": 1795575600000,
+   "playedAtMs": 1795575600000
+  },
+  {
+   "key": "https://jabza.github.io/labs/dlr-rider/",
+   "firstQueuedAtMs": 1795575600000,
+   "playedAtMs": 1795575600000
+  },
+  {
+   "key": "https://www.quantamagazine.org/?p=169228",
+   "firstQueuedAtMs": 1795575600000,
+   "playedAtMs": 1795575600000
+  },
+  {
+   "key": "https://www.snexplores.org/?p=245915",
+   "firstQueuedAtMs": 1795575600000,
+   "playedAtMs": 1795575600000
+  },
+  {
+   "key": "cb906475-185c-4996-9281-512a2789b459",
+   "firstQueuedAtMs": 1795575600000,
+   "playedAtMs": 1795575600000
+  },
+  {
+   "key": "https://wisconsinexaminer.com/?p=49091",
+   "firstQueuedAtMs": 1795575600000,
+   "playedAtMs": 1795575600000
+  },
+  {
+   "key": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
+   "firstQueuedAtMs": 1795575600000,
+   "playedAtMs": 1795575600000
+  },
+  {
+   "key": "https://physicsworld.com/?p=131557",
+   "firstQueuedAtMs": 1795575600000,
+   "playedAtMs": 1795575600000
+  },
+  {
+   "key": "74525142",
+   "firstQueuedAtMs": 1795575600000,
+   "playedAtMs": 1795575600000
+  },
+  {
+   "key": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+   "firstQueuedAtMs": 1795575600000,
+   "playedAtMs": 1795575600000
+  },
+  {
+   "key": "https://www.lakescientist.com/?p=12896",
+   "firstQueuedAtMs": 1795575600000,
+   "playedAtMs": 1795575600000
+  },
+  {
+   "key": "https://johnsoncountypost.com/2026/11/24/four-bedroom-gardner-home-hits-the-market-at-1-7-million-302566/",
+   "firstQueuedAtMs": 1795575600000,
+   "playedAtMs": 1795575600000
+  },
+  {
+   "key": "71ab005b-aad2-4221-b5d2-f9fa4322a375",
+   "firstQueuedAtMs": 1795575600000,
+   "playedAtMs": 1795575600000
+  },
+  {
+   "key": "https://showme.missouri.edu/?p=87412",
+   "firstQueuedAtMs": 1795575600000,
+   "playedAtMs": 1795575600000
+  },
+  {
+   "key": "https://www.schneier.com/?p=72944",
+   "firstQueuedAtMs": 1795575600000,
+   "playedAtMs": 1795575600000
+  },
+  {
+   "key": "https://physicsworld.com/?p=130927",
+   "firstQueuedAtMs": 1795575600000,
+   "playedAtMs": 1795575600000
+  },
+  {
+   "key": "https://www.snexplores.org/?p=245892",
+   "firstQueuedAtMs": 1795575600000,
+   "playedAtMs": 1795575600000
+  },
+  {
+   "key": "https://stratechery.com/?p=21228",
+   "firstQueuedAtMs": 1795575600000,
+   "playedAtMs": 1795575600000
+  },
+  {
+   "key": "https://www.kshb.com/business/company-news/shein-agrees-to-100-million-to-settle-claims-of-misleading-customers",
+   "firstQueuedAtMs": 1795575600000,
+   "playedAtMs": 1795575600000
+  },
+  {
+   "key": "9f6019dc-007a-4bda-8dd2-a5d6a5d150a6",
+   "firstQueuedAtMs": 1795575600000,
+   "playedAtMs": 1795575600000
+  },
+  {
+   "key": "https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/",
+   "firstQueuedAtMs": 1795575600000,
+   "playedAtMs": 1795575600000
+  },
+  {
+   "key": "https://retractionwatch.com/?p=136576",
+   "firstQueuedAtMs": 1795575600000,
+   "playedAtMs": 1795575600000
+  },
+  {
+   "key": "https://sahanjournal.com/?p=89897",
+   "firstQueuedAtMs": 1795575600000,
+   "playedAtMs": 1795575600000
+  },
+  {
+   "key": "https://grist.org/?p=761039",
+   "firstQueuedAtMs": 1795575600000,
+   "playedAtMs": 1795575600000
   }
  ]
 }
