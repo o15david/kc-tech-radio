@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T18:20:31.195Z",
- "lastSyncBucket": 997571,
- "lastSyncCarryInSeconds": 16,
+ "updatedAt": "2026-11-25T18:35:33.687Z",
+ "lastSyncBucket": 997572,
+ "lastSyncCarryInSeconds": 3,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -28714,6 +28714,186 @@
    "key": "https://www.theverge.com/?p=1042278",
    "firstQueuedAtMs": 1795627800000,
    "playedAtMs": 1795627800000
+  },
+  {
+   "key": "https://missouriindependent.com/?post_type=republished&p=33853",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "https://dosmundos.com/?p=121581",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/sponsored-place-check-out-what-bbs-bullion-gold-silver-has-offer/",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "TOLV15T9NJLT00",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "108559469",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/weather/thanksgiving-weather-storm-rain-flooding.html",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43315",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "https://kansasreflector.com/?post_type=republished&p=64111",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "news714829081",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "news714828947",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "https://www.inc.com/rachel-suleymanov/corporate-credit-card-rate-score-lenders-borrowers-small-business-owners/91442552",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3192412",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "TP2L7BR24U9I00",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4426579",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "https://kcsoccerjournal.com/?p=8827",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "TP2I48R24U8V00",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "https://thehill.com/?p=6243181",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "108556442",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312205",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/an-overwhelming-devastation-raytown-police-identify-officer-killed-line-duty/",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "https://www.eetimes.com/?p=101804731",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "news714828936",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "news714825003",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315801",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/25/kushner-presses-netanyahu-gaza-peace-plan",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "https://www.inc.com/ken-sterling/nvidias-jensen-huang-decision-puts-corporate-governance-under-the-microscope/91442296",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "https://www.inc.com/sarah-bregel/maryland-is-expanding-menopause-care-the-law-could-give-employers-a-new-benefits-benchmark/91441747",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "https://www.fastcompany.com/91649046/mcdonalds-has-found-a-new-way-to-sell-burgers-to-people-who-dont-want-to-stop-playing-video-games",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "https://iahmed.me/post/nlogn/",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "https://fortune.com/?p=4651146&showAdminBar=true",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "74533204",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "YqrC7BHaHwLXFCA5TyFCwm",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "74533276",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=302600",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
+  },
+  {
+   "key": "https://michiganadvance.com/?post_type=republished&p=116242",
+   "firstQueuedAtMs": 1795629600000,
+   "playedAtMs": 1795629600000
   }
  ]
 }
