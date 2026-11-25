@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T11:50:14.177Z",
- "lastSyncBucket": 997558,
- "lastSyncCarryInSeconds": 127,
+ "updatedAt": "2026-11-25T12:05:18.663Z",
+ "lastSyncBucket": 997559,
+ "lastSyncCarryInSeconds": 15,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -26399,6 +26399,176 @@
    "key": "https://fortune.com/?p=4649204",
    "firstQueuedAtMs": 1795604400000,
    "playedAtMs": 1795604400000
+  },
+  {
+   "key": "https://wisconsinwatch.org/?p=1323473",
+   "firstQueuedAtMs": 1795606200000,
+   "playedAtMs": 1795606200000
+  },
+  {
+   "key": "https://flatlandkc.org/?p=199649",
+   "firstQueuedAtMs": 1795606200000,
+   "playedAtMs": 1795606200000
+  },
+  {
+   "key": "https://www.missourinet.com/?p=178034",
+   "firstQueuedAtMs": 1795606200000,
+   "playedAtMs": 1795606200000
+  },
+  {
+   "key": "e91ee79e-efab-407c-af2e-0de1210dbd31",
+   "firstQueuedAtMs": 1795606200000,
+   "playedAtMs": 1795606200000
+  },
+  {
+   "key": "74529619",
+   "firstQueuedAtMs": 1795606200000,
+   "playedAtMs": 1795606200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/thanksgiving-brings-first-snow-chance-season/",
+   "firstQueuedAtMs": 1795606200000,
+   "playedAtMs": 1795606200000
+  },
+  {
+   "key": "6aff5ef93554349c98f00f75",
+   "firstQueuedAtMs": 1795606200000,
+   "playedAtMs": 1795606200000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/24/not-going-tolerate-that-police-chief-melts-badge-officer-removed-job-amid-probe/",
+   "firstQueuedAtMs": 1795606200000,
+   "playedAtMs": 1795606200000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75770",
+   "firstQueuedAtMs": 1795606200000,
+   "playedAtMs": 1795606200000
+  },
+  {
+   "key": "https://abcnews.com/video/138435167/",
+   "firstQueuedAtMs": 1795606200000,
+   "playedAtMs": 1795606200000
+  },
+  {
+   "key": "https://earthsky.org/?p=50303",
+   "firstQueuedAtMs": 1795606200000,
+   "playedAtMs": 1795606200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/happening-today-army-detonate-lead-azide-iowa-ammunition-plant/",
+   "firstQueuedAtMs": 1795606200000,
+   "playedAtMs": 1795606200000
+  },
+  {
+   "key": "https://yaleclimateconnections.org/?p=144985",
+   "firstQueuedAtMs": 1795606200000,
+   "playedAtMs": 1795606200000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43292",
+   "firstQueuedAtMs": 1795606200000,
+   "playedAtMs": 1795606200000
+  },
+  {
+   "key": "https://www.nbcnews.com/news/us-news/iowa-lead-azide-explosion-dust-army-rcna611182",
+   "firstQueuedAtMs": 1795606200000,
+   "playedAtMs": 1795606200000
+  },
+  {
+   "key": "https://www.inc.com/jeff-haden/10-things-you-probably-arent-grateful-for-this-thanksgiving-but-should-be/91442701",
+   "firstQueuedAtMs": 1795606200000,
+   "playedAtMs": 1795606200000
+  },
+  {
+   "key": "6937095a008ae88504a14ec6",
+   "firstQueuedAtMs": 1795606200000,
+   "playedAtMs": 1795606200000
+  },
+  {
+   "key": "https://github.com/xoxorwr/pw-loudness-eq",
+   "firstQueuedAtMs": 1795606200000,
+   "playedAtMs": 1795606200000
+  },
+  {
+   "key": "TP22QBKGIFPC00",
+   "firstQueuedAtMs": 1795606200000,
+   "playedAtMs": 1795606200000
+  },
+  {
+   "key": "https://fortune.com/?p=4647543",
+   "firstQueuedAtMs": 1795606200000,
+   "playedAtMs": 1795606200000
+  },
+  {
+   "key": "TP0NF2KK3NYJ00",
+   "firstQueuedAtMs": 1795606200000,
+   "playedAtMs": 1795606200000
+  },
+  {
+   "key": "https://fortune.com/?p=4650626&showAdminBar=true",
+   "firstQueuedAtMs": 1795606200000,
+   "playedAtMs": 1795606200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/briefing/thanksgiving-travel-delays.html",
+   "firstQueuedAtMs": 1795606200000,
+   "playedAtMs": 1795606200000
+  },
+  {
+   "key": "74529550",
+   "firstQueuedAtMs": 1795606200000,
+   "playedAtMs": 1795606200000
+  },
+  {
+   "key": "https://thehill.com/?p=6241369",
+   "firstQueuedAtMs": 1795606200000,
+   "playedAtMs": 1795606200000
+  },
+  {
+   "key": "https://fortune.com/?p=4650697&showAdminBar=true",
+   "firstQueuedAtMs": 1795606200000,
+   "playedAtMs": 1795606200000
+  },
+  {
+   "key": "https://www.inc.com/joe-procopio/2026-was-the-angriest-year-in-tech-according-to-you/91442180",
+   "firstQueuedAtMs": 1795606200000,
+   "playedAtMs": 1795606200000
+  },
+  {
+   "key": "https://www.inc.com/kimanzi-constable/gap-knows-consumers-are-tired-of-ads-its-new-strategy-takes-a-different-route/91441979",
+   "firstQueuedAtMs": 1795606200000,
+   "playedAtMs": 1795606200000
+  },
+  {
+   "key": "74529285",
+   "firstQueuedAtMs": 1795606200000,
+   "playedAtMs": 1795606200000
+  },
+  {
+   "key": "https://fortune.com/?p=4650655&showAdminBar=true",
+   "firstQueuedAtMs": 1795606200000,
+   "playedAtMs": 1795606200000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261123231553.htm",
+   "firstQueuedAtMs": 1795606200000,
+   "playedAtMs": 1795606200000
+  },
+  {
+   "key": "https://fortune.com/?p=4650624&showAdminBar=true",
+   "firstQueuedAtMs": 1795606200000,
+   "playedAtMs": 1795606200000
+  },
+  {
+   "key": "https://wisconsinwatch.org/?p=1323337",
+   "firstQueuedAtMs": 1795606200000,
+   "playedAtMs": 1795606200000
+  },
+  {
+   "key": "https://thehill.com/?p=6241294",
+   "firstQueuedAtMs": 1795606200000,
+   "playedAtMs": 1795606200000
   }
  ]
 }
