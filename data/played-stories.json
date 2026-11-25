@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T16:50:20.139Z",
- "lastSyncBucket": 997568,
- "lastSyncCarryInSeconds": 15,
+ "updatedAt": "2026-11-25T17:05:24.392Z",
+ "lastSyncBucket": 997569,
+ "lastSyncCarryInSeconds": 11,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -28199,6 +28199,201 @@
    "key": "https://www.infoq.com/news/2026/11/github-css-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
    "firstQueuedAtMs": 1795622400000,
    "playedAtMs": 1795622400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/north-kansas-city-partners-with-outreach-group-cold-weather-shelter/",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/texas-county-health-officials-report-first-measles-case/",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "3ec48665-c5c4-49b1-ba48-db8dc38e5ca6",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/opinion/nyc-jeffries-schumer-mamdani-aoc-trump.html",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1028004",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "https://thehill.com/?p=6242707",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "https://www.kshb.com/politics/trump-says-he-plans-to-meet-with-el-sayed-over-medicare-for-all-proposal",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "https://www.sciencenews.org/?p=3182307",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312174",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3192352",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4426164",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "https://www.engadget.com/2328242/whatsapp-is-finally-offering-scheduled-messages/",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "WP-MKTW-0005367223",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "WP-MKTW-0005369700",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "TP2HGOKGIFQV00",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "https://thehill.com/?p=6242808",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "news714820499",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "WP-MKTW-0005368373",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "https://www.nasa.gov/?p=1067811",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "74532650",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/sponsored-place-check-out-whats-horizon-msu-athletics/",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "74531418",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163886",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "https://abcnews.com/video/138439653/",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "https://missouriindependent.com/?post_type=republished&p=33878",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/report-kenneth-walker-miss-bills-game-due-groin-injury/",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43312",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312165",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "232f363f-d1f7-47d5-b56f-e4a30b2dd9ce",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "news714825439",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315784",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "TP2GS1T3BZMR00",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4425976",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "108559321",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "https://www.inc.com/marcel-schwantes/how-can-you-tell-someone-has-bad-leadership-skills-look-for-these-5-warning-signs/91442587",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "305d30ba-84f6-48b8-a063-c56224fb03fd",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
+  },
+  {
+   "key": "https://www.inc.com/ashley-couto/linkedin-content-millions-people-per-year-grow-audience-marketing/91442007",
+   "firstQueuedAtMs": 1795624200000,
+   "playedAtMs": 1795624200000
   }
  ]
 }
