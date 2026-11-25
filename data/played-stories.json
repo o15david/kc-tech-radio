@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T17:50:12.592Z",
- "lastSyncBucket": 997570,
- "lastSyncCarryInSeconds": 18,
+ "updatedAt": "2026-11-25T18:05:09.330Z",
+ "lastSyncBucket": 997571,
+ "lastSyncCarryInSeconds": 16,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -28584,6 +28584,136 @@
    "key": "74532800",
    "firstQueuedAtMs": 1795626000000,
    "playedAtMs": 1795626000000
+  },
+  {
+   "key": "https://www.kshb.com/us-news/u-s-mint-now-selling-1-000-coin-bags-of-trump-dollars-for-1-350",
+   "firstQueuedAtMs": 1795627800000,
+   "playedAtMs": 1795627800000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/kansas-city-area-agencies-remember-life-of-raytown-police-corporal-joshua-kerr",
+   "firstQueuedAtMs": 1795627800000,
+   "playedAtMs": 1795627800000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/college-student-england-playing-soccer-us-killed-outside-popular-taco-restaurant/",
+   "firstQueuedAtMs": 1795627800000,
+   "playedAtMs": 1795627800000
+  },
+  {
+   "key": "https://thehill.com/?p=6242220",
+   "firstQueuedAtMs": 1795627800000,
+   "playedAtMs": 1795627800000
+  },
+  {
+   "key": "https://thehill.com/?p=6242753",
+   "firstQueuedAtMs": 1795627800000,
+   "playedAtMs": 1795627800000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1041460",
+   "firstQueuedAtMs": 1795627800000,
+   "playedAtMs": 1795627800000
+  },
+  {
+   "key": "https://thehill.com/?p=6242906",
+   "firstQueuedAtMs": 1795627800000,
+   "playedAtMs": 1795627800000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=302513",
+   "firstQueuedAtMs": 1795627800000,
+   "playedAtMs": 1795627800000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1041761",
+   "firstQueuedAtMs": 1795627800000,
+   "playedAtMs": 1795627800000
+  },
+  {
+   "key": "https://github.blog/?p=99982",
+   "firstQueuedAtMs": 1795627800000,
+   "playedAtMs": 1795627800000
+  },
+  {
+   "key": "XTZLdVnyRfWM9g7KRbu6MM",
+   "firstQueuedAtMs": 1795627800000,
+   "playedAtMs": 1795627800000
+  },
+  {
+   "key": "https://thehill.com/?p=6243090",
+   "firstQueuedAtMs": 1795627800000,
+   "playedAtMs": 1795627800000
+  },
+  {
+   "key": "dkT4pzcKYr6LWJrqVtT6Na",
+   "firstQueuedAtMs": 1795627800000,
+   "playedAtMs": 1795627800000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/suspect-brutal-stabbing-22-year-old-outside-childrens-center-arrested-trying-fly-france/",
+   "firstQueuedAtMs": 1795627800000,
+   "playedAtMs": 1795627800000
+  },
+  {
+   "key": "74533541",
+   "firstQueuedAtMs": 1795627800000,
+   "playedAtMs": 1795627800000
+  },
+  {
+   "key": "469980c3-b5e2-40d2-8b7c-15f4e9c833fc",
+   "firstQueuedAtMs": 1795627800000,
+   "playedAtMs": 1795627800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/10-year-old-girl-dies-after-being-shot-days-before-thanksgiving-sheriff-says/",
+   "firstQueuedAtMs": 1795627800000,
+   "playedAtMs": 1795627800000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=230421",
+   "firstQueuedAtMs": 1795627800000,
+   "playedAtMs": 1795627800000
+  },
+  {
+   "key": "TP2KHXT3BZM000",
+   "firstQueuedAtMs": 1795627800000,
+   "playedAtMs": 1795627800000
+  },
+  {
+   "key": "https://www.engadget.com/2328361/this-dollar1900-alienware-aurora-is-one-of-the-best-early-black-friday-pc-deals/",
+   "firstQueuedAtMs": 1795627800000,
+   "playedAtMs": 1795627800000
+  },
+  {
+   "key": "ovaWfGxb2rsvDAswUgbZm9",
+   "firstQueuedAtMs": 1795627800000,
+   "playedAtMs": 1795627800000
+  },
+  {
+   "key": "https://grist.org/?p=761510",
+   "firstQueuedAtMs": 1795627800000,
+   "playedAtMs": 1795627800000
+  },
+  {
+   "key": "https://www.nbcnews.com/news/us-news/mississippi-plane-crash-victims-members-prominent-florida-family-rcna611318",
+   "firstQueuedAtMs": 1795627800000,
+   "playedAtMs": 1795627800000
+  },
+  {
+   "key": "https://electrek.co/?p=496069",
+   "firstQueuedAtMs": 1795627800000,
+   "playedAtMs": 1795627800000
+  },
+  {
+   "key": "https://source.washu.edu/?p=736095",
+   "firstQueuedAtMs": 1795627800000,
+   "playedAtMs": 1795627800000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1042278",
+   "firstQueuedAtMs": 1795627800000,
+   "playedAtMs": 1795627800000
   }
  ]
 }
