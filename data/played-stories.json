@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T07:50:22.046Z",
- "lastSyncBucket": 997550,
- "lastSyncCarryInSeconds": 9,
+ "updatedAt": "2026-11-25T08:05:10.778Z",
+ "lastSyncBucket": 997551,
+ "lastSyncCarryInSeconds": 24,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -25054,6 +25054,186 @@
    "key": "https://www.societyforscience.org/?p=68104",
    "firstQueuedAtMs": 1795590000000,
    "playedAtMs": 1795590000000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1107299",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "https://abcnews.com/US/treasurys-fincen-cybersecurity-incident-includes-unauthorized-access-systems/story?id=138432822",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75549",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/nation/chinese-neuroscientist-at-princeton-held-by-ice-after-detention-at-d-c-airport",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75748",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "108559045",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "TP1FXTT9NJLS00",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "TP1RJ5KGIFPU00",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "https://www.infoq.com/news/2026/11/rust-1-100-never-types/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "https://www.eetimes.com/?p=101803937",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/arts/will-wind-ground-your-favorite-balloon-in-macys-thanksgiving-day-parade",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "TOYU4YKK3O0X00",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "https://dotat.at/@/2025-05-28-types.html",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "https://knowablemagazine.org/content/article/health-disease/2026/can-non-drug-approaches-ease-lives-dementia-patients",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "https://news.cnrs.fr/articles/surrogacy-in-keeping-with-chinese-tradition",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/books/review/notable-books.html",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "6ada9854c7124400012a82b0",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "https://knowablemagazine.org/content/article/living-world/2026/why-animal-blood-comes-in-different-colors",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "changelog.com/1/2833",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/24/crude-oil-gasoline-prices-down",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1107969",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "https://restofworld.org/2026/ai-datacenters-water-resistance-global/",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "https://krebsonsecurity.com/?p=74522",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "https://www.societyforscience.org/?p=67752",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "6ad7e7171eff6a0001bb99df",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "https://knowablemagazine.org/content/article/living-world/2026/the-quest-to-save-the-argentinean-burrowing-parrot",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "https://abcnews.com/video/138405884/",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "https://www.nsf.gov/news/podcast-can-americas-most-powerful-laser-unlock-universe",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "https://knowablemagazine.org/content/article/physical-world/2026/alpine-rock-glaciers-persist-even-in-warming-world",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "https://www.societyforscience.org/?p=67622",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
+  },
+  {
+   "key": "https://krebsonsecurity.com/?p=74480",
+   "firstQueuedAtMs": 1795591800000,
+   "playedAtMs": 1795591800000
   }
  ]
 }
