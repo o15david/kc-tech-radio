@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T14:20:14.017Z",
- "lastSyncBucket": 997563,
- "lastSyncCarryInSeconds": 71,
+ "updatedAt": "2026-11-25T14:35:11.162Z",
+ "lastSyncBucket": 997564,
+ "lastSyncCarryInSeconds": 109,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -27289,6 +27289,206 @@
    "key": "https://www.pv-magazine.com/?p=75781",
    "firstQueuedAtMs": 1795613400000,
    "playedAtMs": 1795613400000
+  },
+  {
+   "key": "74530942",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "https://missouriindependent.com/?post_type=republished&p=33837",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "https://thehill.com/?p=6241372",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=302504",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "91f563c3-535d-474f-a6a0-4b694361b783",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3192187",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "news714809400",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "news714820201",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "https://www.thepitchkc.com/?p=960188",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "108559195",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386757",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "108559186",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "https://www.engadget.com/2327916/five-solar-generators-going-for-deep-discounts-on-black-friday/",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "https://insideclimatenews.org/?p=116713",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1042071",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "f2cec860-ebde-4f59-a502-a593b910580a",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "https://www.upi.com/Top_News/US/2026/11/25/jury-convicts-Huawei/3151795587204/",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "https://www.inc.com/phil-rosen/anthropics-ipo-stock-price-dario-amodei-jensen-huang-scandal-nvidia-ceo/91442716",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311999",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "6b05d7ac755cac0001c8bd40",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/business/economy/inflation-pce-interest-rates.html",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "https://www.kshb.com/science-and-tech/trump-on-potential-jensen-huang-pardon-its-always-an-option",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "108557811",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "https://www.quantamagazine.org/?p=169596",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "TP21QNRKV2TZ00",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "news714807846",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "01M87EHEACB4SNPV680X1CZPQ1",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "https://thehill.com/?p=6242105",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "https://www.eetimes.com/?p=101804569",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "https://www.inc.com/sophie-meharenna/an-ai-just-saw-its-own-reflection-for-the-first-time-the-reaction-is-fascinating/91441919",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "https://www.fastcompany.com/91648890/driving-for-thanksgiving-these-are-the-worst-times-to-be-on-the-road-this-week",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "https://kansasreflector.com/?p=64184",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3192204",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43304",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "https://www.kshb.com/us-news/military/army-to-detonate-decades-old-lead-azide-at-iowa-facility-today",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "TP272HKGZAIQ00",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "9118ce2c-182a-4439-b7a3-e20fed56c835",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1040081",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
+  },
+  {
+   "key": "https://www.fastcompany.com/91647961/why-isnt-ai-changing-career-advice",
+   "firstQueuedAtMs": 1795615200000,
+   "playedAtMs": 1795615200000
   }
  ]
 }
