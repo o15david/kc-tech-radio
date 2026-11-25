@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T05:20:11.592Z",
- "lastSyncBucket": 997545,
- "lastSyncCarryInSeconds": 99,
+ "updatedAt": "2026-11-25T05:35:06.671Z",
+ "lastSyncBucket": 997546,
+ "lastSyncCarryInSeconds": 2,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -24244,6 +24244,186 @@
    "key": "https://krebsonsecurity.com/?p=74550",
    "firstQueuedAtMs": 1795581000000,
    "playedAtMs": 1795581000000
+  },
+  {
+   "key": "https://bridgemi.com/?p=84381",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/n-c-democrat-reflects-on-flipping-longtime-gop-seat-its-a-new-day-in-the-south",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "https://www.abovethenormnews.com/2026/11/24/king-tides-california/",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "https://lobste.rs/s/sj2pkv",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "https://sifted.eu/articles/25-biotech-startups-to-watch-according-to-vcs/",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "https://spacenews.com/?p=626973",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "01M742VWRK37TPYYPMXERSCWKN",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "https://spacenews.com/?p=626322",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "https://www.snexplores.org/?p=245767",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "https://blogs.nvidia.com/?p=99833",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "6af3b04d41212900011ace33",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "https://knowablemagazine.org/content/article/living-world/2026/save-the-parasites",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "https://krebsonsecurity.com/?p=74619",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/thousands-of-immigrants-with-legal-status-lose-medicaid-coverage",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "https://news.climate.columbia.edu/?p=129048",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "https://github.blog/?p=100077",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "https://arkansasadvocate.com/?p=31185",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "https://www.snexplores.org/?p=245762",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/bob-woodward-reveals-why-hes-naming-sources-in-new-book-secrets",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "https://www.snexplores.org/?p=245729",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "https://knowablemagazine.org/content/article/health-disease/2026/discoveries-about-power-of-innate-immune-system",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "https://news.climate.columbia.edu/?p=129001",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "https://importai.substack.com/p/import-ai-480-self-sustaining-space",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "https://www.lakescientist.com/?p=12885",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
+  },
+  {
+   "key": "01M6SMASVYY5EVPJPHFF7WNPFG",
+   "firstQueuedAtMs": 1795582800000,
+   "playedAtMs": 1795582800000
   }
  ]
 }
