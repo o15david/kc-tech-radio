@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T13:20:10.734Z",
- "lastSyncBucket": 997561,
- "lastSyncCarryInSeconds": 15,
+ "updatedAt": "2026-11-25T13:35:08.424Z",
+ "lastSyncBucket": 997562,
+ "lastSyncCarryInSeconds": 9,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -26969,6 +26969,156 @@
    "key": "https://earthsky.org/?p=367317",
    "firstQueuedAtMs": 1795609800000,
    "playedAtMs": 1795609800000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1552835",
+   "firstQueuedAtMs": 1795611600000,
+   "playedAtMs": 1795611600000
+  },
+  {
+   "key": "https://bridgemi.com/?p=84351",
+   "firstQueuedAtMs": 1795611600000,
+   "playedAtMs": 1795611600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html",
+   "firstQueuedAtMs": 1795611600000,
+   "playedAtMs": 1795611600000
+  },
+  {
+   "key": "https://capitolnewsillinois.com/?p=135060",
+   "firstQueuedAtMs": 1795611600000,
+   "playedAtMs": 1795611600000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1041221",
+   "firstQueuedAtMs": 1795611600000,
+   "playedAtMs": 1795611600000
+  },
+  {
+   "key": "WP-MKTW-0005368116",
+   "firstQueuedAtMs": 1795611600000,
+   "playedAtMs": 1795611600000
+  },
+  {
+   "key": "WP-MKTW-0005368772",
+   "firstQueuedAtMs": 1795611600000,
+   "playedAtMs": 1795611600000
+  },
+  {
+   "key": "https://www.techdirt.com/?p=552270&preview=true&preview_id=552270",
+   "firstQueuedAtMs": 1795611600000,
+   "playedAtMs": 1795611600000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/25/trump-tariffs-china",
+   "firstQueuedAtMs": 1795611600000,
+   "playedAtMs": 1795611600000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75784",
+   "firstQueuedAtMs": 1795611600000,
+   "playedAtMs": 1795611600000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/kansas/johnson-county/she-makes-the-difference-edy-from-op-named-service-dog-of-the-year-for-gluten-detection",
+   "firstQueuedAtMs": 1795611600000,
+   "playedAtMs": 1795611600000
+  },
+  {
+   "key": "https://eos.org/?p=252712",
+   "firstQueuedAtMs": 1795611600000,
+   "playedAtMs": 1795611600000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43305",
+   "firstQueuedAtMs": 1795611600000,
+   "playedAtMs": 1795611600000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312111",
+   "firstQueuedAtMs": 1795611600000,
+   "playedAtMs": 1795611600000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/best-black-friday-deals-11-25-2026-rcna610836",
+   "firstQueuedAtMs": 1795611600000,
+   "playedAtMs": 1795611600000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75783",
+   "firstQueuedAtMs": 1795611600000,
+   "playedAtMs": 1795611600000
+  },
+  {
+   "key": "news714735402",
+   "firstQueuedAtMs": 1795611600000,
+   "playedAtMs": 1795611600000
+  },
+  {
+   "key": "WP-MKTW-0005368337",
+   "firstQueuedAtMs": 1795611600000,
+   "playedAtMs": 1795611600000
+  },
+  {
+   "key": "https://michiganadvance.com/?p=116201",
+   "firstQueuedAtMs": 1795611600000,
+   "playedAtMs": 1795611600000
+  },
+  {
+   "key": "108558399",
+   "firstQueuedAtMs": 1795611600000,
+   "playedAtMs": 1795611600000
+  },
+  {
+   "key": "74530503",
+   "firstQueuedAtMs": 1795611600000,
+   "playedAtMs": 1795611600000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75782",
+   "firstQueuedAtMs": 1795611600000,
+   "playedAtMs": 1795611600000
+  },
+  {
+   "key": "https://thehill.com/?p=6241954",
+   "firstQueuedAtMs": 1795611600000,
+   "playedAtMs": 1795611600000
+  },
+  {
+   "key": "74530391",
+   "firstQueuedAtMs": 1795611600000,
+   "playedAtMs": 1795611600000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43296",
+   "firstQueuedAtMs": 1795611600000,
+   "playedAtMs": 1795611600000
+  },
+  {
+   "key": "https://www.royalsreview.com/?p=108498",
+   "firstQueuedAtMs": 1795611600000,
+   "playedAtMs": 1795611600000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/a-new-discovery-is-re-drawing-the-map-of-the-milky-way",
+   "firstQueuedAtMs": 1795611600000,
+   "playedAtMs": 1795611600000
+  },
+  {
+   "key": "news714805846",
+   "firstQueuedAtMs": 1795611600000,
+   "playedAtMs": 1795611600000
+  },
+  {
+   "key": "https://www.technologyreview.com/?p=1149808",
+   "firstQueuedAtMs": 1795611600000,
+   "playedAtMs": 1795611600000
+  },
+  {
+   "key": "https://abcnews.com/video/138435897/",
+   "firstQueuedAtMs": 1795611600000,
+   "playedAtMs": 1795611600000
   }
  ]
 }
