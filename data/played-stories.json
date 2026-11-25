@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T03:50:45.563Z",
- "lastSyncBucket": 997542,
- "lastSyncCarryInSeconds": 88,
+ "updatedAt": "2026-11-25T04:05:21.117Z",
+ "lastSyncBucket": 997543,
+ "lastSyncCarryInSeconds": 54,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -23714,6 +23714,176 @@
    "key": "https://grist.org/?p=761039",
    "firstQueuedAtMs": 1795575600000,
    "playedAtMs": 1795575600000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/best-players-in-mlb-25-and-under-heading-into-2027",
+   "firstQueuedAtMs": 1795577400000,
+   "playedAtMs": 1795577400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/catch-a-crook-springfield-woman-asks-help-finding-stolen-honda-motorcycle/",
+   "firstQueuedAtMs": 1795577400000,
+   "playedAtMs": 1795577400000
+  },
+  {
+   "key": "https://johnsoncountypost.com/2026/11/24/four-bedroom-overland-park-house-hits-the-market-at-1-39-million-302564/",
+   "firstQueuedAtMs": 1795577400000,
+   "playedAtMs": 1795577400000
+  },
+  {
+   "key": "108558983",
+   "firstQueuedAtMs": 1795577400000,
+   "playedAtMs": 1795577400000
+  },
+  {
+   "key": "TP1AGRT3BZLX00",
+   "firstQueuedAtMs": 1795577400000,
+   "playedAtMs": 1795577400000
+  },
+  {
+   "key": "https://www.nbcnews.com/news/us-news/judge-denies-bail-former-penn-state-fraternity-brother-drug-bust-rcna611106",
+   "firstQueuedAtMs": 1795577400000,
+   "playedAtMs": 1795577400000
+  },
+  {
+   "key": "https://www.thepitchkc.com/?p=960279",
+   "firstQueuedAtMs": 1795577400000,
+   "playedAtMs": 1795577400000
+  },
+  {
+   "key": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+   "firstQueuedAtMs": 1795577400000,
+   "playedAtMs": 1795577400000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4424413",
+   "firstQueuedAtMs": 1795577400000,
+   "playedAtMs": 1795577400000
+  },
+  {
+   "key": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
+   "firstQueuedAtMs": 1795577400000,
+   "playedAtMs": 1795577400000
+  },
+  {
+   "key": "https://buttons.joshwcomeau.com/",
+   "firstQueuedAtMs": 1795577400000,
+   "playedAtMs": 1795577400000
+  },
+  {
+   "key": "https://basilhalperin.com/essays/macrohistory.html",
+   "firstQueuedAtMs": 1795577400000,
+   "playedAtMs": 1795577400000
+  },
+  {
+   "key": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+   "firstQueuedAtMs": 1795577400000,
+   "playedAtMs": 1795577400000
+  },
+  {
+   "key": "https://scottaaronson.blog/?p=10362",
+   "firstQueuedAtMs": 1795577400000,
+   "playedAtMs": 1795577400000
+  },
+  {
+   "key": "https://www.proofatlas.ai/open-problems/",
+   "firstQueuedAtMs": 1795577400000,
+   "playedAtMs": 1795577400000
+  },
+  {
+   "key": "https://github.com/mawlicious/bo3mac",
+   "firstQueuedAtMs": 1795577400000,
+   "playedAtMs": 1795577400000
+  },
+  {
+   "key": "https://tmos.org.au/news/new-rewritable-displays-can-show-an-image-for-months-without-power/",
+   "firstQueuedAtMs": 1795577400000,
+   "playedAtMs": 1795577400000
+  },
+  {
+   "key": "https://www.canarymedia.com/articles/geothermal/data-center-heat-north-carolina-town",
+   "firstQueuedAtMs": 1795577400000,
+   "playedAtMs": 1795577400000
+  },
+  {
+   "key": "https://www.canarymedia.com/articles/heat-pumps/new-england-heat-pump-program-thriving",
+   "firstQueuedAtMs": 1795577400000,
+   "playedAtMs": 1795577400000
+  },
+  {
+   "key": "https://blogs.nvidia.com/?p=99955",
+   "firstQueuedAtMs": 1795577400000,
+   "playedAtMs": 1795577400000
+  },
+  {
+   "key": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+   "firstQueuedAtMs": 1795577400000,
+   "playedAtMs": 1795577400000
+  },
+  {
+   "key": "efb1ede8-7100-40bb-82cf-b0be9e7a00fd",
+   "firstQueuedAtMs": 1795577400000,
+   "playedAtMs": 1795577400000
+  },
+  {
+   "key": "https://simonwillison.net/2026/Nov/15/datasette/",
+   "firstQueuedAtMs": 1795577400000,
+   "playedAtMs": 1795577400000
+  },
+  {
+   "key": "https://www.kshb.com/politics/the-president/trump-offers-thanksgiving-pardons-for-turkeys-freedom-and-feathers-at-the-white-house",
+   "firstQueuedAtMs": 1795577400000,
+   "playedAtMs": 1795577400000
+  },
+  {
+   "key": "https://spaceflightnow.com/?p=74958",
+   "firstQueuedAtMs": 1795577400000,
+   "playedAtMs": 1795577400000
+  },
+  {
+   "key": "https://grist.org/?p=760889",
+   "firstQueuedAtMs": 1795577400000,
+   "playedAtMs": 1795577400000
+  },
+  {
+   "key": "https://www.nbcnews.com/news/us-news/fort-hood-nidal-hasan-firing-squad-execution-rcna611217",
+   "firstQueuedAtMs": 1795577400000,
+   "playedAtMs": 1795577400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/western-taney-county-fire-district-seeks-volunteer-firefighters/",
+   "firstQueuedAtMs": 1795577400000,
+   "playedAtMs": 1795577400000
+  },
+  {
+   "key": "https://news.mit.edu/2026/arianna-doss-named-2027-rhodes-scholar-1114",
+   "firstQueuedAtMs": 1795577400000,
+   "playedAtMs": 1795577400000
+  },
+  {
+   "key": "https://www.schneier.com/?p=72935",
+   "firstQueuedAtMs": 1795577400000,
+   "playedAtMs": 1795577400000
+  },
+  {
+   "key": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+   "firstQueuedAtMs": 1795577400000,
+   "playedAtMs": 1795577400000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4454191",
+   "firstQueuedAtMs": 1795577400000,
+   "playedAtMs": 1795577400000
+  },
+  {
+   "key": "https://retractionwatch.com/?p=136571",
+   "firstQueuedAtMs": 1795577400000,
+   "playedAtMs": 1795577400000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=302488",
+   "firstQueuedAtMs": 1795577400000,
+   "playedAtMs": 1795577400000
   }
  ]
 }
