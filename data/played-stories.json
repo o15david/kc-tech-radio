@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T01:50:19.924Z",
- "lastSyncBucket": 997538,
- "lastSyncCarryInSeconds": 91,
+ "updatedAt": "2026-11-25T02:05:07.814Z",
+ "lastSyncBucket": 997539,
+ "lastSyncCarryInSeconds": 93,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -23039,6 +23039,196 @@
    "key": "https://retractionwatch.com/?p=136616",
    "firstQueuedAtMs": 1795568400000,
    "playedAtMs": 1795568400000
+  },
+  {
+   "key": "74525801",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "https://kansasreflector.com/?post_type=republished&p=64166",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "https://thehill.com/?p=6241682",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "news714755942",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4454709",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "https://greydanus.github.io/2026/11/12/pengpt/",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "https://lobste.rs/s/7vm8mk",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "https://eamonnsullivan.co.uk/posts/the-artificial-monkey-mind/",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "https://www.canarymedia.com/articles/fossil-fuels/us-power-sector-emissions-fall-coal",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "74525744",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "https://news.climate.columbia.edu/?p=129134",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "https://www.canarymedia.com/articles/geothermal/google-superhot-geothermal-oregon-data-centers",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "https://github.blog/?p=100215",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4454690",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/church-member-donates-kidney-man-he-had-never-met/",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "https://www.nbcnews.com/politics/elections/judge-orders-fulton-county-turn-copies-2020-ballots-ga-election-board-rcna611220",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "https://github.blog/?p=100309",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "https://news.fnal.gov/?p=343338",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "https://spacenews.com/?p=628168",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "https://thehill.com/?p=6241572",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "74525712",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/missouri/kansas-city/for-kc-current-fans-the-streetcar-has-become-part-of-the-match-day-experience",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "https://physicsworld.com/?p=131622",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "https://blogs.nvidia.com/?p=100058",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "https://showme.missouri.edu/?p=87303",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "https://iowacapitaldispatch.com/?post_type=republished&p=61450",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "https://showme.missouri.edu/?p=87467",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "https://showme.missouri.edu/?p=87485",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "2f8286ed-31d8-499f-be62-25203d3b6a6d",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "https://www.schneier.com/?p=72949",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "https://physicsworld.com/?p=131594",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "https://www.snexplores.org/?p=245954",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "https://abcnews.com/US/plane-carrying-6-people-crashes-off-mississippi-coast/story?id=138427173",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
+  },
+  {
+   "key": "https://www.kshb.com/politics/immigration/kilmar-abrego-garcia-mistakenly-deported-maryland-man-reportedly-self-deporting-to-spain-after-legal-fights",
+   "firstQueuedAtMs": 1795570200000,
+   "playedAtMs": 1795570200000
   }
  ]
 }
