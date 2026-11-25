@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T11:20:08.566Z",
- "lastSyncBucket": 997557,
- "lastSyncCarryInSeconds": 67,
+ "updatedAt": "2026-11-25T11:35:16.349Z",
+ "lastSyncBucket": 997558,
+ "lastSyncCarryInSeconds": 127,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -26264,6 +26264,141 @@
    "key": "https://www.interconnects.ai/p/when-will-average-people-feel-ais",
    "firstQueuedAtMs": 1795602600000,
    "playedAtMs": 1795602600000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/missouri/kansas-city/mother-of-child-who-died-with-rare-genetic-disorder-creates-non-profit-to-help-families-for-life",
+   "firstQueuedAtMs": 1795604400000,
+   "playedAtMs": 1795604400000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=165117",
+   "firstQueuedAtMs": 1795604400000,
+   "playedAtMs": 1795604400000
+  },
+  {
+   "key": "https://www.nbcnews.com/sports/sports/thanksgiving-sports-guide-best-nfl-nba-games-watch-week-rcna610992",
+   "firstQueuedAtMs": 1795604400000,
+   "playedAtMs": 1795604400000
+  },
+  {
+   "key": "6af22caf8edcf6c224e0922b",
+   "firstQueuedAtMs": 1795604400000,
+   "playedAtMs": 1795604400000
+  },
+  {
+   "key": "6b0477f9f5de7b5e1546a250",
+   "firstQueuedAtMs": 1795604400000,
+   "playedAtMs": 1795604400000
+  },
+  {
+   "key": "https://www.snexplores.org/?p=246133",
+   "firstQueuedAtMs": 1795604400000,
+   "playedAtMs": 1795604400000
+  },
+  {
+   "key": "TP22IPN3N09400",
+   "firstQueuedAtMs": 1795604400000,
+   "playedAtMs": 1795604400000
+  },
+  {
+   "key": "WP-MKTW-0005368877",
+   "firstQueuedAtMs": 1795604400000,
+   "playedAtMs": 1795604400000
+  },
+  {
+   "key": "W7uxah2vbCmvUXQ6ziU6AW",
+   "firstQueuedAtMs": 1795604400000,
+   "playedAtMs": 1795604400000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
+   "firstQueuedAtMs": 1795604400000,
+   "playedAtMs": 1795604400000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75769",
+   "firstQueuedAtMs": 1795604400000,
+   "playedAtMs": 1795604400000
+  },
+  {
+   "key": "https://abcnews.com/video/138434718/",
+   "firstQueuedAtMs": 1795604400000,
+   "playedAtMs": 1795604400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/man-returns-home-after-months-away-find-5-strangers-living-there-police-say/",
+   "firstQueuedAtMs": 1795604400000,
+   "playedAtMs": 1795604400000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261124055854.htm",
+   "firstQueuedAtMs": 1795604400000,
+   "playedAtMs": 1795604400000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1042025",
+   "firstQueuedAtMs": 1795604400000,
+   "playedAtMs": 1795604400000
+  },
+  {
+   "key": "https://www.fastcompany.com/91647586/this-thanksgiving-lets-just-not-talk-about-ai",
+   "firstQueuedAtMs": 1795604400000,
+   "playedAtMs": 1795604400000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
+   "firstQueuedAtMs": 1795604400000,
+   "playedAtMs": 1795604400000
+  },
+  {
+   "key": "108558374",
+   "firstQueuedAtMs": 1795604400000,
+   "playedAtMs": 1795604400000
+  },
+  {
+   "key": "6b006c5e65ad856677941c3f",
+   "firstQueuedAtMs": 1795604400000,
+   "playedAtMs": 1795604400000
+  },
+  {
+   "key": "6a60f5fb9e22b75ba309c036",
+   "firstQueuedAtMs": 1795604400000,
+   "playedAtMs": 1795604400000
+  },
+  {
+   "key": "https://www.fastcompany.com/91643166/black-friday-is-bad-for-the-planet-these-brands-are-opting-out",
+   "firstQueuedAtMs": 1795604400000,
+   "playedAtMs": 1795604400000
+  },
+  {
+   "key": "https://northdakotamonitor.com/?post_type=republished&p=23673",
+   "firstQueuedAtMs": 1795604400000,
+   "playedAtMs": 1795604400000
+  },
+  {
+   "key": "https://thehill.com/?p=6241528",
+   "firstQueuedAtMs": 1795604400000,
+   "playedAtMs": 1795604400000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=302548",
+   "firstQueuedAtMs": 1795604400000,
+   "playedAtMs": 1795604400000
+  },
+  {
+   "key": "https://www.fastcompany.com/91645612/sacrebleu-f4-home-automation-console",
+   "firstQueuedAtMs": 1795604400000,
+   "playedAtMs": 1795604400000
+  },
+  {
+   "key": "https://www.fastcompany.com/91647554/coca-cola-ditched-the-ai-for-its-new-holiday-ad",
+   "firstQueuedAtMs": 1795604400000,
+   "playedAtMs": 1795604400000
+  },
+  {
+   "key": "https://fortune.com/?p=4649204",
+   "firstQueuedAtMs": 1795604400000,
+   "playedAtMs": 1795604400000
   }
  ]
 }
