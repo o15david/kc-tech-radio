@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T17:20:23.348Z",
- "lastSyncBucket": 997569,
- "lastSyncCarryInSeconds": 11,
+ "updatedAt": "2026-11-25T17:35:07.616Z",
+ "lastSyncBucket": 997570,
+ "lastSyncCarryInSeconds": 18,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -28394,6 +28394,196 @@
    "key": "https://www.inc.com/ashley-couto/linkedin-content-millions-people-per-year-grow-audience-marketing/91442007",
    "firstQueuedAtMs": 1795624200000,
    "playedAtMs": 1795624200000
+  },
+  {
+   "key": "74533245",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/sponsored-place-bolivar-flooring-has-you-covered-residential-commercial-projects/",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "https://thehill.com/?p=6243008",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/former-teacher-arrested-after-alleged-sexual-relationship-with-student/",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312153",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/grief-center-leaders-offer-ways-support-those-grieving-during-holidays/",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "TP2IVVR24U8T00",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "https://abcnews.com/video/138442558/",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "https://www.techdirt.com/?p=552308",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/beloved-kansas-city-area-reindeer-yukon-dies-weeks-before-christmas/",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3192422",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386769",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "https://thehill.com/?p=6242901",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/alma-reveals-a-dying-stars-final-breath-encoded-in-a-giant-ring-of-gas",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "WP-MKTW-0005369568",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "TP2IZ8KGZAIP00",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4426413",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "news714754444",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "news714823081",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "https://1password.com/blog/update-on-nov-2026-security-incident",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "https://www.inc.com/michael-tasner/netflix-thanksgiving-eve-nfl-game-habit-playbook/91442844",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash/",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315769",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "108559367",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4426330",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "cc7175f4-73a7-419f-b3bc-fff545abf31b",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "108559430",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "tag:daringfireball.net,2026:/linked//6.43779",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/217562/chiefs-cardinals-madden-simulation-week-11-welcoming-in-arizona",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4426209",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/us/economic-growth-recession-pessimism.html",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312085",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "news714822797",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/your-side-how-get-best-black-friday-deals-christmas-budget-advice/",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "news714828724",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "https://thehill.com/?p=6241678",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "https://www.technologyreview.com/?p=1149836",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
+  },
+  {
+   "key": "74532800",
+   "firstQueuedAtMs": 1795626000000,
+   "playedAtMs": 1795626000000
   }
  ]
 }
