@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T02:20:10.416Z",
- "lastSyncBucket": 997539,
- "lastSyncCarryInSeconds": 93,
+ "updatedAt": "2026-11-25T02:35:22.640Z",
+ "lastSyncBucket": 997540,
+ "lastSyncCarryInSeconds": 92,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -23229,6 +23229,191 @@
    "key": "https://www.kshb.com/politics/immigration/kilmar-abrego-garcia-mistakenly-deported-maryland-man-reportedly-self-deporting-to-spain-after-legal-fights",
    "firstQueuedAtMs": 1795570200000,
    "playedAtMs": 1795570200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/4-adults-2-children-aboard-plane-that-crashed-off-mississippi-coast-coast-guard-says/",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1108537",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "6f0e865b-a526-4fc8-805e-b95c23e91792",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "news714756658",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "https://www.inc.com/jason-aten/instagrams-boss-just-explained-why-its-ads-are-so-creepy/91442677",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "108558935",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "https://lobste.rs/s/qblr8z",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "TP1197KK3NYA00",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "news714736208",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "TOMCR0T96OSG00",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "TOS5H1T96OSH00",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "changelog.com/1/2840",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "https://www.nbcnews.com/politics/donald-trump/pardon-always-option-nvidia-jensen-huang-pleading-fifth-not-necessary-rcna611219",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "https://www.kshb.com/business/company-news/ticket-reseller-vivid-seats-sued-over-alleged-deceptive-drip-pricing-that-misled-fans-on-cost",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "https://fortune.com/?p=4647691&showAdminBar=true",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "https://physicsworld.com/?p=131321",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "https://stratechery.com/?p=21256",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "https://www.kshb.com/life/travel/faa-issues-limited-ground-stop-at-chicago-ohare-international-airport-over-equipment-outage",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "https://www.canarymedia.com/articles/heat-pumps/south-heat-pumps-reliable-grid",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "https://grist.org/?p=761073",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "c4f37284-009c-45db-ae4a-5e70f9e8b5b8",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "https://physicsworld.com/?p=131624",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "https://grist.org/?p=761074",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "https://spacenews.com/?p=627177",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "https://minnesotareformer.com/?post_type=republished&p=40005",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "https://news.mit.edu/2026/qa-why-building-math-muscles-remains-important-ai-era-1117",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/24/opinion/jensen-huang-nvidia-ceo-reinstated.html",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "https://news.mit.edu/2026/learning-language-of-machine-learning-jacob-andreas-1117",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "https://www.sci.news/?p=112757",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "https://www.kshb.com/life/money/unexpected-expenses-are-pushing-some-americans-further-behind-on-bills",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "https://www.sci.news/?p=112753",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "https://simonwillison.net/2026/Nov/16/llm/",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "https://blogs.nvidia.com/?p=100038",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "32b28552-c1a3-46ba-a41b-b683e66827b9",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "https://www.canarymedia.com/articles/politics/permitting-reform-uncertain-bet",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
+  },
+  {
+   "key": "https://retractionwatch.com/?p=136603",
+   "firstQueuedAtMs": 1795572000000,
+   "playedAtMs": 1795572000000
   }
  ]
 }
