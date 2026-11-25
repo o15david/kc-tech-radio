@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T09:50:07.431Z",
- "lastSyncBucket": 997554,
- "lastSyncCarryInSeconds": 7,
+ "updatedAt": "2026-11-25T10:05:15.407Z",
+ "lastSyncBucket": 997555,
+ "lastSyncCarryInSeconds": 100,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -25719,6 +25719,171 @@
    "key": "6ac82efd3a04b900019bb126",
    "firstQueuedAtMs": 1795597200000,
    "playedAtMs": 1795597200000
+  },
+  {
+   "key": "74528360",
+   "firstQueuedAtMs": 1795599000000,
+   "playedAtMs": 1795599000000
+  },
+  {
+   "key": "https://kansasreflector.com/?p=64133",
+   "firstQueuedAtMs": 1795599000000,
+   "playedAtMs": 1795599000000
+  },
+  {
+   "key": "6b04b09f5f8e6c0d7b84b05b",
+   "firstQueuedAtMs": 1795599000000,
+   "playedAtMs": 1795599000000
+  },
+  {
+   "key": "https://www.engadget.com/2323102/how-to-watch-every-2026-nfl-thanksgiving-streaming/",
+   "firstQueuedAtMs": 1795599000000,
+   "playedAtMs": 1795599000000
+  },
+  {
+   "key": "https://insideclimatenews.org/?p=116686",
+   "firstQueuedAtMs": 1795599000000,
+   "playedAtMs": 1795599000000
+  },
+  {
+   "key": "https://electrek.co/?p=495791",
+   "firstQueuedAtMs": 1795599000000,
+   "playedAtMs": 1795599000000
+  },
+  {
+   "key": "108559111",
+   "firstQueuedAtMs": 1795599000000,
+   "playedAtMs": 1795599000000
+  },
+  {
+   "key": "https://insideclimatenews.org/?p=116680",
+   "firstQueuedAtMs": 1795599000000,
+   "playedAtMs": 1795599000000
+  },
+  {
+   "key": "pSsg8KaxpSWvECbMiDwQfm",
+   "firstQueuedAtMs": 1795599000000,
+   "playedAtMs": 1795599000000
+  },
+  {
+   "key": "https://insideclimatenews.org/?p=116668",
+   "firstQueuedAtMs": 1795599000000,
+   "playedAtMs": 1795599000000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315715",
+   "firstQueuedAtMs": 1795599000000,
+   "playedAtMs": 1795599000000
+  },
+  {
+   "key": "https://physicsworld.com/?p=131530",
+   "firstQueuedAtMs": 1795599000000,
+   "playedAtMs": 1795599000000
+  },
+  {
+   "key": "https://physicsworld.com/?p=131525",
+   "firstQueuedAtMs": 1795599000000,
+   "playedAtMs": 1795599000000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/comet-enckes-shape-and-heat-revealed-in-thermal-glow",
+   "firstQueuedAtMs": 1795599000000,
+   "playedAtMs": 1795599000000
+  },
+  {
+   "key": "https://grist.org/?p=761476",
+   "firstQueuedAtMs": 1795599000000,
+   "playedAtMs": 1795599000000
+  },
+  {
+   "key": "https://physicsworld.com/?p=130932",
+   "firstQueuedAtMs": 1795599000000,
+   "playedAtMs": 1795599000000
+  },
+  {
+   "key": "https://indianacapitalchronicle.com/?p=28264",
+   "firstQueuedAtMs": 1795599000000,
+   "playedAtMs": 1795599000000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75754",
+   "firstQueuedAtMs": 1795599000000,
+   "playedAtMs": 1795599000000
+  },
+  {
+   "key": "https://fortune.com/?p=4650506",
+   "firstQueuedAtMs": 1795599000000,
+   "playedAtMs": 1795599000000
+  },
+  {
+   "key": "https://finalapproach.fm/field-notes/how-a-track-is-made/",
+   "firstQueuedAtMs": 1795599000000,
+   "playedAtMs": 1795599000000
+  },
+  {
+   "key": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+   "firstQueuedAtMs": 1795599000000,
+   "playedAtMs": 1795599000000
+  },
+  {
+   "key": "https://www.nsf.gov/news/nsf-lays-foundation-next-generation-technologies-support",
+   "firstQueuedAtMs": 1795599000000,
+   "playedAtMs": 1795599000000
+  },
+  {
+   "key": "https://www.nsf.gov/news/nsf-ukri-metascience-statement",
+   "firstQueuedAtMs": 1795599000000,
+   "playedAtMs": 1795599000000
+  },
+  {
+   "key": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+   "firstQueuedAtMs": 1795599000000,
+   "playedAtMs": 1795599000000
+  },
+  {
+   "key": "6ac5639436eaa80001466ae6",
+   "firstQueuedAtMs": 1795599000000,
+   "playedAtMs": 1795599000000
+  },
+  {
+   "key": "https://knowablemagazine.org/content/article/food-environment/2026/warming-is-changing-the-north-atlantic-lipid-food-web",
+   "firstQueuedAtMs": 1795599000000,
+   "playedAtMs": 1795599000000
+  },
+  {
+   "key": "https://www.nsf.gov/news/podcast-could-holographic-3d-printing-be-real",
+   "firstQueuedAtMs": 1795599000000,
+   "playedAtMs": 1795599000000
+  },
+  {
+   "key": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+   "firstQueuedAtMs": 1795599000000,
+   "playedAtMs": 1795599000000
+  },
+  {
+   "key": "https://news.cnrs.fr/articles/dwarf-elephants-and-the-cyclopes",
+   "firstQueuedAtMs": 1795599000000,
+   "playedAtMs": 1795599000000
+  },
+  {
+   "key": "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken",
+   "firstQueuedAtMs": 1795599000000,
+   "playedAtMs": 1795599000000
+  },
+  {
+   "key": "https://knowablemagazine.org/content/article/living-world/2026/science-of-transmissible-cancers",
+   "firstQueuedAtMs": 1795599000000,
+   "playedAtMs": 1795599000000
+  },
+  {
+   "key": "https://importai.substack.com/p/import-ai-475-swarm-scaling-google",
+   "firstQueuedAtMs": 1795599000000,
+   "playedAtMs": 1795599000000
+  },
+  {
+   "key": "https://ohiocapitaljournal.com/?p=43231",
+   "firstQueuedAtMs": 1795599000000,
+   "playedAtMs": 1795599000000
   }
  ]
 }
