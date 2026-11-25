@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T09:20:21.369Z",
- "lastSyncBucket": 997553,
- "lastSyncCarryInSeconds": 32,
+ "updatedAt": "2026-11-25T09:35:09.620Z",
+ "lastSyncBucket": 997554,
+ "lastSyncCarryInSeconds": 7,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -25529,6 +25529,196 @@
    "key": "changelog.com/1/2834",
    "firstQueuedAtMs": 1795595400000,
    "playedAtMs": 1795595400000
+  },
+  {
+   "key": "https://www.kcur.org/podcast/kansas-city-today/2026-11-25/a-call-for-clemency-in-kansas",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "https://wisconsinexaminer.com/?p=49070",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/best-wide-toe-box-shoes-rcna344749",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1552092",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1552734",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "perf:71",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "https://grist.org/?p=761461",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311928",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "perf:63",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75751",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315665",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "https://ohiocapitaljournal.com/?p=43154",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "108559051",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "https://www.engadget.com/2327693/amazon-autos-is-coming-to-the-uk-in-its-first-expansion-outside-the-us/",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "TP1P0SKJH6V400",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "perf:81",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4420670",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4419503",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "https://sifted.eu/articles/how-much-do-you-know-about-your-ai-agents-brnd/",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "https://hackaday.com/?p=1430173",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4421679",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "perf:68",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "https://physicsworld.com/?p=131757",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "https://www.fastcompany.com/91643044/disney-20-million-bet-characterai",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "perf:104",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "https://www.inc.com/jessica-stillman/ai-recommendations-are-supposed-to-help-shoppers-theyve-created-a-huge-problem-for-retailers/91431445",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "https://fortune.com/?p=4650532&showAdminBar=true",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "perf:94",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "https://www.canarymedia.com/articles/heat-pumps/maine-heat-pump-winter-discount",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "https://www.canarymedia.com/articles/electric-vehicles/uber-drivers-flocking-to-evs",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "https://fortune.com/?p=4649694&showAdminBar=true",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "https://indianacapitalchronicle.com/?post_type=republished&p=28265",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "perf:84",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "https://arxiv.org/abs/2611.31286",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "https://sifted.eu/articles/how-to-build-an-ai-native-vc-fund/",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
+  },
+  {
+   "key": "6ac82efd3a04b900019bb126",
+   "firstQueuedAtMs": 1795597200000,
+   "playedAtMs": 1795597200000
   }
  ]
 }
