@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T10:20:12.154Z",
- "lastSyncBucket": 997555,
- "lastSyncCarryInSeconds": 100,
+ "updatedAt": "2026-11-25T10:35:09.065Z",
+ "lastSyncBucket": 997556,
+ "lastSyncCarryInSeconds": 1,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -25884,6 +25884,196 @@
    "key": "https://ohiocapitaljournal.com/?p=43231",
    "firstQueuedAtMs": 1795599000000,
    "playedAtMs": 1795599000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/wendys-price-fixing-scheme-led-higher-menu-prices-lawsuit-alleges/",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/elevate-branson-thanksgiving-tradition-makes-sure-no-one-spends-holiday-alone/",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "892d442f-2a4d-4f09-a03c-0adb83a80b5b",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75763",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "5b75fe94732783174620abd7",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "https://fortune.com/?p=4650343&showAdminBar=true",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/25/gop-firm-executive-pacs-senators",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311710",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "74528486",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75760",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "WP-MKTW-0005368856",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "WP-MKTW-0005364055",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "WP-MKTW-0005368107",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/technology/thanksgiving-ai-doom-family.html",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/technology/personaltech/apps-widgets.html",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/arts/design/artport-whitney-museum-digital-art-ai-paul.html",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "696fb72a1edd5d44a19b910a",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "WP-MKTW-0005364071",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "https://abcnews.com/US/iowa-detonation-lead-azide-army/story?id=138425051",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "https://www.technologyreview.com/?p=1149702",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "108558609",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "https://news.ycombinator.com/item?id=50630809",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "https://www.lakescientist.com/remove-the-muck-cleaning-up-lake-okeechobees-nutrient-laden-sediment/",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "https://www.nsf.gov/news/podcast-new-quantum-enabled-materials",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "https://deepmind.google/blog/introducing-synthid-bio/",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "https://indianacapitalchronicle.com/?p=28268",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "https://importai.substack.com/p/import-ai-474-platonic-mindspace",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/opinion/airports-travel-holiday.html",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "https://knowablemagazine.org/content/article/mind/2026/new-research-on-autoimmune-causes-of-psychosis",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/25/nx-s1-6052361/buying-new-things-feels-wonderful-can-be-trap-break-the-cycle",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "https://knowablemagazine.org/content/article/living-world/2026/how-pitcher-plants-trap-their-prey",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "https://www.nsf.gov/news/podcast-can-prosthetic-limbs-feel-touch-haptic-feedback",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
+  },
+  {
+   "key": "https://importai.substack.com/p/import-ai-473-the-uss-superintelligence",
+   "firstQueuedAtMs": 1795600800000,
+   "playedAtMs": 1795600800000
   }
  ]
 }
