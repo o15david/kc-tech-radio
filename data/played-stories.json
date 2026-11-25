@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T19:20:12.432Z",
- "lastSyncBucket": 997573,
- "lastSyncCarryInSeconds": 36,
+ "updatedAt": "2026-11-25T19:35:18.764Z",
+ "lastSyncBucket": 997574,
+ "lastSyncCarryInSeconds": 63,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -29064,6 +29064,181 @@
    "key": "https://fortune.com/?p=4650926&showAdminBar=true",
    "firstQueuedAtMs": 1795631400000,
    "playedAtMs": 1795631400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/epa-reports-no-detectable-lead-heading-toward-missouri-after-iowa-detonation/",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
+  },
+  {
+   "key": "7af553c0-0d31-4f8d-b87d-2c67e666a44f",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
+  },
+  {
+   "key": "https://www.techdirt.com/?p=552348&preview=true&preview_id=552348",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4426772",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
+  },
+  {
+   "key": "https://www.nbcnews.com/sports/nfl/aaron-rodgers-blasts-steelers-coach-mike-mccarthy-benching-re-unhealth-rcna611340",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
+  },
+  {
+   "key": "https://www.inc.com/javier-david/how-the-dallas-cowboys-turned-a-thanksgiving-tradition-into-a-fundraising-powerhouse/91442953",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
+  },
+  {
+   "key": "WP-MKTW-0005370062",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
+  },
+  {
+   "key": "WP-MKTW-0005368385",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
+  },
+  {
+   "key": "https://www.inc.com/bruce-crumley/employers-think-women-take-nearly-all-parental-leave-the-data-tells-a-different-story/91442721",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
+  },
+  {
+   "key": "108559557",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
+  },
+  {
+   "key": "https://scottaaronson.blog/?p=10379",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1042409",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
+  },
+  {
+   "key": "74533979",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
+  },
+  {
+   "key": "https://www.nasa.gov/?p=1068194",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
+  },
+  {
+   "key": "74534306",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/norovirus-outbreak-sickens-over-120-students-staff-one-elementary-school/",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4426640",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
+  },
+  {
+   "key": "https://thehill.com/?p=6241685/",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
+  },
+  {
+   "key": "https://source.washu.edu/?p=736130",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=165077",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
+  },
+  {
+   "key": "https://fortune.com/?p=4651179&showAdminBar=true",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
+  },
+  {
+   "key": "https://www.kshb.com/weather/what-are-king-tides-these-exceptionally-high-tides-are-increasingly-flooding-coastal-communities",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
+  },
+  {
+   "key": "https://thehill.com/?p=6243130",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
+  },
+  {
+   "key": "https://www.inc.com/reed-wilson/your-it-department-shouldnt-have-a-single-point-of-failure/91441185",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
+  },
+  {
+   "key": "https://fortune.com/?p=4651233&showAdminBar=true",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/nyregion/mamdani-rent-freeze-legal-challenge-apartments.html",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
+  },
+  {
+   "key": "https://nautil.us/?p=1287074",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
+  },
+  {
+   "key": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
+  },
+  {
+   "key": "TP2MPHT96OSG00",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
+  },
+  {
+   "key": "TP2LZ4VTTCZX00",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163163",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
+  },
+  {
+   "key": "https://thehill.com/?p=6243210",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
+  },
+  {
+   "key": "https://www.fastcompany.com/91649024/ozempic-is-changing-the-way-americans-shop-and-eat-even-if-theyve-never-taken-it",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
+  },
+  {
+   "key": "https://www.kshb.com/politics/economy/ai-rout-drags-wall-street-lower-as-s-p-500-slumps",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
+  },
+  {
+   "key": "https://science.nasa.gov/directorates/smd/nasa-eyes-crop-candidates-for-future-menus/",
+   "firstQueuedAtMs": 1795633200000,
+   "playedAtMs": 1795633200000
   }
  ]
 }
