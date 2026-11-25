@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-24T23:50:12.404Z",
- "lastSyncBucket": 997534,
- "lastSyncCarryInSeconds": 5,
+ "updatedAt": "2026-11-25T00:05:19.073Z",
+ "lastSyncBucket": 997535,
+ "lastSyncCarryInSeconds": 100,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -22099,6 +22099,176 @@
    "key": "74522361",
    "firstQueuedAtMs": 1795561200000,
    "playedAtMs": 1795561200000
+  },
+  {
+   "key": "74525073",
+   "firstQueuedAtMs": 1795563000000,
+   "playedAtMs": 1795563000000
+  },
+  {
+   "key": "https://kansasreflector.com/?p=64179",
+   "firstQueuedAtMs": 1795563000000,
+   "playedAtMs": 1795563000000
+  },
+  {
+   "key": "https://www.nbcnews.com/politics/congress/criminal-charge-dropped-nc-house-democrat-lakesha-womack-rental-car-rcna611200",
+   "firstQueuedAtMs": 1795563000000,
+   "playedAtMs": 1795563000000
+  },
+  {
+   "key": "https://www.engadget.com/2321251/apple-watch-tell-time-without-looking-haptic-feedback/",
+   "firstQueuedAtMs": 1795563000000,
+   "playedAtMs": 1795563000000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1024777",
+   "firstQueuedAtMs": 1795563000000,
+   "playedAtMs": 1795563000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/judge-rules-favor-independence-setting-up-special-election-open-city-council-seat/",
+   "firstQueuedAtMs": 1795563000000,
+   "playedAtMs": 1795563000000
+  },
+  {
+   "key": "f775097c-be4c-407b-ba1b-2b121982c9a1",
+   "firstQueuedAtMs": 1795563000000,
+   "playedAtMs": 1795563000000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4424093",
+   "firstQueuedAtMs": 1795563000000,
+   "playedAtMs": 1795563000000
+  },
+  {
+   "key": "tag:daringfireball.net,2026:/linked//6.43777",
+   "firstQueuedAtMs": 1795563000000,
+   "playedAtMs": 1795563000000
+  },
+  {
+   "key": "news714753002",
+   "firstQueuedAtMs": 1795563000000,
+   "playedAtMs": 1795563000000
+  },
+  {
+   "key": "0603adb1-b569-49cb-8ac7-4e21654089d3",
+   "firstQueuedAtMs": 1795563000000,
+   "playedAtMs": 1795563000000
+  },
+  {
+   "key": "6b059b8f77321780ff17d2de",
+   "firstQueuedAtMs": 1795563000000,
+   "playedAtMs": 1795563000000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4424055",
+   "firstQueuedAtMs": 1795563000000,
+   "playedAtMs": 1795563000000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261123005337.htm",
+   "firstQueuedAtMs": 1795563000000,
+   "playedAtMs": 1795563000000
+  },
+  {
+   "key": "https://www.inc.com/victoria-salves/founder-startup-destroyed-health-became-business-idea-orion/91442312",
+   "firstQueuedAtMs": 1795563000000,
+   "playedAtMs": 1795563000000
+  },
+  {
+   "key": "news714640571",
+   "firstQueuedAtMs": 1795563000000,
+   "playedAtMs": 1795563000000
+  },
+  {
+   "key": "https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9",
+   "firstQueuedAtMs": 1795563000000,
+   "playedAtMs": 1795563000000
+  },
+  {
+   "key": "108558722",
+   "firstQueuedAtMs": 1795563000000,
+   "playedAtMs": 1795563000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/fans-march-behind-kansas-city-current-buses-celebrate-first-nwsl-title/",
+   "firstQueuedAtMs": 1795563000000,
+   "playedAtMs": 1795563000000
+  },
+  {
+   "key": "TP13RKVTTCZV00",
+   "firstQueuedAtMs": 1795563000000,
+   "playedAtMs": 1795563000000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311986",
+   "firstQueuedAtMs": 1795563000000,
+   "playedAtMs": 1795563000000
+  },
+  {
+   "key": "https://thehill.com/?p=6241454",
+   "firstQueuedAtMs": 1795563000000,
+   "playedAtMs": 1795563000000
+  },
+  {
+   "key": "https://github.com/sous-labs/songe",
+   "firstQueuedAtMs": 1795563000000,
+   "playedAtMs": 1795563000000
+  },
+  {
+   "key": "DgbnUxveQfN3VYuJ7uiCSj",
+   "firstQueuedAtMs": 1795563000000,
+   "playedAtMs": 1795563000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/24/missouri-family-perfect-harmony-two-siblings-get-perfect-act-scores/",
+   "firstQueuedAtMs": 1795563000000,
+   "playedAtMs": 1795563000000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/how-trump-may-have-profited-from-huangs-return-to-nvidia",
+   "firstQueuedAtMs": 1795563000000,
+   "playedAtMs": 1795563000000
+  },
+  {
+   "key": "f4A6eYH4txUnZpaT8hF8NR",
+   "firstQueuedAtMs": 1795563000000,
+   "playedAtMs": 1795563000000
+  },
+  {
+   "key": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
+   "firstQueuedAtMs": 1795563000000,
+   "playedAtMs": 1795563000000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163629",
+   "firstQueuedAtMs": 1795563000000,
+   "playedAtMs": 1795563000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/24/not-going-tolerate-that-police-chief-melts-badge-officer-removed-job-amid-probe/",
+   "firstQueuedAtMs": 1795563000000,
+   "playedAtMs": 1795563000000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=162895",
+   "firstQueuedAtMs": 1795563000000,
+   "playedAtMs": 1795563000000
+  },
+  {
+   "key": "https://www.nbcnews.com/news/us-news/kilmar-abrego-garcia-rcna611215",
+   "firstQueuedAtMs": 1795563000000,
+   "playedAtMs": 1795563000000
+  },
+  {
+   "key": "https://twitter.com/raul_bs3/status/2125213756238291075",
+   "firstQueuedAtMs": 1795563000000,
+   "playedAtMs": 1795563000000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=162880",
+   "firstQueuedAtMs": 1795563000000,
+   "playedAtMs": 1795563000000
   }
  ]
 }
