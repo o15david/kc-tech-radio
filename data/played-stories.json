@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T21:50:12.707Z",
- "lastSyncBucket": 997578,
- "lastSyncCarryInSeconds": 106,
+ "updatedAt": "2026-11-25T22:05:21.985Z",
+ "lastSyncBucket": 997579,
+ "lastSyncCarryInSeconds": 6,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -29949,6 +29949,211 @@
    "key": "https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/",
    "firstQueuedAtMs": 1795640400000,
    "playedAtMs": 1795640400000
+  },
+  {
+   "key": "https://ohiocapitaljournal.com/?post_type=republished&p=43246",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/your-side-how-avoid-fake-ads-websites-products-cyber-monday/",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "mNTcKNY7crqVvGWqjbGCad",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "accf1de1-4a47-4886-bd42-a57b5ef6ad60",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "https://www.inc.com/amaya-nichole/wonder-says-grubhub-is-not-for-sale-1-day-after-reports-said-it-was/91442856",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "108559571",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1042221",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "WP-MKTW-0005370356",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "TP2TX9KGIFPV00",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "https://www.inc.com/danielle-forte/taylor-swift-viral-uggs-meme-free-marketing/91442833",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "https://defang.io/blog/post/security-incident-november-2026/",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "https://www.engadget.com/2328767/gadgets-instantly-upgrade-thanksgiving-feast/",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "TP2CF9T9NJLU00",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "74525704",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4427161",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/kcfd-says-1-hospitalized-after-housefire-chestnut-avenue/",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "https://www.inc.com/amaya-nichole/best-buy-closing-stores-list-shuttered-locations-2026/91442028",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/us/iowa-army-ammunition-blast.html",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "https://www.inc.com/kamya-marwah/wendys-dynamic-pricing-lawsuit-shifting-consumer-loyalties/91443019",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312243",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "https://s.conao3.com/blog/2026/e4f733",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "https://www.kshb.com/politics/economy/rising-inflation-is-setting-consumers-up-for-a-holiday-squeeze",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "https://lobste.rs/s/7x2mrq",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312043",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "https://thehill.com/?p=6243923",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "https://kansasreflector.com/?post_type=republished&p=64222",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "https://fortune.com/?p=4650630&showAdminBar=true",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312080",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "74535282",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "36004a3c-7ef1-4fca-a6f5-6cf55a8f7b8b",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312060",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "74535144",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "74535252",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "https://link.mail.beehiiv.com/ss/c/u001.dSnm3kaGd0BkNqLYPjeMf_DKThdpaPaB9_aROy42m3-QkrpXFAupeHADtSyezHztzSRqfdI5KA69nA7xk0zTSXEmevCz9Jn_3XGqFo9_wa9heqdjYA7koSefo0645oHtZUTxAXvsPPxgCxH7dLfyFNxa0ZqyMJY82henDnNsQN-rOx9CBgUS5P7BeqpnR2P4129li99dh9gmz8vBPO2Lq_Hgkt45Qv8hwgHhl6y2iNc/4w1/gLJ7NcnzQvaYNBeGsZZNXw/h29/h001.Znd-H5QdA3EP9QRTOvdCiwRL8aFrdqCF14vNLIUqogE",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "https://link.mail.beehiiv.com/ss/c/u001.dSnm3kaGd0BkNqLYPjeMf0gyeM8tESkQ4qmvKtcxeZ9Sf8FWzyiEWE10HHsJrV5cblVac8sPVuUw3gneLIw3rtqW6_4IEyEyGCvBdTH6tfKtx4hRcRZzrew8RfHWk9lJYhE7qhWf23ISlzVNOGbSJvTr2J-uvyoHbi1X-zfsU-ngXjQ0ixvrG7-PfEATPU7N2SdtS_z5OgbDZJY7_Frp_NwRj1pnREJLV_MDSi2eLsk/4w1/gLJ7NcnzQvaYNBeGsZZNXw/h34/h001.fmTpXKaeK3vANi5mXDpFryf7bgGAOF5EHySIDrU8Rqc",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
+  },
+  {
+   "key": "https://link.mail.beehiiv.com/ss/c/u001.Q334NVcZU4O6L6VKRz8ijB1TBWraWSjSa1EgItxTfJGLIvJAG36TdoN_RcL5Qcb4l-TTKJ7kJ40VnFns1HNbTrS7dbLgPHI8dLrwXl8iOfb2ljYNEeE0q2TWET6YxEhgc6wA30v1AH50GDP_JrWdpfw6iHeNP3iHPmg1Okuc15LM_YgEz70HrC7vERiFIqCa8Sqtm7HUEUel9ZF6nKwUiAO-ASbX5Wmhwp-bsMVrhj0/4w1/gLJ7NcnzQvaYNBeGsZZNXw/h40/h001.29eGcTCDbPaOaUGtm4rpW1MlQw1xbHsH0j0JTTEFnwM",
+   "firstQueuedAtMs": 1795642200000,
+   "playedAtMs": 1795642200000
   }
  ]
 }
