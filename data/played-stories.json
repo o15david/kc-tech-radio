@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T17:20:09.497Z",
- "lastSyncBucket": 997617,
+ "updatedAt": "2026-11-26T17:35:18.998Z",
+ "lastSyncBucket": 997618,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -37369,6 +37369,136 @@
    "key": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o#0",
    "firstQueuedAtMs": 1795710600000,
    "playedAtMs": 1795710600000
+  },
+  {
+   "key": "74542785",
+   "firstQueuedAtMs": 1795712400000,
+   "playedAtMs": 1795712400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/26/first-alert-weather-yep-snow-thanksgiving/",
+   "firstQueuedAtMs": 1795712400000,
+   "playedAtMs": 1795712400000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/world/zelenskyy-warns-of-imminent-major-russian-attack-on-ukraines-power-grid",
+   "firstQueuedAtMs": 1795712400000,
+   "playedAtMs": 1795712400000
+  },
+  {
+   "key": "https://www.royalsreview.com/?p=108482",
+   "firstQueuedAtMs": 1795712400000,
+   "playedAtMs": 1795712400000
+  },
+  {
+   "key": "STa6j6bceXkia5LgSaJnPA",
+   "firstQueuedAtMs": 1795712400000,
+   "playedAtMs": 1795712400000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43343",
+   "firstQueuedAtMs": 1795712400000,
+   "playedAtMs": 1795712400000
+  },
+  {
+   "key": "https://www.infoq.com/news/2026/11/qcon-sf-26-kill-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795712400000,
+   "playedAtMs": 1795712400000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
+   "firstQueuedAtMs": 1795712400000,
+   "playedAtMs": 1795712400000
+  },
+  {
+   "key": "https://devnull.land/amd-specific-llama-cpp",
+   "firstQueuedAtMs": 1795712400000,
+   "playedAtMs": 1795712400000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312180",
+   "firstQueuedAtMs": 1795712400000,
+   "playedAtMs": 1795712400000
+  },
+  {
+   "key": "https://thehill.com/?p=6241424",
+   "firstQueuedAtMs": 1795712400000,
+   "playedAtMs": 1795712400000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1035932",
+   "firstQueuedAtMs": 1795712400000,
+   "playedAtMs": 1795712400000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1043228",
+   "firstQueuedAtMs": 1795712400000,
+   "playedAtMs": 1795712400000
+  },
+  {
+   "key": "news714909135",
+   "firstQueuedAtMs": 1795712400000,
+   "playedAtMs": 1795712400000
+  },
+  {
+   "key": "https://fortune.com/?p=4648657&showAdminBar=true",
+   "firstQueuedAtMs": 1795712400000,
+   "playedAtMs": 1795712400000
+  },
+  {
+   "key": "https://www.nbcnews.com/business/economy/trump-country-specific-tariffs-excess-capacity-rcna611087",
+   "firstQueuedAtMs": 1795712400000,
+   "playedAtMs": 1795712400000
+  },
+  {
+   "key": "https://nautil.us/?p=1287085",
+   "firstQueuedAtMs": 1795712400000,
+   "playedAtMs": 1795712400000
+  },
+  {
+   "key": "https://twitter.com/ElliotC1/status/2125689373337489419",
+   "firstQueuedAtMs": 1795712400000,
+   "playedAtMs": 1795712400000
+  },
+  {
+   "key": "https://github.com/samueleverett01/bss-permanent-separations",
+   "firstQueuedAtMs": 1795712400000,
+   "playedAtMs": 1795712400000
+  },
+  {
+   "key": "https://fortune.com/?p=4651862&showAdminBar=true",
+   "firstQueuedAtMs": 1795712400000,
+   "playedAtMs": 1795712400000
+  },
+  {
+   "key": "https://www.scmp.com/news/world/europe/article/3375963/spains-pablo-hernandez-de-cos-succeed-lagarde-european-central-bank-chief",
+   "firstQueuedAtMs": 1795712400000,
+   "playedAtMs": 1795712400000
+  },
+  {
+   "key": "https://lobste.rs/s/obzyyl",
+   "firstQueuedAtMs": 1795712400000,
+   "playedAtMs": 1795712400000
+  },
+  {
+   "key": "https://www.dw.com/en/on-his-last-africa-trip-steinmeier-urges-german-firms-to-invest-and-take-risks-as-china-pushes-ahead/a-80067717?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795712400000,
+   "playedAtMs": 1795712400000
+  },
+  {
+   "key": "https://news.sky.com/story/witnesses-contacted-as-us-probe-into-world-cup-sell-off-plan-intensifies-13616919",
+   "firstQueuedAtMs": 1795712400000,
+   "playedAtMs": 1795712400000
+  },
+  {
+   "key": "https://www.theguardian.com/politics/2026/nov/26/uk-bill-to-implement-eu-deal-closer-future-ties",
+   "firstQueuedAtMs": 1795712400000,
+   "playedAtMs": 1795712400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795704454",
+   "firstQueuedAtMs": 1795712400000,
+   "playedAtMs": 1795712400000
   }
  ]
 }
