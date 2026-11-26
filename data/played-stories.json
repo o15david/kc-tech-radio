@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T06:50:21.376Z",
- "lastSyncBucket": 997596,
- "lastSyncCarryInSeconds": 103,
+ "updatedAt": "2026-11-26T07:05:05.379Z",
+ "lastSyncBucket": 997597,
+ "lastSyncCarryInSeconds": 58,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -33554,6 +33554,196 @@
    "key": "https://minnesotareformer.com/?p=39961",
    "firstQueuedAtMs": 1795672800000,
    "playedAtMs": 1795672800000
+  },
+  {
+   "key": "https://www.infoq.com/news/2026/11/mock-service-worker-v3/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "https://arkansasadvocate.com/?p=31074",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/26/g-s1-155934/andy-taylor-duran-duran-obit",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75807",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75806",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "https://www.infoq.com/news/2026/11/microsoft-ignite-2026-recap/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "https://lobste.rs/s/w4kxiz",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315835",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75805",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "https://lobste.rs/s/bl8gp8",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "6ac91b895442f8c22c4a842f",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "68a74f4bac61cbbb255166f7",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "https://www.dw.com/en/india-news-resolve-tariff-concerns-in-trade-talks-india-tells-us/live-80056202?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "67bccd2587d7d823b73305d9",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "https://swarkentin.github.io/synth-patch-hero/",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "https://wisconsinexaminer.com/?p=49062",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795557847",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795513887",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795604127",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795670915",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "https://www.dw.com/en/€561-billion-and-still-not-enough-germany-s-2027-budget-exposes-a-coalition-on-the-brink/a-80052664?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "https://wisconsinexaminer.com/?p=49069",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "9.7435419",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "9.7435339",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "https://wisconsinexaminer.com/?p=49051",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "9.7435304",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "9.7435246",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "https://www.dw.com/en/eu-must-set-out-a-new-timeline-for-cage-free-farming-court-rules/a-80051729?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "https://flatwaterfreepress.org/?p=20487",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "https://www.dw.com/en/nigeria-s-upcoming-election-marred-by-rising-ai-disinformation/a-79946897?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "https://www.dw.com/en/ukraine-poland-to-set-up-no-fly-zone-near-ukraine-border/live-80047122?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "https://www.dw.com/en/us-plans-new-tariffs-on-eu-china-and-12-others/a-80050872?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo#1",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "https://southdakotasearchlight.com/?p=26260",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "https://www.dw.com/en/german-firms-eye-africa-as-global-trade-shocks-hit-traditional-markets/a-80047671?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "https://www.theguardian.com/science/2026/nov/25/china-sends-first-pakistani-astronaut-into-space",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
+  },
+  {
+   "key": "https://oklahomavoice.com/?post_type=republished&p=22811",
+   "firstQueuedAtMs": 1795674600000,
+   "playedAtMs": 1795674600000
   }
  ]
 }
