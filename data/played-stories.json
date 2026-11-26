@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T11:20:18.278Z",
- "lastSyncBucket": 997605,
+ "updatedAt": "2026-11-26T11:35:26.648Z",
+ "lastSyncBucket": 997606,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -35129,6 +35129,156 @@
    "key": "9.7436760",
    "firstQueuedAtMs": 1795689000000,
    "playedAtMs": 1795689000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/26/light-thanksgiving-morning-snow-some-quickly-drying-afternoon/",
+   "firstQueuedAtMs": 1795690800000,
+   "playedAtMs": 1795690800000
+  },
+  {
+   "key": "https://arkansasadvocate.com/?p=31119",
+   "firstQueuedAtMs": 1795690800000,
+   "playedAtMs": 1795690800000
+  },
+  {
+   "key": "26329711-ce94-4eb6-afd7-870cc1fc1cca",
+   "firstQueuedAtMs": 1795690800000,
+   "playedAtMs": 1795690800000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43327",
+   "firstQueuedAtMs": 1795690800000,
+   "playedAtMs": 1795690800000
+  },
+  {
+   "key": "68b1fd11d25a98462e41c986",
+   "firstQueuedAtMs": 1795690800000,
+   "playedAtMs": 1795690800000
+  },
+  {
+   "key": "https://www.infoq.com/news/2026/11/SRE-based-training/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795690800000,
+   "playedAtMs": 1795690800000
+  },
+  {
+   "key": "https://fortune.com/?p=4651706&showAdminBar=true",
+   "firstQueuedAtMs": 1795690800000,
+   "playedAtMs": 1795690800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/26/briefing/giving-thanks.html",
+   "firstQueuedAtMs": 1795690800000,
+   "playedAtMs": 1795690800000
+  },
+  {
+   "key": "e3bea8fa-a302-4333-a6c8-a41033a0a013",
+   "firstQueuedAtMs": 1795690800000,
+   "playedAtMs": 1795690800000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312317",
+   "firstQueuedAtMs": 1795690800000,
+   "playedAtMs": 1795690800000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/26/ai-thanksgiving-meals-chefs",
+   "firstQueuedAtMs": 1795690800000,
+   "playedAtMs": 1795690800000
+  },
+  {
+   "key": "74540001",
+   "firstQueuedAtMs": 1795690800000,
+   "playedAtMs": 1795690800000
+  },
+  {
+   "key": "https://thehill.com/?p=6243118",
+   "firstQueuedAtMs": 1795690800000,
+   "playedAtMs": 1795690800000
+  },
+  {
+   "key": "74533236",
+   "firstQueuedAtMs": 1795690800000,
+   "playedAtMs": 1795690800000
+  },
+  {
+   "key": "https://www.inc.com/stephanie-davis/startups-saving-money-hiring-recent-graduates-entry-level-employees/91442762",
+   "firstQueuedAtMs": 1795690800000,
+   "playedAtMs": 1795690800000
+  },
+  {
+   "key": "https://www.inc.com/lucia-auerbach/scientists-cut-sleep-70-percent-expected-behavioral-effects-never-appeared/91441644",
+   "firstQueuedAtMs": 1795690800000,
+   "playedAtMs": 1795690800000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1043078",
+   "firstQueuedAtMs": 1795690800000,
+   "playedAtMs": 1795690800000
+  },
+  {
+   "key": "74535676",
+   "firstQueuedAtMs": 1795690800000,
+   "playedAtMs": 1795690800000
+  },
+  {
+   "key": "108559804",
+   "firstQueuedAtMs": 1795690800000,
+   "playedAtMs": 1795690800000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3192570",
+   "firstQueuedAtMs": 1795690800000,
+   "playedAtMs": 1795690800000
+  },
+  {
+   "key": "https://www.kshb.com/news/crime/kcpd-investigating-thanksgiving-morning-homicide-in-westport",
+   "firstQueuedAtMs": 1795690800000,
+   "playedAtMs": 1795690800000
+  },
+  {
+   "key": "https://www.dw.com/en/what-is-the-us-permitting-bill-splitting-democrats-and-would-it-actually-help-the-climate/a-80007213?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795690800000,
+   "playedAtMs": 1795690800000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/diplomacy/article/3375936/china-and-netherlands-send-positive-signal-over-global-controls-military-ai",
+   "firstQueuedAtMs": 1795690800000,
+   "playedAtMs": 1795690800000
+  },
+  {
+   "key": "https://michiganadvance.com/?p=116206",
+   "firstQueuedAtMs": 1795690800000,
+   "playedAtMs": 1795690800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795686269",
+   "firstQueuedAtMs": 1795690800000,
+   "playedAtMs": 1795690800000
+  },
+  {
+   "key": "https://www.theguardian.com/environment/2026/nov/26/ministers-fail-to-make-case-for-heathrow-third-runway-mps-report-says",
+   "firstQueuedAtMs": 1795690800000,
+   "playedAtMs": 1795690800000
+  },
+  {
+   "key": "https://iowacapitaldispatch.com/?p=61464",
+   "firstQueuedAtMs": 1795690800000,
+   "playedAtMs": 1795690800000
+  },
+  {
+   "key": "https://www.scmp.com/economy/policy/article/3375878/chinas-appetite-russian-farm-goods-grows-despite-thaw-us-trade-ties",
+   "firstQueuedAtMs": 1795690800000,
+   "playedAtMs": 1795690800000
+  },
+  {
+   "key": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+   "firstQueuedAtMs": 1795690800000,
+   "playedAtMs": 1795690800000
+  },
+  {
+   "key": "9.7435861",
+   "firstQueuedAtMs": 1795690800000,
+   "playedAtMs": 1795690800000
   }
  ]
 }
