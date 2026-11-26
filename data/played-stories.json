@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T09:20:22.817Z",
- "lastSyncBucket": 997601,
- "lastSyncCarryInSeconds": 104,
+ "updatedAt": "2026-11-26T09:35:11.442Z",
+ "lastSyncBucket": 997602,
+ "lastSyncCarryInSeconds": 14,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -34454,6 +34454,156 @@
    "key": "https://flatwaterfreepress.org/?p=20227",
    "firstQueuedAtMs": 1795681800000,
    "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://ohiocapitaljournal.com/?p=43182",
+   "firstQueuedAtMs": 1795683600000,
+   "playedAtMs": 1795683600000
+  },
+  {
+   "key": "https://ohiocapitaljournal.com/?p=43273",
+   "firstQueuedAtMs": 1795683600000,
+   "playedAtMs": 1795683600000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo#0",
+   "firstQueuedAtMs": 1795683600000,
+   "playedAtMs": 1795683600000
+  },
+  {
+   "key": "https://fortune.com/?p=4651265&showAdminBar=true",
+   "firstQueuedAtMs": 1795683600000,
+   "playedAtMs": 1795683600000
+  },
+  {
+   "key": "https://www.dw.com/en/russia-ukraine-war-extends-to-the-baltic-and-the-mediterranean/a-80054604?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795683600000,
+   "playedAtMs": 1795683600000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312162",
+   "firstQueuedAtMs": 1795683600000,
+   "playedAtMs": 1795683600000
+  },
+  {
+   "key": "https://fortune.com/?p=4651167&showAdminBar=true",
+   "firstQueuedAtMs": 1795683600000,
+   "playedAtMs": 1795683600000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375917/hong-kong-exports-post-fastest-growth-70-years-ai-related-goods",
+   "firstQueuedAtMs": 1795683600000,
+   "playedAtMs": 1795683600000
+  },
+  {
+   "key": "https://www.engadget.com/2329049/x-is-adding-its-first-ever-parental-controls/",
+   "firstQueuedAtMs": 1795683600000,
+   "playedAtMs": 1795683600000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75816",
+   "firstQueuedAtMs": 1795683600000,
+   "playedAtMs": 1795683600000
+  },
+  {
+   "key": "TP3QXMR24U8B00",
+   "firstQueuedAtMs": 1795683600000,
+   "playedAtMs": 1795683600000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4427517",
+   "firstQueuedAtMs": 1795683600000,
+   "playedAtMs": 1795683600000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4423675",
+   "firstQueuedAtMs": 1795683600000,
+   "playedAtMs": 1795683600000
+  },
+  {
+   "key": "https://hackaday.com/?p=1430293",
+   "firstQueuedAtMs": 1795683600000,
+   "playedAtMs": 1795683600000
+  },
+  {
+   "key": "https://ohiocapitaljournal.com/?p=43181",
+   "firstQueuedAtMs": 1795683600000,
+   "playedAtMs": 1795683600000
+  },
+  {
+   "key": "https://www.scmp.com/plus/news/china/politics/article/3375916/shanghai-party-chiefs-downfall-shows-reach-anti-corruption-drive",
+   "firstQueuedAtMs": 1795683600000,
+   "playedAtMs": 1795683600000
+  },
+  {
+   "key": "https://www.fastcompany.com/91646444/can-potential-clients-find-you-using-ai",
+   "firstQueuedAtMs": 1795683600000,
+   "playedAtMs": 1795683600000
+  },
+  {
+   "key": "108550928",
+   "firstQueuedAtMs": 1795683600000,
+   "playedAtMs": 1795683600000
+  },
+  {
+   "key": "https://www.theguardian.com/politics/2026/nov/26/treaties-andy-burnham-eu-reset-published",
+   "firstQueuedAtMs": 1795683600000,
+   "playedAtMs": 1795683600000
+  },
+  {
+   "key": "https://wisconsinexaminer.com/?post_type=republished&p=49114",
+   "firstQueuedAtMs": 1795683600000,
+   "playedAtMs": 1795683600000
+  },
+  {
+   "key": "https://www.scmp.com/news/asia/south-asia/article/3375910/nepal-starts-legal-process-declare-4000-dead-3-months-after-fatal-floods",
+   "firstQueuedAtMs": 1795683600000,
+   "playedAtMs": 1795683600000
+  },
+  {
+   "key": "https://www.scmp.com/tech/big-tech/article/3375902/huawei-advances-home-grown-chip-design-ecosystem-while-eyeing-global-push-rival-nvidia",
+   "firstQueuedAtMs": 1795683600000,
+   "playedAtMs": 1795683600000
+  },
+  {
+   "key": "https://flatwaterfreepress.org/?p=20193",
+   "firstQueuedAtMs": 1795683600000,
+   "playedAtMs": 1795683600000
+  },
+  {
+   "key": "https://www.scmp.com/week-asia/politics/article/3375897/why-us-china-rivalry-narrows-southeast-asias-trade-and-foreign-policy-options",
+   "firstQueuedAtMs": 1795683600000,
+   "playedAtMs": 1795683600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795677441",
+   "firstQueuedAtMs": 1795683600000,
+   "playedAtMs": 1795683600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795678420",
+   "firstQueuedAtMs": 1795683600000,
+   "playedAtMs": 1795683600000
+  },
+  {
+   "key": "https://greatlakesecho.org/?p=5001890",
+   "firstQueuedAtMs": 1795683600000,
+   "playedAtMs": 1795683600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795681918",
+   "firstQueuedAtMs": 1795683600000,
+   "playedAtMs": 1795683600000
+  },
+  {
+   "key": "https://greatlakesecho.org/?p=5038973",
+   "firstQueuedAtMs": 1795683600000,
+   "playedAtMs": 1795683600000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168864",
+   "firstQueuedAtMs": 1795683600000,
+   "playedAtMs": 1795683600000
   }
  ]
 }
