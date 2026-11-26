@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T11:50:06.858Z",
- "lastSyncBucket": 997606,
- "lastSyncCarryInSeconds": 0,
+ "updatedAt": "2026-11-26T12:05:09.661Z",
+ "lastSyncBucket": 997607,
+ "lastSyncCarryInSeconds": 67,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -35279,6 +35279,196 @@
    "key": "9.7435861",
    "firstQueuedAtMs": 1795690800000,
    "playedAtMs": 1795690800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/26/man-killed-shooting-near-kansas-citys-westport-entertainment-district/",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/26/fire-damages-boarded-up-house-springfield/",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1042151",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "https://news.ycombinator.com/item?id=50654353",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1553096",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "74540170",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "6b0784ad992b650001ea1c6c",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "https://bridgemi.com/?p=84141",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4455945",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4455893",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "6b05e60c755cac0001c8c1cb",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "https://yaleclimateconnections.org/?p=144982",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "https://lobste.rs/s/wpylec",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "6aff60b9010b3517c8092c69",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312298",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75813",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "https://abcnews.com/video/138464693/",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261126033031.htm",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261124055906.htm",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "https://lobste.rs/s/nkmtqk",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43328",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "5d4b6daf6e37da0008c9e948",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "https://www.inc.com/justin-bariso/aaron-rodgers-interview-pat-mcafee-show-throw-mike-mccarthy-under-bus-emotional-intelligence/91443434",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261125045306.htm",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261124055901.htm",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "https://www.fastcompany.com/91646666/are-stores-open-on-thanksgiving-day-2026-holiday-hours-for-walmart-whole-foods-costco-and-more",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "https://sahanjournal.com/?p=89920",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "https://www.fastcompany.com/91641318/travel-deals-sales-flights-best-day-to-shop-black-friday-cyber-monday",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "https://www.fastcompany.com/91648589/how-job-hunting-became-an-expensive-cash-suck",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261125045307.htm",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261124055847.htm",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03828-z",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "https://salmagundi.skidmore.edu/articles/2001-philip-roth-david-remnick",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "https://www.dw.com/en/joshua-kimmich-critcizes-bayern-bosses-over-musiala-health-comments/a-80060155?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "https://www.dw.com/en/crew-member-dies-after-diesel-tanker-sinks-off-ibiza-coast/a-80059054?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
+  },
+  {
+   "key": "https://wisconsinwatch.org/?p=1323427",
+   "firstQueuedAtMs": 1795692600000,
+   "playedAtMs": 1795692600000
   }
  ]
 }
