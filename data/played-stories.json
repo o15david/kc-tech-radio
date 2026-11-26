@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T19:50:11.198Z",
- "lastSyncBucket": 997622,
+ "updatedAt": "2026-11-26T20:05:09.541Z",
+ "lastSyncBucket": 997623,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -37879,6 +37879,136 @@
    "key": "https://www.dw.com/en/on-farewell-trip-steinmeier-calls-for-more-investment-in-africa/a-80067717?maca=en-rss-en-all-1573-rdf",
    "firstQueuedAtMs": 1795719600000,
    "playedAtMs": 1795719600000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/26/boil-water-advisory-lifted-warsaw-mo-thanksgiving/",
+   "firstQueuedAtMs": 1795721400000,
+   "playedAtMs": 1795721400000
+  },
+  {
+   "key": "c8f0082e-7a4b-4f4a-8647-0dc1f29be7ae",
+   "firstQueuedAtMs": 1795721400000,
+   "playedAtMs": 1795721400000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3192015",
+   "firstQueuedAtMs": 1795721400000,
+   "playedAtMs": 1795721400000
+  },
+  {
+   "key": "74540220",
+   "firstQueuedAtMs": 1795721400000,
+   "playedAtMs": 1795721400000
+  },
+  {
+   "key": "https://www.engadget.com/2329013/1password-hacked-but-users-vaults-are-safe/",
+   "firstQueuedAtMs": 1795721400000,
+   "playedAtMs": 1795721400000
+  },
+  {
+   "key": "https://karpathy.ai/usaciv/",
+   "firstQueuedAtMs": 1795721400000,
+   "playedAtMs": 1795721400000
+  },
+  {
+   "key": "https://lobste.rs/s/afxeri",
+   "firstQueuedAtMs": 1795721400000,
+   "playedAtMs": 1795721400000
+  },
+  {
+   "key": "https://www.engadget.com/2329231/amazon-workers-plan-protests-on-black-friday-and-cyber-monday/",
+   "firstQueuedAtMs": 1795721400000,
+   "playedAtMs": 1795721400000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386844",
+   "firstQueuedAtMs": 1795721400000,
+   "playedAtMs": 1795721400000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4456131",
+   "firstQueuedAtMs": 1795721400000,
+   "playedAtMs": 1795721400000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3192791",
+   "firstQueuedAtMs": 1795721400000,
+   "playedAtMs": 1795721400000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43346",
+   "firstQueuedAtMs": 1795721400000,
+   "playedAtMs": 1795721400000
+  },
+  {
+   "key": "https://thehill.com/?p=6244831",
+   "firstQueuedAtMs": 1795721400000,
+   "playedAtMs": 1795721400000
+  },
+  {
+   "key": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+   "firstQueuedAtMs": 1795721400000,
+   "playedAtMs": 1795721400000
+  },
+  {
+   "key": "https://psychoscript.com/",
+   "firstQueuedAtMs": 1795721400000,
+   "playedAtMs": 1795721400000
+  },
+  {
+   "key": "https://olumino.app",
+   "firstQueuedAtMs": 1795721400000,
+   "playedAtMs": 1795721400000
+  },
+  {
+   "key": "https://reclaimthenet.org/usaid-files",
+   "firstQueuedAtMs": 1795721400000,
+   "playedAtMs": 1795721400000
+  },
+  {
+   "key": "https://lobste.rs/s/ilit8q",
+   "firstQueuedAtMs": 1795721400000,
+   "playedAtMs": 1795721400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/26/business/dan-carney-dead.html",
+   "firstQueuedAtMs": 1795721400000,
+   "playedAtMs": 1795721400000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/nation/nvidia-ceos-comeback-fuels-debate-over-misogyny-and-impunity-for-the-rich-and-powerful",
+   "firstQueuedAtMs": 1795721400000,
+   "playedAtMs": 1795721400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795720083",
+   "firstQueuedAtMs": 1795721400000,
+   "playedAtMs": 1795721400000
+  },
+  {
+   "key": "https://www.theguardian.com/uk-news/2026/nov/26/how-much-sharp-fall-uk-immigration-labour-policies",
+   "firstQueuedAtMs": 1795721400000,
+   "playedAtMs": 1795721400000
+  },
+  {
+   "key": "https://www.scmp.com/news/world/europe/article/3375965/uk-man-convicted-knife-rampage-london-bound-train",
+   "firstQueuedAtMs": 1795721400000,
+   "playedAtMs": 1795721400000
+  },
+  {
+   "key": "https://www.dw.com/en/trump-says-he-urged-putin-to-pull-back-military-aggression-in-europe/a-80067722?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795721400000,
+   "playedAtMs": 1795721400000
+  },
+  {
+   "key": "9.7437089",
+   "firstQueuedAtMs": 1795721400000,
+   "playedAtMs": 1795721400000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cq772vedgepro#3",
+   "firstQueuedAtMs": 1795721400000,
+   "playedAtMs": 1795721400000
   }
  ]
 }
