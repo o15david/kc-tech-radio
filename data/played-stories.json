@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T22:50:22.677Z",
- "lastSyncBucket": 997628,
+ "updatedAt": "2026-11-26T23:05:53.359Z",
+ "lastSyncBucket": 997629,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -38399,6 +38399,66 @@
    "key": "https://www.ky3.com/2026/11/26/salvation-army-volunteers-serve-thanksgiving-meal-springfield-community/",
    "firstQueuedAtMs": 1795730400000,
    "playedAtMs": 1795730400000
+  },
+  {
+   "key": "https://www.marktechpost.com/?p=84093",
+   "firstQueuedAtMs": 1795732200000,
+   "playedAtMs": 1795732200000
+  },
+  {
+   "key": "74539282",
+   "firstQueuedAtMs": 1795732200000,
+   "playedAtMs": 1795732200000
+  },
+  {
+   "key": "https://thehill.com/?p=6244966",
+   "firstQueuedAtMs": 1795732200000,
+   "playedAtMs": 1795732200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/26/kansas-city-restaurant-open-thanksgiving-christmas-after-sign-circulates-online/",
+   "firstQueuedAtMs": 1795732200000,
+   "playedAtMs": 1795732200000
+  },
+  {
+   "key": "https://abcnews.com/video/138472441/",
+   "firstQueuedAtMs": 1795732200000,
+   "playedAtMs": 1795732200000
+  },
+  {
+   "key": "https://thehill.com/?p=6244968",
+   "firstQueuedAtMs": 1795732200000,
+   "playedAtMs": 1795732200000
+  },
+  {
+   "key": "74543997",
+   "firstQueuedAtMs": 1795732200000,
+   "playedAtMs": 1795732200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/26/pounding-waves-tear-apart-fishing-pier-virginia-beach/",
+   "firstQueuedAtMs": 1795732200000,
+   "playedAtMs": 1795732200000
+  },
+  {
+   "key": "https://abcnews.com/video/138468539/",
+   "firstQueuedAtMs": 1795732200000,
+   "playedAtMs": 1795732200000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo#0",
+   "firstQueuedAtMs": 1795732200000,
+   "playedAtMs": 1795732200000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o#2",
+   "firstQueuedAtMs": 1795732200000,
+   "playedAtMs": 1795732200000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo#1",
+   "firstQueuedAtMs": 1795732200000,
+   "playedAtMs": 1795732200000
   }
  ]
 }
