@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-25T23:50:14.806Z",
- "lastSyncBucket": 997582,
- "lastSyncCarryInSeconds": 66,
+ "updatedAt": "2026-11-26T00:05:14.230Z",
+ "lastSyncBucket": 997583,
+ "lastSyncCarryInSeconds": 91,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -30784,6 +30784,141 @@
    "key": "https://importai.substack.com/p/import-ai-467-self-sustaining-ai",
    "firstQueuedAtMs": 1795647600000,
    "playedAtMs": 1795647600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/mayor-sparks-controversy-waving-confederate-flag-stands-high-school-football-game/",
+   "firstQueuedAtMs": 1795649400000,
+   "playedAtMs": 1795649400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/slow-steady-ozark-drivers-brace-winter-weather-ahead-thanksgiving/",
+   "firstQueuedAtMs": 1795649400000,
+   "playedAtMs": 1795649400000
+  },
+  {
+   "key": "0b3d99da-ff74-4467-9edc-1e0baabc245d",
+   "firstQueuedAtMs": 1795649400000,
+   "playedAtMs": 1795649400000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386815",
+   "firstQueuedAtMs": 1795649400000,
+   "playedAtMs": 1795649400000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4427460",
+   "firstQueuedAtMs": 1795649400000,
+   "playedAtMs": 1795649400000
+  },
+  {
+   "key": "https://www.engadget.com/2328876/black-friday-2026-deals-on-reviewed-gadgets/",
+   "firstQueuedAtMs": 1795649400000,
+   "playedAtMs": 1795649400000
+  },
+  {
+   "key": "TP2YGVRKV2TE00",
+   "firstQueuedAtMs": 1795649400000,
+   "playedAtMs": 1795649400000
+  },
+  {
+   "key": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+   "firstQueuedAtMs": 1795649400000,
+   "playedAtMs": 1795649400000
+  },
+  {
+   "key": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
+   "firstQueuedAtMs": 1795649400000,
+   "playedAtMs": 1795649400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/23/technology/republicans-trump-jensen-huang-nvidia.html",
+   "firstQueuedAtMs": 1795649400000,
+   "playedAtMs": 1795649400000
+  },
+  {
+   "key": "https://setdaily.app/blog/spotting-sets",
+   "firstQueuedAtMs": 1795649400000,
+   "playedAtMs": 1795649400000
+  },
+  {
+   "key": "https://importai.substack.com/p/import-ai-466-the-bitter-lesson-for",
+   "firstQueuedAtMs": 1795649400000,
+   "playedAtMs": 1795649400000
+  },
+  {
+   "key": "36c83dce-f70e-44ab-9c52-b12d938262a9",
+   "firstQueuedAtMs": 1795649400000,
+   "playedAtMs": 1795649400000
+  },
+  {
+   "key": "changelog.com/1/2823",
+   "firstQueuedAtMs": 1795649400000,
+   "playedAtMs": 1795649400000
+  },
+  {
+   "key": "https://importai.substack.com/p/import-ai-465-open-vs-closed-gaps",
+   "firstQueuedAtMs": 1795649400000,
+   "playedAtMs": 1795649400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/25/what-did-he-not-do-raytown-chief-remembers-cpl-joshua-kerr-killed-line-duty/",
+   "firstQueuedAtMs": 1795649400000,
+   "playedAtMs": 1795649400000
+  },
+  {
+   "key": "https://importai.substack.com/p/import-ai-464-fables-writes-gpu-kernels",
+   "firstQueuedAtMs": 1795649400000,
+   "playedAtMs": 1795649400000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/politics/watch-vance-defends-iowa-lead-azide-detonation-as-he-visits-air-force-troops-in-ohio",
+   "firstQueuedAtMs": 1795649400000,
+   "playedAtMs": 1795649400000
+  },
+  {
+   "key": "https://importai.substack.com/p/import-ai-463-self-improving-robots",
+   "firstQueuedAtMs": 1795649400000,
+   "playedAtMs": 1795649400000
+  },
+  {
+   "key": "changelog.com/1/2829",
+   "firstQueuedAtMs": 1795649400000,
+   "playedAtMs": 1795649400000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/how-trumps-newest-tariffs-could-impact-americans-and-the-economy",
+   "firstQueuedAtMs": 1795649400000,
+   "playedAtMs": 1795649400000
+  },
+  {
+   "key": "changelog.com/1/2826",
+   "firstQueuedAtMs": 1795649400000,
+   "playedAtMs": 1795649400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/tech-tuesday-black-friday-tech-deals-keep-your-radar/",
+   "firstQueuedAtMs": 1795649400000,
+   "playedAtMs": 1795649400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/25/4-adults-2-children-aboard-plane-that-crashed-off-mississippi-coast-coast-guard-says/",
+   "firstQueuedAtMs": 1795649400000,
+   "playedAtMs": 1795649400000
+  },
+  {
+   "key": "changelog.com/17/2824",
+   "firstQueuedAtMs": 1795649400000,
+   "playedAtMs": 1795649400000
+  },
+  {
+   "key": "changelog.com/16/2828",
+   "firstQueuedAtMs": 1795649400000,
+   "playedAtMs": 1795649400000
+  },
+  {
+   "key": "changelog.com/1/2822",
+   "firstQueuedAtMs": 1795649400000,
+   "playedAtMs": 1795649400000
   }
  ]
 }
