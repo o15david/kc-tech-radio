@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T09:50:18.888Z",
- "lastSyncBucket": 997602,
- "lastSyncCarryInSeconds": 14,
+ "updatedAt": "2026-11-26T10:05:21.408Z",
+ "lastSyncBucket": 997603,
+ "lastSyncCarryInSeconds": 0,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -34604,6 +34604,191 @@
    "key": "https://news.un.org/en/story/2026/11/1168864",
    "firstQueuedAtMs": 1795683600000,
    "playedAtMs": 1795683600000
+  },
+  {
+   "key": "https://www.kcur.org/news/2026-11-26/thanksgiving-food-prices-kansas-city-grocery-stores",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "https://kansasreflector.com/?p=64134",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "https://abcnews.com/US/wireStory/fedex-airplane-overruns-runway-miami-airport-temporarily-closing-138460484",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "6afdf964f9416e2bf834c554",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "https://insideclimatenews.org/?p=116662",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75817",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1042620",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "https://lobste.rs/s/3lkriu",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "TP3S88KGIFPF00",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "https://spaceflightnow.com/?p=75025",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "https://arxiv.org/abs/2605.15257",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "https://wisconsinexaminer.com/?p=49127",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "https://oklahomavoice.com/?post_type=republished&p=22828",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795672851",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "https://www.dw.com/en/germany-news-final-budget-debate-continues-in-bundestag/live-80056746?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "https://greatlakesecho.org/?p=4966806",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "https://greatlakesecho.org/?p=4953635",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795679747",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "https://greatlakesecho.org/?p=4953626",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "9.7436761",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "https://www.theguardian.com/australia-news/2026/nov/26/aged-care-home-support-program-algorithm-tool-inquiry-report",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "https://www.dw.com/en/germany-2-arrested-suspected-of-plotting-synagogue-attack/a-80057715?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795685277",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "https://www.theguardian.com/australia-news/2026/nov/26/new-defence-laws-could-have-significant-implications-for-human-rights-labor-led-inquiry-finds",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168863",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "https://news.sky.com/story/senegal-awarded-africa-cup-of-nations-after-winning-appeal-over-title-being-stripped-13615900",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168862",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168861",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168859",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168858",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168857",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168852",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168851",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168834",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168854",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168853",
+   "firstQueuedAtMs": 1795685400000,
+   "playedAtMs": 1795685400000
   }
  ]
 }
