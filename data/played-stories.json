@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T17:50:29.856Z",
- "lastSyncBucket": 997618,
+ "updatedAt": "2026-11-26T18:05:08.004Z",
+ "lastSyncBucket": 997619,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -37499,6 +37499,126 @@
    "key": "https://www.aljazeera.com/?t=1795704454",
    "firstQueuedAtMs": 1795712400000,
    "playedAtMs": 1795712400000
+  },
+  {
+   "key": "VuAPRseVoho4ZkSNAQLc53",
+   "firstQueuedAtMs": 1795714200000,
+   "playedAtMs": 1795714200000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/217649/chiefs-cardinals-5-questions-with-revenge-of-the-birds-ahead-of-week-11",
+   "firstQueuedAtMs": 1795714200000,
+   "playedAtMs": 1795714200000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/26/branson-mo-firefighters-assist-with-residential-fire-thanksgiving/",
+   "firstQueuedAtMs": 1795714200000,
+   "playedAtMs": 1795714200000
+  },
+  {
+   "key": "https://thehill.com/?p=6244759",
+   "firstQueuedAtMs": 1795714200000,
+   "playedAtMs": 1795714200000
+  },
+  {
+   "key": "https://www.eetimes.com/?p=101804867",
+   "firstQueuedAtMs": 1795714200000,
+   "playedAtMs": 1795714200000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
+   "firstQueuedAtMs": 1795714200000,
+   "playedAtMs": 1795714200000
+  },
+  {
+   "key": "108559872",
+   "firstQueuedAtMs": 1795714200000,
+   "playedAtMs": 1795714200000
+  },
+  {
+   "key": "https://spacenews.com/?p=630240",
+   "firstQueuedAtMs": 1795714200000,
+   "playedAtMs": 1795714200000
+  },
+  {
+   "key": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+   "firstQueuedAtMs": 1795714200000,
+   "playedAtMs": 1795714200000
+  },
+  {
+   "key": "news714649483",
+   "firstQueuedAtMs": 1795714200000,
+   "playedAtMs": 1795714200000
+  },
+  {
+   "key": "https://github.com/antonpictures/youtube-punisher",
+   "firstQueuedAtMs": 1795714200000,
+   "playedAtMs": 1795714200000
+  },
+  {
+   "key": "https://electrek.co/?p=496327",
+   "firstQueuedAtMs": 1795714200000,
+   "playedAtMs": 1795714200000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/26/wentzville-ice-arena-closed-after-building-caves-during-winter-storm/",
+   "firstQueuedAtMs": 1795714200000,
+   "playedAtMs": 1795714200000
+  },
+  {
+   "key": "https://www.nbcnews.com/news/us-news/pregnant-inmate-escapes-new-mexico-corrections-facility-rcna611443",
+   "firstQueuedAtMs": 1795714200000,
+   "playedAtMs": 1795714200000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/ai-helps-three-powerful-supercomputers-simulate-the-milky-way-in-extraordinary-detail",
+   "firstQueuedAtMs": 1795714200000,
+   "playedAtMs": 1795714200000
+  },
+  {
+   "key": "https://diseasescuredbyai.com/",
+   "firstQueuedAtMs": 1795714200000,
+   "playedAtMs": 1795714200000
+  },
+  {
+   "key": "https://www.kshb.com/sports/fifa-says-cyberattack-accessed-personal-and-business-information",
+   "firstQueuedAtMs": 1795714200000,
+   "playedAtMs": 1795714200000
+  },
+  {
+   "key": "https://www.dw.com/en/trial-of-berlin-woman-accused-of-spying-for-russia-begins-after-delay/a-80057677?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795714200000,
+   "playedAtMs": 1795714200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795696394",
+   "firstQueuedAtMs": 1795714200000,
+   "playedAtMs": 1795714200000
+  },
+  {
+   "key": "74541430",
+   "firstQueuedAtMs": 1795714200000,
+   "playedAtMs": 1795714200000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/kansas-city-organizations-provide-thanksgiving-meals-for-families-in-need",
+   "firstQueuedAtMs": 1795714200000,
+   "playedAtMs": 1795714200000
+  },
+  {
+   "key": "https://www.dw.com/en/saudi-pop-music-is-thriving-but-for-the-right-reasons/a-80036013?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795714200000,
+   "playedAtMs": 1795714200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795709782",
+   "firstQueuedAtMs": 1795714200000,
+   "playedAtMs": 1795714200000
+  },
+  {
+   "key": "https://www.dw.com/en/iranian-drone-kills-2-italian-workers-in-kuwait-meloni-says/a-80064974?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795714200000,
+   "playedAtMs": 1795714200000
   }
  ]
 }
