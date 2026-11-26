@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T03:20:08.197Z",
- "lastSyncBucket": 997589,
- "lastSyncCarryInSeconds": 27,
+ "updatedAt": "2026-11-26T03:35:05.898Z",
+ "lastSyncBucket": 997590,
+ "lastSyncCarryInSeconds": 1,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -32059,6 +32059,241 @@
    "key": "https://www.axios.com/2026/11/25/thanksgiving-politics-polling",
    "firstQueuedAtMs": 1795660200000,
    "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4427781",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/26/doctor-says-holidays-can-be-difficult-people-recovering-eating-disorders/",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/26/thanksgiving-dinner-dangers-pets/",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4427758",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "https://www.inc.com/jason-aten/anthropic-had-the-biggest-ipo-ever-now-it-just-looks-greedy/91443415",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "108559715",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4427736",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "https://hackaday.com/?p=1429978",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "TP368CT96OSJ00",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "74536832",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "https://thehill.com/?p=6244361",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "TP324OKGIFQ300",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "https://aresluna.org/ui-style-guides/",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "https://blog.coredump.cx/p/how-did-pinwheel-calculators-work",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "https://chillphysicsenjoyer.substack.com/p/a-beer-brewers-noise-estimation",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "74536744",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "74514938",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "https://www.thepitchkc.com/?p=961026",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/nyregion/thanksgiving-parade-new-york-postponed.html",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/style/maury-povich-podcast-on-par.html",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1106321",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/25/nx-s1-5983717/ariston-cafe-route-66-diner-litchfield-illinois",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/25/nx-s1-6046173/cannabis-marijuana-prices-retailers-discounts",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "https://abcnews.com/video/138425149/",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "nn_emc_militaryfamilies_fightfor_healthcarefixes_261124",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1108234",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "https://www.nbcnews.com/news/us-news/family-teen-killed-georgia-police-officer-demands-release-body-camera-rcna611153",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/24/lakesha-womack-charge-dropped-rental-car-nc",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1108363",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/20/weather/what-is-a-king-tide.html",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/best-advent-calendars-2026-rcna603495",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "https://cooking.nytimes.com/article/easy-thanksgiving-recipes",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/amazon-prime-benefits-cost-ncna1269672",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1108335",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "perf:103",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "perf:105",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "perf:75",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "https://greatlakesecho.org/?p=5038828",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "perf:95",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "https://michiganadvance.com/?p=116225",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "perf:106",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "perf:107",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "https://minnesotareformer.com/?p=39997",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "perf:120",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "perf:123",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "perf:108",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
+  },
+  {
+   "key": "perf:121",
+   "firstQueuedAtMs": 1795662000000,
+   "playedAtMs": 1795662000000
   }
  ]
 }
