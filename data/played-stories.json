@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T04:50:11.346Z",
- "lastSyncBucket": 997592,
- "lastSyncCarryInSeconds": 4,
+ "updatedAt": "2026-11-26T05:05:05.129Z",
+ "lastSyncBucket": 997593,
+ "lastSyncCarryInSeconds": 11,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -32719,6 +32719,201 @@
    "key": "https://www.scmp.com/news/asia/east-asia/article/3375836/ill-keep-fighting-until-day-i-die-data-centres-ignite-revolt-japan",
    "firstQueuedAtMs": 1795665600000,
    "playedAtMs": 1795665600000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/26/two-charged-after-texas-county-search-yields-suspected-drugs-firearms/",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "https://www.scmp.com/plus/news/china/politics/article/3375860/chinas-anti-corruption-campaign-tracker",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "https://lobste.rs/s/hge0sd",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "TP3CU5T9NJLT00",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "news714811990",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "TP39XMKJH6V500",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "TP36IUKJH6V400",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "https://simonwillison.net/2026/Nov/25/datasette-charts/",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "https://asteriskmag.com/issues/16/marginal-grains",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "https://simonwillison.net/2026/Nov/24/datasette-charts-2/",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/society/article/3375868/government-approach-13-wang-fuk-court-owners-who-rejected-buy-out-next-month",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/26/wet-heavy-snow-covers-roads-metro-east-night-before-thanksgiving/",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795655546",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795662156",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "https://www.theguardian.com/australia-news/2026/nov/25/large-bushfire-threatens-homes-and-properties-on-remote-island-off-tasmania",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "https://greatlakesecho.org/?p=5038960",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "https://www.scmp.com/week-asia/health-environment/article/3375863/malaysian-man-retracts-kelantan-water-criticism-after-us242800-legal-threat",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "https://nebraskaexaminer.com/?p=46009",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/society/article/3375862/officer-found-dead-gunshot-wound-sheung-shui-police-station-toilet",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "https://indianacapitalchronicle.com/?p=28260",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "https://www.dw.com/en/us-court-blocks-regulator-s-early-review-of-abc-s-broadcast-licenses/a-80056181?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "https://bridgemi.com/?p=84298",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795666595",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "https://www.theguardian.com/australia-news/2026/nov/26/teens-homicidal-thoughts-dismissed-as-crap-before-killed-10-year-old-inquest-ntwnfb",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "https://news.sky.com/story/nasdaq-100-teeters-on-brink-of-bear-market-as-wall-street-tech-stocks-fall-further-13616624",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "https://oklahomawatch.org/?p=763835",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "https://www.theguardian.com/australia-news/2026/nov/26/australia-projected-to-miss-2035-emissions-targets-climate-policies",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "https://www.scmp.com/news/world/europe/article/3375831/pair-stole-cufflinks-and-clock-break-home-british-royals",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "https://southdakotasearchlight.com/?post_type=republished&p=26302",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "https://www.scmp.com/news/people-culture/trending-china/article/3375830/chinese-restaurant-chain-slammed-forcing-female-staff-even-cleaners-wear-make",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "https://capitolnewsillinois.com/?p=134941",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "https://minnesotareformer.com/?p=39978",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795655548",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/society/article/3375794/hong-kongs-pakistani-community-mourns-philanthropist-killed-tsim-sha-tsui-crash",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/politics/article/3375786/china-sounds-alarm-new-and-unseen-tech-risks-urges-ai-driven-security-defence",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "https://sahanjournal.com/?p=89865",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "https://www.scmp.com/news/world/united-states-canada/article/3375827/jolie-and-pitt-settle-french-winery-fight-decade-after-bitter-split",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795646989",
+   "firstQueuedAtMs": 1795667400000,
+   "playedAtMs": 1795667400000
   }
  ]
 }
