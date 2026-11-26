@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T18:20:03.496Z",
- "lastSyncBucket": 997619,
+ "updatedAt": "2026-11-26T18:36:27.128Z",
+ "lastSyncBucket": 997620,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -37619,6 +37619,116 @@
    "key": "https://www.dw.com/en/iranian-drone-kills-2-italian-workers-in-kuwait-meloni-says/a-80064974?maca=en-rss-en-all-1573-rdf",
    "firstQueuedAtMs": 1795714200000,
    "playedAtMs": 1795714200000
+  },
+  {
+   "key": "iba7h4hyt4VvT3ZtjTyqzW",
+   "firstQueuedAtMs": 1795716000000,
+   "playedAtMs": 1795716000000
+  },
+  {
+   "key": "74543326",
+   "firstQueuedAtMs": 1795716000000,
+   "playedAtMs": 1795716000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/26/allen-mahomes-renew-their-thrilling-rivalry-bills-host-chiefs-thanksgiving-night/",
+   "firstQueuedAtMs": 1795716000000,
+   "playedAtMs": 1795716000000
+  },
+  {
+   "key": "bf322160-0fef-4d04-aac1-951f4ab0770d",
+   "firstQueuedAtMs": 1795716000000,
+   "playedAtMs": 1795716000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/26/1-killed-6-others-shot-during-pajama-party-early-thanksgiving-sheriff-says/",
+   "firstQueuedAtMs": 1795716000000,
+   "playedAtMs": 1795716000000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311914",
+   "firstQueuedAtMs": 1795716000000,
+   "playedAtMs": 1795716000000
+  },
+  {
+   "key": "https://thehill.com/?p=6244772",
+   "firstQueuedAtMs": 1795716000000,
+   "playedAtMs": 1795716000000
+  },
+  {
+   "key": "https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia/",
+   "firstQueuedAtMs": 1795716000000,
+   "playedAtMs": 1795716000000
+  },
+  {
+   "key": "https://hackaday.com/?p=1430397",
+   "firstQueuedAtMs": 1795716000000,
+   "playedAtMs": 1795716000000
+  },
+  {
+   "key": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
+   "firstQueuedAtMs": 1795716000000,
+   "playedAtMs": 1795716000000
+  },
+  {
+   "key": "74542691",
+   "firstQueuedAtMs": 1795716000000,
+   "playedAtMs": 1795716000000
+  },
+  {
+   "key": "https://github.com/rxliuli/sim-drop",
+   "firstQueuedAtMs": 1795716000000,
+   "playedAtMs": 1795716000000
+  },
+  {
+   "key": "https://www.fastcompany.com/91649190/mlb-lockout",
+   "firstQueuedAtMs": 1795716000000,
+   "playedAtMs": 1795716000000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/world/french-cinema-star-gerard-depardieu-ordered-to-stand-trial-for-rape-and-sexual-assault",
+   "firstQueuedAtMs": 1795716000000,
+   "playedAtMs": 1795716000000
+  },
+  {
+   "key": "https://www.rockmnation.com/165329/3-star-wide-receiver-charles-tre-britton-iii-commits-to-mizzou-football",
+   "firstQueuedAtMs": 1795716000000,
+   "playedAtMs": 1795716000000
+  },
+  {
+   "key": "https://thehill.com/?p=6240367",
+   "firstQueuedAtMs": 1795716000000,
+   "playedAtMs": 1795716000000
+  },
+  {
+   "key": "https://thehill.com/?p=6244500",
+   "firstQueuedAtMs": 1795716000000,
+   "playedAtMs": 1795716000000
+  },
+  {
+   "key": "9.7437161",
+   "firstQueuedAtMs": 1795716000000,
+   "playedAtMs": 1795716000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795714058",
+   "firstQueuedAtMs": 1795716000000,
+   "playedAtMs": 1795716000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795707535",
+   "firstQueuedAtMs": 1795716000000,
+   "playedAtMs": 1795716000000
+  },
+  {
+   "key": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president",
+   "firstQueuedAtMs": 1795716000000,
+   "playedAtMs": 1795716000000
+  },
+  {
+   "key": "https://news.sky.com/story/norse-atlantic-airways-suspends-all-flights-as-carrier-faces-bankruptcy-13616901",
+   "firstQueuedAtMs": 1795716000000,
+   "playedAtMs": 1795716000000
   }
  ]
 }
