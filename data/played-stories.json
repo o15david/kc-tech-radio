@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T15:20:23.815Z",
- "lastSyncBucket": 997613,
- "lastSyncCarryInSeconds": 35,
+ "updatedAt": "2026-11-26T15:35:23.521Z",
+ "lastSyncBucket": 997614,
+ "lastSyncCarryInSeconds": 5,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -36639,6 +36639,151 @@
    "key": "https://dailygalaxy.com/?p=163178",
    "firstQueuedAtMs": 1795703400000,
    "playedAtMs": 1795703400000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312360",
+   "firstQueuedAtMs": 1795705200000,
+   "playedAtMs": 1795705200000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4456266",
+   "firstQueuedAtMs": 1795705200000,
+   "playedAtMs": 1795705200000
+  },
+  {
+   "key": "https://www.ky3.com/page/first-alert-weather-resources",
+   "firstQueuedAtMs": 1795705200000,
+   "playedAtMs": 1795705200000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/nation/thanksgiving-holiday-plagued-by-heavy-rain-wind-and-flooding-across-much-of-the-u-s",
+   "firstQueuedAtMs": 1795705200000,
+   "playedAtMs": 1795705200000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=165181",
+   "firstQueuedAtMs": 1795705200000,
+   "playedAtMs": 1795705200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/26/kctv-sports-huddle-preview-predictions-chiefs-meet-bills-thanksgiving-battle/",
+   "firstQueuedAtMs": 1795705200000,
+   "playedAtMs": 1795705200000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
+   "firstQueuedAtMs": 1795705200000,
+   "playedAtMs": 1795705200000
+  },
+  {
+   "key": "https://physicsworld.com/?p=131737",
+   "firstQueuedAtMs": 1795705200000,
+   "playedAtMs": 1795705200000
+  },
+  {
+   "key": "news714907399",
+   "firstQueuedAtMs": 1795705200000,
+   "playedAtMs": 1795705200000
+  },
+  {
+   "key": "https://lobste.rs/s/anrpqf",
+   "firstQueuedAtMs": 1795705200000,
+   "playedAtMs": 1795705200000
+  },
+  {
+   "key": "e4aaccfc-6e37-46b4-8241-e715a5bdc2ee",
+   "firstQueuedAtMs": 1795705200000,
+   "playedAtMs": 1795705200000
+  },
+  {
+   "key": "tag:daringfireball.net,2026://1.43783",
+   "firstQueuedAtMs": 1795705200000,
+   "playedAtMs": 1795705200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/26/thanksgiving-text-mix-up-friendship-could-become-lifetime-movie/",
+   "firstQueuedAtMs": 1795705200000,
+   "playedAtMs": 1795705200000
+  },
+  {
+   "key": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+   "firstQueuedAtMs": 1795705200000,
+   "playedAtMs": 1795705200000
+  },
+  {
+   "key": "https://lobste.rs/s/fiwphl",
+   "firstQueuedAtMs": 1795705200000,
+   "playedAtMs": 1795705200000
+  },
+  {
+   "key": "https://hackaday.com/?p=1430179",
+   "firstQueuedAtMs": 1795705200000,
+   "playedAtMs": 1795705200000
+  },
+  {
+   "key": "https://thehill.com/?p=6244597",
+   "firstQueuedAtMs": 1795705200000,
+   "playedAtMs": 1795705200000
+  },
+  {
+   "key": "news714649451",
+   "firstQueuedAtMs": 1795705200000,
+   "playedAtMs": 1795705200000
+  },
+  {
+   "key": "https://www.inc.com/paula-conway/vidantaworld-luxury-resort/91442823",
+   "firstQueuedAtMs": 1795705200000,
+   "playedAtMs": 1795705200000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/217656/chiefs-news-andy-reids-mac-cheese-recipe-is-exposed",
+   "firstQueuedAtMs": 1795705200000,
+   "playedAtMs": 1795705200000
+  },
+  {
+   "key": "https://www.inc.com/ethan-fixell/a-ceo-made-2000-employees-take-an-ai-course-employers-say-theyre-missing-a-bigger-skill/91442275",
+   "firstQueuedAtMs": 1795705200000,
+   "playedAtMs": 1795705200000
+  },
+  {
+   "key": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
+   "firstQueuedAtMs": 1795705200000,
+   "playedAtMs": 1795705200000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/26/over-120000-missouri-customers-without-power-snow-falls-across-st-louis-area/",
+   "firstQueuedAtMs": 1795705200000,
+   "playedAtMs": 1795705200000
+  },
+  {
+   "key": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
+   "firstQueuedAtMs": 1795705200000,
+   "playedAtMs": 1795705200000
+  },
+  {
+   "key": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+   "firstQueuedAtMs": 1795705200000,
+   "playedAtMs": 1795705200000
+  },
+  {
+   "key": "e3a56d3b-08a4-4fa1-8832-19cc96e282c5",
+   "firstQueuedAtMs": 1795705200000,
+   "playedAtMs": 1795705200000
+  },
+  {
+   "key": "https://fortune.com/?p=4644430&showAdminBar=true",
+   "firstQueuedAtMs": 1795705200000,
+   "playedAtMs": 1795705200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/insider/thanksgiving-dinner-politics-conversation.html",
+   "firstQueuedAtMs": 1795705200000,
+   "playedAtMs": 1795705200000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4456156",
+   "firstQueuedAtMs": 1795705200000,
+   "playedAtMs": 1795705200000
   }
  ]
 }
