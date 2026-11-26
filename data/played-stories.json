@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T23:20:12.938Z",
- "lastSyncBucket": 997629,
+ "updatedAt": "2026-11-26T23:35:07.184Z",
+ "lastSyncBucket": 997630,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -38459,6 +38459,81 @@
    "key": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo#1",
    "firstQueuedAtMs": 1795732200000,
    "playedAtMs": 1795732200000
+  },
+  {
+   "key": "news714842075",
+   "firstQueuedAtMs": 1795734000000,
+   "playedAtMs": 1795734000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/26/hope-faith-serves-thanksgiving-meals-kansas-citys-homeless-community/",
+   "firstQueuedAtMs": 1795734000000,
+   "playedAtMs": 1795734000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/26/fact-finders-can-blacked-out-taillights-get-you-ticket-missouri/",
+   "firstQueuedAtMs": 1795734000000,
+   "playedAtMs": 1795734000000
+  },
+  {
+   "key": "https://abcnews.com/Sports/wireStory/bears-te-colston-loveland-carted-off-knee-injury-138471920",
+   "firstQueuedAtMs": 1795734000000,
+   "playedAtMs": 1795734000000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/astronomers-discover-a-hidden-binary-in-a-star-system-used-to-calibrate-the-jwst",
+   "firstQueuedAtMs": 1795734000000,
+   "playedAtMs": 1795734000000
+  },
+  {
+   "key": "https://kendell.dev/blog/arkwrapper/",
+   "firstQueuedAtMs": 1795734000000,
+   "playedAtMs": 1795734000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-day-parade-empty-streets.html",
+   "firstQueuedAtMs": 1795734000000,
+   "playedAtMs": 1795734000000
+  },
+  {
+   "key": "74521549",
+   "firstQueuedAtMs": 1795734000000,
+   "playedAtMs": 1795734000000
+  },
+  {
+   "key": "https://martincitytelegraph.com/?p=82103",
+   "firstQueuedAtMs": 1795734000000,
+   "playedAtMs": 1795734000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/26/arts/television/georgia-tech-couple-fan-camera-ethics.html",
+   "firstQueuedAtMs": 1795734000000,
+   "playedAtMs": 1795734000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795729394",
+   "firstQueuedAtMs": 1795734000000,
+   "playedAtMs": 1795734000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/26/raytown-church-opens-thanksgiving-meal-community-after-officers-death/",
+   "firstQueuedAtMs": 1795734000000,
+   "playedAtMs": 1795734000000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo#2",
+   "firstQueuedAtMs": 1795734000000,
+   "playedAtMs": 1795734000000
+  },
+  {
+   "key": "https://www.scmp.com/business/markets/article/3375915/lets-keep-doing-lunch-hong-kong-exchange-leans-towards-keeping-noon-break-sources-say",
+   "firstQueuedAtMs": 1795734000000,
+   "playedAtMs": 1795734000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795725536",
+   "firstQueuedAtMs": 1795734000000,
+   "playedAtMs": 1795734000000
   }
  ]
 }
