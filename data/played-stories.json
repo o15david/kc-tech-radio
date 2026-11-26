@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T08:20:17.596Z",
- "lastSyncBucket": 997599,
- "lastSyncCarryInSeconds": 65,
+ "updatedAt": "2026-11-26T08:35:08.539Z",
+ "lastSyncBucket": 997600,
+ "lastSyncCarryInSeconds": 32,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -34114,6 +34114,146 @@
    "key": "https://sahanjournal.com/?p=89770",
    "firstQueuedAtMs": 1795678200000,
    "playedAtMs": 1795678200000
+  },
+  {
+   "key": "https://kansasreflector.com/?post_type=republished&p=64224",
+   "firstQueuedAtMs": 1795680000000,
+   "playedAtMs": 1795680000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/26/arts/television/late-night-meyers-huang-therapy-fallon.html",
+   "firstQueuedAtMs": 1795680000000,
+   "playedAtMs": 1795680000000
+  },
+  {
+   "key": "108559695",
+   "firstQueuedAtMs": 1795680000000,
+   "playedAtMs": 1795680000000
+  },
+  {
+   "key": "https://fortune.com/?p=4651232&showAdminBar=true",
+   "firstQueuedAtMs": 1795680000000,
+   "playedAtMs": 1795680000000
+  },
+  {
+   "key": "https://fortune.com/?p=4651360&showAdminBar=true",
+   "firstQueuedAtMs": 1795680000000,
+   "playedAtMs": 1795680000000
+  },
+  {
+   "key": "TP3NOJN3N09700",
+   "firstQueuedAtMs": 1795680000000,
+   "playedAtMs": 1795680000000
+  },
+  {
+   "key": "https://fortune.com/?p=4650617&showAdminBar=true",
+   "firstQueuedAtMs": 1795680000000,
+   "playedAtMs": 1795680000000
+  },
+  {
+   "key": "https://www.infoq.com/news/2026/11/dotnet-maui-11-coreclr-hotreload/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795680000000,
+   "playedAtMs": 1795680000000
+  },
+  {
+   "key": "https://fortune.com/?p=4646561",
+   "firstQueuedAtMs": 1795680000000,
+   "playedAtMs": 1795680000000
+  },
+  {
+   "key": "tag:daringfireball.net,2026:/linked//6.43780",
+   "firstQueuedAtMs": 1795680000000,
+   "playedAtMs": 1795680000000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/politics/article/3375898/how-chinas-leadership-will-weigh-its-choices-picking-shanghais-next-party-chief",
+   "firstQueuedAtMs": 1795680000000,
+   "playedAtMs": 1795680000000
+  },
+  {
+   "key": "https://ohiocapitaljournal.com/?post_type=republished&p=43283",
+   "firstQueuedAtMs": 1795680000000,
+   "playedAtMs": 1795680000000
+  },
+  {
+   "key": "https://www.scmp.com/business/china-business/article/3375841/carmakers-look-strengthen-chinas-electric-mobility-lead-guangzhou-auto-show",
+   "firstQueuedAtMs": 1795680000000,
+   "playedAtMs": 1795680000000
+  },
+  {
+   "key": "https://indianacapitalchronicle.com/?p=28204",
+   "firstQueuedAtMs": 1795680000000,
+   "playedAtMs": 1795680000000
+  },
+  {
+   "key": "https://www.theguardian.com/world/2026/nov/24/canada-sovereign-nation-us-relations-defence-pentagon-memo",
+   "firstQueuedAtMs": 1795680000000,
+   "playedAtMs": 1795680000000
+  },
+  {
+   "key": "https://news.sky.com/story/armed-men-take-at-least-25-hostages-in-supermarket-in-colombia-tourist-hotspot-13616139",
+   "firstQueuedAtMs": 1795680000000,
+   "playedAtMs": 1795680000000
+  },
+  {
+   "key": "https://news.sky.com/story/chinese-tech-giant-guilty-of-plotting-to-steal-trade-secrets-and-bank-fraud-13616130",
+   "firstQueuedAtMs": 1795680000000,
+   "playedAtMs": 1795680000000
+  },
+  {
+   "key": "https://oklahomawatch.org/?p=763683",
+   "firstQueuedAtMs": 1795680000000,
+   "playedAtMs": 1795680000000
+  },
+  {
+   "key": "https://news.sky.com/story/thomas-markle-formally-charged-in-us-over-possessing-child-sexual-abuse-material-13616074",
+   "firstQueuedAtMs": 1795680000000,
+   "playedAtMs": 1795680000000
+  },
+  {
+   "key": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
+   "firstQueuedAtMs": 1795680000000,
+   "playedAtMs": 1795680000000
+  },
+  {
+   "key": "https://sahanjournal.com/?p=89739",
+   "firstQueuedAtMs": 1795680000000,
+   "playedAtMs": 1795680000000
+  },
+  {
+   "key": "https://news.sky.com/story/fa-chair-had-to-sign-nda-to-view-fifa-documents-on-world-cup-sell-off-13615958",
+   "firstQueuedAtMs": 1795680000000,
+   "playedAtMs": 1795680000000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168871",
+   "firstQueuedAtMs": 1795680000000,
+   "playedAtMs": 1795680000000
+  },
+  {
+   "key": "https://sahanjournal.com/?p=89735",
+   "firstQueuedAtMs": 1795680000000,
+   "playedAtMs": 1795680000000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168869",
+   "firstQueuedAtMs": 1795680000000,
+   "playedAtMs": 1795680000000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168868",
+   "firstQueuedAtMs": 1795680000000,
+   "playedAtMs": 1795680000000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168866",
+   "firstQueuedAtMs": 1795680000000,
+   "playedAtMs": 1795680000000
+  },
+  {
+   "key": "https://oklahomawatch.org/?p=763713",
+   "firstQueuedAtMs": 1795680000000,
+   "playedAtMs": 1795680000000
   }
  ]
 }
