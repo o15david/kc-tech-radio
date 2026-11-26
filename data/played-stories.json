@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T10:50:29.254Z",
- "lastSyncBucket": 997604,
+ "updatedAt": "2026-11-26T11:05:21.657Z",
+ "lastSyncBucket": 997605,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -34959,6 +34959,176 @@
    "key": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo#3",
    "firstQueuedAtMs": 1795687200000,
    "playedAtMs": 1795687200000
+  },
+  {
+   "key": "74539570",
+   "firstQueuedAtMs": 1795689000000,
+   "playedAtMs": 1795689000000
+  },
+  {
+   "key": "https://www.rockmnation.com/165265/commute-sec-wednesday-night-injury-report-for-mizzou-vs-oklahoma",
+   "firstQueuedAtMs": 1795689000000,
+   "playedAtMs": 1795689000000
+  },
+  {
+   "key": "https://abcnews.com/US/new-york-declares-emergency-thanksgiving-storm-threatens-east/story?id=138464273",
+   "firstQueuedAtMs": 1795689000000,
+   "playedAtMs": 1795689000000
+  },
+  {
+   "key": "https://www.infoq.com/presentations/fine-tune-enterprise-rag-embeddings/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795689000000,
+   "playedAtMs": 1795689000000
+  },
+  {
+   "key": "E9rAYiwo7VEVsiHXUgUu2M",
+   "firstQueuedAtMs": 1795689000000,
+   "playedAtMs": 1795689000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html",
+   "firstQueuedAtMs": 1795689000000,
+   "playedAtMs": 1795689000000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=230450",
+   "firstQueuedAtMs": 1795689000000,
+   "playedAtMs": 1795689000000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75820",
+   "firstQueuedAtMs": 1795689000000,
+   "playedAtMs": 1795689000000
+  },
+  {
+   "key": "6b07095da2c32fc4ddb30859",
+   "firstQueuedAtMs": 1795689000000,
+   "playedAtMs": 1795689000000
+  },
+  {
+   "key": "6nrQvRbo7cF6GYZfBrbhMQ",
+   "firstQueuedAtMs": 1795689000000,
+   "playedAtMs": 1795689000000
+  },
+  {
+   "key": "https://abcnews.com/GMA/Food/kroger-foods-stores-stay-open-thanksgiving-chains-close/story?id=138321899",
+   "firstQueuedAtMs": 1795689000000,
+   "playedAtMs": 1795689000000
+  },
+  {
+   "key": "https://sifted.eu/articles/elevenlabs-funding-round-raise-33-bn-latest/",
+   "firstQueuedAtMs": 1795689000000,
+   "playedAtMs": 1795689000000
+  },
+  {
+   "key": "69d927fd27ad448072aa6f52",
+   "firstQueuedAtMs": 1795689000000,
+   "playedAtMs": 1795689000000
+  },
+  {
+   "key": "news714890664",
+   "firstQueuedAtMs": 1795689000000,
+   "playedAtMs": 1795689000000
+  },
+  {
+   "key": "WP-MKTW-0005370820",
+   "firstQueuedAtMs": 1795689000000,
+   "playedAtMs": 1795689000000
+  },
+  {
+   "key": "https://www.inc.com/bill-murphy-jr/i-asked-chatgpt-what-to-be-thankful-for-we-came-up-with-more-than-100-things-id-never-considered/91443425",
+   "firstQueuedAtMs": 1795689000000,
+   "playedAtMs": 1795689000000
+  },
+  {
+   "key": "https://github.com/intel/intel-one-mono",
+   "firstQueuedAtMs": 1795689000000,
+   "playedAtMs": 1795689000000
+  },
+  {
+   "key": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+   "firstQueuedAtMs": 1795689000000,
+   "playedAtMs": 1795689000000
+  },
+  {
+   "key": "https://lobste.rs/s/rtde6f",
+   "firstQueuedAtMs": 1795689000000,
+   "playedAtMs": 1795689000000
+  },
+  {
+   "key": "https://eng.snap.com/mcp-gateway",
+   "firstQueuedAtMs": 1795689000000,
+   "playedAtMs": 1795689000000
+  },
+  {
+   "key": "https://www.nytimes.com/video/us/politics/100000011304420/trump-president-turkey-pardon-thanksgiving.html",
+   "firstQueuedAtMs": 1795689000000,
+   "playedAtMs": 1795689000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/26/us/politics/ai-regulation-congress-nvidia.html",
+   "firstQueuedAtMs": 1795689000000,
+   "playedAtMs": 1795689000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/26/us/turkey-art-stamps-thanksgiving-minnesota.html",
+   "firstQueuedAtMs": 1795689000000,
+   "playedAtMs": 1795689000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/26/business/huawei-trump-china-ai.html",
+   "firstQueuedAtMs": 1795689000000,
+   "playedAtMs": 1795689000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html",
+   "firstQueuedAtMs": 1795689000000,
+   "playedAtMs": 1795689000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html",
+   "firstQueuedAtMs": 1795689000000,
+   "playedAtMs": 1795689000000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/26/nx-s1-6054139/court-rules-puerto-ricos-governor-can-fire-company-that-runs-troubled-power-grid",
+   "firstQueuedAtMs": 1795689000000,
+   "playedAtMs": 1795689000000
+  },
+  {
+   "key": "https://abcnews.com/Business/wireStory/large-explosion-reported-major-oil-facility-thai-capital-138463721",
+   "firstQueuedAtMs": 1795689000000,
+   "playedAtMs": 1795689000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/26/world/asia/hong-kong-fire-wang-fuk-court-anniversary.html",
+   "firstQueuedAtMs": 1795689000000,
+   "playedAtMs": 1795689000000
+  },
+  {
+   "key": "https://www.scmp.com/week-asia/lifestyle-culture/article/3375934/deadly-factory-fire-indonesia-renews-lack-safety-enforcement-fears",
+   "firstQueuedAtMs": 1795689000000,
+   "playedAtMs": 1795689000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795614007",
+   "firstQueuedAtMs": 1795689000000,
+   "playedAtMs": 1795689000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795671408",
+   "firstQueuedAtMs": 1795689000000,
+   "playedAtMs": 1795689000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795682126",
+   "firstQueuedAtMs": 1795689000000,
+   "playedAtMs": 1795689000000
+  },
+  {
+   "key": "9.7436760",
+   "firstQueuedAtMs": 1795689000000,
+   "playedAtMs": 1795689000000
   }
  ]
 }
