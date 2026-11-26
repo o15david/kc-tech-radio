@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T15:50:19.149Z",
- "lastSyncBucket": 997614,
- "lastSyncCarryInSeconds": 5,
+ "updatedAt": "2026-11-26T16:05:13.976Z",
+ "lastSyncBucket": 997615,
+ "lastSyncCarryInSeconds": 0,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -36784,6 +36784,226 @@
    "key": "https://fox4kc.com/?p=4456156",
    "firstQueuedAtMs": 1795705200000,
    "playedAtMs": 1795705200000
+  },
+  {
+   "key": "https://kansasreflector.com/?p=63866",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "https://thehill.com/?p=6243531",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3190829",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1041762",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "https://thehill.com/?p=6241160",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "UHTyZgWMhYGsNpDiG5DaSa",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/26/tailgate-recipe-pumpkin-spice-pancakes/",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "74540706",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "Nu6kTHGBY6nk6WhiEU8AgS",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "ef9d279c-fa4a-462f-835d-f76b051edaef",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "qeSUifLLKTVgtbTcJYStWU",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "https://thehill.com/?p=6244608",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=230142",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1043169",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "https://www.engadget.com/2329150/man-sentenced-to-47-month-prison-sentence-after-using-ai-impersonate-streamer/",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43340",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "news714843097",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "https://www.inc.com/liyana-illyas/ordinary-closing-stores-black-friday-what-it-wants-is-not-money/91443237",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "108559135",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "https://lobste.rs/s/iqi9wp",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "https://michidk.github.io/sidebyside/",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/26/9-am-update-check-out-snowy-conditions-eastern-ozarks/",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/26/nx-s1-6044602/michael-twitty-thanksgiving-food-culinary-history",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "https://missouriindependent.com/?post_type=republished&p=33874",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "https://www.dw.com/en/germany-ig-metall-union-says-deal-reached-with-employers/a-80066792?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795700917",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795706498",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "9.7436970",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/26/modot-warns-slick-roads-traffic-signal-outages-across-st-louis-area-thanksgiving-morning/",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "https://www.dw.com/en/is-authoritarian-vietnam-ready-to-phase-out-the-death-penalty/a-80064271?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795695244",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "https://www.dw.com/en/africa-opposition-voices-face-growing-pressure/a-80063893?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795696668",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795697126",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "https://www.dw.com/en/freigang-banned-germany-star-to-miss-2027-world-cup/a-80063930?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "https://www.scmp.com/news/world/europe/article/3375961/french-actor-gerard-depardieu-stand-trial-rape-after-paris-court-rejects-appeal",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo#0",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "https://www.theguardian.com/world/2026/nov/26/spain-peoples-party-ai-video-pedro-sanchez-morocco-shirt",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po#1",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168878",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo#1",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "https://www.dw.com/en/germany-news-cologne-court-awards-record-damages-in-catholic-sex-abuse-case/live-80056746?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
+  },
+  {
+   "key": "9.7436271",
+   "firstQueuedAtMs": 1795707000000,
+   "playedAtMs": 1795707000000
   }
  ]
 }
