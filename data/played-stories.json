@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T16:50:09.570Z",
- "lastSyncBucket": 997616,
+ "updatedAt": "2026-11-26T17:05:05.550Z",
+ "lastSyncBucket": 997617,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -37184,6 +37184,191 @@
    "key": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo#3",
    "firstQueuedAtMs": 1795708800000,
    "playedAtMs": 1795708800000
+  },
+  {
+   "key": "74509500",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "https://greatlakesecho.org/?p=5038851",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "657b8648-b51d-4743-a879-6f2b163afd59",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3192519",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "5BygyJUkb9VLmYKY92eqab",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/217662/in-week-11s-reacts-poll-chiefs-fans-praise-george-karlaftis",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "https://www.inc.com/dan-schawbel/bath-body-works-has-a-new-strategy-and-it-starts-with-listening/91441393",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386848",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "147ba0cc-e489-4ae0-871b-32c6e7d15b9d",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "5WXWsdwTDiUe3yo2xiEHVj",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=314938",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "https://www.engadget.com/2329177/workers-gta-6-studio-rockstar-games-vote-against-union-recognition/",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=164053",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "https://thehill.com/?p=6244695",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "fcdf2bee-5ca9-4b7d-98ec-bbfac31da50c",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/26/plate-full-gratitude-one-kansas-city-familys-thanksgiving-morning-tradition/",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/detection-of-vaporized-rock-reveals-the-birth-of-a-solar-system",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "news714909076",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "https://kagi.com/watch",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163328",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=164024",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/politics/trump-calls-gdp-figures-fake-and-demands-an-investigation-of-commerce-department",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163989",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4119018",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "108559483",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "108506115",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "https://www.nature.com/articles/s41586-026-11475-7",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "https://www.pencilofrays.com/smartphone-lens/",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/26/us/politics/snap-food-stamps-school-meals.html",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/26/business/holiday-shopping-ai-agents.html",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/26/business/energy-environment/vertical-data-center-kansas-city.html",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/26/business/democrats-congress-agenda-taxes-spending.html",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "https://abcnews.com/video/138457101/",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "https://abcnews.com/video/138463268/",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/26/world/canada/port-hardy-woman-dies-outside-er.html",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795128398",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o#0",
+   "firstQueuedAtMs": 1795710600000,
+   "playedAtMs": 1795710600000
   }
  ]
 }
