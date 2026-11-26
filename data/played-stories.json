@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T03:50:09.962Z",
- "lastSyncBucket": 997590,
- "lastSyncCarryInSeconds": 1,
+ "updatedAt": "2026-11-26T04:05:10.877Z",
+ "lastSyncBucket": 997591,
+ "lastSyncCarryInSeconds": 43,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -32294,6 +32294,261 @@
    "key": "perf:121",
    "firstQueuedAtMs": 1795662000000,
    "playedAtMs": 1795662000000
+  },
+  {
+   "key": "https://lobste.rs/s/2thnmt",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "https://oklahomawatch.org/?p=763854",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "https://thehill.com/?p=6244382",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "news714812012",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "https://www.techdirt.com/?p=552304&preview=true&preview_id=552304",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "74536899",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/26/woman-sentenced-dui-crash-that-killed-teacher/",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "https://www.inc.com/amaya-nichole/wendys-says-franchisees-set-own-prices-new-lawsuit-says-is-not-the-case/91442839",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "https://progrium.github.io/minipg/",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "https://www.friedgil.com/vpvnp",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "1c8d3bd8-a418-4135-9bb2-e1d38afc2923",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "74536965",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "perf:115",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "perf:64",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "https://oklahomavoice.com/?p=22839",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "perf:86",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "perf:96",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "perf:109",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "perf:97",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "https://arkansasadvocate.com/?p=31106",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "perf:110",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "perf:122",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "perf:87",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "perf:88",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "perf:89",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "https://arkansasadvocate.com/?p=31061",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "perf:111",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "perf:112",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "perf:116",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "perf:113",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "perf:90",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "perf:91",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "https://flatwaterfreepress.org/?p=20528",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "perf:92",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "perf:114",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "perf:79",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "perf:99",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "perf:100",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "https://wisconsinwatch.org/?p=1322848",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "perf:93",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "perf:101",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "perf:124",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "perf:76",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "https://ohiocapitaljournal.com/?p=43271",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "perf:72",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "perf:102",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "perf:82",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "perf:65",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "https://iowacapitaldispatch.com/?p=61421",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
+  },
+  {
+   "key": "https://indianacapitalchronicle.com/?p=28262",
+   "firstQueuedAtMs": 1795663800000,
+   "playedAtMs": 1795663800000
   }
  ]
 }
