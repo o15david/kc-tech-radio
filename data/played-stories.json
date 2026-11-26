@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T16:20:11.194Z",
- "lastSyncBucket": 997615,
+ "updatedAt": "2026-11-26T16:35:24.069Z",
+ "lastSyncBucket": 997616,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -37004,6 +37004,186 @@
    "key": "9.7436271",
    "firstQueuedAtMs": 1795707000000,
    "playedAtMs": 1795707000000
+  },
+  {
+   "key": "74540779",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/robots-not-astronauts-will-have-to-fix-space-data-centers",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75843",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "news714649473",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "https://news.ycombinator.com/item?id=50656763",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312380",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/26/trump-gdp-investigation-economy-statistics",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "TP3M53T96OSI00",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "https://www.inc.com/moses-jeanfrancois/amazon-called-black-friday-deals-1-in-3-cost-same-or-more-new-report/91441264",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/26/epa-says-air-monitors-detected-no-lead-after-iowa-explosives-blast-lab-results-still-pending/",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "https://lobste.rs/s/l8cjcz",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "https://news.cnrs.fr/articles/la-nina-a-threat-in-the-shadows",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "news714909058",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "https://www.inc.com/carmine-gallo/critics-said-the-apple-store-would-fail-steve-jobs-turned-doubt-into-a-billion-dollar-success/91442147",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "https://www.inc.com/dan-schawbel/hiltons-ceo-says-there-is-nothing-proprietary-about-building-the-worlds-best-workplace/91441484",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "https://fortune.com/?p=4647007&showAdminBar=true",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "22dc3e04-e169-4ad5-9997-2edb329017b2",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=198329",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/nation/judge-blocks-fcc-from-early-license-review-for-abc-which-network-says-has-had-a-chilling-effect",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "https://www.royalsreview.com/?p=108571",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/26/us/iowa-lead-ammunition-stockpile-history.html",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "https://thehill.com/?p=6244629",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/26/business/trump-tariffs-asia.html",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "https://abcnews.com/US/wireStory/melania-trump-reunites-seventh-group-ukrainian-russian-children-138435802",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795708603",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "https://www.dw.com/en/protests-in-iraqi-kurdistan-at-plans-for-government-in-baghdad-to-take-over-oil-border-crossings/a-80065994?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795708511",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o#0",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795705299",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795702841",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "https://www.dw.com/en/africa-s-opposition-voices-face-growing-pressure/a-80063893?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o#0",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o#1",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o#1",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/videos/cmvg23djw8v9o#1",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo#3",
+   "firstQueuedAtMs": 1795708800000,
+   "playedAtMs": 1795708800000
   }
  ]
 }
