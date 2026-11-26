@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T12:50:41.247Z",
- "lastSyncBucket": 997608,
- "lastSyncCarryInSeconds": 17,
+ "updatedAt": "2026-11-26T13:06:04.160Z",
+ "lastSyncBucket": 997609,
+ "lastSyncCarryInSeconds": 50,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -35659,6 +35659,156 @@
    "key": "https://www.dw.com/en/what-is-the-us-permitting-bill-and-would-it-actually-help-the-climate/a-80007213?maca=en-rss-en-all-1573-rdf",
    "firstQueuedAtMs": 1795694400000,
    "playedAtMs": 1795694400000
+  },
+  {
+   "key": "https://kansascitymag.com/?p=74558",
+   "firstQueuedAtMs": 1795696200000,
+   "playedAtMs": 1795696200000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=165209",
+   "firstQueuedAtMs": 1795696200000,
+   "playedAtMs": 1795696200000
+  },
+  {
+   "key": "https://thehill.com/?p=6243234",
+   "firstQueuedAtMs": 1795696200000,
+   "playedAtMs": 1795696200000
+  },
+  {
+   "key": "5de67c19b4ac1c00080cd50b",
+   "firstQueuedAtMs": 1795696200000,
+   "playedAtMs": 1795696200000
+  },
+  {
+   "key": "px9QYiyuQvJUnGrqkpd3K",
+   "firstQueuedAtMs": 1795696200000,
+   "playedAtMs": 1795696200000
+  },
+  {
+   "key": "8718956b-9147-41d6-94d0-0dc710fcc02c",
+   "firstQueuedAtMs": 1795696200000,
+   "playedAtMs": 1795696200000
+  },
+  {
+   "key": "uzmVkZbSHYigpzRaYPRmm5",
+   "firstQueuedAtMs": 1795696200000,
+   "playedAtMs": 1795696200000
+  },
+  {
+   "key": "https://nautil.us/?p=1287102",
+   "firstQueuedAtMs": 1795696200000,
+   "playedAtMs": 1795696200000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=230220",
+   "firstQueuedAtMs": 1795696200000,
+   "playedAtMs": 1795696200000
+  },
+  {
+   "key": "https://kansascitymag.com/?p=75731",
+   "firstQueuedAtMs": 1795696200000,
+   "playedAtMs": 1795696200000
+  },
+  {
+   "key": "6b07a65c992b650001ea213b",
+   "firstQueuedAtMs": 1795696200000,
+   "playedAtMs": 1795696200000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75833",
+   "firstQueuedAtMs": 1795696200000,
+   "playedAtMs": 1795696200000
+  },
+  {
+   "key": "tdy_news_7a_solis_thanksgiving_travel_261126",
+   "firstQueuedAtMs": 1795696200000,
+   "playedAtMs": 1795696200000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=164091",
+   "firstQueuedAtMs": 1795696200000,
+   "playedAtMs": 1795696200000
+  },
+  {
+   "key": "https://lobste.rs/s/2gfpu3",
+   "firstQueuedAtMs": 1795696200000,
+   "playedAtMs": 1795696200000
+  },
+  {
+   "key": "TP3LGZRKV2TJ00",
+   "firstQueuedAtMs": 1795696200000,
+   "playedAtMs": 1795696200000
+  },
+  {
+   "key": "https://fortune.com/?p=4650173&showAdminBar=true",
+   "firstQueuedAtMs": 1795696200000,
+   "playedAtMs": 1795696200000
+  },
+  {
+   "key": "https://abcnews.com/International/wireStory/egypt-detains-driver-suspected-causing-cairo-tanker-crash-138465415",
+   "firstQueuedAtMs": 1795696200000,
+   "playedAtMs": 1795696200000
+  },
+  {
+   "key": "74540629",
+   "firstQueuedAtMs": 1795696200000,
+   "playedAtMs": 1795696200000
+  },
+  {
+   "key": "WP-MKTW-0005370948",
+   "firstQueuedAtMs": 1795696200000,
+   "playedAtMs": 1795696200000
+  },
+  {
+   "key": "74540809",
+   "firstQueuedAtMs": 1795696200000,
+   "playedAtMs": 1795696200000
+  },
+  {
+   "key": "607895413c4558580f4abffa",
+   "firstQueuedAtMs": 1795696200000,
+   "playedAtMs": 1795696200000
+  },
+  {
+   "key": "jyLGMuK38J46LcHLHmZnoa",
+   "firstQueuedAtMs": 1795696200000,
+   "playedAtMs": 1795696200000
+  },
+  {
+   "key": "https://www.missourinet.com/?p=178040",
+   "firstQueuedAtMs": 1795696200000,
+   "playedAtMs": 1795696200000
+  },
+  {
+   "key": "https://thehill.com/?p=6240190",
+   "firstQueuedAtMs": 1795696200000,
+   "playedAtMs": 1795696200000
+  },
+  {
+   "key": "https://fortune.com/?p=4650859&showAdminBar=true",
+   "firstQueuedAtMs": 1795696200000,
+   "playedAtMs": 1795696200000
+  },
+  {
+   "key": "https://missouriindependent.com/?p=33824",
+   "firstQueuedAtMs": 1795696200000,
+   "playedAtMs": 1795696200000
+  },
+  {
+   "key": "https://fortune.com/?p=4651741&showAdminBar=true",
+   "firstQueuedAtMs": 1795696200000,
+   "playedAtMs": 1795696200000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/politics/georgias-fulton-county-ordered-to-give-copy-of-2020-election-records-seized-by-fbi-to-state-board",
+   "firstQueuedAtMs": 1795696200000,
+   "playedAtMs": 1795696200000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163191",
+   "firstQueuedAtMs": 1795696200000,
+   "playedAtMs": 1795696200000
   }
  ]
 }
