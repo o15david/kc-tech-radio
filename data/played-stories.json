@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T10:20:21.776Z",
- "lastSyncBucket": 997603,
+ "updatedAt": "2026-11-26T10:35:17.296Z",
+ "lastSyncBucket": 997604,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -34789,6 +34789,176 @@
    "key": "https://news.un.org/en/story/2026/11/1168853",
    "firstQueuedAtMs": 1795685400000,
    "playedAtMs": 1795685400000
+  },
+  {
+   "key": "6b00bed1d45a769b57879106",
+   "firstQueuedAtMs": 1795687200000,
+   "playedAtMs": 1795687200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/26/man-accused-killing-co-worker-airbnb-with-gun-he-thought-was-unloaded/",
+   "firstQueuedAtMs": 1795687200000,
+   "playedAtMs": 1795687200000
+  },
+  {
+   "key": "https://nebraskaexaminer.com/?post_type=republished&p=46038",
+   "firstQueuedAtMs": 1795687200000,
+   "playedAtMs": 1795687200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/26/opinion/thanksgiving-america-education-disabilities.html",
+   "firstQueuedAtMs": 1795687200000,
+   "playedAtMs": 1795687200000
+  },
+  {
+   "key": "https://electrek.co/?p=496258",
+   "firstQueuedAtMs": 1795687200000,
+   "playedAtMs": 1795687200000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/universe-todays-ai-policy",
+   "firstQueuedAtMs": 1795687200000,
+   "playedAtMs": 1795687200000
+  },
+  {
+   "key": "news714890386",
+   "firstQueuedAtMs": 1795687200000,
+   "playedAtMs": 1795687200000
+  },
+  {
+   "key": "69f5188b6927edc15eb120f0",
+   "firstQueuedAtMs": 1795687200000,
+   "playedAtMs": 1795687200000
+  },
+  {
+   "key": "6Ng2HRnLLg5Gf538VTJk8V",
+   "firstQueuedAtMs": 1795687200000,
+   "playedAtMs": 1795687200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/26/opinion/trump-maureen-dowd-brother.html",
+   "firstQueuedAtMs": 1795687200000,
+   "playedAtMs": 1795687200000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/26/nx-s1-6028781/memories-of-a-good-meal-cookbook-chef-alon-shaya",
+   "firstQueuedAtMs": 1795687200000,
+   "playedAtMs": 1795687200000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311831",
+   "firstQueuedAtMs": 1795687200000,
+   "playedAtMs": 1795687200000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75809",
+   "firstQueuedAtMs": 1795687200000,
+   "playedAtMs": 1795687200000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/26/nx-s1-5983712/indian-pueblo-kitchen-native-american-food-albuquerque",
+   "firstQueuedAtMs": 1795687200000,
+   "playedAtMs": 1795687200000
+  },
+  {
+   "key": "WP-MKTW-0005370860",
+   "firstQueuedAtMs": 1795687200000,
+   "playedAtMs": 1795687200000
+  },
+  {
+   "key": "https://news.cnrs.fr/articles/ukraine-the-environment-as-a-target-ii",
+   "firstQueuedAtMs": 1795687200000,
+   "playedAtMs": 1795687200000
+  },
+  {
+   "key": "https://fortune.com/?p=4651742&showAdminBar=true",
+   "firstQueuedAtMs": 1795687200000,
+   "playedAtMs": 1795687200000
+  },
+  {
+   "key": "news714834121",
+   "firstQueuedAtMs": 1795687200000,
+   "playedAtMs": 1795687200000
+  },
+  {
+   "key": "https://www.fastcompany.com/91648586/why-employees-are-habit-hugging-at-work",
+   "firstQueuedAtMs": 1795687200000,
+   "playedAtMs": 1795687200000
+  },
+  {
+   "key": "nn_tll_shenzhen_americans_261119",
+   "firstQueuedAtMs": 1795687200000,
+   "playedAtMs": 1795687200000
+  },
+  {
+   "key": "https://fortune.com/?p=4646163",
+   "firstQueuedAtMs": 1795687200000,
+   "playedAtMs": 1795687200000
+  },
+  {
+   "key": "https://indianacapitalchronicle.com/?p=28256",
+   "firstQueuedAtMs": 1795687200000,
+   "playedAtMs": 1795687200000
+  },
+  {
+   "key": "https://www.dw.com/en/health-issues-delay-trial-of-berlin-woman-accused-of-spying-for-russia/a-80057677?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795687200000,
+   "playedAtMs": 1795687200000
+  },
+  {
+   "key": "https://www.nbcnews.com/world/asia/silicon-valley-shenzhen-american-startups-are-moving-chinas-tech-capit-rcna610832",
+   "firstQueuedAtMs": 1795687200000,
+   "playedAtMs": 1795687200000
+  },
+  {
+   "key": "https://www.technologyreview.com/?p=1149923",
+   "firstQueuedAtMs": 1795687200000,
+   "playedAtMs": 1795687200000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/society/article/3375926/tai-po-fire-remembering-victims",
+   "firstQueuedAtMs": 1795687200000,
+   "playedAtMs": 1795687200000
+  },
+  {
+   "key": "https://www.theguardian.com/business/2026/nov/26/norse-atlantic-airways-suspends-all-flights-urgent-funding-plea",
+   "firstQueuedAtMs": 1795687200000,
+   "playedAtMs": 1795687200000
+  },
+  {
+   "key": "https://www.scmp.com/news/asia/south-asia/article/3375924/modis-government-urges-netflix-keep-pakistani-urdu-drama-indian-screens",
+   "firstQueuedAtMs": 1795687200000,
+   "playedAtMs": 1795687200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795677414",
+   "firstQueuedAtMs": 1795687200000,
+   "playedAtMs": 1795687200000
+  },
+  {
+   "key": "https://www.scmp.com/news/people-culture/trending-china/article/3375912/china-singles-choose-flea-market-first-dates-sifting-through-broken-ceramics-vibe-check",
+   "firstQueuedAtMs": 1795687200000,
+   "playedAtMs": 1795687200000
+  },
+  {
+   "key": "https://www.scmp.com/economy/policy/article/3375920/could-eu-delisting-chinese-firm-pave-way-wider-sanctions-relief",
+   "firstQueuedAtMs": 1795687200000,
+   "playedAtMs": 1795687200000
+  },
+  {
+   "key": "https://www.scmp.com/business/article/3375895/will-hong-kongs-expanded-winterfest-year-boost-citys-retail-spaces",
+   "firstQueuedAtMs": 1795687200000,
+   "playedAtMs": 1795687200000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/military/article/3375877/pla-overhauls-joint-training-after-drills-expose-coordination-gaps",
+   "firstQueuedAtMs": 1795687200000,
+   "playedAtMs": 1795687200000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo#3",
+   "firstQueuedAtMs": 1795687200000,
+   "playedAtMs": 1795687200000
   }
  ]
 }
