@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T13:50:38.869Z",
- "lastSyncBucket": 997610,
- "lastSyncCarryInSeconds": 111,
+ "updatedAt": "2026-11-26T14:05:52.241Z",
+ "lastSyncBucket": 997611,
+ "lastSyncCarryInSeconds": 2,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -36004,6 +36004,241 @@
    "key": "https://oklahomavoice.com/?p=22833",
    "firstQueuedAtMs": 1795698000000,
    "playedAtMs": 1795698000000
+  },
+  {
+   "key": "https://www.kshb.com/donate/give-a-book/10-years-2-million-books-celebrating-if-you-give-a-child-a-book",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "https://iowacapitaldispatch.com/?p=61506",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "https://thehill.com/?p=6240303",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1040110",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "74540444",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1042613",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "b290d033-8eb9-4b54-96fa-386c1112ebd3",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/26/mother-92-charged-5-year-old-sons-death-57-years-after-he-died/",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "WP-MKTW-0005370134",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=230607",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "https://www.eetimes.com/?p=101797201",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "https://www.engadget.com/2329115/the-screens-app-will-let-you-turn-your-iphone-duo-into-an-itty-bitty-macbook/",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "https://electrek.co/?p=496295",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "https://lobste.rs/s/u9wuvw",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "https://www.inc.com/jason-aten/the-15-black-friday-tech-deals-that-are-actually-worth-it/91443439",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75839",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "https://thehill.com/?p=6244557",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "TP417XKJH6V600",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "108559835",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "https://electrek.co/?p=496281",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/26/early-start-what-know-before-heading-country-club-plaza-lighting-ceremony/",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/change-6-samples-reveal-the-violent-chain-reaction-that-built-the-moons-largest-crater",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "108555234",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "news714753353",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "news714897980",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "https://www.jefftk.com/p/limiting-charging-to-80",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "https://nebraskaexaminer.com/?post_type=republished&p=45965",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "https://www.kshb.com/life/holidays-and-celebrations/how-to-get-the-perfect-thanksgiving-family-photo-without-the-stress",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "a02ba8a1-c77f-42fb-a01f-97d229a3c208",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "7ec7ec1d-16a7-4738-81c5-f6a163e296ce",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "98562fbb-0a2f-40a3-a708-457904899f28",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "https://thehill.com/?p=6244342",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "tdy_news_7a_chandler_aaron_rodgers_261126",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/26/nyregion/macys-parade-balloons-thanksgiving.html",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "https://www.scmp.com/week-asia/economics/article/3375959/modi-questions-corporate-india-jobs-and-wages-will-business-leaders-do-more",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "https://www.scmp.com/news/world/europe/article/3375958/woman-abused-priest-foster-father-wins-record-us600000-german-church",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "https://www.dw.com/en/eu-indonesia-trade-deal-opens-new-markets-but-challenges-remain/a-80059568?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795691288",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795699371",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795691921",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1794921389",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795695442",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "https://www.scmp.com/tech/big-tech/article/3375938/chinas-tech-ambitions-stay-track-despite-shanghai-party-chiefs-ouster-analysts",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/education/article/3375946/hong-kong-lawmakers-defend-cuhk-ordinance-changes-move-boost-governance",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
+  },
+  {
+   "key": "https://www.scmp.com/news/asia/southeast-asia/article/3375945/un-experts-demand-vietnam-explain-abduction-activists-cambodia",
+   "firstQueuedAtMs": 1795699800000,
+   "playedAtMs": 1795699800000
   }
  ]
 }
