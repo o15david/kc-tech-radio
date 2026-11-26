@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T07:20:10.554Z",
- "lastSyncBucket": 997597,
- "lastSyncCarryInSeconds": 58,
+ "updatedAt": "2026-11-26T07:35:15.308Z",
+ "lastSyncBucket": 997598,
+ "lastSyncCarryInSeconds": 77,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -33744,6 +33744,176 @@
    "key": "https://oklahomavoice.com/?post_type=republished&p=22811",
    "firstQueuedAtMs": 1795674600000,
    "playedAtMs": 1795674600000
+  },
+  {
+   "key": "https://oklahomavoice.com/?post_type=republished&p=22809",
+   "firstQueuedAtMs": 1795676400000,
+   "playedAtMs": 1795676400000
+  },
+  {
+   "key": "https://www.engadget.com/2329008/neuralink-receives-fda-approval-for-brain-implant-trial-in-als-patients/",
+   "firstQueuedAtMs": 1795676400000,
+   "playedAtMs": 1795676400000
+  },
+  {
+   "key": "108559215",
+   "firstQueuedAtMs": 1795676400000,
+   "playedAtMs": 1795676400000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75771",
+   "firstQueuedAtMs": 1795676400000,
+   "playedAtMs": 1795676400000
+  },
+  {
+   "key": "TP3LN0KIP3IP00",
+   "firstQueuedAtMs": 1795676400000,
+   "playedAtMs": 1795676400000
+  },
+  {
+   "key": "WP-MKTW-0005370809",
+   "firstQueuedAtMs": 1795676400000,
+   "playedAtMs": 1795676400000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75810",
+   "firstQueuedAtMs": 1795676400000,
+   "playedAtMs": 1795676400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795677111",
+   "firstQueuedAtMs": 1795676400000,
+   "playedAtMs": 1795676400000
+  },
+  {
+   "key": "https://fortune.com/?p=4648816&showAdminBar=true",
+   "firstQueuedAtMs": 1795676400000,
+   "playedAtMs": 1795676400000
+  },
+  {
+   "key": "https://www.scmp.com/business/china-business/article/3375858/china-pushes-brain-computer-interface-breakthroughs-neuralink-advances-towards-market",
+   "firstQueuedAtMs": 1795676400000,
+   "playedAtMs": 1795676400000
+  },
+  {
+   "key": "67bccc2de807ab74e8f0139a",
+   "firstQueuedAtMs": 1795676400000,
+   "playedAtMs": 1795676400000
+  },
+  {
+   "key": "6682a4c73029f65bb234b2d6",
+   "firstQueuedAtMs": 1795676400000,
+   "playedAtMs": 1795676400000
+  },
+  {
+   "key": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb",
+   "firstQueuedAtMs": 1795676400000,
+   "playedAtMs": 1795676400000
+  },
+  {
+   "key": "https://minnesotareformer.com/?p=39931",
+   "firstQueuedAtMs": 1795676400000,
+   "playedAtMs": 1795676400000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo#1",
+   "firstQueuedAtMs": 1795676400000,
+   "playedAtMs": 1795676400000
+  },
+  {
+   "key": "https://www.theguardian.com/environment/2026/nov/25/swiss-tourist-killed-british-americans-injured-elephants-cameroon",
+   "firstQueuedAtMs": 1795676400000,
+   "playedAtMs": 1795676400000
+  },
+  {
+   "key": "https://minnesotareformer.com/?p=39924",
+   "firstQueuedAtMs": 1795676400000,
+   "playedAtMs": 1795676400000
+  },
+  {
+   "key": "9.7435192",
+   "firstQueuedAtMs": 1795676400000,
+   "playedAtMs": 1795676400000
+  },
+  {
+   "key": "https://www.dw.com/en/eu-plans-€50-billion-sovereign-tech-equity-fund-to-boost-quantum-technology/a-80047569?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795676400000,
+   "playedAtMs": 1795676400000
+  },
+  {
+   "key": "https://sahanjournal.com/?p=89782",
+   "firstQueuedAtMs": 1795676400000,
+   "playedAtMs": 1795676400000
+  },
+  {
+   "key": "https://www.dw.com/en/ice-hockey-prospect-max-calce-follows-leon-draisaitl-s-path-leaving-mannheim-for-canada/a-80049458?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795676400000,
+   "playedAtMs": 1795676400000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo#1",
+   "firstQueuedAtMs": 1795676400000,
+   "playedAtMs": 1795676400000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168879",
+   "firstQueuedAtMs": 1795676400000,
+   "playedAtMs": 1795676400000
+  },
+  {
+   "key": "https://nebraskaexaminer.com/?p=45952",
+   "firstQueuedAtMs": 1795676400000,
+   "playedAtMs": 1795676400000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168873",
+   "firstQueuedAtMs": 1795676400000,
+   "playedAtMs": 1795676400000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168875",
+   "firstQueuedAtMs": 1795676400000,
+   "playedAtMs": 1795676400000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168876",
+   "firstQueuedAtMs": 1795676400000,
+   "playedAtMs": 1795676400000
+  },
+  {
+   "key": "https://flatwaterfreepress.org/?p=20381",
+   "firstQueuedAtMs": 1795676400000,
+   "playedAtMs": 1795676400000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168874",
+   "firstQueuedAtMs": 1795676400000,
+   "playedAtMs": 1795676400000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168872",
+   "firstQueuedAtMs": 1795676400000,
+   "playedAtMs": 1795676400000
+  },
+  {
+   "key": "https://www.theguardian.com/world/2026/nov/25/british-embassy-tokyo-warning-tourists-drink-spiking-credit-card-fraud",
+   "firstQueuedAtMs": 1795676400000,
+   "playedAtMs": 1795676400000
+  },
+  {
+   "key": "https://indianacapitalchronicle.com/?p=28198",
+   "firstQueuedAtMs": 1795676400000,
+   "playedAtMs": 1795676400000
+  },
+  {
+   "key": "https://www.theguardian.com/uk-news/2026/nov/25/sri-lanka-asylum-seeker-convicted-sexual-assault-uk-kills-himself-eswatini",
+   "firstQueuedAtMs": 1795676400000,
+   "playedAtMs": 1795676400000
+  },
+  {
+   "key": "https://indianacapitalchronicle.com/?p=28200",
+   "firstQueuedAtMs": 1795676400000,
+   "playedAtMs": 1795676400000
   }
  ]
 }
