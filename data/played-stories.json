@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T04:20:04.536Z",
- "lastSyncBucket": 997591,
- "lastSyncCarryInSeconds": 43,
+ "updatedAt": "2026-11-26T04:35:21.338Z",
+ "lastSyncBucket": 997592,
+ "lastSyncCarryInSeconds": 4,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -32549,6 +32549,176 @@
    "key": "https://indianacapitalchronicle.com/?p=28262",
    "firstQueuedAtMs": 1795663800000,
    "playedAtMs": 1795663800000
+  },
+  {
+   "key": "108559742",
+   "firstQueuedAtMs": 1795665600000,
+   "playedAtMs": 1795665600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/26/kansas-city-tree-lighting-shines-light-health-care-access-people-with-disabilities/",
+   "firstQueuedAtMs": 1795665600000,
+   "playedAtMs": 1795665600000
+  },
+  {
+   "key": "https://iowacapitaldispatch.com/?p=61422",
+   "firstQueuedAtMs": 1795665600000,
+   "playedAtMs": 1795665600000
+  },
+  {
+   "key": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
+   "firstQueuedAtMs": 1795665600000,
+   "playedAtMs": 1795665600000
+  },
+  {
+   "key": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
+   "firstQueuedAtMs": 1795665600000,
+   "playedAtMs": 1795665600000
+  },
+  {
+   "key": "https://bernsteinbear.com/blog/lsra-datalog/",
+   "firstQueuedAtMs": 1795665600000,
+   "playedAtMs": 1795665600000
+  },
+  {
+   "key": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+   "firstQueuedAtMs": 1795665600000,
+   "playedAtMs": 1795665600000
+  },
+  {
+   "key": "https://www.scmp.com/tech/tech-war/article/3375758/chinese-ai-chips-capture-88-home-market-2028-ubs-says-nvidia-woes-mount",
+   "firstQueuedAtMs": 1795665600000,
+   "playedAtMs": 1795665600000
+  },
+  {
+   "key": "74536857",
+   "firstQueuedAtMs": 1795665600000,
+   "playedAtMs": 1795665600000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=302587",
+   "firstQueuedAtMs": 1795665600000,
+   "playedAtMs": 1795665600000
+  },
+  {
+   "key": "https://www.dw.com/en/kim-jong-un-tours-nuclear-material-sites-urges-wider-use-of-tactical-nuclear-weapons/a-80055887?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795665600000,
+   "playedAtMs": 1795665600000
+  },
+  {
+   "key": "https://capitolnewsillinois.com/?p=135056",
+   "firstQueuedAtMs": 1795665600000,
+   "playedAtMs": 1795665600000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o#0",
+   "firstQueuedAtMs": 1795665600000,
+   "playedAtMs": 1795665600000
+  },
+  {
+   "key": "https://nebraskaexaminer.com/?p=46012",
+   "firstQueuedAtMs": 1795665600000,
+   "playedAtMs": 1795665600000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/politics/article/3375850/ai-models-football-how-china-plans-expand-defence-education-2030",
+   "firstQueuedAtMs": 1795665600000,
+   "playedAtMs": 1795665600000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4455948",
+   "firstQueuedAtMs": 1795665600000,
+   "playedAtMs": 1795665600000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/missouri/jackson-county/lone-jack-mourns-raytown-officer-josh-kerr-a-hero-to-its-students",
+   "firstQueuedAtMs": 1795665600000,
+   "playedAtMs": 1795665600000
+  },
+  {
+   "key": "https://www.scmp.com/week-asia/economics/article/3375789/why-singapores-tuas-mega-port-could-be-good-news-malaysia",
+   "firstQueuedAtMs": 1795665600000,
+   "playedAtMs": 1795665600000
+  },
+  {
+   "key": "https://www.minnpost.com/?p=2243995",
+   "firstQueuedAtMs": 1795665600000,
+   "playedAtMs": 1795665600000
+  },
+  {
+   "key": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+   "firstQueuedAtMs": 1795665600000,
+   "playedAtMs": 1795665600000
+  },
+  {
+   "key": "https://www.minnpost.com/?p=2243954",
+   "firstQueuedAtMs": 1795665600000,
+   "playedAtMs": 1795665600000
+  },
+  {
+   "key": "https://www.scmp.com/week-asia/politics/article/3375849/can-australias-pacific-diplomacy-solomon-deal-match-chinas-enduring-influence",
+   "firstQueuedAtMs": 1795665600000,
+   "playedAtMs": 1795665600000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375845/ex-lawmaker-william-wong-spared-jail-4-traffic-offences-after-drunken-hit-and-run",
+   "firstQueuedAtMs": 1795665600000,
+   "playedAtMs": 1795665600000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o#1",
+   "firstQueuedAtMs": 1795665600000,
+   "playedAtMs": 1795665600000
+  },
+  {
+   "key": "https://michiganadvance.com/?p=116182",
+   "firstQueuedAtMs": 1795665600000,
+   "playedAtMs": 1795665600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795661879",
+   "firstQueuedAtMs": 1795665600000,
+   "playedAtMs": 1795665600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795653803",
+   "firstQueuedAtMs": 1795665600000,
+   "playedAtMs": 1795665600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795661981",
+   "firstQueuedAtMs": 1795665600000,
+   "playedAtMs": 1795665600000
+  },
+  {
+   "key": "https://www.theguardian.com/news/audio/2026/nov/26/spains-election-the-end-of-a-leftwing-icon-podcast",
+   "firstQueuedAtMs": 1795665600000,
+   "playedAtMs": 1795665600000
+  },
+  {
+   "key": "https://www.minnpost.com/?p=2243896",
+   "firstQueuedAtMs": 1795665600000,
+   "playedAtMs": 1795665600000
+  },
+  {
+   "key": "https://www.scmp.com/week-asia/politics/article/3375800/russia-seeks-closer-asean-ties-singapore-faces-diplomatic-dilemma",
+   "firstQueuedAtMs": 1795665600000,
+   "playedAtMs": 1795665600000
+  },
+  {
+   "key": "https://www.dw.com/en/extreme-weather-threatens-thanksgiving-festivities-in-us/a-80055880?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795665600000,
+   "playedAtMs": 1795665600000
+  },
+  {
+   "key": "https://www.minnpost.com/?p=2243958",
+   "firstQueuedAtMs": 1795665600000,
+   "playedAtMs": 1795665600000
+  },
+  {
+   "key": "https://www.scmp.com/news/asia/east-asia/article/3375836/ill-keep-fighting-until-day-i-die-data-centres-ignite-revolt-japan",
+   "firstQueuedAtMs": 1795665600000,
+   "playedAtMs": 1795665600000
   }
  ]
 }
