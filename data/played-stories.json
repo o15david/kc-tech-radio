@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T05:20:21.575Z",
- "lastSyncBucket": 997593,
- "lastSyncCarryInSeconds": 11,
+ "updatedAt": "2026-11-26T05:35:20.579Z",
+ "lastSyncBucket": 997594,
+ "lastSyncCarryInSeconds": 99,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -32914,6 +32914,251 @@
    "key": "https://www.aljazeera.com/?t=1795646989",
    "firstQueuedAtMs": 1795667400000,
    "playedAtMs": 1795667400000
+  },
+  {
+   "key": "108559723",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "74537307",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/26/athlete-week-easton-hughes-cassville-football/",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/26/nx-s1-6000576/fcc-disney-abc-first-amendment-trump-brendan-carr",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://sifted.eu/articles/exclusive-starforge-fundraise-nuclear-fusion-reactors/",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://sifted.eu/articles/goldfish-slush-100-winners/",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://sifted.eu/articles/bolt-markus-villig-ceo-interview-europe/",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://sifted.eu/articles/anthropic-monzo-tom-blomfield-quits/",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "news714818461",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://sifted.eu/articles/proxima-fusion-ceo-ai-bubble-japan-supply-chain/",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "a7e1a41e-f58a-4a76-aaa3-4cad7e7aef4b",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://wisconsinwatch.org/?p=1323385",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://abcnews.com/Politics/judge-blocks-latest-trump-effort-restrict-birthright-citizenship/story?id=138451919",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://www.theguardian.com/world/2026/nov/26/japanese-journalist-yuki-imai-detained-in-russia-wife-pleads-his-release",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://oklahomawatch.org/?p=763818",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795662554",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://www.theguardian.com/business/2026/nov/26/uk-to-invest-95m-in-ukraine-windfarm-war-hit-energy-system",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795648724",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://oklahomavoice.com/?p=22542",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://www.scmp.com/news/asia/southeast-asia/article/3375826/malaysia-says-arrested-air-force-pilot-main-conduit-interstate-drug-ring",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795655149",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://oklahomavoice.com/?p=22831",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://www.scmp.com/week-asia/politics/article/3375767/why-japans-takaichi-cannot-afford-lose-another-minister",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795654967",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://michiganadvance.com/?p=116191",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795654179",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795643137",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://www.scmp.com/economy/global-economy/article/3375762/chinese-group-develop-10-smart-city-sites-indonesia-under-us50-billion-deal",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://arkansasadvocate.com/?p=31101",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "9.7436552",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko#0",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro#0",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795605088",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://michiganadvance.com/?p=116178",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795636986",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/society/article/3375793/companions-same-path-1-year-tai-po-fire-survivors-lean-one-another",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://www.scmp.com/week-asia/politics/article/3375730/why-russian-bombers-south-koreas-doorstep-raise-stakes-us-led-alliances",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://arkansasadvocate.com/?p=31036",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795643837",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "9.7436372",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795644516",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://www.scmp.com/news/us/economy-trade-business/article/3375819/us-trading-partners-patience-wears-thin-trump-slaps-new-tariffs",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795648076",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://wisconsinexaminer.com/?p=49081",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795646842",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795645030",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o#0",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795644454",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://ohiocapitaljournal.com/?p=43256",
+   "firstQueuedAtMs": 1795669200000,
+   "playedAtMs": 1795669200000
   }
  ]
 }
