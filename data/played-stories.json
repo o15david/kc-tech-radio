@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T06:20:20.276Z",
- "lastSyncBucket": 997595,
- "lastSyncCarryInSeconds": 49,
+ "updatedAt": "2026-11-26T06:50:21.376Z",
+ "lastSyncBucket": 997596,
+ "lastSyncCarryInSeconds": 103,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -33329,6 +33329,231 @@
    "key": "https://minnesotareformer.com/?post_type=republished&p=39971",
    "firstQueuedAtMs": 1795671000000,
    "playedAtMs": 1795671000000
+  },
+  {
+   "key": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "74537446",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "https://oklahomawatch.org/?p=763771",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/26/opinion/spain-elections-vox-sanchez.html",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "https://www.engadget.com/2328996/new-york-state-bans-ai-chatbot-toys-for-kids/",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "https://hackaday.com/?p=1430206",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "84aeba2c-cec2-4320-b925-d2d42794f0cc",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "68a8989bf03cdf200a3ff545",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "6a1d974498d38dd18285ad2e",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "67252234563a280b6ad5ef8d",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "6740c6ad29e1604c90f59b4f",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "TP3C08T96OSH00",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795639420",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "TP3FILT96OSW00",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "TP1PU2T9NJLW00",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795618547",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "https://www.dw.com/en/how-chinese-companies-circumvent-chips-sanctions-in-southeast-asia/a-80041002?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "https://nebraskaexaminer.com/?p=45960",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795611523",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795612866",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/politics/article/3375867/taiwans-main-opposition-kuomintang-faces-uphill-battle-local-elections",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "https://nebraskaexaminer.com/?p=45974",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795665709",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "9.7435919",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "9.7435980",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "https://oklahomavoice.com/?p=22818",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o#0",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo#2",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "https://www.theguardian.com/us-news/2026/nov/25/kilmar-abrego-garcia-spain",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "https://minnesotareformer.com/?p=39958",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "https://www.dw.com/en/peter-magyar-meets-volodymyr-zelenskyy-hungary-and-ukraine-make-a-fresh-start-after-the-icy-relations-of-the-viktor-orban-era/a-80054175?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo#1",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "https://www.theguardian.com/uk-news/2026/nov/25/eu-nationals-will-pay-higher-tuition-fees-than-uk-students-burnham-indicates",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "https://oklahomavoice.com/?p=22805",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "9.7435354",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "https://news.sky.com/story/us-authorises-elon-musks-spacex-to-deploy-one-million-satellites-to-space-13616493",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "https://www.dw.com/en/spain-canary-islands-witness-1-day-migration-record/a-80052770?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "https://northdakotamonitor.com/?p=23662",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo#0",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cq772vk664yvo#1",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/sport/cricket/videos/cwx2e0g93l3eo#2",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "https://www.theguardian.com/world/live/2026/nov/25/ukraine-russia-energy-strikes-mark-rutte-donald-trump-friedrich-merz-germany-latest-news-updates",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
+  },
+  {
+   "key": "https://minnesotareformer.com/?p=39961",
+   "firstQueuedAtMs": 1795672800000,
+   "playedAtMs": 1795672800000
   }
  ]
 }
