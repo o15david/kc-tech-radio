@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T00:20:20.706Z",
- "lastSyncBucket": 997583,
- "lastSyncCarryInSeconds": 91,
+ "updatedAt": "2026-11-26T00:35:18.900Z",
+ "lastSyncBucket": 997584,
+ "lastSyncCarryInSeconds": 31,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -30919,6 +30919,221 @@
    "key": "changelog.com/1/2822",
    "firstQueuedAtMs": 1795649400000,
    "playedAtMs": 1795649400000
+  },
+  {
+   "key": "tag:daringfireball.net,2026:/linked//6.43782",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/26/salvation-army-johnson-county-opens-two-thanksgiving-warming-centers/",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "https://thehill.com/?p=6244220",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "108558069",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "https://lobste.rs/s/9imhob",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "news714759181",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "news714748701",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386797",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "https://hackaday.com/?p=1428375",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "2b6b2b8f-6e63-46c7-8112-e0bb71c6185d",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "news714811848",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "news714820081",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "news714302282",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "https://www.fastcompany.com/91649101/are-ai-companies-glosslighting-you-with-misleading-jargon-this-report-says-yes",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/26/raytown-residents-leave-flowers-sketch-patrol-car-honoring-cpl-joshua-kerr/",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "news714846181",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "news714845521",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/nation/small-plane-crash-off-mississippi-coast-kills-extended-family-of-6-on-fishing-trip",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "news714841321",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "news714840781",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/26/dallas-county-mo-citizens-push-ambulance-district-after-mercy-plans-service-withdrawal/",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "news714834836",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "news714840241",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "news714839761",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "news714834675",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "news714839221",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "news714832587",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "news714831777",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "https://thehill.com/?p=6244190",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "news714823339",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "news714831485",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "news714836892",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/26/corgis-lead-hikers-fairy-village-maine-woods/",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "news714831119",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "news714835682",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "news714829733",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "news714830582",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "74536102",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "news714836519",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "news714720560",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/best-prospects-who-were-trade-acquisitions",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "https://thehill.com/?p=6244110",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/missouri/jackson-county/raytown-mourns-slain-police-cpl-josh-kerr-remembered-as-generous-and-kind",
+   "firstQueuedAtMs": 1795651200000,
+   "playedAtMs": 1795651200000
   }
  ]
 }
