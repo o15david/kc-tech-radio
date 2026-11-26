@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T14:50:32.919Z",
- "lastSyncBucket": 997612,
- "lastSyncCarryInSeconds": 0,
+ "updatedAt": "2026-11-26T15:05:16.615Z",
+ "lastSyncBucket": 997613,
+ "lastSyncCarryInSeconds": 35,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -36504,6 +36504,141 @@
    "key": "9.7435326",
    "firstQueuedAtMs": 1795701600000,
    "playedAtMs": 1795701600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/26/how-avoid-ai-scams-while-holiday-shopping/",
+   "firstQueuedAtMs": 1795703400000,
+   "playedAtMs": 1795703400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/26/corgis-lead-hikers-fairy-village-maine-woods/",
+   "firstQueuedAtMs": 1795703400000,
+   "playedAtMs": 1795703400000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1042629",
+   "firstQueuedAtMs": 1795703400000,
+   "playedAtMs": 1795703400000
+  },
+  {
+   "key": "QvVxdRd7hQsZspSy5iZSga",
+   "firstQueuedAtMs": 1795703400000,
+   "playedAtMs": 1795703400000
+  },
+  {
+   "key": "https://nautil.us/?p=1287034",
+   "firstQueuedAtMs": 1795703400000,
+   "playedAtMs": 1795703400000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386277",
+   "firstQueuedAtMs": 1795703400000,
+   "playedAtMs": 1795703400000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163986",
+   "firstQueuedAtMs": 1795703400000,
+   "playedAtMs": 1795703400000
+  },
+  {
+   "key": "https://bridgemi.com/?p=84085",
+   "firstQueuedAtMs": 1795703400000,
+   "playedAtMs": 1795703400000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312352",
+   "firstQueuedAtMs": 1795703400000,
+   "playedAtMs": 1795703400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/26/woman-killed-crossing-m-291-independence/",
+   "firstQueuedAtMs": 1795703400000,
+   "playedAtMs": 1795703400000
+  },
+  {
+   "key": "news714907181",
+   "firstQueuedAtMs": 1795703400000,
+   "playedAtMs": 1795703400000
+  },
+  {
+   "key": "https://thehill.com/?p=6241442",
+   "firstQueuedAtMs": 1795703400000,
+   "playedAtMs": 1795703400000
+  },
+  {
+   "key": "https://electrek.co/?p=496316",
+   "firstQueuedAtMs": 1795703400000,
+   "playedAtMs": 1795703400000
+  },
+  {
+   "key": "https://fortune.com/?p=4651781&showAdminBar=true",
+   "firstQueuedAtMs": 1795703400000,
+   "playedAtMs": 1795703400000
+  },
+  {
+   "key": "https://www.kshb.com/life/holidays-and-celebrations/dont-toss-those-thanksgiving-leftovers-how-to-cut-food-waste-and-save-money",
+   "firstQueuedAtMs": 1795703400000,
+   "playedAtMs": 1795703400000
+  },
+  {
+   "key": "2ba8ade4-5906-45f0-978e-3bd00f84cdb9",
+   "firstQueuedAtMs": 1795703400000,
+   "playedAtMs": 1795703400000
+  },
+  {
+   "key": "XcMxvzPHSXqDnL7yZwybhc",
+   "firstQueuedAtMs": 1795703400000,
+   "playedAtMs": 1795703400000
+  },
+  {
+   "key": "WP-MKTW-0005335026",
+   "firstQueuedAtMs": 1795703400000,
+   "playedAtMs": 1795703400000
+  },
+  {
+   "key": "https://thehill.com/?p=6244572",
+   "firstQueuedAtMs": 1795703400000,
+   "playedAtMs": 1795703400000
+  },
+  {
+   "key": "https://news.ycombinator.com/item?id=50655664",
+   "firstQueuedAtMs": 1795703400000,
+   "playedAtMs": 1795703400000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163196",
+   "firstQueuedAtMs": 1795703400000,
+   "playedAtMs": 1795703400000
+  },
+  {
+   "key": "b99ffbae-90b5-45dc-a354-b8d1b1e8c6cd",
+   "firstQueuedAtMs": 1795703400000,
+   "playedAtMs": 1795703400000
+  },
+  {
+   "key": "news714718793",
+   "firstQueuedAtMs": 1795703400000,
+   "playedAtMs": 1795703400000
+  },
+  {
+   "key": "https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831",
+   "firstQueuedAtMs": 1795703400000,
+   "playedAtMs": 1795703400000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163974",
+   "firstQueuedAtMs": 1795703400000,
+   "playedAtMs": 1795703400000
+  },
+  {
+   "key": "https://www.kshb.com/politics/economy/black-friday-battle-why-a-big-discount-may-not-be-enough-to-win-shoppers",
+   "firstQueuedAtMs": 1795703400000,
+   "playedAtMs": 1795703400000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163178",
+   "firstQueuedAtMs": 1795703400000,
+   "playedAtMs": 1795703400000
   }
  ]
 }
