@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T21:20:19.069Z",
- "lastSyncBucket": 997625,
+ "updatedAt": "2026-11-26T21:35:12.802Z",
+ "lastSyncBucket": 997626,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -38164,6 +38164,111 @@
    "key": "https://www.theguardian.com/australia-news/2026/nov/26/coalition-to-team-up-with-labor-to-pass-20-gas-reservation-scheme-for-australias-largest-exporters",
    "firstQueuedAtMs": 1795725000000,
    "playedAtMs": 1795725000000
+  },
+  {
+   "key": "74543658",
+   "firstQueuedAtMs": 1795726800000,
+   "playedAtMs": 1795726800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/26/world/europe/peter-mandelson-epstein-uk.html",
+   "firstQueuedAtMs": 1795726800000,
+   "playedAtMs": 1795726800000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75799",
+   "firstQueuedAtMs": 1795726800000,
+   "playedAtMs": 1795726800000
+  },
+  {
+   "key": "74543629",
+   "firstQueuedAtMs": 1795726800000,
+   "playedAtMs": 1795726800000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4456397",
+   "firstQueuedAtMs": 1795726800000,
+   "playedAtMs": 1795726800000
+  },
+  {
+   "key": "https://www.engadget.com/2329256/backloggd-breach-november-2026-password-reset/",
+   "firstQueuedAtMs": 1795726800000,
+   "playedAtMs": 1795726800000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315855",
+   "firstQueuedAtMs": 1795726800000,
+   "playedAtMs": 1795726800000
+  },
+  {
+   "key": "https://lobste.rs/s/wfkkh4",
+   "firstQueuedAtMs": 1795726800000,
+   "playedAtMs": 1795726800000
+  },
+  {
+   "key": "wLqLm52wAQz47tYKqUTeVc",
+   "firstQueuedAtMs": 1795726800000,
+   "playedAtMs": 1795726800000
+  },
+  {
+   "key": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+   "firstQueuedAtMs": 1795726800000,
+   "playedAtMs": 1795726800000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+   "firstQueuedAtMs": 1795726800000,
+   "playedAtMs": 1795726800000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/slingshot-earth-nasas-europa-clipper-will-gain-speed-and-tests-its-instruments-during-its-earth-flyb",
+   "firstQueuedAtMs": 1795726800000,
+   "playedAtMs": 1795726800000
+  },
+  {
+   "key": "https://hackaday.com/?p=1430485",
+   "firstQueuedAtMs": 1795726800000,
+   "playedAtMs": 1795726800000
+  },
+  {
+   "key": "TO5T2RT9NJLT00",
+   "firstQueuedAtMs": 1795726800000,
+   "playedAtMs": 1795726800000
+  },
+  {
+   "key": "https://www.inc.com/kevin-haynes/want-to-live-longer-one-thing-is-more-important-than-a-healthy-diet/91443459",
+   "firstQueuedAtMs": 1795726800000,
+   "playedAtMs": 1795726800000
+  },
+  {
+   "key": "https://economictimes.indiatimes.com/nri/work/ibm-gives-h-1b-green-card-holders-3-weeks-to-relocate-from-us-or-leave-company-december-31-deadline-set/articleshow/136180168.cms?from=mdr",
+   "firstQueuedAtMs": 1795726800000,
+   "playedAtMs": 1795726800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795722594",
+   "firstQueuedAtMs": 1795726800000,
+   "playedAtMs": 1795726800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795726595",
+   "firstQueuedAtMs": 1795726800000,
+   "playedAtMs": 1795726800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795720393",
+   "firstQueuedAtMs": 1795726800000,
+   "playedAtMs": 1795726800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795724414",
+   "firstQueuedAtMs": 1795726800000,
+   "playedAtMs": 1795726800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795708688",
+   "firstQueuedAtMs": 1795726800000,
+   "playedAtMs": 1795726800000
   }
  ]
 }
