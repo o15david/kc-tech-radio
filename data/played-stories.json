@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T18:50:11.573Z",
- "lastSyncBucket": 997620,
+ "updatedAt": "2026-11-26T19:05:13.801Z",
+ "lastSyncBucket": 997621,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -37729,6 +37729,91 @@
    "key": "https://news.sky.com/story/norse-atlantic-airways-suspends-all-flights-as-carrier-faces-bankruptcy-13616901",
    "firstQueuedAtMs": 1795716000000,
    "playedAtMs": 1795716000000
+  },
+  {
+   "key": "https://thehill.com/?p=6239022",
+   "firstQueuedAtMs": 1795717800000,
+   "playedAtMs": 1795717800000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1042483",
+   "firstQueuedAtMs": 1795717800000,
+   "playedAtMs": 1795717800000
+  },
+  {
+   "key": "2ad78e90-6dd0-4f2c-b208-8ec07debf8ad",
+   "firstQueuedAtMs": 1795717800000,
+   "playedAtMs": 1795717800000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1553095",
+   "firstQueuedAtMs": 1795717800000,
+   "playedAtMs": 1795717800000
+  },
+  {
+   "key": "https://electrek.co/?p=496346",
+   "firstQueuedAtMs": 1795717800000,
+   "playedAtMs": 1795717800000
+  },
+  {
+   "key": "news714053098",
+   "firstQueuedAtMs": 1795717800000,
+   "playedAtMs": 1795717800000
+  },
+  {
+   "key": "https://abcnews.com/video/138468476/",
+   "firstQueuedAtMs": 1795717800000,
+   "playedAtMs": 1795717800000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=164013",
+   "firstQueuedAtMs": 1795717800000,
+   "playedAtMs": 1795717800000
+  },
+  {
+   "key": "https://news.ycombinator.com/item?id=50657957",
+   "firstQueuedAtMs": 1795717800000,
+   "playedAtMs": 1795717800000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=164083",
+   "firstQueuedAtMs": 1795717800000,
+   "playedAtMs": 1795717800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/nyregion/macys-thanksgiving-day-parade-marching-bands.html",
+   "firstQueuedAtMs": 1795717800000,
+   "playedAtMs": 1795717800000
+  },
+  {
+   "key": "https://github.com/deepseek-ai/deepseek-math",
+   "firstQueuedAtMs": 1795717800000,
+   "playedAtMs": 1795717800000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163336",
+   "firstQueuedAtMs": 1795717800000,
+   "playedAtMs": 1795717800000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1043116",
+   "firstQueuedAtMs": 1795717800000,
+   "playedAtMs": 1795717800000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03875-6",
+   "firstQueuedAtMs": 1795717800000,
+   "playedAtMs": 1795717800000
+  },
+  {
+   "key": "https://lobste.rs/s/aulbi2",
+   "firstQueuedAtMs": 1795717800000,
+   "playedAtMs": 1795717800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795717721",
+   "firstQueuedAtMs": 1795717800000,
+   "playedAtMs": 1795717800000
   }
  ]
 }
