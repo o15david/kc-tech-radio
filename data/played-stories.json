@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T05:50:01.607Z",
- "lastSyncBucket": 997594,
- "lastSyncCarryInSeconds": 99,
+ "updatedAt": "2026-11-26T06:05:18.187Z",
+ "lastSyncBucket": 997595,
+ "lastSyncCarryInSeconds": 49,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -33159,6 +33159,176 @@
    "key": "https://ohiocapitaljournal.com/?p=43256",
    "firstQueuedAtMs": 1795669200000,
    "playedAtMs": 1795669200000
+  },
+  {
+   "key": "https://indianacapitalchronicle.com/?p=28242",
+   "firstQueuedAtMs": 1795671000000,
+   "playedAtMs": 1795671000000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/26/musk-spacex-shares-trump-accounts",
+   "firstQueuedAtMs": 1795671000000,
+   "playedAtMs": 1795671000000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=230381",
+   "firstQueuedAtMs": 1795671000000,
+   "playedAtMs": 1795671000000
+  },
+  {
+   "key": "TP3F5ZKIP3IE00",
+   "firstQueuedAtMs": 1795671000000,
+   "playedAtMs": 1795671000000
+  },
+  {
+   "key": "https://www.fastcompany.com/91648541/ai-may-not-be-a-bubble-but-the-way-were-financing-it-might-be",
+   "firstQueuedAtMs": 1795671000000,
+   "playedAtMs": 1795671000000
+  },
+  {
+   "key": "https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois/",
+   "firstQueuedAtMs": 1795671000000,
+   "playedAtMs": 1795671000000
+  },
+  {
+   "key": "https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island/",
+   "firstQueuedAtMs": 1795671000000,
+   "playedAtMs": 1795671000000
+  },
+  {
+   "key": "nn_jki_thanksgiving_parade_postponed_261125",
+   "firstQueuedAtMs": 1795671000000,
+   "playedAtMs": 1795671000000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312275",
+   "firstQueuedAtMs": 1795671000000,
+   "playedAtMs": 1795671000000
+  },
+  {
+   "key": "https://leancrew.com/all-this/2026/10/xkcd-and-fourier/",
+   "firstQueuedAtMs": 1795671000000,
+   "playedAtMs": 1795671000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/well/joanna-bull-dead.html",
+   "firstQueuedAtMs": 1795671000000,
+   "playedAtMs": 1795671000000
+  },
+  {
+   "key": "https://ohiocapitaljournal.com/?p=43255",
+   "firstQueuedAtMs": 1795671000000,
+   "playedAtMs": 1795671000000
+  },
+  {
+   "key": "https://www.scmp.com/week-asia/politics/article/3375874/singapore-challenges-us-tariff-logic-free-trade-pact-faces-20-levy",
+   "firstQueuedAtMs": 1795671000000,
+   "playedAtMs": 1795671000000
+  },
+  {
+   "key": "https://iowacapitaldispatch.com/?p=61392",
+   "firstQueuedAtMs": 1795671000000,
+   "playedAtMs": 1795671000000
+  },
+  {
+   "key": "https://www.dw.com/en/can-rassvet-russia-s-starlink-change-the-course-of-the-war-in-ukraine/a-80052579?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795671000000,
+   "playedAtMs": 1795671000000
+  },
+  {
+   "key": "https://www.scmp.com/week-asia/economics/article/3375805/southeast-asias-rice-farmers-are-being-squeezed-your-wallet-could-be-next",
+   "firstQueuedAtMs": 1795671000000,
+   "playedAtMs": 1795671000000
+  },
+  {
+   "key": "https://oklahomavoice.com/?p=22824",
+   "firstQueuedAtMs": 1795671000000,
+   "playedAtMs": 1795671000000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/ckn806qq760po#1",
+   "firstQueuedAtMs": 1795671000000,
+   "playedAtMs": 1795671000000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cmvg2989wv74o#1",
+   "firstQueuedAtMs": 1795671000000,
+   "playedAtMs": 1795671000000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o#1",
+   "firstQueuedAtMs": 1795671000000,
+   "playedAtMs": 1795671000000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo#0",
+   "firstQueuedAtMs": 1795671000000,
+   "playedAtMs": 1795671000000
+  },
+  {
+   "key": "https://bridgemi.com/?p=84191",
+   "firstQueuedAtMs": 1795671000000,
+   "playedAtMs": 1795671000000
+  },
+  {
+   "key": "https://www.dw.com/en/egypt-at-least-31-dead-after-fuel-truck-overturns-on-highway/a-80055175?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795671000000,
+   "playedAtMs": 1795671000000
+  },
+  {
+   "key": "9.7436078",
+   "firstQueuedAtMs": 1795671000000,
+   "playedAtMs": 1795671000000
+  },
+  {
+   "key": "9.7436106",
+   "firstQueuedAtMs": 1795671000000,
+   "playedAtMs": 1795671000000
+  },
+  {
+   "key": "https://wisconsinwatch.org/?p=1323325",
+   "firstQueuedAtMs": 1795671000000,
+   "playedAtMs": 1795671000000
+  },
+  {
+   "key": "9.7436135",
+   "firstQueuedAtMs": 1795671000000,
+   "playedAtMs": 1795671000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795629077",
+   "firstQueuedAtMs": 1795671000000,
+   "playedAtMs": 1795671000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795626186",
+   "firstQueuedAtMs": 1795671000000,
+   "playedAtMs": 1795671000000
+  },
+  {
+   "key": "https://www.dw.com/en/nigeria-detains-5-mexicans-confiscates-over-220-million-of-meth/a-80054606?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795671000000,
+   "playedAtMs": 1795671000000
+  },
+  {
+   "key": "https://bridgemi.com/?p=84214",
+   "firstQueuedAtMs": 1795671000000,
+   "playedAtMs": 1795671000000
+  },
+  {
+   "key": "https://www.theguardian.com/world/2026/nov/25/hostages-freed-colombia-security-forces-storm-cartagena-supermarket",
+   "firstQueuedAtMs": 1795671000000,
+   "playedAtMs": 1795671000000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo#2",
+   "firstQueuedAtMs": 1795671000000,
+   "playedAtMs": 1795671000000
+  },
+  {
+   "key": "https://minnesotareformer.com/?post_type=republished&p=39971",
+   "firstQueuedAtMs": 1795671000000,
+   "playedAtMs": 1795671000000
   }
  ]
 }
