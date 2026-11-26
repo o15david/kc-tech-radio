@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T19:20:21.677Z",
- "lastSyncBucket": 997621,
+ "updatedAt": "2026-11-26T19:35:20.574Z",
+ "lastSyncBucket": 997622,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -37814,6 +37814,71 @@
    "key": "https://www.aljazeera.com/?t=1795717721",
    "firstQueuedAtMs": 1795717800000,
    "playedAtMs": 1795717800000
+  },
+  {
+   "key": "https://michiganadvance.com/?p=116224",
+   "firstQueuedAtMs": 1795719600000,
+   "playedAtMs": 1795719600000
+  },
+  {
+   "key": "https://abcnews.com/US/bands-drum-community-support-ensure-postponed-macys-thanksgiving/story?id=138469612",
+   "firstQueuedAtMs": 1795719600000,
+   "playedAtMs": 1795719600000
+  },
+  {
+   "key": "https://www.inc.com/daniel-robbins/their-bitcoin-mine-lost-millions-in-3-months-so-they-made-a-delusional-pivot-it-just-paid-off/91442418",
+   "firstQueuedAtMs": 1795719600000,
+   "playedAtMs": 1795719600000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312433",
+   "firstQueuedAtMs": 1795719600000,
+   "playedAtMs": 1795719600000
+  },
+  {
+   "key": "news714846541",
+   "firstQueuedAtMs": 1795719600000,
+   "playedAtMs": 1795719600000
+  },
+  {
+   "key": "msY2FPJFSHuNvA3MpvAMQ7",
+   "firstQueuedAtMs": 1795719600000,
+   "playedAtMs": 1795719600000
+  },
+  {
+   "key": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
+   "firstQueuedAtMs": 1795719600000,
+   "playedAtMs": 1795719600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795713161",
+   "firstQueuedAtMs": 1795719600000,
+   "playedAtMs": 1795719600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795699780",
+   "firstQueuedAtMs": 1795719600000,
+   "playedAtMs": 1795719600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795711592",
+   "firstQueuedAtMs": 1795719600000,
+   "playedAtMs": 1795719600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795715990",
+   "firstQueuedAtMs": 1795719600000,
+   "playedAtMs": 1795719600000
+  },
+  {
+   "key": "https://www.theguardian.com/world/2026/nov/26/what-would-be-the-fallout-from-a-nuclear-armed-satellite-detonated-into-space",
+   "firstQueuedAtMs": 1795719600000,
+   "playedAtMs": 1795719600000
+  },
+  {
+   "key": "https://www.dw.com/en/on-farewell-trip-steinmeier-calls-for-more-investment-in-africa/a-80067717?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795719600000,
+   "playedAtMs": 1795719600000
   }
  ]
 }
