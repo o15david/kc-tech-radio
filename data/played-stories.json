@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T20:22:07.411Z",
- "lastSyncBucket": 997623,
+ "updatedAt": "2026-11-26T20:35:09.405Z",
+ "lastSyncBucket": 997624,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -38009,6 +38009,96 @@
    "key": "https://www.bbc.co.uk/news/articles/cq772vedgepro#3",
    "firstQueuedAtMs": 1795721400000,
    "playedAtMs": 1795721400000
+  },
+  {
+   "key": "https://lobste.rs/s/byfdgn",
+   "firstQueuedAtMs": 1795723200000,
+   "playedAtMs": 1795723200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/26/us-botanic-garden-opens-annual-holiday-show/",
+   "firstQueuedAtMs": 1795723200000,
+   "playedAtMs": 1795723200000
+  },
+  {
+   "key": "https://thehill.com/?p=6244857",
+   "firstQueuedAtMs": 1795723200000,
+   "playedAtMs": 1795723200000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3192803",
+   "firstQueuedAtMs": 1795723200000,
+   "playedAtMs": 1795723200000
+  },
+  {
+   "key": "news714650354",
+   "firstQueuedAtMs": 1795723200000,
+   "playedAtMs": 1795723200000
+  },
+  {
+   "key": "https://github.com/eisenzopf/rvoip",
+   "firstQueuedAtMs": 1795723200000,
+   "playedAtMs": 1795723200000
+  },
+  {
+   "key": "https://github.com/gary23w/f-ck_data_brokers",
+   "firstQueuedAtMs": 1795723200000,
+   "playedAtMs": 1795723200000
+  },
+  {
+   "key": "https://www.nbcnews.com/news/us-news/army-says-detonation-bomb-chemicals-iowa-success-rcna611434",
+   "firstQueuedAtMs": 1795723200000,
+   "playedAtMs": 1795723200000
+  },
+  {
+   "key": "74543537",
+   "firstQueuedAtMs": 1795723200000,
+   "playedAtMs": 1795723200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/26/us-24-rollover-ejects-driver-closes-westbound-lanes-independence/",
+   "firstQueuedAtMs": 1795723200000,
+   "playedAtMs": 1795723200000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/26/nx-s1-6054079/storms-expected-on-both-coasts-as-millions-travel-for-thanksgiving",
+   "firstQueuedAtMs": 1795723200000,
+   "playedAtMs": 1795723200000
+  },
+  {
+   "key": "74543513",
+   "firstQueuedAtMs": 1795723200000,
+   "playedAtMs": 1795723200000
+  },
+  {
+   "key": "https://fox4kc.com/news/national/ap-macys-announces-thanksgiving-day-parade-postponed-to-saturday-due-to-expected-bad-weather/",
+   "firstQueuedAtMs": 1795723200000,
+   "playedAtMs": 1795723200000
+  },
+  {
+   "key": "https://www.dw.com/en/guinea-bissau-junta-delays-presidential-vote-for-2-years/a-80068910?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795723200000,
+   "playedAtMs": 1795723200000
+  },
+  {
+   "key": "9.7437303",
+   "firstQueuedAtMs": 1795723200000,
+   "playedAtMs": 1795723200000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o#1",
+   "firstQueuedAtMs": 1795723200000,
+   "playedAtMs": 1795723200000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/videos/cq808d704m22o#0",
+   "firstQueuedAtMs": 1795723200000,
+   "playedAtMs": 1795723200000
+  },
+  {
+   "key": "https://news.sky.com/story/driver-of-car-suspected-of-causing-fuel-tanker-to-overturn-in-egypt-detained-13616933",
+   "firstQueuedAtMs": 1795723200000,
+   "playedAtMs": 1795723200000
   }
  ]
 }
