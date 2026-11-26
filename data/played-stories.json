@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T21:50:10.411Z",
- "lastSyncBucket": 997626,
+ "updatedAt": "2026-11-26T22:05:13.802Z",
+ "lastSyncBucket": 997627,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -38269,6 +38269,76 @@
    "key": "https://www.aljazeera.com/?t=1795708688",
    "firstQueuedAtMs": 1795726800000,
    "playedAtMs": 1795726800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/26/multiple-snowboarders-involved-brawl-while-waiting-line-lift-hill/",
+   "firstQueuedAtMs": 1795728600000,
+   "playedAtMs": 1795728600000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/26/laclede-county-mo-first-responders-work-through-holiday/",
+   "firstQueuedAtMs": 1795728600000,
+   "playedAtMs": 1795728600000
+  },
+  {
+   "key": "WP-MKTW-0005354400",
+   "firstQueuedAtMs": 1795728600000,
+   "playedAtMs": 1795728600000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=230110",
+   "firstQueuedAtMs": 1795728600000,
+   "playedAtMs": 1795728600000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315848",
+   "firstQueuedAtMs": 1795728600000,
+   "playedAtMs": 1795728600000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315875",
+   "firstQueuedAtMs": 1795728600000,
+   "playedAtMs": 1795728600000
+  },
+  {
+   "key": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
+   "firstQueuedAtMs": 1795728600000,
+   "playedAtMs": 1795728600000
+  },
+  {
+   "key": "https://thehill.com/?p=6243997",
+   "firstQueuedAtMs": 1795728600000,
+   "playedAtMs": 1795728600000
+  },
+  {
+   "key": "8895e1b9-2304-4a76-8970-b0c61e5dd321",
+   "firstQueuedAtMs": 1795728600000,
+   "playedAtMs": 1795728600000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/world/mexicos-most-powerful-cartels-adapt-as-arrests-and-leadership-battles-reshape-their-ranks",
+   "firstQueuedAtMs": 1795728600000,
+   "playedAtMs": 1795728600000
+  },
+  {
+   "key": "https://www.dw.com/en/at-odds-over-the-eu-budget-european-leaders-cut-summit-short-dw-has-more/live-80056415?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795728600000,
+   "playedAtMs": 1795728600000
+  },
+  {
+   "key": "https://www.theguardian.com/environment/2026/nov/27/southern-and-central-australia-face-summer-of-heightened-bushfire-risk-and-heatwaves",
+   "firstQueuedAtMs": 1795728600000,
+   "playedAtMs": 1795728600000
+  },
+  {
+   "key": "https://www.scmp.com/opinion/world-opinion/article/3375777/roller-coaster-fortnight-tech-raises-urgent-questions-about-ai",
+   "firstQueuedAtMs": 1795728600000,
+   "playedAtMs": 1795728600000
+  },
+  {
+   "key": "9.7437616",
+   "firstQueuedAtMs": 1795728600000,
+   "playedAtMs": 1795728600000
   }
  ]
 }
