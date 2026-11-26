@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T08:50:19.391Z",
- "lastSyncBucket": 997600,
- "lastSyncCarryInSeconds": 32,
+ "updatedAt": "2026-11-26T09:05:42.140Z",
+ "lastSyncBucket": 997601,
+ "lastSyncCarryInSeconds": 104,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -34254,6 +34254,206 @@
    "key": "https://oklahomawatch.org/?p=763713",
    "firstQueuedAtMs": 1795680000000,
    "playedAtMs": 1795680000000
+  },
+  {
+   "key": "https://wisconsinexaminer.com/?post_type=republished&p=49108",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=213069",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75636",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://www.eetimes.com/?p=101804837",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://www.eetimes.com/?p=101804811",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://www.inc.com/jessica-stillman/10-questions-you-need-to-ask-your-aging-parents-about-money-before-its-too-late/91433922",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://fortune.com/?p=4651283&showAdminBar=true",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://medium.com/@jharbourne/who-is-in-charge-of-britains-web-addresses-6efc797bc133",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://ohiocapitaljournal.com/?post_type=republished&p=43298",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "9.7435501",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://www.scmp.com/news/world/middle-east/article/3375901/8-french-nationals-jailed-life-iraq-joining-syrian-islamic-state",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://indianacapitalchronicle.com/?p=28192",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375903/4-1/2-years-jail-6-men-who-had-sex-14-year-old-girl-they-met-dating-app",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/article/3375900/smartone-network-outage-leaves-hong-kong-mobile-users-offline-and-angry",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://flatwaterfreepress.org/?p=20321",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795627804",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://indianacapitalchronicle.com/?post_type=republished&p=28187",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://www.scmp.com/opinion/china-opinion/article/3375562/what-others-can-learn-chinas-effective-governance",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795681485",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795681182",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://indianacapitalchronicle.com/?p=28193",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cqwy4377yxnlo#1",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo#0",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cmde1zr0nlyro#1",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cwz0k90rgpm8o#0",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://indianacapitalchronicle.com/?p=28186",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo#0",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go#0",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo#0",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o#1",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko#1",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://oklahomawatch.org/?p=763667",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o#3",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://flatwaterfreepress.org/?p=20274",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o#1",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cq772vk664yvo#3",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168865",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
+  },
+  {
+   "key": "https://flatwaterfreepress.org/?p=20227",
+   "firstQueuedAtMs": 1795681800000,
+   "playedAtMs": 1795681800000
   }
  ]
 }
