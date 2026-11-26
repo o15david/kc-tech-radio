@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T20:50:20.345Z",
- "lastSyncBucket": 997624,
+ "updatedAt": "2026-11-26T21:05:24.421Z",
+ "lastSyncBucket": 997625,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -38099,6 +38099,71 @@
    "key": "https://news.sky.com/story/driver-of-car-suspected-of-causing-fuel-tanker-to-overturn-in-egypt-detained-13616933",
    "firstQueuedAtMs": 1795723200000,
    "playedAtMs": 1795723200000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1043489",
+   "firstQueuedAtMs": 1795725000000,
+   "playedAtMs": 1795725000000
+  },
+  {
+   "key": "https://thehill.com/?p=6244906",
+   "firstQueuedAtMs": 1795725000000,
+   "playedAtMs": 1795725000000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=164139",
+   "firstQueuedAtMs": 1795725000000,
+   "playedAtMs": 1795725000000
+  },
+  {
+   "key": "https://www.economist.com/by-invitation/2026/11/25/nvidia-was-right-to-bring-back-jensen-huang-writes-sarah-guo",
+   "firstQueuedAtMs": 1795725000000,
+   "playedAtMs": 1795725000000
+  },
+  {
+   "key": "https://bui.preetham.top/charts/",
+   "firstQueuedAtMs": 1795725000000,
+   "playedAtMs": 1795725000000
+  },
+  {
+   "key": "108559506",
+   "firstQueuedAtMs": 1795725000000,
+   "playedAtMs": 1795725000000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/nation/what-are-king-tides-these-exceptionally-high-tides-are-increasingly-flooding-coastal-communities",
+   "firstQueuedAtMs": 1795725000000,
+   "playedAtMs": 1795725000000
+  },
+  {
+   "key": "https://abcnews.com/International/wireStory/mexican-president-blasts-dea-tip-lines-accusing-fighting-138471560",
+   "firstQueuedAtMs": 1795725000000,
+   "playedAtMs": 1795725000000
+  },
+  {
+   "key": "603a917f-7096-4a98-8ca5-9d964908beec",
+   "firstQueuedAtMs": 1795725000000,
+   "playedAtMs": 1795725000000
+  },
+  {
+   "key": "9.7437360",
+   "firstQueuedAtMs": 1795725000000,
+   "playedAtMs": 1795725000000
+  },
+  {
+   "key": "https://www.dw.com/en/albania-s-youth-are-protesting-in-flamingo-revolution-not-leaving-the-country-anymore/a-80068939?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795725000000,
+   "playedAtMs": 1795725000000
+  },
+  {
+   "key": "https://www.dw.com/en/gerard-depardieu-to-stand-trial-in-france-for-rape-and-sexual-assault/a-80069424?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795725000000,
+   "playedAtMs": 1795725000000
+  },
+  {
+   "key": "https://www.theguardian.com/australia-news/2026/nov/26/coalition-to-team-up-with-labor-to-pass-20-gas-reservation-scheme-for-australias-largest-exporters",
+   "firstQueuedAtMs": 1795725000000,
+   "playedAtMs": 1795725000000
   }
  ]
 }
