@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T12:20:11.536Z",
- "lastSyncBucket": 997607,
- "lastSyncCarryInSeconds": 67,
+ "updatedAt": "2026-11-26T12:35:13.615Z",
+ "lastSyncBucket": 997608,
+ "lastSyncCarryInSeconds": 17,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -35469,6 +35469,196 @@
    "key": "https://wisconsinwatch.org/?p=1323427",
    "firstQueuedAtMs": 1795692600000,
    "playedAtMs": 1795692600000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75825",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "74539495",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "https://www.kshb.com/politics/could-democrats-and-trump-strike-a-bipartisan-health-care-deal",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312301",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/26/crocker-man-dies-after-car-leaves-highway-17-pulaski-county/",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "TP3YCNRKV2TK00",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "TP3V8GKK3NY900",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "https://thehill.com/?p=6244509",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "news714896785",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "67350e478236e9f01de4b20e",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "https://physicsworld.com/?p=131785",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "https://www.kshb.com/us-news/thanksgiving-travel-comes-as-flu-season-ramps-up-heres-how-to-stay-healthy",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "TP3YRDKIUPS100",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "https://hackaday.com/?p=1430278",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/26/salem-mo-woman-dies-after-vehicle-leaves-road-catches-fire/",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "https://www.nbcnews.com/news/us-news/storms-weather-thanksgiving-iowa-detonation-aftermath-morning-rundown-rcna611416",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "https://sifted.eu/articles/the-skinner-shah-award-for-journalism/",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "https://www.makeuseof.com/samsung-tv-plus/",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "news714896425",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "6b00c5e1b9d5b8bab8503fd0",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "5cd9a1adbaf0a36e85079bb2",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "https://fortune.com/?p=4646165",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "https://www.rockchalktalk.com/?p=34605",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "d2f32823-e538-4e17-838b-bee6bd3ab68a",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "https://fortune.com/?p=4650148",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "https://www.inc.com/michael-tasner/ai-agents-76-billion-black-friday-brand-visibility/91443182",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "https://www.inc.com/jennifer-knowles/thanksgiving-shoppers-are-cutting-back-on-extras-but-protecting-what-matters-most/91442168",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "https://www.inc.com/lucia-auerbach/think-more-exercise-is-always-better-for-brain-new-study-suggests-otherwise/91440035",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/26/medicare-for-all-pros-and-cons",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "https://fortune.com/?p=4651369&showAdminBar=true",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "108559792",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "https://lobste.rs/s/2kwjb4",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "https://arxiv.org/abs/2611.34924",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
+  },
+  {
+   "key": "https://www.dw.com/en/what-is-the-us-permitting-bill-and-would-it-actually-help-the-climate/a-80007213?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795694400000,
+   "playedAtMs": 1795694400000
   }
  ]
 }
