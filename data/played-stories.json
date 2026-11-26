@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T01:50:10.329Z",
- "lastSyncBucket": 997586,
- "lastSyncCarryInSeconds": 2,
+ "updatedAt": "2026-11-26T02:05:20.770Z",
+ "lastSyncBucket": 997587,
+ "lastSyncCarryInSeconds": 107,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -31519,6 +31519,151 @@
    "key": "https://johnsoncountypost.com/?p=302610",
    "firstQueuedAtMs": 1795654800000,
    "playedAtMs": 1795654800000
+  },
+  {
+   "key": "news714812000",
+   "firstQueuedAtMs": 1795656600000,
+   "playedAtMs": 1795656600000
+  },
+  {
+   "key": "74536446",
+   "firstQueuedAtMs": 1795656600000,
+   "playedAtMs": 1795656600000
+  },
+  {
+   "key": "https://iowacapitaldispatch.com/?post_type=republished&p=61479",
+   "firstQueuedAtMs": 1795656600000,
+   "playedAtMs": 1795656600000
+  },
+  {
+   "key": "https://thehill.com/?p=6244295",
+   "firstQueuedAtMs": 1795656600000,
+   "playedAtMs": 1795656600000
+  },
+  {
+   "key": "https://www.inc.com/jason-aten/walmarts-best-black-friday-deal-is-one-youre-not-supposed-to-shop/91443395",
+   "firstQueuedAtMs": 1795656600000,
+   "playedAtMs": 1795656600000
+  },
+  {
+   "key": "108559050",
+   "firstQueuedAtMs": 1795656600000,
+   "playedAtMs": 1795656600000
+  },
+  {
+   "key": "https://www.nbcnews.com/science/environment/questions-lead-dust-pollution-safe-iowa-detonation-tests-rcna611366",
+   "firstQueuedAtMs": 1795656600000,
+   "playedAtMs": 1795656600000
+  },
+  {
+   "key": "https://dosmundos.com/?p=121592",
+   "firstQueuedAtMs": 1795656600000,
+   "playedAtMs": 1795656600000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312268",
+   "firstQueuedAtMs": 1795656600000,
+   "playedAtMs": 1795656600000
+  },
+  {
+   "key": "https://thehill.com/?p=6244265",
+   "firstQueuedAtMs": 1795656600000,
+   "playedAtMs": 1795656600000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4454985",
+   "firstQueuedAtMs": 1795656600000,
+   "playedAtMs": 1795656600000
+  },
+  {
+   "key": "nn_sgo_thanksgiving_parade_100_161125",
+   "firstQueuedAtMs": 1795656600000,
+   "playedAtMs": 1795656600000
+  },
+  {
+   "key": "https://www.kshb.com/politics/america-votes/presidential-election/georgias-fulton-county-ordered-to-give-copy-of-2020-election-records-seized-by-fbi-to-state-board",
+   "firstQueuedAtMs": 1795656600000,
+   "playedAtMs": 1795656600000
+  },
+  {
+   "key": "https://iowacapitaldispatch.com/?post_type=republished&p=61476",
+   "firstQueuedAtMs": 1795656600000,
+   "playedAtMs": 1795656600000
+  },
+  {
+   "key": "6a86f80c-a404-4785-82ea-80adba8be7dd",
+   "firstQueuedAtMs": 1795656600000,
+   "playedAtMs": 1795656600000
+  },
+  {
+   "key": "https://www.kshb.com/sports/local-sports/kc-current/kansas-city-current-fans-celebrate-first-nwsl-title-with-riverfront-march",
+   "firstQueuedAtMs": 1795656600000,
+   "playedAtMs": 1795656600000
+  },
+  {
+   "key": "e610dc42-e327-46c0-8e06-8d0707d91025",
+   "firstQueuedAtMs": 1795656600000,
+   "playedAtMs": 1795656600000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=302573",
+   "firstQueuedAtMs": 1795656600000,
+   "playedAtMs": 1795656600000
+  },
+  {
+   "key": "nn_sbr_tons_toxic_chemicals_detonate_iowa_261125",
+   "firstQueuedAtMs": 1795656600000,
+   "playedAtMs": 1795656600000
+  },
+  {
+   "key": "https://iowacapitaldispatch.com/?p=61470",
+   "firstQueuedAtMs": 1795656600000,
+   "playedAtMs": 1795656600000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/what-the-armys-iowa-detonation-means-for-nearby-communities",
+   "firstQueuedAtMs": 1795656600000,
+   "playedAtMs": 1795656600000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=302472",
+   "firstQueuedAtMs": 1795656600000,
+   "playedAtMs": 1795656600000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/news-wrap-severe-weather-threatens-holiday-travel-for-millions",
+   "firstQueuedAtMs": 1795656600000,
+   "playedAtMs": 1795656600000
+  },
+  {
+   "key": "https://northdakotamonitor.com/?p=23736",
+   "firstQueuedAtMs": 1795656600000,
+   "playedAtMs": 1795656600000
+  },
+  {
+   "key": "https://www.kshb.com/life/holidays-and-celebrations/one-retailer-is-offering-average-black-friday-discounts-of-nearly-75",
+   "firstQueuedAtMs": 1795656600000,
+   "playedAtMs": 1795656600000
+  },
+  {
+   "key": "372261eb-d716-48a2-98ea-2c28afc12292",
+   "firstQueuedAtMs": 1795656600000,
+   "playedAtMs": 1795656600000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/former-israeli-generals-protect-palestinians-from-settler-attacks-during-olive-harvest",
+   "firstQueuedAtMs": 1795656600000,
+   "playedAtMs": 1795656600000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=302556",
+   "firstQueuedAtMs": 1795656600000,
+   "playedAtMs": 1795656600000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=302586",
+   "firstQueuedAtMs": 1795656600000,
+   "playedAtMs": 1795656600000
   }
  ]
 }
