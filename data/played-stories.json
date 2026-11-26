@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T01:20:08.947Z",
- "lastSyncBucket": 997585,
- "lastSyncCarryInSeconds": 28,
+ "updatedAt": "2026-11-26T01:35:11.390Z",
+ "lastSyncBucket": 997586,
+ "lastSyncCarryInSeconds": 2,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -31364,6 +31364,161 @@
    "key": "https://www.kshb.com/news/state/missouri/traveling-for-thanksgiving-missouri-drivers-paying-56-cents-more-per-gallon-more-this-year",
    "firstQueuedAtMs": 1795653000000,
    "playedAtMs": 1795653000000
+  },
+  {
+   "key": "https://lobste.rs/s/v4qhwb",
+   "firstQueuedAtMs": 1795654800000,
+   "playedAtMs": 1795654800000
+  },
+  {
+   "key": "https://iowacapitaldispatch.com/?p=61468",
+   "firstQueuedAtMs": 1795654800000,
+   "playedAtMs": 1795654800000
+  },
+  {
+   "key": "4f1bab2c-7de0-4a4e-930e-e02d56fb831a",
+   "firstQueuedAtMs": 1795654800000,
+   "playedAtMs": 1795654800000
+  },
+  {
+   "key": "108558994",
+   "firstQueuedAtMs": 1795654800000,
+   "playedAtMs": 1795654800000
+  },
+  {
+   "key": "108559693",
+   "firstQueuedAtMs": 1795654800000,
+   "playedAtMs": 1795654800000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4427551",
+   "firstQueuedAtMs": 1795654800000,
+   "playedAtMs": 1795654800000
+  },
+  {
+   "key": "e68774bc-bb2e-4ffc-bcd0-4f426d7dc365",
+   "firstQueuedAtMs": 1795654800000,
+   "playedAtMs": 1795654800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/26/its-not-funny-video-shows-teens-tackle-beloved-reindeer-display-neighborhood-home/",
+   "firstQueuedAtMs": 1795654800000,
+   "playedAtMs": 1795654800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/business/media/disney-fcc-abc-ruling.html",
+   "firstQueuedAtMs": 1795654800000,
+   "playedAtMs": 1795654800000
+  },
+  {
+   "key": "https://michiganadvance.com/?post_type=republished&p=116248",
+   "firstQueuedAtMs": 1795654800000,
+   "playedAtMs": 1795654800000
+  },
+  {
+   "key": "https://www.kshb.com/politics/economy/us-to-hike-tariffs-on-china-eu-brazil-and-others-over-subsidized-factories",
+   "firstQueuedAtMs": 1795654800000,
+   "playedAtMs": 1795654800000
+  },
+  {
+   "key": "129f3cdf-078a-4e7c-a86b-742de698def6",
+   "firstQueuedAtMs": 1795654800000,
+   "playedAtMs": 1795654800000
+  },
+  {
+   "key": "77a92b80-8abb-4486-a161-ca4c89613419",
+   "firstQueuedAtMs": 1795654800000,
+   "playedAtMs": 1795654800000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/kansas/johnson-county/kansas-city-nonprofit-sorts-thousands-of-pounds-of-food-for-thanksgiving-meal-kits",
+   "firstQueuedAtMs": 1795654800000,
+   "playedAtMs": 1795654800000
+  },
+  {
+   "key": "768b64d5-50e1-4ce9-87fb-84bf2e7c1dc1",
+   "firstQueuedAtMs": 1795654800000,
+   "playedAtMs": 1795654800000
+  },
+  {
+   "key": "https://iowacapitaldispatch.com/?post_type=republished&p=61488",
+   "firstQueuedAtMs": 1795654800000,
+   "playedAtMs": 1795654800000
+  },
+  {
+   "key": "https://www.kshb.com/investigations/ice-inc/detained-families-cast-new-scrutiny-on-ice-lockup-in-sworn-statements",
+   "firstQueuedAtMs": 1795654800000,
+   "playedAtMs": 1795654800000
+  },
+  {
+   "key": "60797e49-a927-4057-9256-025831fd3826",
+   "firstQueuedAtMs": 1795654800000,
+   "playedAtMs": 1795654800000
+  },
+  {
+   "key": "fd1c7278-8a4b-4899-9167-f3dcb47200c5",
+   "firstQueuedAtMs": 1795654800000,
+   "playedAtMs": 1795654800000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4455648",
+   "firstQueuedAtMs": 1795654800000,
+   "playedAtMs": 1795654800000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4455632",
+   "firstQueuedAtMs": 1795654800000,
+   "playedAtMs": 1795654800000
+  },
+  {
+   "key": "https://www.kshb.com/life/holidays-and-celebrations/macys-thanksgiving-day-parade-postponed-to-saturday-due-to-approaching-storm",
+   "firstQueuedAtMs": 1795654800000,
+   "playedAtMs": 1795654800000
+  },
+  {
+   "key": "e7edf082-0eab-46b3-b282-e6dc08262b46",
+   "firstQueuedAtMs": 1795654800000,
+   "playedAtMs": 1795654800000
+  },
+  {
+   "key": "https://nebraskaexaminer.com/?p=46049",
+   "firstQueuedAtMs": 1795654800000,
+   "playedAtMs": 1795654800000
+  },
+  {
+   "key": "https://www.kshb.com/us-news/vance-serves-up-turkey-and-conversation-to-air-force-troops-at-an-ohio-base",
+   "firstQueuedAtMs": 1795654800000,
+   "playedAtMs": 1795654800000
+  },
+  {
+   "key": "a3a41bbc-4cd4-40dc-a8cc-b0f44d1a7fea",
+   "firstQueuedAtMs": 1795654800000,
+   "playedAtMs": 1795654800000
+  },
+  {
+   "key": "517077a5-b608-4144-b959-b7453a7db0b4",
+   "firstQueuedAtMs": 1795654800000,
+   "playedAtMs": 1795654800000
+  },
+  {
+   "key": "https://www.kshb.com/us-news/treasurys-fincen-takes-systems-offline-after-unauthorized-access",
+   "firstQueuedAtMs": 1795654800000,
+   "playedAtMs": 1795654800000
+  },
+  {
+   "key": "https://sahanjournal.com/?p=89916",
+   "firstQueuedAtMs": 1795654800000,
+   "playedAtMs": 1795654800000
+  },
+  {
+   "key": "2ea7b235-1c40-4bde-aa12-c796e9ae8ba4",
+   "firstQueuedAtMs": 1795654800000,
+   "playedAtMs": 1795654800000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=302610",
+   "firstQueuedAtMs": 1795654800000,
+   "playedAtMs": 1795654800000
   }
  ]
 }
