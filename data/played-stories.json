@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T02:20:09.674Z",
- "lastSyncBucket": 997587,
- "lastSyncCarryInSeconds": 107,
+ "updatedAt": "2026-11-26T02:35:20.134Z",
+ "lastSyncBucket": 997588,
+ "lastSyncCarryInSeconds": 16,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -31664,6 +31664,191 @@
    "key": "https://johnsoncountypost.com/?p=302586",
    "firstQueuedAtMs": 1795656600000,
    "playedAtMs": 1795656600000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=230660",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "https://southdakotasearchlight.com/?p=26288",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "dd1400a4-8317-4eaf-90c9-e269a0e100c3",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "108559707",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "108559549",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "https://thehill.com/?p=6244298",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "74536574",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "74536505",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "https://www.royalsreview.com/108504/former-foes-fill-non-tendered-options-for-kansas-city-royals",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/ben-shapiro-and-amna-nawaz-discuss-gops-future-on-settle-in",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "https://www.royalsreview.com/?p=108532",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1108818",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/meet-the-young-maestro-leading-the-chicago-symphony-orchestra",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/217574/josh-downs-and-cyrus-allen-providing-a-boost-to-chiefs-wide-receiver-corps",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "https://abcnews.com/video/138454493/",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "https://michiganadvance.com/?p=116246",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "https://www.kcur.org/2026-11-25/amid-distrust-this-missouri-town-ended-its-ice-agreement-and-suspended-its-marshal",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/from-her-apartment-photographer-captures-unique-view-of-macys-thanksgiving-day-parade",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/style/veruschka-supermodel-obituary.html",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/style/veruschka-dead.html",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "https://capitolnewsillinois.com/?p=135115",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "https://wisconsinexaminer.com/?p=49110",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/politics/abrego-garcia-a-salvadoran-mistakenly-deported-by-u-s-goes-to-spain-but-hopes-to-return-after-trump",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "https://thehill.com/?p=6243737",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "https://michiganadvance.com/?p=116240",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/economy/the-holiday-season-can-be-expensive-here-are-some-tips-for-keeping-credit-card-debt-in-check",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "https://thehill.com/?p=6243848",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "https://capitolnewsillinois.com/?p=135117",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1087226",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/business/nvidia-stock-insider-trading-rumor.html",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "https://thehill.com/?p=6243798",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/tyler-cameron-favorite-things-rcna611352",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "https://oklahomawatch.org/?p=763843",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/us/iowa-detonation-lead-what-next.html",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "https://thehill.com/?p=6243656",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "https://southdakotasearchlight.com/?p=26329",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/world/melania-trump-reunites-her-seventh-group-of-ukrainian-and-russian-children-with-their-families",
+   "firstQueuedAtMs": 1795658400000,
+   "playedAtMs": 1795658400000
   }
  ]
 }
