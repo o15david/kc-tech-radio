@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T22:20:22.567Z",
- "lastSyncBucket": 997627,
+ "updatedAt": "2026-11-26T22:35:06.724Z",
+ "lastSyncBucket": 997628,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -38339,6 +38339,66 @@
    "key": "9.7437616",
    "firstQueuedAtMs": 1795728600000,
    "playedAtMs": 1795728600000
+  },
+  {
+   "key": "TP4QG4KIP3JH00",
+   "firstQueuedAtMs": 1795730400000,
+   "playedAtMs": 1795730400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/26/live-blog-chiefs-visit-bills-thanksgiving-night-battle/",
+   "firstQueuedAtMs": 1795730400000,
+   "playedAtMs": 1795730400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/26/fort-leonard-wood-celebrates-thanksgiving-those-post/",
+   "firstQueuedAtMs": 1795730400000,
+   "playedAtMs": 1795730400000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/politics/judge-declines-to-issue-a-long-term-ban-on-taxpayer-funded-pro-trump-ads-critics-called-propaganda",
+   "firstQueuedAtMs": 1795730400000,
+   "playedAtMs": 1795730400000
+  },
+  {
+   "key": "https://janlukas.blog/posts/ai-self-hosting",
+   "firstQueuedAtMs": 1795730400000,
+   "playedAtMs": 1795730400000
+  },
+  {
+   "key": "news714841879",
+   "firstQueuedAtMs": 1795730400000,
+   "playedAtMs": 1795730400000
+  },
+  {
+   "key": "74543858",
+   "firstQueuedAtMs": 1795730400000,
+   "playedAtMs": 1795730400000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/missouri/jackson-county/its-been-a-very-hard-year-family-grateful-for-free-thanksgiving-meal",
+   "firstQueuedAtMs": 1795730400000,
+   "playedAtMs": 1795730400000
+  },
+  {
+   "key": "https://thehill.com/?p=6244928",
+   "firstQueuedAtMs": 1795730400000,
+   "playedAtMs": 1795730400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795724633",
+   "firstQueuedAtMs": 1795730400000,
+   "playedAtMs": 1795730400000
+  },
+  {
+   "key": "https://www.scmp.com/tech/tech-war/article/3375909/laila-khawaja-how-jensen-huang-saga-resets-us-china-tech-rivalry",
+   "firstQueuedAtMs": 1795730400000,
+   "playedAtMs": 1795730400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/26/salvation-army-volunteers-serve-thanksgiving-meal-springfield-community/",
+   "firstQueuedAtMs": 1795730400000,
+   "playedAtMs": 1795730400000
   }
  ]
 }
