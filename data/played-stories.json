@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T02:50:11.327Z",
- "lastSyncBucket": 997588,
- "lastSyncCarryInSeconds": 16,
+ "updatedAt": "2026-11-26T03:05:29.547Z",
+ "lastSyncBucket": 997589,
+ "lastSyncCarryInSeconds": 27,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -31849,6 +31849,216 @@
    "key": "https://www.pbs.org/newshour/world/melania-trump-reunites-her-seventh-group-of-ukrainian-and-russian-children-with-their-families",
    "firstQueuedAtMs": 1795658400000,
    "playedAtMs": 1795658400000
+  },
+  {
+   "key": "108559706",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://bridgemi.com/?p=84160",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/nyregion/macys-thanksgiving-day-parade-tourists.html",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "TP396JT3BZNF00",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "74536498",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261125045259.htm",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "news714811962",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261122060346.htm",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://www.kshb.com/weather/king-tides-and-strong-waves-destroy-part-of-pacifica-pier-as-officials-warn-of-coastal-flooding",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261124055904.htm",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://lobste.rs/s/faqxns",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261124055856.htm",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://3dprinting.com/news/hkust-researchers-3d-print-a-titanium-alloy-that-keeps-hardening-under-strain/",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "0da4dcae-e9fa-405a-aa6f-9a7fcc5df96b",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://thehill.com/?p=6243709",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "74536644",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/26/church-secretary-sentenced-prison-stealing-nearly-700000/",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/25/nx-s1-6005522/little-free-bakery-austin-community-connection",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://iowacapitaldispatch.com/?p=61394",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://thehill.com/?p=6243655",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://abcnews.com/Politics/trump-admin-proposes-new-tariffs-china-eu-12/story?id=138442698",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/us/politics/texas-border-legal-settlement-trump.html",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://minnesotareformer.com/?p=40001",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://thehill.com/?p=6243427",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/nation/state-department-reports-downplay-violence-and-corruption-in-countries-that-asylum-seekers-are-fleeing",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/25/g-s1-155518/senate-democrats-freshman-leadership-schumer-van-hollen",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://www.minnpost.com/?p=2244064",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/25/incomes-layoffs-rates-pce-ai",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://oklahomawatch.org/?p=763866",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://nebraskaexaminer.com/?p=46013",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/25/iowa-army-lead-detonation",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://www.nbcnews.com/world/china/rising-star-china-latest-victim-xis-purge-chen-jining-rcna611258",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/25/nx-s1-6048614/thanksgiving-liberia-gratitude-prayer",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://wisconsinwatch.org/?p=1323493",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/25/economy-gdp-inflation-ai",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "tdy_news_7a_mississippi_plane_crash_261125",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1106957",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/25/measles-elimination-poll-government-ipsos",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://blockclubchicago.org/?p=1107945",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/25/anthropic-ai-human-control-debate-free-will",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/25/thanksgiving-politics-polling",
+   "firstQueuedAtMs": 1795660200000,
+   "playedAtMs": 1795660200000
   }
  ]
 }
