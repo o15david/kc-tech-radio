@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T13:20:33.503Z",
- "lastSyncBucket": 997609,
- "lastSyncCarryInSeconds": 50,
+ "updatedAt": "2026-11-26T13:35:50.192Z",
+ "lastSyncBucket": 997610,
+ "lastSyncCarryInSeconds": 111,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -35809,6 +35809,201 @@
    "key": "https://dailygalaxy.com/?p=163191",
    "firstQueuedAtMs": 1795696200000,
    "playedAtMs": 1795696200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/05/97th-plaza-lights-ceremony-moves-up-start-time-holiday-chiefs-matchup/",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "https://missouriindependent.com/?post_type=republished&p=33839",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "67115490-9929-404d-ac75-907c77d67a48",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312234",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "https://lobste.rs/s/nfce9x",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312049",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75835",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "b10fc539-568e-448a-8487-9bc897d20da7",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "https://www.engadget.com/2329106/casetifys-pokmon-30th-anniversary-collection-includes-a-pok-ball-case-for-your-airpods/",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "https://www.technologyreview.com/?p=1149934",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75836",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "https://thehill.com/?p=6244532",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "https://www.inc.com/peter-economy/disney-is-bringing-the-super-bowl-to-imax-theaters-its-a-brilliant-experiment/91442187",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "https://www.inc.com/amaya-nichole/nordstrom-closing-stores-list-doomed-locations-2026/91442037",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "TP3Y02T9NJLT00",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.domo.com%2Fsolution%2Fai-hero%3Futm_source=tldr%26utm_medium=paid-email%26utm_campaign=Display_General_TLDRNewsletterSponsorship_FY27_NAM%26utm_campid=701Vu00003EJhHeIAL%26utm_content=day-6-headline/2/010001a217b26b39-781e521f-e11a-4877-898c-86304966b10b-000000/09vzDx4Ku8aUo-EbL186E09rXY5ItAUaPmvyZf3bW6E=452",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.wsj.com%2Fbusiness%2Ffcc-authorizes-spacex-to-build-1-million-data-centers-in-space-0eb20ee7%3Fst=5CveM7%26reflink=desktopwebshare_permalink%26utm_source=tldrnewsletter/1/010001a217b26b39-781e521f-e11a-4877-898c-86304966b10b-000000/r2ThqEmEQPqEAo0ErhlHOuJAUnbLwWwOMOJFrDpbSAg=452",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.caseyhandmer.com%2F2026%2F11%2F25%2Fspacex-is-not-a-monopoly-tech-incumbents-obviously-lack-urgency-and-other-harsh-truths%2F%3Futm_source=tldrnewsletter/1/010001a217b26b39-781e521f-e11a-4877-898c-86304966b10b-000000/W5U_atRQSE8p9rasaquc9J024WFPxerwqLbC-62ehB4=452",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2Fbook-a-campaign%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=secondary11262026%26sp=D20jTu3ebxNRNKOWfUcawjd7/1/010001a217b26b39-781e521f-e11a-4877-898c-86304966b10b-000000/ex69D3oaav8fnW7GwOKxlv6tSHtcQArferjEAQpAp6s=452",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmhdempsey.substack.com%2Fp%2Fthe-business-of-anthropic%3Futm_source=tldrnewsletter/1/010001a217b26b39-781e521f-e11a-4877-898c-86304966b10b-000000/uDmBxm-AAF2q4_V97JUf7Om3DotOhQidQvbdKc_mACw=452",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163958",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "https://bridgemi.com/?p=84148",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "https://link.mail.beehiiv.com/ss/c/u001.dSnm3kaGd0BkNqLYPjeMf_DKThdpaPaB9_aROy42m3-QkrpXFAupeHADtSyezHztzSRqfdI5KA69nA7xk0zTSXEmevCz9Jn_3XGqFo9_wa9heqdjYA7koSefo0645oHtZUTxAXvsPPxgCxH7dLfyFNn7rja821DkQty80ehypp0-z-SJV48jATlPoz7j6NChv4i1hlvPjtlR-L3AeYY-p6NZGPjqLQCBgJ_MX0SYZD8/4w2/YEdyooqoSPm8XA_xaij4Iw/h30/h001.QVO0sfNCb5xMD9HGnvwscOoT-Ktx5OKAIWcwl6Jask8",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "https://link.mail.beehiiv.com/ss/c/u001.dSnm3kaGd0BkNqLYPjeMf0gyeM8tESkQ4qmvKtcxeZ9Sf8FWzyiEWE10HHsJrV5cblVac8sPVuUw3gneLIw3rtqW6_4IEyEyGCvBdTH6tfKtx4hRcRZzrew8RfHWk9lJYhE7qhWf23ISlzVNOGbSJkrfPTOiLdYTiui61G-oOp4ElUAuUPJ7vy8Ul1d_QRXmleJniuDgfNR_fiTjLJBzrrtKWVP4QKcZdv_35e0CD1w/4w2/YEdyooqoSPm8XA_xaij4Iw/h35/h001.Y-yCmLqeU-k3nNlIf37COtsRMn2D3ACR5JzjN-h18KI",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "https://link.mail.beehiiv.com/ss/c/u001.Q334NVcZU4O6L6VKRz8ijB1TBWraWSjSa1EgItxTfJGLIvJAG36TdoN_RcL5Qcb4l-TTKJ7kJ40VnFns1HNbTrS7dbLgPHI8dLrwXl8iOfb2ljYNEeE0q2TWET6YxEhgc6wA30v1AH50GDP_JrWdpTPq70hZISXHvpwjA_kPGR5AW9w13VXaMChyvsbToJrCYVcO3Nneo-K3b4-mF3qtHgZWjOSdzG9QWZQOGrDDEAs/4w2/YEdyooqoSPm8XA_xaij4Iw/h42/h001.c5MWflNATYnUpeN4bzjvXH_6lUU59D9Hj6Es8SVeWvg",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/best-black-friday-deals-11-26-2026-rcna611358",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "https://link.mail.beehiiv.com/ss/c/u001.KT4rQsO6sHS_v2VASG2xupywTByilB7vBf1gbeXMnd8Hof3Ca4zliYIk5t4pKnVtdKtfjcRsdlABoWM1f2xRqbFtEoijeNFSOo3EBbFrZB1XKqphW1kM9RnumyVI2_CuOmz8zLiYB5dWao-VuirZlms-6Wdbl7cE3LjWXCKHxYWHx5NcIQiGL-B2rNvIqals4lD2g72Ls0PoEvnzNGZRty2U5zflINC10CkNwy8iDaHjbmeoWxyQT3VWgSggqPzt4QfU3DE7Pkco-quxG5P50R3tQrvNa8GaFzR_U1-ZW5BKWLxy3NoWJemG5cM2rSAEc5lehGfGmt4VeCYDeeMJcyo3hYlFkmXff_Z7D7dTSWkcryVYC-_0tJ5bydkvNkQd4NRwJUkPaFZjmwsA95cTeVujxi3FI6RiKepgqcyRFGsD4CQQo1xq_tpCwI41MM0MZwSTZlzNfWOFIXbJzOasCcyoTKHib696tDafx5kbuexaqA2oM_G3u_qz6JJxJYC48UqafIUzeivqY3fxl1Lfh5bQIbFVEMIpZCFXSXgLmh7E70Y9ZUMt_dZ0tTExjfy4ZL3k5hTHGTpNxjVd8k_TdQ5EYG354eSfZbSi1gQVAlllJETqQNHDFfsSrj5WcoU-lV6ZCApwyAKuAZq2P9D5aQ5En_4t7bkhs34Ptec15IvF--oT3r2sId4l8URqfuXdjbyUS6jmneRtj-g98sVjX8hIzkmLjJVE6MJV2CyKJptLPuYfQKXxY3eOgtYALmAdEJAaOUqrejTs-g4qJBET955ESkaswQ2KUuS986dxv9L5LsHyNRZw65v2A1gh7_cJPBg-xNuyqrv_OTIYVYvHtL9X_BVvezi-uJB-zaB65YwQdqbQ43-MAuPHV6MzdjHQAzjA-YEQ6Zm8VHr1a0_usykeYkD0BlWGNOv7v9YOFRw_PjlW_hq1guYLSH4-mAixU7nYET70jtnGXil0iW2DP8aZaWA9MFP_624YZQniQxXjyeOn-q8b9Z9uttGIp_b1dUzL888Ztub71iyRvZ_U8w/4w2/YEdyooqoSPm8XA_xaij4Iw/h48/h001.DSQ8zuSfZwgPRAU4W272v7L0UqlWhC5WnunxJQHrEZQ",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-02752-6",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "tdy_news_7a_iowa_detonation_reaction_261126",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "now_hallie_steelers_rodgers_261125",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "https://minnesotareformer.com/?p=40007",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "tdy_pop_9a_kickoff_with_kornacki_261125",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/politics/article/3375953/china-busts-cross-border-blood-smuggling-ring-over-biosecurity-fears",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "https://s37742.p1438.sites.pressdns.com/?p=9708",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "https://www.scmp.com/news/world/europe/article/3375952/uk-net-migration-falls-77000-lowest-annual-level-nearly-30-years",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "https://www.scmp.com/week-asia/people/article/3375950/singapore-doctor-remanded-over-filming-874-women-melbourne-abhorrent-sexual-predator",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
+  },
+  {
+   "key": "https://oklahomavoice.com/?p=22833",
+   "firstQueuedAtMs": 1795698000000,
+   "playedAtMs": 1795698000000
   }
  ]
 }
