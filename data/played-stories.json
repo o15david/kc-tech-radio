@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T10:20:20.285Z",
- "lastSyncBucket": 997651,
+ "updatedAt": "2026-11-27T10:35:19.864Z",
+ "lastSyncBucket": 997652,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -40264,6 +40264,216 @@
    "key": "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o#1",
    "firstQueuedAtMs": 1795771800000,
    "playedAtMs": 1795771800000
+  },
+  {
+   "key": "https://indianacapitalchronicle.com/?p=28290",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "74546533",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "https://nebraskaexaminer.com/?p=46024",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1040292",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "6aff8672010b3517c8093308",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "WP-MKTW-0005371270",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "108559996",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "108560009",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "692b17fc2d4876508e37abcd",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261126063316.htm",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/27/magazine/ai-silicon-valley-human-extinction.html",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312522",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/27/black-friday-online-holiday-deals-cyber-monday",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "https://physicsworld.com/?p=131789",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "news714907387",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "news714759361",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "https://www.technologyreview.com/?p=1149946",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "https://fortune.com/?p=4649109&showAdminBar=true",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/home-depot-black-friday-sale-2026-rcna611447",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "https://www.inc.com/bruce-crumley/62-of-online-sellers-arent-ready-for-black-friday-most-have-already-suffered-a-site-failure/91442726",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "https://www.inc.com/mita-mallick/your-boss-brags-about-sleeping-4-hours-a-night-that-isnt-ambition-its-a-leadership-risk/91441234",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/live/c6rrg94lgjrjt",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "https://fortune.com/?p=4651936&showAdminBar=true",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "https://fortune.com/?p=4651935&showAdminBar=true",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/ugg-mini-boots-black-friday-deal-2026-rcna610911",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "https://www.theregister.com/software/2026/11/26/indie-web-browser-ladybird-enters-alpha-testing/5311914",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "108559722",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/27/nx-s1-6026486/macys-tries-to-reinvent-with-luxury",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/27/nx-s1-6042445/screen-free-tweens-try-their-hand-at-dungeons-dragons",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/27/nx-s1-6037854/trump-effectively-ended-asylum-supreme-court",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/27/nx-s1-6050867/prevent-dementia-alzheimers-your-turn",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "https://www.nbcnews.com/news/us-news/much-country-thanksgiving-featured-nasty-weather-rcna611521",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/diplomacy/article/3376066/china-and-india-hold-fresh-border-talks-both-boost-military-readiness-winter",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795767597",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795771036",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3376062/aeon-sets-cardless-payment-limit-0-customers-affected-cyber-attack",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "https://www.dw.com/en/historic-€550-000-ruling-german-court-holds-catholic-church-liable-for-priest-s-abuse/a-80071917?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "https://www.scmp.com/news/people-culture/trending-china/article/3376059/chinese-city-turns-retired-buses-mobile-cafes-retraining-transit-workers-baristas",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "https://www.scmp.com/business/china-business/article/3376043/failed-california-billionaire-tax-proposal-gets-close-look-china-tax-circles",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "https://www.scmp.com/week-asia/economics/article/3376040/why-trumps-new-tariff-threats-may-spur-southeast-asia-rethink-us-trade-deals",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/videos/cq808d704m22o#2",
+   "firstQueuedAtMs": 1795773600000,
+   "playedAtMs": 1795773600000
   }
  ]
 }
