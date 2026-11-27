@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T06:20:21.352Z",
- "lastSyncBucket": 997643,
+ "updatedAt": "2026-11-27T06:35:12.464Z",
+ "lastSyncBucket": 997644,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -39469,6 +39469,76 @@
    "key": "https://www.scmp.com/news/asia/southeast-asia/article/3375994/singapore-reaches-out-local-firms-amid-reports-nvidia-chip-shipment-halt",
    "firstQueuedAtMs": 1795757400000,
    "playedAtMs": 1795757400000
+  },
+  {
+   "key": "https://hackaday.com/?p=1430484",
+   "firstQueuedAtMs": 1795759200000,
+   "playedAtMs": 1795759200000
+  },
+  {
+   "key": "74545490",
+   "firstQueuedAtMs": 1795759200000,
+   "playedAtMs": 1795759200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/27/opinion/international-world/far-left-terrorism-threat-america.html",
+   "firstQueuedAtMs": 1795759200000,
+   "playedAtMs": 1795759200000
+  },
+  {
+   "key": "74545489",
+   "firstQueuedAtMs": 1795759200000,
+   "playedAtMs": 1795759200000
+  },
+  {
+   "key": "671bc281433273bdc6e673bc",
+   "firstQueuedAtMs": 1795759200000,
+   "playedAtMs": 1795759200000
+  },
+  {
+   "key": "74545491",
+   "firstQueuedAtMs": 1795759200000,
+   "playedAtMs": 1795759200000
+  },
+  {
+   "key": "https://www.fastcompany.com/91642122/in-the-ai-era-dependability-is-the-key-to-customer-loyalty",
+   "firstQueuedAtMs": 1795759200000,
+   "playedAtMs": 1795759200000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/arts/andy-taylor-guitarist-of-new-wave-icons-duran-duran-dies-at-65",
+   "firstQueuedAtMs": 1795759200000,
+   "playedAtMs": 1795759200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/reid-declines-make-decision-mahomes-offers-support-butker-after-another-critical-miss-dooms-chiefs/",
+   "firstQueuedAtMs": 1795759200000,
+   "playedAtMs": 1795759200000
+  },
+  {
+   "key": "https://www.fastcompany.com/91649238/stop-scheduling-meetings-over-lunch",
+   "firstQueuedAtMs": 1795759200000,
+   "playedAtMs": 1795759200000
+  },
+  {
+   "key": "https://blainehansen.me/post/mainstream-verifiable-language/",
+   "firstQueuedAtMs": 1795759200000,
+   "playedAtMs": 1795759200000
+  },
+  {
+   "key": "https://www.scmp.com/news/article/3375998/chinese-robotic-dog-hi-tech-fire-suit-withstands-blaze-1000-degrees-celsius",
+   "firstQueuedAtMs": 1795759200000,
+   "playedAtMs": 1795759200000
+  },
+  {
+   "key": "https://www.theguardian.com/world/2026/nov/27/mad-about-mara-the-diy-dance-movement-helping-young-nigerians-escape-the-daily-grind",
+   "firstQueuedAtMs": 1795759200000,
+   "playedAtMs": 1795759200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795757722",
+   "firstQueuedAtMs": 1795759200000,
+   "playedAtMs": 1795759200000
   }
  ]
 }
