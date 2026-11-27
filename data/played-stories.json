@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T14:20:19.530Z",
- "lastSyncBucket": 997659,
- "lastSyncCarryInSeconds": 4,
+ "updatedAt": "2026-11-27T14:35:37.738Z",
+ "lastSyncBucket": 997660,
+ "lastSyncCarryInSeconds": 7,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -41939,6 +41939,191 @@
    "key": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go#2",
    "firstQueuedAtMs": 1795786200000,
    "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/driver-injured-after-mustang-overturns-i-470-median-wall/",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=165387",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1042512",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75885",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/i-get-very-emotional-church-hold-its-final-service-after-being-open-nearly-120-years/",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "https://www.eetimes.com/?p=101804916",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "108560070",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "https://www.bbc.com/news/articles/c9kgmd0ldy0lo",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "6af5f64b3b3d498b480a78d4",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312563",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "8e9eefbf-d825-4a06-b590-3f1b71ae05f1",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "https://physicsworld.com/?p=131806",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "https://www.fastcompany.com/91649440/black-friday-2026-these-unexpected-items-driving-up-u-s-consumer-spending",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1041801",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/kansas/johnson-county/black-friday-shoppers-line-up-before-dawn-at-bass-pro-shops",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "https://oklahomavoice.com/?post_type=republished&p=22878",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1043028",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "11f3842e-5337-40cb-9af2-2823df8735e8",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "https://www.inc.com/peter-economy/maldon-sea-salt-is-facing-a-scandal-its-biggest-problem-isnt-the-salt/91442626",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "https://www.inc.com/lucia-auerbach/chinese-whiskey-maker-won-one-of-the-industrys-biggest-awards/91439143",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "https://www.bbc.com/news/articles/ck9d7e11lnq4o",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "https://www.engadget.com/2329389/google-will-soon-share-android-developers-addresses-publicly/",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "69c14a90c8c019cf2b9a5309",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/kansas-city-woman-seriously-injured-i-35-crash-near-eagleville/",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "b8a40e04-f75d-42ef-8ef4-10e9cf234bf0",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "74549338",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "https://martincitytelegraph.com/?p=82124",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "https://oklahomavoice.com/?post_type=republished&p=22880",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "c69a56e5-07db-47b3-aad2-9f28d116a69c",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "74548690",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "https://thehill.com/?p=6245046",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/black-friday-nintendo-switch-deals-2026-rcna611450",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "https://arkansasadvocate.com/?post_type=republished&p=31227",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/black-friday-beauty-deals-2026-rcna611457",
+   "firstQueuedAtMs": 1795788000000,
+   "playedAtMs": 1795788000000
   }
  ]
 }
