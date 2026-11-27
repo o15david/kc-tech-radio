@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T08:20:22.183Z",
- "lastSyncBucket": 997647,
+ "updatedAt": "2026-11-27T08:35:15.657Z",
+ "lastSyncBucket": 997648,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -39749,6 +39749,141 @@
    "key": "https://www.aljazeera.com/?t=1795688996",
    "firstQueuedAtMs": 1795764600000,
    "playedAtMs": 1795764600000
+  },
+  {
+   "key": "https://www.canarymedia.com/articles/solar/solar-no-2-china-grid",
+   "firstQueuedAtMs": 1795766400000,
+   "playedAtMs": 1795766400000
+  },
+  {
+   "key": "74546052",
+   "firstQueuedAtMs": 1795766400000,
+   "playedAtMs": 1795766400000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/27/nx-s1-6055519/eagles-stun-cowboys",
+   "firstQueuedAtMs": 1795766400000,
+   "playedAtMs": 1795766400000
+  },
+  {
+   "key": "TP3VXPR24U8K00",
+   "firstQueuedAtMs": 1795766400000,
+   "playedAtMs": 1795766400000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75852",
+   "firstQueuedAtMs": 1795766400000,
+   "playedAtMs": 1795766400000
+  },
+  {
+   "key": "https://www.kshb.com/sports/football/chiefs/chiefs-postseason-bye-division-title-hopes-take-big-hit-with-loss-to-bills",
+   "firstQueuedAtMs": 1795766400000,
+   "playedAtMs": 1795766400000
+  },
+  {
+   "key": "https://lobste.rs/s/gapf8s",
+   "firstQueuedAtMs": 1795766400000,
+   "playedAtMs": 1795766400000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75721",
+   "firstQueuedAtMs": 1795766400000,
+   "playedAtMs": 1795766400000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
+   "firstQueuedAtMs": 1795766400000,
+   "playedAtMs": 1795766400000
+  },
+  {
+   "key": "108559846",
+   "firstQueuedAtMs": 1795766400000,
+   "playedAtMs": 1795766400000
+  },
+  {
+   "key": "4cdc84ab-6714-4e21-ab31-a17907e17222",
+   "firstQueuedAtMs": 1795766400000,
+   "playedAtMs": 1795766400000
+  },
+  {
+   "key": "https://9to5toys.com/2026/11/27/amazon-official-black-friday-sale-live-2026/",
+   "firstQueuedAtMs": 1795766400000,
+   "playedAtMs": 1795766400000
+  },
+  {
+   "key": "https://fortune.com/?p=4651891&showAdminBar=true",
+   "firstQueuedAtMs": 1795766400000,
+   "playedAtMs": 1795766400000
+  },
+  {
+   "key": "https://lobste.rs/s/kaj037",
+   "firstQueuedAtMs": 1795766400000,
+   "playedAtMs": 1795766400000
+  },
+  {
+   "key": "https://lobste.rs/s/4jccyx",
+   "firstQueuedAtMs": 1795766400000,
+   "playedAtMs": 1795766400000
+  },
+  {
+   "key": "https://fortune.com/?p=4649743&showAdminBar=true",
+   "firstQueuedAtMs": 1795766400000,
+   "playedAtMs": 1795766400000
+  },
+  {
+   "key": "https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids/",
+   "firstQueuedAtMs": 1795766400000,
+   "playedAtMs": 1795766400000
+  },
+  {
+   "key": "https://fortune.com/?p=4648534",
+   "firstQueuedAtMs": 1795766400000,
+   "playedAtMs": 1795766400000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3376030/abby-choi-not-all-good-nothing-can-justify-ex-laws-brutality-court-hears",
+   "firstQueuedAtMs": 1795766400000,
+   "playedAtMs": 1795766400000
+  },
+  {
+   "key": "https://fortune.com/?p=4649132&showAdminBar=true",
+   "firstQueuedAtMs": 1795766400000,
+   "playedAtMs": 1795766400000
+  },
+  {
+   "key": "https://fortune.com/?p=4651347&showAdminBar=true",
+   "firstQueuedAtMs": 1795766400000,
+   "playedAtMs": 1795766400000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/nation/fcc-says-spacex-can-deploy-1-million-satellites-for-data-centers-in-space-scientists-are-skeptical",
+   "firstQueuedAtMs": 1795766400000,
+   "playedAtMs": 1795766400000
+  },
+  {
+   "key": "https://www.scmp.com/week-asia/politics/article/3376028/jakarta-or-nusantara-state-agency-u-turn-clouds-indonesias-capital-move",
+   "firstQueuedAtMs": 1795766400000,
+   "playedAtMs": 1795766400000
+  },
+  {
+   "key": "108559832",
+   "firstQueuedAtMs": 1795766400000,
+   "playedAtMs": 1795766400000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/military/article/3376007/china-cambodia-drills-type-071-warship-offloads-tanks-overseas-first-time",
+   "firstQueuedAtMs": 1795766400000,
+   "playedAtMs": 1795766400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795761957",
+   "firstQueuedAtMs": 1795766400000,
+   "playedAtMs": 1795766400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795758580",
+   "firstQueuedAtMs": 1795766400000,
+   "playedAtMs": 1795766400000
   }
  ]
 }
