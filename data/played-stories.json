@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T09:20:06.305Z",
- "lastSyncBucket": 997649,
+ "updatedAt": "2026-11-27T09:35:19.007Z",
+ "lastSyncBucket": 997650,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -39969,6 +39969,131 @@
    "key": "https://www.bbc.co.uk/news/articles/cw074p95ye5do#1",
    "firstQueuedAtMs": 1795768200000,
    "playedAtMs": 1795768200000
+  },
+  {
+   "key": "https://nebraskaexaminer.com/?post_type=republished&p=46033",
+   "firstQueuedAtMs": 1795770000000,
+   "playedAtMs": 1795770000000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/black-friday-2026-deals-under-50-rcna611475",
+   "firstQueuedAtMs": 1795770000000,
+   "playedAtMs": 1795770000000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1550651",
+   "firstQueuedAtMs": 1795770000000,
+   "playedAtMs": 1795770000000
+  },
+  {
+   "key": "https://www.statnews.com/?p=1552177",
+   "firstQueuedAtMs": 1795770000000,
+   "playedAtMs": 1795770000000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/black-friday-smartwatch-deals-2026-rcna611461",
+   "firstQueuedAtMs": 1795770000000,
+   "playedAtMs": 1795770000000
+  },
+  {
+   "key": "https://news.cnrs.fr/articles/la-nina-looming-in-the-shadows",
+   "firstQueuedAtMs": 1795770000000,
+   "playedAtMs": 1795770000000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312291",
+   "firstQueuedAtMs": 1795770000000,
+   "playedAtMs": 1795770000000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75853",
+   "firstQueuedAtMs": 1795770000000,
+   "playedAtMs": 1795770000000
+  },
+  {
+   "key": "https://lobste.rs/s/mbm7xw",
+   "firstQueuedAtMs": 1795770000000,
+   "playedAtMs": 1795770000000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/",
+   "firstQueuedAtMs": 1795770000000,
+   "playedAtMs": 1795770000000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4424260",
+   "firstQueuedAtMs": 1795770000000,
+   "playedAtMs": 1795770000000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/society/article/3376044/hong-kong-science-park-veteran-named-ceo-hung-shui-kiu-industrial-park-operator",
+   "firstQueuedAtMs": 1795770000000,
+   "playedAtMs": 1795770000000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4427393",
+   "firstQueuedAtMs": 1795770000000,
+   "playedAtMs": 1795770000000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4426542",
+   "firstQueuedAtMs": 1795770000000,
+   "playedAtMs": 1795770000000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4427083",
+   "firstQueuedAtMs": 1795770000000,
+   "playedAtMs": 1795770000000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4427310",
+   "firstQueuedAtMs": 1795770000000,
+   "playedAtMs": 1795770000000
+  },
+  {
+   "key": "https://hackaday.com/?p=1430732",
+   "firstQueuedAtMs": 1795770000000,
+   "playedAtMs": 1795770000000
+  },
+  {
+   "key": "https://www.fastcompany.com/91647792/8-books-secret-world-spies-power",
+   "firstQueuedAtMs": 1795770000000,
+   "playedAtMs": 1795770000000
+  },
+  {
+   "key": "https://www.fastcompany.com/91648601/how-to-navigate-the-holiday-party-season-while-sober",
+   "firstQueuedAtMs": 1795770000000,
+   "playedAtMs": 1795770000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795765170",
+   "firstQueuedAtMs": 1795770000000,
+   "playedAtMs": 1795770000000
+  },
+  {
+   "key": "https://www.infoq.com/articles/engineering-reliable-smartphone-sensor-telematics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795770000000,
+   "playedAtMs": 1795770000000
+  },
+  {
+   "key": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+   "firstQueuedAtMs": 1795770000000,
+   "playedAtMs": 1795770000000
+  },
+  {
+   "key": "https://www.scmp.com/economy/global-economy/article/3376024/netherlands-will-not-be-dictated-trade-chief-says-fight-against-us-match-act",
+   "firstQueuedAtMs": 1795770000000,
+   "playedAtMs": 1795770000000
+  },
+  {
+   "key": "https://www.scmp.com/business/companies/article/3375993/will-exit-key-executive-cloud-wuxi-biologics-us-outlook",
+   "firstQueuedAtMs": 1795770000000,
+   "playedAtMs": 1795770000000
+  },
+  {
+   "key": "https://www.scmp.com/week-asia/politics/article/3375969/eu-seeks-bigger-indian-ocean-security-role-without-rattling-india",
+   "firstQueuedAtMs": 1795770000000,
+   "playedAtMs": 1795770000000
   }
  ]
 }
