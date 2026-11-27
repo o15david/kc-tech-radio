@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T00:51:01.400Z",
- "lastSyncBucket": 997632,
+ "updatedAt": "2026-11-27T01:05:22.143Z",
+ "lastSyncBucket": 997633,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -38674,6 +38674,151 @@
    "key": "https://www.aljazeera.com/?t=1795730949",
    "firstQueuedAtMs": 1795737600000,
    "playedAtMs": 1795737600000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=228602",
+   "firstQueuedAtMs": 1795739400000,
+   "playedAtMs": 1795739400000
+  },
+  {
+   "key": "https://www.kshb.com/sports/football/chiefs/chiefs-te-noah-gray-dt-peter-woods-active-against-bills",
+   "firstQueuedAtMs": 1795739400000,
+   "playedAtMs": 1795739400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/27/fears-20-points-10-rebounds-help-no-11-michigan-state-top-arkansas-thanksgiving-classic/",
+   "firstQueuedAtMs": 1795739400000,
+   "playedAtMs": 1795739400000
+  },
+  {
+   "key": "0900a414-40ab-4311-a2a0-3faa639a95b7",
+   "firstQueuedAtMs": 1795739400000,
+   "playedAtMs": 1795739400000
+  },
+  {
+   "key": "https://www.theregister.com/a/5311612",
+   "firstQueuedAtMs": 1795739400000,
+   "playedAtMs": 1795739400000
+  },
+  {
+   "key": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+   "firstQueuedAtMs": 1795739400000,
+   "playedAtMs": 1795739400000
+  },
+  {
+   "key": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbuildkite.com%2Fhome%2F%3Futm_source=TLDR%26utm_medium=newsletter%26utm_campaign=2026-09-04_Primary_Buildkite%26utm_content=header_what_cursor_openai/2/010001a2185cc038-bdc0897c-c398-41a2-8e0b-b2ae4b61e536-000000/YfEU2RGH0T4YOWgNMo44JZXY9RiYGoAy1P0kBlq_-_0=452",
+   "firstQueuedAtMs": 1795739400000,
+   "playedAtMs": 1795739400000
+  },
+  {
+   "key": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.testingcatalog.com%2Ftesters-share-early-results-possible-claude-opus-5-6%2F%23google_vignette%3Futm_source=tldrai/1/010001a2185cc038-bdc0897c-c398-41a2-8e0b-b2ae4b61e536-000000/DHbBPk52qY-Vt02aNQDvyRcpEXkqo_Q7gPzaLdvb0Fw=452",
+   "firstQueuedAtMs": 1795739400000,
+   "playedAtMs": 1795739400000
+  },
+  {
+   "key": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frybindmitry.github.io%2Fblogs%2Fgpt-6-2-astra-is-superhuman-in-mathematical-optimization.html%3Futm_source=tldrai/1/010001a2185cc038-bdc0897c-c398-41a2-8e0b-b2ae4b61e536-000000/F14nCo-nF3Wh6ColKjHSgw5xmMiAhBLd4Gz1JQ-NHdI=452",
+   "firstQueuedAtMs": 1795739400000,
+   "playedAtMs": 1795739400000
+  },
+  {
+   "key": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.domo.com%2Fagentcatalyst%3Futm_source=tldr%26utm_medium=paid-email%26utm_campaign=Display_General_TLDRNewsletterSponsorship_FY27_NAM%26utm_campid=701Vu00003EJhHeIAL%26utm_content=day-6-headline-ai/1/010001a2185cc038-bdc0897c-c398-41a2-8e0b-b2ae4b61e536-000000/_LzsQLbUupFugFPFUQITKg_6r7JmwQ769FLppiBDFuA=452",
+   "firstQueuedAtMs": 1795739400000,
+   "playedAtMs": 1795739400000
+  },
+  {
+   "key": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcharlesponeill.com%2Fposts%2Fa-weekend-of-machine-mathematics%2F%3Futm_source=tldrai/1/010001a2185cc038-bdc0897c-c398-41a2-8e0b-b2ae4b61e536-000000/QpWiOzsbLapMeSJVdNcHoD_-x2BS3qp3KbnWbzFkfF8=452",
+   "firstQueuedAtMs": 1795739400000,
+   "playedAtMs": 1795739400000
+  },
+  {
+   "key": "8bb57047-cc4b-4d6b-b5d2-0b1925c86763",
+   "firstQueuedAtMs": 1795739400000,
+   "playedAtMs": 1795739400000
+  },
+  {
+   "key": "74544414",
+   "firstQueuedAtMs": 1795739400000,
+   "playedAtMs": 1795739400000
+  },
+  {
+   "key": "74535620",
+   "firstQueuedAtMs": 1795739400000,
+   "playedAtMs": 1795739400000
+  },
+  {
+   "key": "c29bfc2e-f822-497c-b152-75996151f148",
+   "firstQueuedAtMs": 1795739400000,
+   "playedAtMs": 1795739400000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/217692/final-score-chiefs-dominate-cardinals",
+   "firstQueuedAtMs": 1795739400000,
+   "playedAtMs": 1795739400000
+  },
+  {
+   "key": "https://thehill.com/?p=6245011",
+   "firstQueuedAtMs": 1795739400000,
+   "playedAtMs": 1795739400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/26/us/iowa-detonation-family-thanksgiving.html",
+   "firstQueuedAtMs": 1795739400000,
+   "playedAtMs": 1795739400000
+  },
+  {
+   "key": "11579546-06fa-4228-872c-818b7f401c8f",
+   "firstQueuedAtMs": 1795739400000,
+   "playedAtMs": 1795739400000
+  },
+  {
+   "key": "a7cda651-3e40-4bf8-831d-b0b6846e0a4d",
+   "firstQueuedAtMs": 1795739400000,
+   "playedAtMs": 1795739400000
+  },
+  {
+   "key": "eb248d25-c4f4-44c1-9ff1-a2fe69830a6d",
+   "firstQueuedAtMs": 1795739400000,
+   "playedAtMs": 1795739400000
+  },
+  {
+   "key": "35569a7d-acbe-4b98-8f4a-386a5fde27be",
+   "firstQueuedAtMs": 1795739400000,
+   "playedAtMs": 1795739400000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/how-women-in-israel-are-playing-larger-roles-in-the-military",
+   "firstQueuedAtMs": 1795739400000,
+   "playedAtMs": 1795739400000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/the-best-strategies-for-holiday-shopping-in-the-age-of-ai",
+   "firstQueuedAtMs": 1795739400000,
+   "playedAtMs": 1795739400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795740228",
+   "firstQueuedAtMs": 1795739400000,
+   "playedAtMs": 1795739400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795740029",
+   "firstQueuedAtMs": 1795739400000,
+   "playedAtMs": 1795739400000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375957/smaller-hong-kong-companies-urged-upgrade-themselves-handle-new-us-tariffs",
+   "firstQueuedAtMs": 1795739400000,
+   "playedAtMs": 1795739400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795732450",
+   "firstQueuedAtMs": 1795739400000,
+   "playedAtMs": 1795739400000
+  },
+  {
+   "key": "https://www.theguardian.com/australia-news/2026/nov/27/sam-wood-denied-bail-alleged-assault-queensland-ntwnfb",
+   "firstQueuedAtMs": 1795739400000,
+   "playedAtMs": 1795739400000
   }
  ]
 }
