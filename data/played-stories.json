@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T08:50:08.926Z",
- "lastSyncBucket": 997648,
+ "updatedAt": "2026-11-27T09:05:24.785Z",
+ "lastSyncBucket": 997649,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -39884,6 +39884,91 @@
    "key": "https://www.aljazeera.com/?t=1795758580",
    "firstQueuedAtMs": 1795766400000,
    "playedAtMs": 1795766400000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/best-black-friday-deals-11-27-2026-rcna611358",
+   "firstQueuedAtMs": 1795768200000,
+   "playedAtMs": 1795768200000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=230579",
+   "firstQueuedAtMs": 1795768200000,
+   "playedAtMs": 1795768200000
+  },
+  {
+   "key": "https://www.eetimes.com/?p=101804892",
+   "firstQueuedAtMs": 1795768200000,
+   "playedAtMs": 1795768200000
+  },
+  {
+   "key": "https://fortune.com/?p=4651896&showAdminBar=true",
+   "firstQueuedAtMs": 1795768200000,
+   "playedAtMs": 1795768200000
+  },
+  {
+   "key": "https://www.inc.com/jessica-stillman/new-research-found-this-cheap-and-common-supplement-improves-brain-function/91441941",
+   "firstQueuedAtMs": 1795768200000,
+   "playedAtMs": 1795768200000
+  },
+  {
+   "key": "https://www.today.com/health/womens-health/glp-1-weight-loss-drugs-breast-density-mammogram-rcna611078",
+   "firstQueuedAtMs": 1795768200000,
+   "playedAtMs": 1795768200000
+  },
+  {
+   "key": "9.7437137",
+   "firstQueuedAtMs": 1795768200000,
+   "playedAtMs": 1795768200000
+  },
+  {
+   "key": "9.7437235",
+   "firstQueuedAtMs": 1795768200000,
+   "playedAtMs": 1795768200000
+  },
+  {
+   "key": "https://www.dw.com/en/germany-news-parliament-to-vote-on-€556-billion-2027-budget/live-80071074?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795768200000,
+   "playedAtMs": 1795768200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795761698",
+   "firstQueuedAtMs": 1795768200000,
+   "playedAtMs": 1795768200000
+  },
+  {
+   "key": "https://www.scmp.com/news/asia/southeast-asia/article/3376035/third-trump-branded-project-takes-shape-hanoi-amid-us-vietnam-tariff-talks",
+   "firstQueuedAtMs": 1795768200000,
+   "playedAtMs": 1795768200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795764145",
+   "firstQueuedAtMs": 1795768200000,
+   "playedAtMs": 1795768200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795764087",
+   "firstQueuedAtMs": 1795768200000,
+   "playedAtMs": 1795768200000
+  },
+  {
+   "key": "https://www.theguardian.com/world/2026/nov/27/at-critical-juncture-friedrich-merz-finds-germans-support-for-ukraine-wavering",
+   "firstQueuedAtMs": 1795768200000,
+   "playedAtMs": 1795768200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795767792",
+   "firstQueuedAtMs": 1795768200000,
+   "playedAtMs": 1795768200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795767652",
+   "firstQueuedAtMs": 1795768200000,
+   "playedAtMs": 1795768200000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cw074p95ye5do#1",
+   "firstQueuedAtMs": 1795768200000,
+   "playedAtMs": 1795768200000
   }
  ]
 }
