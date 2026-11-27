@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T18:50:11.499Z",
- "lastSyncBucket": 997668,
+ "updatedAt": "2026-11-27T19:05:21.348Z",
+ "lastSyncBucket": 997669,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -43649,6 +43649,121 @@
    "key": "https://www.dw.com/en/kanal-centre-pompidou-brussels-most-anticipated-new-art-museum-opens-its-doors/a-80001444?maca=en-rss-en-all-1573-rdf",
    "firstQueuedAtMs": 1795802400000,
    "playedAtMs": 1795802400000
+  },
+  {
+   "key": "74551414",
+   "firstQueuedAtMs": 1795804200000,
+   "playedAtMs": 1795804200000
+  },
+  {
+   "key": "74551313",
+   "firstQueuedAtMs": 1795804200000,
+   "playedAtMs": 1795804200000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/27/boy-drowned-after-leaving-home-while-family-was-busy-with-thanksgiving-dinner-sheriff-says/",
+   "firstQueuedAtMs": 1795804200000,
+   "playedAtMs": 1795804200000
+  },
+  {
+   "key": "https://www.kshb.com/science-and-tech/data-privacy-and-cybersecurity/air-force-cloud-breach-may-have-exposed-sensitive-military-information",
+   "firstQueuedAtMs": 1795804200000,
+   "playedAtMs": 1795804200000
+  },
+  {
+   "key": "pEz7fSDm8q6PLTpLiofRyi",
+   "firstQueuedAtMs": 1795804200000,
+   "playedAtMs": 1795804200000
+  },
+  {
+   "key": "https://electrek.co/?p=496542",
+   "firstQueuedAtMs": 1795804200000,
+   "playedAtMs": 1795804200000
+  },
+  {
+   "key": "https://thehill.com/?p=6243890",
+   "firstQueuedAtMs": 1795804200000,
+   "playedAtMs": 1795804200000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+   "firstQueuedAtMs": 1795804200000,
+   "playedAtMs": 1795804200000
+  },
+  {
+   "key": "108559382",
+   "firstQueuedAtMs": 1795804200000,
+   "playedAtMs": 1795804200000
+  },
+  {
+   "key": "https://electrek.co/?p=496535",
+   "firstQueuedAtMs": 1795804200000,
+   "playedAtMs": 1795804200000
+  },
+  {
+   "key": "news714995121",
+   "firstQueuedAtMs": 1795804200000,
+   "playedAtMs": 1795804200000
+  },
+  {
+   "key": "news714996542",
+   "firstQueuedAtMs": 1795804200000,
+   "playedAtMs": 1795804200000
+  },
+  {
+   "key": "WP-MKTW-0005371499",
+   "firstQueuedAtMs": 1795804200000,
+   "playedAtMs": 1795804200000
+  },
+  {
+   "key": "https://www.inc.com/bill-murphy-jr/online-customers-are-half-as-likely-to-buy-if-they-use-a-smartphone-new-research-explains-why/91443514",
+   "firstQueuedAtMs": 1795804200000,
+   "playedAtMs": 1795804200000
+  },
+  {
+   "key": "https://github.com/convex/convex-backend-skill/issues/64",
+   "firstQueuedAtMs": 1795804200000,
+   "playedAtMs": 1795804200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/27/us/andrea-stewart-cousins-dead.html",
+   "firstQueuedAtMs": 1795804200000,
+   "playedAtMs": 1795804200000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/27/trump-addresses-death-detective-killed-thanksgiving-day-wrong-way-crash/",
+   "firstQueuedAtMs": 1795804200000,
+   "playedAtMs": 1795804200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/check-recall-database-before-you-buy-toy-consumer-advocate-recommends/",
+   "firstQueuedAtMs": 1795804200000,
+   "playedAtMs": 1795804200000
+  },
+  {
+   "key": "https://thehill.com/?p=6245480",
+   "firstQueuedAtMs": 1795804200000,
+   "playedAtMs": 1795804200000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/world/zelenskyy-urges-the-u-s-to-pressure-putin-calling-trumps-my-friend-remark-strange",
+   "firstQueuedAtMs": 1795804200000,
+   "playedAtMs": 1795804200000
+  },
+  {
+   "key": "https://www.kshb.com/politics/sales-for-biden-memoir-fall-far-short-of-books-by-obama-clinton",
+   "firstQueuedAtMs": 1795804200000,
+   "playedAtMs": 1795804200000
+  },
+  {
+   "key": "https://www.theguardian.com/uk-news/2026/nov/27/police-believe-criminals-carried-out-robberies-during-don-toliver-manchester-gig-unknown-substance",
+   "firstQueuedAtMs": 1795804200000,
+   "playedAtMs": 1795804200000
+  },
+  {
+   "key": "https://www.dw.com/en/germany-news-lawmakers-approve-debt-laden-2027-budget/live-80071074?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795804200000,
+   "playedAtMs": 1795804200000
   }
  ]
 }
