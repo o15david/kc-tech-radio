@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T04:50:06.202Z",
- "lastSyncBucket": 997640,
+ "updatedAt": "2026-11-27T05:05:07.611Z",
+ "lastSyncBucket": 997641,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -39189,6 +39189,106 @@
    "key": "https://www.scmp.com/news/china/politics/article/3375904/what-will-taiwan-local-elections-reveal-about-2028-race-and-cross-strait-shifts",
    "firstQueuedAtMs": 1795752000000,
    "playedAtMs": 1795752000000
+  },
+  {
+   "key": "74541635",
+   "firstQueuedAtMs": 1795753800000,
+   "playedAtMs": 1795753800000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/27/tyler-bass-hits-57-yard-field-goal-time-expires-lift-bills-past-chiefs/",
+   "firstQueuedAtMs": 1795753800000,
+   "playedAtMs": 1795753800000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=230195",
+   "firstQueuedAtMs": 1795753800000,
+   "playedAtMs": 1795753800000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261126063315.htm",
+   "firstQueuedAtMs": 1795753800000,
+   "playedAtMs": 1795753800000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/missouri/kansas-city/country-club-plaza-lights-kick-off-holiday-season-in-kansas-city",
+   "firstQueuedAtMs": 1795753800000,
+   "playedAtMs": 1795753800000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261126033220.htm",
+   "firstQueuedAtMs": 1795753800000,
+   "playedAtMs": 1795753800000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261126063333.htm",
+   "firstQueuedAtMs": 1795753800000,
+   "playedAtMs": 1795753800000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261125045249.htm",
+   "firstQueuedAtMs": 1795753800000,
+   "playedAtMs": 1795753800000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261125045310.htm",
+   "firstQueuedAtMs": 1795753800000,
+   "playedAtMs": 1795753800000
+  },
+  {
+   "key": "https://www.eso.org/public/news/eso2614/",
+   "firstQueuedAtMs": 1795753800000,
+   "playedAtMs": 1795753800000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261125045311.htm",
+   "firstQueuedAtMs": 1795753800000,
+   "playedAtMs": 1795753800000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261125045302.htm",
+   "firstQueuedAtMs": 1795753800000,
+   "playedAtMs": 1795753800000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/politics/trump-heads-to-arizona-next-week-for-a-high-stakes-expansion-of-tsmcs-computer-chip-factories",
+   "firstQueuedAtMs": 1795753800000,
+   "playedAtMs": 1795753800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/disastrous-special-teams-night-costs-chiefs-last-second-loss-bills/",
+   "firstQueuedAtMs": 1795753800000,
+   "playedAtMs": 1795753800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795755533",
+   "firstQueuedAtMs": 1795753800000,
+   "playedAtMs": 1795753800000
+  },
+  {
+   "key": "https://www.scmp.com/week-asia/people/article/3375992/malaysian-teacher-gets-60-years-24-strokes-sarawak-school-sex-abuse-case",
+   "firstQueuedAtMs": 1795753800000,
+   "playedAtMs": 1795753800000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4456453",
+   "firstQueuedAtMs": 1795753800000,
+   "playedAtMs": 1795753800000
+  },
+  {
+   "key": "https://www.scmp.com/presented/news/hong-kong/education/topics/eduhks-internationalisation-drive/article/3375876/beyond-degree-how-eduhks-honours-college-prepares-students-whats-next",
+   "firstQueuedAtMs": 1795753800000,
+   "playedAtMs": 1795753800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795754614",
+   "firstQueuedAtMs": 1795753800000,
+   "playedAtMs": 1795753800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795752078",
+   "firstQueuedAtMs": 1795753800000,
+   "playedAtMs": 1795753800000
   }
  ]
 }
