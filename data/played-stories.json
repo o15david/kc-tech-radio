@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T07:20:25.992Z",
- "lastSyncBucket": 997645,
+ "updatedAt": "2026-11-27T07:35:07.048Z",
+ "lastSyncBucket": 997646,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -39614,6 +39614,76 @@
    "key": "https://www.kctv5.com/2026/11/27/overturned-catch-call-leaves-chiefs-puzzled-loss-bills/",
    "firstQueuedAtMs": 1795761000000,
    "playedAtMs": 1795761000000
+  },
+  {
+   "key": "https://www.kshb.com/sports/football/chiefs/chiefs-qb-patrick-mahomes-outduels-bills-josh-allen-except-where-it-matters-the-scoreboard",
+   "firstQueuedAtMs": 1795762800000,
+   "playedAtMs": 1795762800000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75848",
+   "firstQueuedAtMs": 1795762800000,
+   "playedAtMs": 1795762800000
+  },
+  {
+   "key": "TP3OSFN3N09E00",
+   "firstQueuedAtMs": 1795762800000,
+   "playedAtMs": 1795762800000
+  },
+  {
+   "key": "TP3XQ6KIJH9800",
+   "firstQueuedAtMs": 1795762800000,
+   "playedAtMs": 1795762800000
+  },
+  {
+   "key": "TP5FIIR24U8I00",
+   "firstQueuedAtMs": 1795762800000,
+   "playedAtMs": 1795762800000
+  },
+  {
+   "key": "https://lobste.rs/s/lmxpfo",
+   "firstQueuedAtMs": 1795762800000,
+   "playedAtMs": 1795762800000
+  },
+  {
+   "key": "https://www.fastcompany.com/91648593/julia-fox-wants-to-pay-women-back-for-splitting-bills-on-dates-with-men",
+   "firstQueuedAtMs": 1795762800000,
+   "playedAtMs": 1795762800000
+  },
+  {
+   "key": "74545576",
+   "firstQueuedAtMs": 1795762800000,
+   "playedAtMs": 1795762800000
+  },
+  {
+   "key": "https://www.scmp.com/week-asia/politics/article/3376015/royal-crisis-malaysias-negeri-sembilan-eases-ruler-reinstates-council",
+   "firstQueuedAtMs": 1795762800000,
+   "playedAtMs": 1795762800000
+  },
+  {
+   "key": "https://www.dw.com/en/india-s-modi-government-calls-special-sitting-of-parliament/live-80070511?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795762800000,
+   "playedAtMs": 1795762800000
+  },
+  {
+   "key": "https://www.scmp.com/news/asia/southeast-asia/article/3376013/malaysian-radio-station-slammed-parodying-islamic-prayer-football-video",
+   "firstQueuedAtMs": 1795762800000,
+   "playedAtMs": 1795762800000
+  },
+  {
+   "key": "https://www.theguardian.com/australia-news/2026/nov/27/grace-tame-responds-former-murdoch-executive-nephew-rape-comment-ntwnfb",
+   "firstQueuedAtMs": 1795762800000,
+   "playedAtMs": 1795762800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795760570",
+   "firstQueuedAtMs": 1795762800000,
+   "playedAtMs": 1795762800000
+  },
+  {
+   "key": "https://www.theguardian.com/environment/2026/nov/27/wa-police-investigating-after-iconic-500-year-old-king-jarrah-tree-chainsawed-in-national-park",
+   "firstQueuedAtMs": 1795762800000,
+   "playedAtMs": 1795762800000
   }
  ]
 }
