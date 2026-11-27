@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T01:20:22.438Z",
- "lastSyncBucket": 997633,
+ "updatedAt": "2026-11-27T01:35:27.721Z",
+ "lastSyncBucket": 997634,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -38819,6 +38819,66 @@
    "key": "https://www.theguardian.com/australia-news/2026/nov/27/sam-wood-denied-bail-alleged-assault-queensland-ntwnfb",
    "firstQueuedAtMs": 1795739400000,
    "playedAtMs": 1795739400000
+  },
+  {
+   "key": "news714906882",
+   "firstQueuedAtMs": 1795741200000,
+   "playedAtMs": 1795741200000
+  },
+  {
+   "key": "nn_sro_thanksgiving_weather_261126",
+   "firstQueuedAtMs": 1795741200000,
+   "playedAtMs": 1795741200000
+  },
+  {
+   "key": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+   "firstQueuedAtMs": 1795741200000,
+   "playedAtMs": 1795741200000
+  },
+  {
+   "key": "http://themouseless.dev/vim/",
+   "firstQueuedAtMs": 1795741200000,
+   "playedAtMs": 1795741200000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/science/article/3375928/leading-us-brain-scientist-doris-y-tsao-joins-chinese-university-has-not-been-built",
+   "firstQueuedAtMs": 1795741200000,
+   "playedAtMs": 1795741200000
+  },
+  {
+   "key": "nn_emc_thanksgiving_parade_scramble_261126",
+   "firstQueuedAtMs": 1795741200000,
+   "playedAtMs": 1795741200000
+  },
+  {
+   "key": "nn_sbr_thanksgiving_iniowa_afterdetonation_261126",
+   "firstQueuedAtMs": 1795741200000,
+   "playedAtMs": 1795741200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/26/us/politics/thanksgiving-wisconsin-governor-francesca-hong.html",
+   "firstQueuedAtMs": 1795741200000,
+   "playedAtMs": 1795741200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795735989",
+   "firstQueuedAtMs": 1795741200000,
+   "playedAtMs": 1795741200000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3375967/hong-kong-couple-arrested-allegedly-tampering-passport",
+   "firstQueuedAtMs": 1795741200000,
+   "playedAtMs": 1795741200000
+  },
+  {
+   "key": "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
+   "firstQueuedAtMs": 1795741200000,
+   "playedAtMs": 1795741200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795714819",
+   "firstQueuedAtMs": 1795741200000,
+   "playedAtMs": 1795741200000
   }
  ]
 }
