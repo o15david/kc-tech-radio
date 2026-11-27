@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T12:21:20.358Z",
- "lastSyncBucket": 997655,
- "lastSyncCarryInSeconds": 3,
+ "updatedAt": "2026-11-27T12:35:24.043Z",
+ "lastSyncBucket": 997656,
+ "lastSyncCarryInSeconds": 44,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -41069,6 +41069,196 @@
    "key": "https://www.scmp.com/news/asia/southeast-asia/article/3376073/cash-strapped-airasia-pushes-back-malaysian-paydays-axes-90-philippine-pilots",
    "firstQueuedAtMs": 1795779000000,
    "playedAtMs": 1795779000000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4456706",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "https://missouriindependent.com/?p=33843",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/27/vance-rubio-trump-downside-2028",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "74548240",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1042744",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4456529",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4456316",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "WP-MKTW-0005368111",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315886",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "https://lobste.rs/s/twxtcq",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "TP5TWNKGZAJ200",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75869",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "https://eprint.iacr.org/2026/3020.pdf",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "TP5TMYKIUPS400",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "https://www.schneier.com/?p=73000",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "https://www.nbcnews.com/news/us-news/democrats-healthcare-medicare-macys-parade-performers-morning-rundown-rcna611527",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "TP5TFDKGZAJ600",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312566",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "https://www.missourinet.com/?p=178038",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "WP-MKTW-0005371107",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "108560024",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "https://physicsworld.com/?p=131765",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "https://hackaday.com/?p=1430482",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "https://minnesotareformer.com/?p=40029",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/target-black-friday-deals-2026-rcna611469",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "https://www.inc.com/chris-morris/he-started-a-side-hustle-to-help-friends-use-airline-miles-now-its-a-20-million-business/91442807",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "https://www.inc.com/scott-hutcheson/adobe-predicts-a-95-surge-in-ai-shopping-traffic-this-black-friday/91440392",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "https://www.inc.com/ali-donaldson/ruz-usa-food-and-drink-christmas-ornaments-retail-distribution/91438656",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "https://www.inc.com/victoria-salves/small-business-owner-went-viral-conan-obrien-then-her-sales-doubled/91424995",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "108560023",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "https://fortune.com/?p=4651934&showAdminBar=true",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "https://fortune.com/?p=4651228&showAdminBar=true",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "https://fortune.com/?p=4651970&showAdminBar=true",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "https://fortune.com/?p=4651634",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
+  },
+  {
+   "key": "https://michiganadvance.com/?p=116234",
+   "firstQueuedAtMs": 1795780800000,
+   "playedAtMs": 1795780800000
   }
  ]
 }
