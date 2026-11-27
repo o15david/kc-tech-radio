@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T20:20:23.203Z",
- "lastSyncBucket": 997671,
+ "updatedAt": "2026-11-27T20:35:26.823Z",
+ "lastSyncBucket": 997672,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -44014,6 +44014,146 @@
    "key": "74551420",
    "firstQueuedAtMs": 1795807800000,
    "playedAtMs": 1795807800000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1041717",
+   "firstQueuedAtMs": 1795809600000,
+   "playedAtMs": 1795809600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/us-senator-shares-tragic-update-husbands-death/",
+   "firstQueuedAtMs": 1795809600000,
+   "playedAtMs": 1795809600000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/27/i-get-very-emotional-church-hold-its-final-service-after-being-open-nearly-120-years/",
+   "firstQueuedAtMs": 1795809600000,
+   "playedAtMs": 1795809600000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/editors-picks-black-friday-2026-rcna611328",
+   "firstQueuedAtMs": 1795809600000,
+   "playedAtMs": 1795809600000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1042841",
+   "firstQueuedAtMs": 1795809600000,
+   "playedAtMs": 1795809600000
+  },
+  {
+   "key": "yzXNLpg6DdjRPWyYcsmbjN",
+   "firstQueuedAtMs": 1795809600000,
+   "playedAtMs": 1795809600000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/nation/army-deems-lead-azide-detonation-a-success-but-criticism-lingers-over-notification",
+   "firstQueuedAtMs": 1795809600000,
+   "playedAtMs": 1795809600000
+  },
+  {
+   "key": "https://electrek.co/?p=494415",
+   "firstQueuedAtMs": 1795809600000,
+   "playedAtMs": 1795809600000
+  },
+  {
+   "key": "https://www.sci.news/?p=112914",
+   "firstQueuedAtMs": 1795809600000,
+   "playedAtMs": 1795809600000
+  },
+  {
+   "key": "https://lobste.rs/s/kikmfz",
+   "firstQueuedAtMs": 1795809600000,
+   "playedAtMs": 1795809600000
+  },
+  {
+   "key": "https://electrek.co/?p=496655",
+   "firstQueuedAtMs": 1795809600000,
+   "playedAtMs": 1795809600000
+  },
+  {
+   "key": "https://www.inc.com/jason-aten/for-2-years-coca-colas-holiday-ads-made-people-mad-this-year-it-skipped-the-ai/91443522",
+   "firstQueuedAtMs": 1795809600000,
+   "playedAtMs": 1795809600000
+  },
+  {
+   "key": "https://www.engadget.com/2329765/samsung-is-reportedly-giving-its-camera-app-an-ai-mode/",
+   "firstQueuedAtMs": 1795809600000,
+   "playedAtMs": 1795809600000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4430426",
+   "firstQueuedAtMs": 1795809600000,
+   "playedAtMs": 1795809600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/farmer-finds-body-while-working-field/",
+   "firstQueuedAtMs": 1795809600000,
+   "playedAtMs": 1795809600000
+  },
+  {
+   "key": "https://lobste.rs/s/amjski",
+   "firstQueuedAtMs": 1795809600000,
+   "playedAtMs": 1795809600000
+  },
+  {
+   "key": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+   "firstQueuedAtMs": 1795809600000,
+   "playedAtMs": 1795809600000
+  },
+  {
+   "key": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
+   "firstQueuedAtMs": 1795809600000,
+   "playedAtMs": 1795809600000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43380",
+   "firstQueuedAtMs": 1795809600000,
+   "playedAtMs": 1795809600000
+  },
+  {
+   "key": "https://fortune.com/?p=4652015&showAdminBar=true",
+   "firstQueuedAtMs": 1795809600000,
+   "playedAtMs": 1795809600000
+  },
+  {
+   "key": "711fc101-5474-4625-b6fd-dfc09947fd62",
+   "firstQueuedAtMs": 1795809600000,
+   "playedAtMs": 1795809600000
+  },
+  {
+   "key": "https://www.theguardian.com/world/2026/nov/27/pete-hoekstra-canada-us-ambassador-petition",
+   "firstQueuedAtMs": 1795809600000,
+   "playedAtMs": 1795809600000
+  },
+  {
+   "key": "https://www.scmp.com/news/world/article/3376102/who-sounds-alarm-measles-fight-falters-it-back",
+   "firstQueuedAtMs": 1795809600000,
+   "playedAtMs": 1795809600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795809202",
+   "firstQueuedAtMs": 1795809600000,
+   "playedAtMs": 1795809600000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo#0",
+   "firstQueuedAtMs": 1795809600000,
+   "playedAtMs": 1795809600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795803225",
+   "firstQueuedAtMs": 1795809600000,
+   "playedAtMs": 1795809600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795802365",
+   "firstQueuedAtMs": 1795809600000,
+   "playedAtMs": 1795809600000
+  },
+  {
+   "key": "https://www.dw.com/en/russia-sports-ban-ukraine-s-heraskevych-hails-eu-pushback/a-80074375?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795809600000,
+   "playedAtMs": 1795809600000
   }
  ]
 }
