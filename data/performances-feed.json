@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T12:58:30.318Z",
+  "generatedAt": "2026-11-27T13:02:01.656Z",
   "source": "KC Performances Space (twelve venue calendars, venue-primary per David's rule); converted by scripts/performances-feed-builder.mjs",
   "items": [
     {
@@ -49,18 +49,6 @@
       "timeText": "Matinees and evenings, times vary by date",
       "preview": "KC Rep's beloved holiday tradition: Ebenezer Scrooge, three ghosts and a big-hearted redemption story. The classic Dickens tale staged for the whole family.",
       "url": "https://kcrep.org/2026-27-season/"
-    },
-    {
-      "id": 83,
-      "title": "Tim Gaither",
-      "venue": "Funny Bone Kansas City",
-      "category": "comedy",
-      "kind": "Stand-up",
-      "startDate": "2026-11-25",
-      "endDate": "2026-11-25",
-      "timeText": "7:00 PM",
-      "preview": "KC native headliner known for clean, observational stories about family and growing up in Kansas. A homecoming set to open the holiday week.",
-      "url": "https://www.octopusslover8.com/funny-bone-kansas-city"
     },
     {
       "id": 104,
