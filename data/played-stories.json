@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T05:20:12.021Z",
- "lastSyncBucket": 997641,
+ "updatedAt": "2026-11-27T05:35:13.595Z",
+ "lastSyncBucket": 997642,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -39289,6 +39289,111 @@
    "key": "https://www.aljazeera.com/?t=1795752078",
    "firstQueuedAtMs": 1795753800000,
    "playedAtMs": 1795753800000
+  },
+  {
+   "key": "WP-MKTW-0005369026",
+   "firstQueuedAtMs": 1795755600000,
+   "playedAtMs": 1795755600000
+  },
+  {
+   "key": "https://www.kshb.com/sports/football/chiefs/5-takeaways-bills-exploit-chiefs-not-so-special-teams-offensive-struggles",
+   "firstQueuedAtMs": 1795755600000,
+   "playedAtMs": 1795755600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/27/world/asia/the-threat-to-a-sanctuary-for-children-of-north-korean-defectors.html",
+   "firstQueuedAtMs": 1795755600000,
+   "playedAtMs": 1795755600000
+  },
+  {
+   "key": "https://sifted.eu/articles/ramp-europe-expansion-interview/",
+   "firstQueuedAtMs": 1795755600000,
+   "playedAtMs": 1795755600000
+  },
+  {
+   "key": "TP55UFKIP3IN00",
+   "firstQueuedAtMs": 1795755600000,
+   "playedAtMs": 1795755600000
+  },
+  {
+   "key": "https://sifted.eu/articles/conduct-ceo-on-building-an-ai-operating-system-for-enterprise-it-teams/",
+   "firstQueuedAtMs": 1795755600000,
+   "playedAtMs": 1795755600000
+  },
+  {
+   "key": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+   "firstQueuedAtMs": 1795755600000,
+   "playedAtMs": 1795755600000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386893",
+   "firstQueuedAtMs": 1795755600000,
+   "playedAtMs": 1795755600000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386889",
+   "firstQueuedAtMs": 1795755600000,
+   "playedAtMs": 1795755600000
+  },
+  {
+   "key": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
+   "firstQueuedAtMs": 1795755600000,
+   "playedAtMs": 1795755600000
+  },
+  {
+   "key": "edccd48a-c158-4235-a15f-d1153008018a",
+   "firstQueuedAtMs": 1795755600000,
+   "playedAtMs": 1795755600000
+  },
+  {
+   "key": "74545390",
+   "firstQueuedAtMs": 1795755600000,
+   "playedAtMs": 1795755600000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/?p=217760",
+   "firstQueuedAtMs": 1795755600000,
+   "playedAtMs": 1795755600000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/?p=217754",
+   "firstQueuedAtMs": 1795755600000,
+   "playedAtMs": 1795755600000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4456473",
+   "firstQueuedAtMs": 1795755600000,
+   "playedAtMs": 1795755600000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/?p=217711",
+   "firstQueuedAtMs": 1795755600000,
+   "playedAtMs": 1795755600000
+  },
+  {
+   "key": "https://www.theguardian.com/australia-news/2026/nov/27/alan-jones-trial-defence-open-and-close-ntwnfb",
+   "firstQueuedAtMs": 1795755600000,
+   "playedAtMs": 1795755600000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/217684/afc-playoff-picture-chiefs-win-moves-them-into-first-place",
+   "firstQueuedAtMs": 1795755600000,
+   "playedAtMs": 1795755600000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4456470",
+   "firstQueuedAtMs": 1795755600000,
+   "playedAtMs": 1795755600000
+  },
+  {
+   "key": "https://www.theguardian.com/world/2026/nov/27/spain-migrants-election-vox-far-right-europe",
+   "firstQueuedAtMs": 1795755600000,
+   "playedAtMs": 1795755600000
+  },
+  {
+   "key": "https://www.theguardian.com/australia-news/2026/nov/27/raaf-pilot-robert-john-crawford-guilty-murder-wife-staged-as-lawn-mowing-accident-ntwnfb",
+   "firstQueuedAtMs": 1795755600000,
+   "playedAtMs": 1795755600000
   }
  ]
 }
