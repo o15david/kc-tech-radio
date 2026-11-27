@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T18:20:20.660Z",
- "lastSyncBucket": 997667,
+ "updatedAt": "2026-11-27T18:35:12.458Z",
+ "lastSyncBucket": 997668,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -43464,6 +43464,191 @@
    "key": "https://www.dw.com/en/albania-s-youth-are-protesting-no-longer-leaving-the-country/a-80068939?maca=en-rss-en-all-1573-rdf",
    "firstQueuedAtMs": 1795800600000,
    "playedAtMs": 1795800600000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1041006",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "74551283",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=165356",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "eb982616-00a2-4272-bf9b-f247f837a043",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/black-friday-shoppers-overland-park-snag-freebies-early-hundreds-shopping-sales/",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "keFpBJ2LkUpGJSRE4TXYNa",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43375",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386900",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/world/a-ukraine-loan-is-in-limbo-after-eu-budget-talks-stall-leaders-will-try-again",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "news714996001",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "news714993322",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "https://lobste.rs/s/d0phlt",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "TP68TLT9NJLV00",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315948",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "news714992243",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "news714995643",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/house-was-gone-apparent-home-explosion-heard-nearly-12-miles-away/",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "https://www.fastcompany.com/91649518/elon-musk-is-giving-away-nearly-18-billion-in-spacex-stock-heres-who-can-get-it",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "b7c94a86-55d6-4006-b0bd-de587bcfbb4e",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "691b78c0cac069ace2d1a5d4",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43336",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/27/overturned-catch-call-leaves-chiefs-former-players-leaguewide-puzzled/",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "5cbf9cd4-9119-4951-a51f-3b5d53ba6564",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/firefighter-injured-battling-house-fire-kansas-city/",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "https://thehill.com/?p=6245451",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "6780b293-f7eb-4bca-98a9-9ae81e0ce8cd",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "https://bridgemi.com/?p=84097",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/27/opinion/ai-jobs.html",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "https://www.dw.com/en/spanish-rider-marc-marquez-announces-motogp-retirement-days-after-clinching-record-8th-world-title/a-80079930?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795797555",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795801127",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "https://iowacapitaldispatch.com/?p=61501",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795795991",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795797415",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795801105",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "https://www.theguardian.com/us-news/2026/nov/27/jared-kushner-interview-peril-putin-corporate-rival",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
+  },
+  {
+   "key": "https://www.dw.com/en/kanal-centre-pompidou-brussels-most-anticipated-new-art-museum-opens-its-doors/a-80001444?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795802400000,
+   "playedAtMs": 1795802400000
   }
  ]
 }
