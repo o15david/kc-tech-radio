@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T11:20:24.088Z",
- "lastSyncBucket": 997653,
- "lastSyncCarryInSeconds": 0,
+ "updatedAt": "2026-11-27T11:35:21.189Z",
+ "lastSyncBucket": 997654,
+ "lastSyncCarryInSeconds": 1,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -40714,6 +40714,166 @@
    "key": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo#1",
    "firstQueuedAtMs": 1795775400000,
    "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://www.kshb.com/dont-waste-your-money/why-we-keep-spending-how-black-friday-makes-it-hard-to-stick-to-a-budget",
+   "firstQueuedAtMs": 1795777200000,
+   "playedAtMs": 1795777200000
+  },
+  {
+   "key": "https://abcnews.com/International/wireStory/warns-hunger-deepen-middle-east-war-fuel-costs-138477712",
+   "firstQueuedAtMs": 1795777200000,
+   "playedAtMs": 1795777200000
+  },
+  {
+   "key": "https://www.rockmnation.com/165331/commute-lsu-blinks",
+   "firstQueuedAtMs": 1795777200000,
+   "playedAtMs": 1795777200000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1040313",
+   "firstQueuedAtMs": 1795777200000,
+   "playedAtMs": 1795777200000
+  },
+  {
+   "key": "6aff5511f2cbbbfa7d0cf29d",
+   "firstQueuedAtMs": 1795777200000,
+   "playedAtMs": 1795777200000
+  },
+  {
+   "key": "6af765514cc15bc558d8c4ba",
+   "firstQueuedAtMs": 1795777200000,
+   "playedAtMs": 1795777200000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315914",
+   "firstQueuedAtMs": 1795777200000,
+   "playedAtMs": 1795777200000
+  },
+  {
+   "key": "https://electrek.co/?p=496389",
+   "firstQueuedAtMs": 1795777200000,
+   "playedAtMs": 1795777200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/27/business/stocks-tech-stocks-ai.html",
+   "firstQueuedAtMs": 1795777200000,
+   "playedAtMs": 1795777200000
+  },
+  {
+   "key": "TP5QZBT9NJMA00",
+   "firstQueuedAtMs": 1795777200000,
+   "playedAtMs": 1795777200000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75868",
+   "firstQueuedAtMs": 1795777200000,
+   "playedAtMs": 1795777200000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
+   "firstQueuedAtMs": 1795777200000,
+   "playedAtMs": 1795777200000
+  },
+  {
+   "key": "TP5RB8KGZAJ100",
+   "firstQueuedAtMs": 1795777200000,
+   "playedAtMs": 1795777200000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/oura-ring-5-black-friday-deal-2026-rcna611130",
+   "firstQueuedAtMs": 1795777200000,
+   "playedAtMs": 1795777200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/kansas-city-firefighters-respond-overnight-house-fire/",
+   "firstQueuedAtMs": 1795777200000,
+   "playedAtMs": 1795777200000
+  },
+  {
+   "key": "https://www.fastcompany.com/91646709/black-friday-2026-are-stocks-and-banks-open-holiday-hours-list",
+   "firstQueuedAtMs": 1795777200000,
+   "playedAtMs": 1795777200000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75855",
+   "firstQueuedAtMs": 1795777200000,
+   "playedAtMs": 1795777200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/27/opinion/black-friday-no-longer-makes-the-slightest-bit-of-sense.html",
+   "firstQueuedAtMs": 1795777200000,
+   "playedAtMs": 1795777200000
+  },
+  {
+   "key": "https://fortune.com/?p=4651887&showAdminBar=true",
+   "firstQueuedAtMs": 1795777200000,
+   "playedAtMs": 1795777200000
+  },
+  {
+   "key": "6d4ceedb-6040-4f78-8515-568c8b9e3d0b",
+   "firstQueuedAtMs": 1795777200000,
+   "playedAtMs": 1795777200000
+  },
+  {
+   "key": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+   "firstQueuedAtMs": 1795777200000,
+   "playedAtMs": 1795777200000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75865",
+   "firstQueuedAtMs": 1795777200000,
+   "playedAtMs": 1795777200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/27/podcasts/hardfork-terence-tao.html",
+   "firstQueuedAtMs": 1795777200000,
+   "playedAtMs": 1795777200000
+  },
+  {
+   "key": "108555275",
+   "firstQueuedAtMs": 1795777200000,
+   "playedAtMs": 1795777200000
+  },
+  {
+   "key": "news714811651",
+   "firstQueuedAtMs": 1795777200000,
+   "playedAtMs": 1795777200000
+  },
+  {
+   "key": "https://arkansasadvocate.com/?p=31164",
+   "firstQueuedAtMs": 1795777200000,
+   "playedAtMs": 1795777200000
+  },
+  {
+   "key": "https://www.fastcompany.com/91641672/a-fashion-reporters-favorite-things-of-2026",
+   "firstQueuedAtMs": 1795777200000,
+   "playedAtMs": 1795777200000
+  },
+  {
+   "key": "aa6af04c-d194-430f-82ba-b1dc46ac9e75",
+   "firstQueuedAtMs": 1795777200000,
+   "playedAtMs": 1795777200000
+  },
+  {
+   "key": "https://www.fastcompany.com/91648022/5-ways-to-tidy-up-your-tech-setup",
+   "firstQueuedAtMs": 1795777200000,
+   "playedAtMs": 1795777200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/27/opinion/religion-revival-technology.html",
+   "firstQueuedAtMs": 1795777200000,
+   "playedAtMs": 1795777200000
+  },
+  {
+   "key": "https://fortune.com/?p=4651595&showAdminBar=true",
+   "firstQueuedAtMs": 1795777200000,
+   "playedAtMs": 1795777200000
+  },
+  {
+   "key": "ae26dbc7-c3e3-41b2-ba56-b6e881d8b7b6",
+   "firstQueuedAtMs": 1795777200000,
+   "playedAtMs": 1795777200000
   }
  ]
 }
