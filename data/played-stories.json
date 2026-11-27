@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T03:50:07.712Z",
- "lastSyncBucket": 997638,
+ "updatedAt": "2026-11-27T04:05:24.011Z",
+ "lastSyncBucket": 997639,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -39079,6 +39079,56 @@
    "key": "https://www.aljazeera.com/?t=1795748261",
    "firstQueuedAtMs": 1795748400000,
    "playedAtMs": 1795748400000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=218712",
+   "firstQueuedAtMs": 1795750200000,
+   "playedAtMs": 1795750200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/97th-annual-plaza-lighting-ceremony-pushed-up-chiefs-game/",
+   "firstQueuedAtMs": 1795750200000,
+   "playedAtMs": 1795750200000
+  },
+  {
+   "key": "https://thehill.com/?p=6245089",
+   "firstQueuedAtMs": 1795750200000,
+   "playedAtMs": 1795750200000
+  },
+  {
+   "key": "https://www.marktechpost.com/?p=84090",
+   "firstQueuedAtMs": 1795750200000,
+   "playedAtMs": 1795750200000
+  },
+  {
+   "key": "https://www.marktechpost.com/?p=84097",
+   "firstQueuedAtMs": 1795750200000,
+   "playedAtMs": 1795750200000
+  },
+  {
+   "key": "https://sqrin.app",
+   "firstQueuedAtMs": 1795750200000,
+   "playedAtMs": 1795750200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/family-football-little-rivalry-brings-fans-together-thanksgiving-parkville/",
+   "firstQueuedAtMs": 1795750200000,
+   "playedAtMs": 1795750200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795745970",
+   "firstQueuedAtMs": 1795750200000,
+   "playedAtMs": 1795750200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795748837",
+   "firstQueuedAtMs": 1795750200000,
+   "playedAtMs": 1795750200000
+  },
+  {
+   "key": "https://www.theguardian.com/world/2026/nov/27/heatwaves-floods-fires-and-rain-weekend-of-extreme-weather-expected-across-australia",
+   "firstQueuedAtMs": 1795750200000,
+   "playedAtMs": 1795750200000
   }
  ]
 }
