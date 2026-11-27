@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T20:50:17.845Z",
- "lastSyncBucket": 997672,
+ "updatedAt": "2026-11-27T21:05:23.826Z",
+ "lastSyncBucket": 997673,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -44154,6 +44154,76 @@
    "key": "https://www.dw.com/en/russia-sports-ban-ukraine-s-heraskevych-hails-eu-pushback/a-80074375?maca=en-rss-en-all-1573-rdf",
    "firstQueuedAtMs": 1795809600000,
    "playedAtMs": 1795809600000
+  },
+  {
+   "key": "https://nautil.us/?p=1287099",
+   "firstQueuedAtMs": 1795811400000,
+   "playedAtMs": 1795811400000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/world/canadas-supreme-court-largely-upholds-a-quebec-ban-on-religious-symbols-for-public-servants",
+   "firstQueuedAtMs": 1795811400000,
+   "playedAtMs": 1795811400000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=230734",
+   "firstQueuedAtMs": 1795811400000,
+   "playedAtMs": 1795811400000
+  },
+  {
+   "key": "https://electrek.co/?p=496621",
+   "firstQueuedAtMs": 1795811400000,
+   "playedAtMs": 1795811400000
+  },
+  {
+   "key": "https://electrek.co/?p=496699",
+   "firstQueuedAtMs": 1795811400000,
+   "playedAtMs": 1795811400000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1044485",
+   "firstQueuedAtMs": 1795811400000,
+   "playedAtMs": 1795811400000
+  },
+  {
+   "key": "https://lobste.rs/s/ohmjfv",
+   "firstQueuedAtMs": 1795811400000,
+   "playedAtMs": 1795811400000
+  },
+  {
+   "key": "https://www.theguardian.com/books/2026/nov/27/careless-people-author-sarah-wynn-williams-the-silence-is-mine-it-doesnt-have-to-be-yours",
+   "firstQueuedAtMs": 1795811400000,
+   "playedAtMs": 1795811400000
+  },
+  {
+   "key": "https://www.theguardian.com/music/2026/nov/26/michael-giles-co-founder-and-drummer-of-king-crimson-dies-aged-84",
+   "firstQueuedAtMs": 1795811400000,
+   "playedAtMs": 1795811400000
+  },
+  {
+   "key": "https://en.wikipedia.org/wiki/Lydian_Chromatic_Concept_of_Tonal_Organization",
+   "firstQueuedAtMs": 1795811400000,
+   "playedAtMs": 1795811400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795810108",
+   "firstQueuedAtMs": 1795811400000,
+   "playedAtMs": 1795811400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795807868",
+   "firstQueuedAtMs": 1795811400000,
+   "playedAtMs": 1795811400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795807898",
+   "firstQueuedAtMs": 1795811400000,
+   "playedAtMs": 1795811400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795807375",
+   "firstQueuedAtMs": 1795811400000,
+   "playedAtMs": 1795811400000
   }
  ]
 }
