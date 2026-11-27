@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T17:20:11.444Z",
- "lastSyncBucket": 997665,
+ "updatedAt": "2026-11-27T17:35:20.150Z",
+ "lastSyncBucket": 997666,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -43139,6 +43139,171 @@
    "key": "9.7436261",
    "firstQueuedAtMs": 1795797000000,
    "playedAtMs": 1795797000000
+  },
+  {
+   "key": "https://iowacapitaldispatch.com/?p=61406",
+   "firstQueuedAtMs": 1795798800000,
+   "playedAtMs": 1795798800000
+  },
+  {
+   "key": "M5g4fHs4mvifUj9CbesNdG",
+   "firstQueuedAtMs": 1795798800000,
+   "playedAtMs": 1795798800000
+  },
+  {
+   "key": "https://electrek.co/?p=496512",
+   "firstQueuedAtMs": 1795798800000,
+   "playedAtMs": 1795798800000
+  },
+  {
+   "key": "https://abcnews.com/US/wireStory/pizza-hut-cofounder-dan-carney-dies-decades-after-138483035",
+   "firstQueuedAtMs": 1795798800000,
+   "playedAtMs": 1795798800000
+  },
+  {
+   "key": "news714991402",
+   "firstQueuedAtMs": 1795798800000,
+   "playedAtMs": 1795798800000
+  },
+  {
+   "key": "news714316261",
+   "firstQueuedAtMs": 1795798800000,
+   "playedAtMs": 1795798800000
+  },
+  {
+   "key": "https://electrek.co/?p=496454",
+   "firstQueuedAtMs": 1795798800000,
+   "playedAtMs": 1795798800000
+  },
+  {
+   "key": "https://www.fastcompany.com/91649546/southwest-airlines-is-offering-55-days-of-buy-one-get-one-flights-heres-how-to-get-them",
+   "firstQueuedAtMs": 1795798800000,
+   "playedAtMs": 1795798800000
+  },
+  {
+   "key": "ixrrEuCXCHxcfmeQrSB6T3",
+   "firstQueuedAtMs": 1795798800000,
+   "playedAtMs": 1795798800000
+  },
+  {
+   "key": "74550285",
+   "firstQueuedAtMs": 1795798800000,
+   "playedAtMs": 1795798800000
+  },
+  {
+   "key": "00693135-6bb1-41eb-9721-0a973045be0f",
+   "firstQueuedAtMs": 1795798800000,
+   "playedAtMs": 1795798800000
+  },
+  {
+   "key": "https://electrek.co/?p=496489",
+   "firstQueuedAtMs": 1795798800000,
+   "playedAtMs": 1795798800000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
+   "firstQueuedAtMs": 1795798800000,
+   "playedAtMs": 1795798800000
+  },
+  {
+   "key": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/",
+   "firstQueuedAtMs": 1795798800000,
+   "playedAtMs": 1795798800000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/nation/nfls-thanksgiving-tripleheader-has-impressive-comebacks-and-fantastic-finishes",
+   "firstQueuedAtMs": 1795798800000,
+   "playedAtMs": 1795798800000
+  },
+  {
+   "key": "https://idiotecon.substack.com/p/palliative-care-for-the-chronically",
+   "firstQueuedAtMs": 1795798800000,
+   "playedAtMs": 1795798800000
+  },
+  {
+   "key": "https://thehill.com/?p=6245312",
+   "firstQueuedAtMs": 1795798800000,
+   "playedAtMs": 1795798800000
+  },
+  {
+   "key": "news714990901",
+   "firstQueuedAtMs": 1795798800000,
+   "playedAtMs": 1795798800000
+  },
+  {
+   "key": "https://hackaday.com/?p=1430631&preview=true&preview_id=1430631",
+   "firstQueuedAtMs": 1795798800000,
+   "playedAtMs": 1795798800000
+  },
+  {
+   "key": "news714995341",
+   "firstQueuedAtMs": 1795798800000,
+   "playedAtMs": 1795798800000
+  },
+  {
+   "key": "https://oklahomavoice.com/?post_type=republished&p=22842",
+   "firstQueuedAtMs": 1795798800000,
+   "playedAtMs": 1795798800000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=164261",
+   "firstQueuedAtMs": 1795798800000,
+   "playedAtMs": 1795798800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/27/style/charlotte-curtis-black-panthers.html",
+   "firstQueuedAtMs": 1795798800000,
+   "playedAtMs": 1795798800000
+  },
+  {
+   "key": "6afdfa8c6266953106784c85",
+   "firstQueuedAtMs": 1795798800000,
+   "playedAtMs": 1795798800000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=164256",
+   "firstQueuedAtMs": 1795798800000,
+   "playedAtMs": 1795798800000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=164231",
+   "firstQueuedAtMs": 1795798800000,
+   "playedAtMs": 1795798800000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/best-black-friday-tv-deals-2026-rcna611453",
+   "firstQueuedAtMs": 1795798800000,
+   "playedAtMs": 1795798800000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163430",
+   "firstQueuedAtMs": 1795798800000,
+   "playedAtMs": 1795798800000
+  },
+  {
+   "key": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits",
+   "firstQueuedAtMs": 1795798800000,
+   "playedAtMs": 1795798800000
+  },
+  {
+   "key": "https://retractionwatch.com/?p=136740",
+   "firstQueuedAtMs": 1795798800000,
+   "playedAtMs": 1795798800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795797518",
+   "firstQueuedAtMs": 1795798800000,
+   "playedAtMs": 1795798800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795790010",
+   "firstQueuedAtMs": 1795798800000,
+   "playedAtMs": 1795798800000
+  },
+  {
+   "key": "9.7438374",
+   "firstQueuedAtMs": 1795798800000,
+   "playedAtMs": 1795798800000
   }
  ]
 }
