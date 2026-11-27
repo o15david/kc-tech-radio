@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T21:20:31.162Z",
- "lastSyncBucket": 997673,
+ "updatedAt": "2026-11-27T21:35:29.786Z",
+ "lastSyncBucket": 997674,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -44224,6 +44224,201 @@
    "key": "https://www.aljazeera.com/?t=1795807375",
    "firstQueuedAtMs": 1795811400000,
    "playedAtMs": 1795811400000
+  },
+  {
+   "key": "news714998962",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "74551941",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "https://www.rockchalktalk.com/?p=34611",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "aeed79ce-822a-46f1-9bcc-8370ac25efe2",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "news715000142",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4430495",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "74551755",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386937",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "https://hackaday.com/?p=1430772",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/advanced-dna-technology-identifies-human-remains-found-ending-24-year-mystery/",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/27/semitruck-jackknifes-interstate-leaving-it-straddling-overpass-exit-ramp/",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "https://thehill.com/?p=6245658/",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "news714998777",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "news714998161",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "news714998598",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "news714995119",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "news714998239",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "news714997981",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "news714997742",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "news714997639",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "news714996964",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "https://thehill.com/?p=6245638",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "news714997327",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "https://www.kshb.com/world/middle-east/us-military-says-it-has-disabled-another-ship-trying-to-breach-its-iran-blockade",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "news714997296",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "news714400751",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "news714997061",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "news714907161",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "news714985281",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "https://dansinker.com/posts/2026-11-20-scrapheap/",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/27/business/media/sam-bankman-fried-ftx-altruists.html",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "b8e75f87-2e30-4296-a5ca-a9ff0e53ee5b",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/missouri-agriculture-industrys-annual-economic-impact-reaches-121-billion/",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/27/business/media/old-tv-shows-mad-men.html",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795805844",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "https://www.scmp.com/news/world/russia-central-asia/article/3376104/ukraine-says-it-used-laser-weapon-shoot-down-russian-drone-first-time",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo#0",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o#1",
+   "firstQueuedAtMs": 1795813200000,
+   "playedAtMs": 1795813200000
   }
  ]
 }
