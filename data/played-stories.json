@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T04:20:21.984Z",
- "lastSyncBucket": 997639,
+ "updatedAt": "2026-11-27T04:35:09.999Z",
+ "lastSyncBucket": 997640,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -39129,6 +39129,66 @@
    "key": "https://www.theguardian.com/world/2026/nov/27/heatwaves-floods-fires-and-rain-weekend-of-extreme-weather-expected-across-australia",
    "firstQueuedAtMs": 1795750200000,
    "playedAtMs": 1795750200000
+  },
+  {
+   "key": "108559923",
+   "firstQueuedAtMs": 1795752000000,
+   "playedAtMs": 1795752000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/27/black-friday-or-shop-later-how-truth-test-deals-maximize-your-savings/",
+   "firstQueuedAtMs": 1795752000000,
+   "playedAtMs": 1795752000000
+  },
+  {
+   "key": "https://www.scmp.com/news/asia/east-asia/article/3375984/relief-japans-takaichi-scandal-hit-education-chief-survives-censure-motion",
+   "firstQueuedAtMs": 1795752000000,
+   "playedAtMs": 1795752000000
+  },
+  {
+   "key": "TP50I0T96OSJ00",
+   "firstQueuedAtMs": 1795752000000,
+   "playedAtMs": 1795752000000
+  },
+  {
+   "key": "TP519CKJH6V400",
+   "firstQueuedAtMs": 1795752000000,
+   "playedAtMs": 1795752000000
+  },
+  {
+   "key": "TP51ZHKGZAIU00",
+   "firstQueuedAtMs": 1795752000000,
+   "playedAtMs": 1795752000000
+  },
+  {
+   "key": "https://www.london.edu/think/ai-bubble-about-to-burst",
+   "firstQueuedAtMs": 1795752000000,
+   "playedAtMs": 1795752000000
+  },
+  {
+   "key": "https://www.scmp.com/news/world/article/3375979/huawei-guilty-10-counts-us-trial-nvidias-jensen-huang-returns-scmps-7-highlights",
+   "firstQueuedAtMs": 1795752000000,
+   "playedAtMs": 1795752000000
+  },
+  {
+   "key": "74544956",
+   "firstQueuedAtMs": 1795752000000,
+   "playedAtMs": 1795752000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795747886",
+   "firstQueuedAtMs": 1795752000000,
+   "playedAtMs": 1795752000000
+  },
+  {
+   "key": "https://www.scmp.com/week-asia/people/article/3375913/dream-homes-sea-run-aground-asia-fuel-costs-and-debts-bite",
+   "firstQueuedAtMs": 1795752000000,
+   "playedAtMs": 1795752000000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/politics/article/3375904/what-will-taiwan-local-elections-reveal-about-2028-race-and-cross-strait-shifts",
+   "firstQueuedAtMs": 1795752000000,
+   "playedAtMs": 1795752000000
   }
  ]
 }
