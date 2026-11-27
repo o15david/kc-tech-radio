@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T13:50:17.946Z",
- "lastSyncBucket": 997658,
- "lastSyncCarryInSeconds": 9,
+ "updatedAt": "2026-11-27T14:05:22.628Z",
+ "lastSyncBucket": 997659,
+ "lastSyncCarryInSeconds": 4,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -41664,6 +41664,281 @@
    "key": "https://www.aljazeera.com/?t=1795776012",
    "firstQueuedAtMs": 1795784400000,
    "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/217769/5-things-we-learned-from-the-chiefs-beating-the-beaks-off-the-cardinals",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://kansasreflector.com/?p=64183",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.eetimes.com/?p=101803893",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "108560090",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://electrek.co/?p=496394",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75877",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "6b05b188966159a4e56dd96e",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75878",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "5c272cc8-5096-4d45-bbe7-89ecee3113e6",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/kansas-city-man-seriously-injured-crash-during-law-enforcement-pursuit/",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://thehill.com/?p=6245197",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "74548986",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://bridgemi.com/?p=84270",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4456740",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "74548238",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.kshb.com/weather/thanksgiving-storms-knock-out-power-to-900-000-delay-more-than-2-200-flights",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/27/us/thanksgiving-weather-east-coast-storm.html",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "tdy_news_7a_erin_angie_wx_storms_261127",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://southdakotasearchlight.com/?p=26342",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://oklahomavoice.com/?post_type=republished&p=22826",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.dw.com/en/german-lawmakers-approve-debt-laden-2027-budget/live-80071074?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo#1",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795778835",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.dw.com/en/the-gambia-election-can-barrow-secure-a-third-term/a-80076340?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.scmp.com/economy/article/3376019/skys-limit-chinese-woman-pilot-rises-airline-captain-decade-after-historic-flight",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.dw.com/en/bsw-set-to-play-major-role-in-german-politics-once-more/a-80074417?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.dw.com/en/ukraine-s-heraskevych-hails-eu-pushback-against-russian-athletes/a-80074375?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/politics/article/3376088/no-warning-no-mercy-why-china-moved-fast-topple-chen-jining",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.scmp.com/opinion/world-opinion/article/3375664/americas-self-defeating-affordability-politics",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795778118",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.dw.com/en/how-east-germany-boosted-vietnam-s-coffee-industry/a-80029974?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795777025",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795766967",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795774369",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1793721879",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795698273",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/crx209ekq5xdo#1",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.theguardian.com/australia-news/2026/nov/27/crisis-in-empathy-death-in-custody-of-aboriginal-man-tj-denniss-was-preventable-says-nsw-coroner-ntwnfb",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795772916",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.dw.com/en/ai-can-combine-mathematical-ideas-on-a-scale-beyond-individual-human-minds-but-could-it-produce-ideas-likes-einstein/a-80067691?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795777827",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.dw.com/en/indian-workers-fill-germany-s-labor-gaps-but-face-hurdles-and-risks/a-80072882?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/transport/article/3376072/how-will-final-section-central-kowloon-bypass-complete-route-6-puzzle",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.scmp.com/week-asia/politics/article/3376053/why-south-koreas-chip-boom-now-us-tariff-trap-us350b-pledge-looms",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/science/article/3375982/chinas-giant-sphere-hunting-ghost-particles-has-won-top-engineering-prize",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795715677",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795776665",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.theguardian.com/us-news/2026/nov/27/king-tides-us-coasts-storms-threaten-thanksgiving-celebrations",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795691579",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo#0",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.dw.com/en/german-catholic-church-abuse-victims-may-receive-higher-compensation/a-80071917?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo#3",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o#3",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cx30g71rev23o#3",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go#2",
+   "firstQueuedAtMs": 1795786200000,
+   "playedAtMs": 1795786200000
   }
  ]
 }
