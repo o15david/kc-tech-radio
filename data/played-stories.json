@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T09:50:12.390Z",
- "lastSyncBucket": 997650,
+ "updatedAt": "2026-11-27T10:05:32.672Z",
+ "lastSyncBucket": 997651,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -40094,6 +40094,176 @@
    "key": "https://www.scmp.com/week-asia/politics/article/3375969/eu-seeks-bigger-indian-ocean-security-role-without-rattling-india",
    "firstQueuedAtMs": 1795770000000,
    "playedAtMs": 1795770000000
+  },
+  {
+   "key": "https://www.kcur.org/podcast/kansas-city-today/2026-11-27/its-christmas-tree-season-in-kansas-city",
+   "firstQueuedAtMs": 1795771800000,
+   "playedAtMs": 1795771800000
+  },
+  {
+   "key": "https://kansasreflector.com/?p=64232",
+   "firstQueuedAtMs": 1795771800000,
+   "playedAtMs": 1795771800000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/27/nx-s1-6047116/morning-news-brief",
+   "firstQueuedAtMs": 1795771800000,
+   "playedAtMs": 1795771800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/boy-drowned-after-leaving-home-while-family-was-busy-with-thanksgiving-dinner-sheriff-says/",
+   "firstQueuedAtMs": 1795771800000,
+   "playedAtMs": 1795771800000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/airpods-black-friday-deals-2026-rcna610932",
+   "firstQueuedAtMs": 1795771800000,
+   "playedAtMs": 1795771800000
+  },
+  {
+   "key": "6b056c79e83c254af1e8b4ad",
+   "firstQueuedAtMs": 1795771800000,
+   "playedAtMs": 1795771800000
+  },
+  {
+   "key": "v6N3rXFPB7NUKzBDH3xmMP",
+   "firstQueuedAtMs": 1795771800000,
+   "playedAtMs": 1795771800000
+  },
+  {
+   "key": "74546535",
+   "firstQueuedAtMs": 1795771800000,
+   "playedAtMs": 1795771800000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=230282",
+   "firstQueuedAtMs": 1795771800000,
+   "playedAtMs": 1795771800000
+  },
+  {
+   "key": "https://news.mit.edu/2026/engineering-antibiotics-could-expand-new-drug-candidates-pool-1127",
+   "firstQueuedAtMs": 1795771800000,
+   "playedAtMs": 1795771800000
+  },
+  {
+   "key": "https://insideclimatenews.org/?p=116640",
+   "firstQueuedAtMs": 1795771800000,
+   "playedAtMs": 1795771800000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/27/g-s1-155990/strobe-talbott-obit",
+   "firstQueuedAtMs": 1795771800000,
+   "playedAtMs": 1795771800000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75822",
+   "firstQueuedAtMs": 1795771800000,
+   "playedAtMs": 1795771800000
+  },
+  {
+   "key": "WP-MKTW-0005364089",
+   "firstQueuedAtMs": 1795771800000,
+   "playedAtMs": 1795771800000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75859",
+   "firstQueuedAtMs": 1795771800000,
+   "playedAtMs": 1795771800000
+  },
+  {
+   "key": "https://electrek.co/?p=496323",
+   "firstQueuedAtMs": 1795771800000,
+   "playedAtMs": 1795771800000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
+   "firstQueuedAtMs": 1795771800000,
+   "playedAtMs": 1795771800000
+  },
+  {
+   "key": "691e4c67d689d6dc432d4b28",
+   "firstQueuedAtMs": 1795771800000,
+   "playedAtMs": 1795771800000
+  },
+  {
+   "key": "https://insideclimatenews.org/?p=116372",
+   "firstQueuedAtMs": 1795771800000,
+   "playedAtMs": 1795771800000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261126033501.htm",
+   "firstQueuedAtMs": 1795771800000,
+   "playedAtMs": 1795771800000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75857",
+   "firstQueuedAtMs": 1795771800000,
+   "playedAtMs": 1795771800000
+  },
+  {
+   "key": "https://wisconsinexaminer.com/?p=48957",
+   "firstQueuedAtMs": 1795771800000,
+   "playedAtMs": 1795771800000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75858",
+   "firstQueuedAtMs": 1795771800000,
+   "playedAtMs": 1795771800000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261125045304.htm",
+   "firstQueuedAtMs": 1795771800000,
+   "playedAtMs": 1795771800000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75742",
+   "firstQueuedAtMs": 1795771800000,
+   "playedAtMs": 1795771800000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261125045246.htm",
+   "firstQueuedAtMs": 1795771800000,
+   "playedAtMs": 1795771800000
+  },
+  {
+   "key": "https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/",
+   "firstQueuedAtMs": 1795771800000,
+   "playedAtMs": 1795771800000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03800-x",
+   "firstQueuedAtMs": 1795771800000,
+   "playedAtMs": 1795771800000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261125045256.htm",
+   "firstQueuedAtMs": 1795771800000,
+   "playedAtMs": 1795771800000
+  },
+  {
+   "key": "https://southdakotasearchlight.com/?post_type=republished&p=26247",
+   "firstQueuedAtMs": 1795771800000,
+   "playedAtMs": 1795771800000
+  },
+  {
+   "key": "9.7438358",
+   "firstQueuedAtMs": 1795771800000,
+   "playedAtMs": 1795771800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795068503",
+   "firstQueuedAtMs": 1795771800000,
+   "playedAtMs": 1795771800000
+  },
+  {
+   "key": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
+   "firstQueuedAtMs": 1795771800000,
+   "playedAtMs": 1795771800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o#1",
+   "firstQueuedAtMs": 1795771800000,
+   "playedAtMs": 1795771800000
   }
  ]
 }
