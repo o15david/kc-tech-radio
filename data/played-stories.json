@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T19:21:01.947Z",
- "lastSyncBucket": 997669,
+ "updatedAt": "2026-11-27T19:35:24.228Z",
+ "lastSyncBucket": 997670,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -43764,6 +43764,151 @@
    "key": "https://www.dw.com/en/germany-news-lawmakers-approve-debt-laden-2027-budget/live-80071074?maca=en-rss-en-all-1573-rdf",
    "firstQueuedAtMs": 1795804200000,
    "playedAtMs": 1795804200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/woman-accused-shoplifting-target-injuring-officers-black-friday/",
+   "firstQueuedAtMs": 1795806000000,
+   "playedAtMs": 1795806000000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=165446",
+   "firstQueuedAtMs": 1795806000000,
+   "playedAtMs": 1795806000000
+  },
+  {
+   "key": "https://abcnews.com/US/millions-clean-after-massive-thanksgiving-storms-flood-streets/story?id=138484179",
+   "firstQueuedAtMs": 1795806000000,
+   "playedAtMs": 1795806000000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1043912",
+   "firstQueuedAtMs": 1795806000000,
+   "playedAtMs": 1795806000000
+  },
+  {
+   "key": "uWf3FVBAKfcJsxUvH6g4sd",
+   "firstQueuedAtMs": 1795806000000,
+   "playedAtMs": 1795806000000
+  },
+  {
+   "key": "https://thehill.com/?p=6245503",
+   "firstQueuedAtMs": 1795806000000,
+   "playedAtMs": 1795806000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/recalled-ibuprofen-tablets-may-be-contaminated-with-metal-particles/",
+   "firstQueuedAtMs": 1795806000000,
+   "playedAtMs": 1795806000000
+  },
+  {
+   "key": "6b09b34fafd403ee57350f21",
+   "firstQueuedAtMs": 1795806000000,
+   "playedAtMs": 1795806000000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
+   "firstQueuedAtMs": 1795806000000,
+   "playedAtMs": 1795806000000
+  },
+  {
+   "key": "https://electrek.co/?p=496614",
+   "firstQueuedAtMs": 1795806000000,
+   "playedAtMs": 1795806000000
+  },
+  {
+   "key": "https://www.eetimes.com/?p=101804722",
+   "firstQueuedAtMs": 1795806000000,
+   "playedAtMs": 1795806000000
+  },
+  {
+   "key": "https://www.sci.news/?p=112911",
+   "firstQueuedAtMs": 1795806000000,
+   "playedAtMs": 1795806000000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=274278",
+   "firstQueuedAtMs": 1795806000000,
+   "playedAtMs": 1795806000000
+  },
+  {
+   "key": "6ac40a20afafd73a99ceb10c",
+   "firstQueuedAtMs": 1795806000000,
+   "playedAtMs": 1795806000000
+  },
+  {
+   "key": "TP68JXKJH6V600",
+   "firstQueuedAtMs": 1795806000000,
+   "playedAtMs": 1795806000000
+  },
+  {
+   "key": "https://nautil.us/?p=1287114",
+   "firstQueuedAtMs": 1795806000000,
+   "playedAtMs": 1795806000000
+  },
+  {
+   "key": "https://www.fastcompany.com/91649530/a-popular-password-manager-was-hacked-heres-what-you-need-to-know",
+   "firstQueuedAtMs": 1795806000000,
+   "playedAtMs": 1795806000000
+  },
+  {
+   "key": "https://abcnews.com/International/wireStory/mexico-files-formal-complaint-us-dea-tip-line-138484649",
+   "firstQueuedAtMs": 1795806000000,
+   "playedAtMs": 1795806000000
+  },
+  {
+   "key": "https://dragdropmath.com/",
+   "firstQueuedAtMs": 1795806000000,
+   "playedAtMs": 1795806000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/motorcyclist-killed-crash-involving-deer-us-169-thanksgiving/",
+   "firstQueuedAtMs": 1795806000000,
+   "playedAtMs": 1795806000000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=164271",
+   "firstQueuedAtMs": 1795806000000,
+   "playedAtMs": 1795806000000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=164267",
+   "firstQueuedAtMs": 1795806000000,
+   "playedAtMs": 1795806000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/27/12-year-old-track-graduate-high-school-this-year-start-college-fall/",
+   "firstQueuedAtMs": 1795806000000,
+   "playedAtMs": 1795806000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/26/opinion/johnny-depp-ebenezer-david-ellison.html",
+   "firstQueuedAtMs": 1795806000000,
+   "playedAtMs": 1795806000000
+  },
+  {
+   "key": "https://lobste.rs/s/96gu7o",
+   "firstQueuedAtMs": 1795806000000,
+   "playedAtMs": 1795806000000
+  },
+  {
+   "key": "https://www.fastcompany.com/91647646/retirement-savings-ai-bubble-bursts",
+   "firstQueuedAtMs": 1795806000000,
+   "playedAtMs": 1795806000000
+  },
+  {
+   "key": "https://hnpredictions.com/",
+   "firstQueuedAtMs": 1795806000000,
+   "playedAtMs": 1795806000000
+  },
+  {
+   "key": "9.7438830",
+   "firstQueuedAtMs": 1795806000000,
+   "playedAtMs": 1795806000000
+  },
+  {
+   "key": "https://iowacapitaldispatch.com/?p=61518",
+   "firstQueuedAtMs": 1795806000000,
+   "playedAtMs": 1795806000000
   }
  ]
 }
