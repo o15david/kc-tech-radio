@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-26T23:50:08.216Z",
- "lastSyncBucket": 997630,
+ "updatedAt": "2026-11-27T00:05:27.659Z",
+ "lastSyncBucket": 997631,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -38534,6 +38534,106 @@
    "key": "https://www.aljazeera.com/?t=1795725536",
    "firstQueuedAtMs": 1795734000000,
    "playedAtMs": 1795734000000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=230345",
+   "firstQueuedAtMs": 1795735800000,
+   "playedAtMs": 1795735800000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/26/ky3-reading-room-pulitzer-winning-author-shares-power-storytelling/",
+   "firstQueuedAtMs": 1795735800000,
+   "playedAtMs": 1795735800000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/stormy-thanksgiving-weather-causes-delays-and-damages-for-many-americans",
+   "firstQueuedAtMs": 1795735800000,
+   "playedAtMs": 1795735800000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/despite-political-divide-americans-often-speak-in-one-voice",
+   "firstQueuedAtMs": 1795735800000,
+   "playedAtMs": 1795735800000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03874-7",
+   "firstQueuedAtMs": 1795735800000,
+   "playedAtMs": 1795735800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/26/chiefs-list-noah-gray-active-thanksgiving-game-against-bills/",
+   "firstQueuedAtMs": 1795735800000,
+   "playedAtMs": 1795735800000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/26/your-side-how-rising-prices-are-affecting-missourians-holiday-shopping/",
+   "firstQueuedAtMs": 1795735800000,
+   "playedAtMs": 1795735800000
+  },
+  {
+   "key": "0bf00355-ce15-4f5d-802d-13881302932c",
+   "firstQueuedAtMs": 1795735800000,
+   "playedAtMs": 1795735800000
+  },
+  {
+   "key": "https://www.kshb.com/us-news/epa-expects-iowa-lead-detonation-results-soon",
+   "firstQueuedAtMs": 1795735800000,
+   "playedAtMs": 1795735800000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/news-wrap-epa-reports-zero-airborne-lead-in-iowa",
+   "firstQueuedAtMs": 1795735800000,
+   "playedAtMs": 1795735800000
+  },
+  {
+   "key": "159eb982-f476-4feb-bc5a-169be9e9562d",
+   "firstQueuedAtMs": 1795735800000,
+   "playedAtMs": 1795735800000
+  },
+  {
+   "key": "https://thehill.com/?p=6244988",
+   "firstQueuedAtMs": 1795735800000,
+   "playedAtMs": 1795735800000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/26/springfield-turkey-trot-brings-runners-walkers-downtown-thanksgiving/",
+   "firstQueuedAtMs": 1795735800000,
+   "playedAtMs": 1795735800000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/how-democrats-election-successes-could-lead-to-new-climate-change-policies",
+   "firstQueuedAtMs": 1795735800000,
+   "playedAtMs": 1795735800000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/26/your-side-safety-alerts-recalls-november-18-through-november-25/",
+   "firstQueuedAtMs": 1795735800000,
+   "playedAtMs": 1795735800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/26/us/pacifica-pier-collapse-el-nino-king-tides.html",
+   "firstQueuedAtMs": 1795735800000,
+   "playedAtMs": 1795735800000
+  },
+  {
+   "key": "https://minnesotareformer.com/?post_type=republished&p=39967",
+   "firstQueuedAtMs": 1795735800000,
+   "playedAtMs": 1795735800000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/journalists-experiences-highlight-challenges-of-being-a-family-caregiver",
+   "firstQueuedAtMs": 1795735800000,
+   "playedAtMs": 1795735800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795731294",
+   "firstQueuedAtMs": 1795735800000,
+   "playedAtMs": 1795735800000
+  },
+  {
+   "key": "https://www.scmp.com/news/world/europe/article/3375966/eu-leaders-unable-agree-budget-after-over-12-hours-talks-zero-results",
+   "firstQueuedAtMs": 1795735800000,
+   "playedAtMs": 1795735800000
   }
  ]
 }
