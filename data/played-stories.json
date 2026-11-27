@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T21:50:25.581Z",
- "lastSyncBucket": 997674,
+ "updatedAt": "2026-11-27T22:05:31.840Z",
+ "lastSyncBucket": 997675,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -44419,6 +44419,101 @@
    "key": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o#1",
    "firstQueuedAtMs": 1795813200000,
    "playedAtMs": 1795813200000
+  },
+  {
+   "key": "74551335",
+   "firstQueuedAtMs": 1795815000000,
+   "playedAtMs": 1795815000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/27/boy-scout-troop-raises-funds-through-christmas-tree-lot-springfield/",
+   "firstQueuedAtMs": 1795815000000,
+   "playedAtMs": 1795815000000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/missouri/jackson-county/first-responders-honor-fallen-police-corporal-joshua-kerr-with-procession-along-i-70",
+   "firstQueuedAtMs": 1795815000000,
+   "playedAtMs": 1795815000000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4430563",
+   "firstQueuedAtMs": 1795815000000,
+   "playedAtMs": 1795815000000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1042951",
+   "firstQueuedAtMs": 1795815000000,
+   "playedAtMs": 1795815000000
+  },
+  {
+   "key": "news715000501",
+   "firstQueuedAtMs": 1795815000000,
+   "playedAtMs": 1795815000000
+  },
+  {
+   "key": "news714999559",
+   "firstQueuedAtMs": 1795815000000,
+   "playedAtMs": 1795815000000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386916",
+   "firstQueuedAtMs": 1795815000000,
+   "playedAtMs": 1795815000000
+  },
+  {
+   "key": "https://www.inc.com/jason-aten/openai-made-a-big-mistake-its-response-was-even-worse/91443527",
+   "firstQueuedAtMs": 1795815000000,
+   "playedAtMs": 1795815000000
+  },
+  {
+   "key": "https://github.com/skeeto/prospero",
+   "firstQueuedAtMs": 1795815000000,
+   "playedAtMs": 1795815000000
+  },
+  {
+   "key": "https://atlantic-1866.com/",
+   "firstQueuedAtMs": 1795815000000,
+   "playedAtMs": 1795815000000
+  },
+  {
+   "key": "https://www.kshb.com/bengals-linebacker-barrett-carter-to-wear-fiona-the-hippo-cleats-during-game-against-saints",
+   "firstQueuedAtMs": 1795815000000,
+   "playedAtMs": 1795815000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/27/missouri-department-social-services-encourages-mo-healthnet-participants-prepare-2027-renewal-changes/",
+   "firstQueuedAtMs": 1795815000000,
+   "playedAtMs": 1795815000000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/world/mexicos-government-is-slamming-a-dea-crime-tip-line-as-foreign-interference-others-are-thrilled",
+   "firstQueuedAtMs": 1795815000000,
+   "playedAtMs": 1795815000000
+  },
+  {
+   "key": "https://thehill.com/?p=6245656",
+   "firstQueuedAtMs": 1795815000000,
+   "playedAtMs": 1795815000000
+  },
+  {
+   "key": "nc_pkg_wbts_ice_lottery_winner_261127",
+   "firstQueuedAtMs": 1795815000000,
+   "playedAtMs": 1795815000000
+  },
+  {
+   "key": "https://www.nbcnews.com/news/us-news/thanksgiving-shooting-airbnb-teen-party-ends-1-dead-6-wounded-florida-rcna611538",
+   "firstQueuedAtMs": 1795815000000,
+   "playedAtMs": 1795815000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795816559",
+   "firstQueuedAtMs": 1795815000000,
+   "playedAtMs": 1795815000000
+  },
+  {
+   "key": "https://www.scmp.com/opinion/asia-opinion/article/3375746/philippines-could-be-key-player-us-china-ai-competition",
+   "firstQueuedAtMs": 1795815000000,
+   "playedAtMs": 1795815000000
   }
  ]
 }
