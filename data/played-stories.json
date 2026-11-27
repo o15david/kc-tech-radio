@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T03:20:14.151Z",
- "lastSyncBucket": 997637,
+ "updatedAt": "2026-11-27T03:35:19.644Z",
+ "lastSyncBucket": 997638,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -39029,6 +39029,56 @@
    "key": "https://www.aljazeera.com/?t=1795733660",
    "firstQueuedAtMs": 1795746600000,
    "playedAtMs": 1795746600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/ice-rinks-roof-collapses-during-winter-storm/",
+   "firstQueuedAtMs": 1795748400000,
+   "playedAtMs": 1795748400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/27/ozarks-performers-face-tough-choices-after-thanksgiving-parade-postponed/",
+   "firstQueuedAtMs": 1795748400000,
+   "playedAtMs": 1795748400000
+  },
+  {
+   "key": "https://www.scmp.com/presented/news/hong-kong/topics/ciexpo-showcases-hk-tech-hub/article/3375835/ciexpo-2026-reinforces-hong-kongs-role-global-construction-innovation-hub",
+   "firstQueuedAtMs": 1795748400000,
+   "playedAtMs": 1795748400000
+  },
+  {
+   "key": "https://insideclimatenews.org/?p=116752",
+   "firstQueuedAtMs": 1795748400000,
+   "playedAtMs": 1795748400000
+  },
+  {
+   "key": "https://support.google.com/googleplay/android-developer/answer/17594752?hl=en",
+   "firstQueuedAtMs": 1795748400000,
+   "playedAtMs": 1795748400000
+  },
+  {
+   "key": "https://hackaday.com/?p=1430564",
+   "firstQueuedAtMs": 1795748400000,
+   "playedAtMs": 1795748400000
+  },
+  {
+   "key": "https://www.dw.com/en/new-zealand-election-ends-in-hung-parliament/a-80070240?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795748400000,
+   "playedAtMs": 1795748400000
+  },
+  {
+   "key": "74544791",
+   "firstQueuedAtMs": 1795748400000,
+   "playedAtMs": 1795748400000
+  },
+  {
+   "key": "https://news.sky.com/story/amazon-staff-to-strike-and-rally-on-busiest-weekend-of-the-year-13617042",
+   "firstQueuedAtMs": 1795748400000,
+   "playedAtMs": 1795748400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795748261",
+   "firstQueuedAtMs": 1795748400000,
+   "playedAtMs": 1795748400000
   }
  ]
 }
