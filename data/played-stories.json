@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T15:20:23.718Z",
- "lastSyncBucket": 997661,
+ "updatedAt": "2026-11-27T15:35:44.239Z",
+ "lastSyncBucket": 997662,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -42334,6 +42334,191 @@
    "key": "https://www.aljazeera.com/?t=1795775846",
    "firstQueuedAtMs": 1795789800000,
    "playedAtMs": 1795789800000
+  },
+  {
+   "key": "https://www.rockchalktalk.com/?p=34608",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/kansas-city-man-injured-after-subaru-overturns-i-29-crash/",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1043272",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "news714993181",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "74549492",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "news714986669",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386847",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/orrick-teen-injured-after-car-leaves-missouri-highway-thanksgiving/",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "https://electrek.co/?p=496400",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "news713077358",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/27/ice-rinks-roof-collapses-during-winter-storm/",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "news714986431",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "5RWHeX4htbcPSXKkigHXyh",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/man-killed-thanksgiving-after-stopping-help-another-driver-interstate-police-say/",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "83959f48-c333-47e4-b4a4-672968f83c98",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "108560068",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386901",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "WP-MKTW-0005370707",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "https://bouncemarket.minhanhday.com/",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "WP-MKTW-0005371689",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "https://www.nasa.gov/?post_type=image-article&p=1067991",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/nation/heavy-rain-winds-down-as-power-remains-out-for-hundreds-of-thousands-on-the-east-coast",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "TP61OKR24U8W00",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/fop-lodge-50-launches-memorial-fundraiser-fallen-raytown-officer-joshua-kerr/",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "https://hackaday.com/?p=1430378",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "https://fortune.com/?p=4648918&showAdminBar=true",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/small-business-saturday-2026-rcna611554",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "https://fortune.com/?p=4649160&showAdminBar=true",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "news714995251",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=164207",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "https://www.nbcnews.com/news/us-news/lottery-winner-arrested-ice-days-claiming-1-million-prize-rcna611555",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/26/1-killed-6-others-shot-during-pajama-party-early-thanksgiving-sheriff-says/",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "news714985179",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "news714992283",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
+  },
+  {
+   "key": "news714984811",
+   "firstQueuedAtMs": 1795791600000,
+   "playedAtMs": 1795791600000
   }
  ]
 }
