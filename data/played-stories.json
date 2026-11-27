@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T02:50:09.350Z",
- "lastSyncBucket": 997636,
+ "updatedAt": "2026-11-27T03:05:33.521Z",
+ "lastSyncBucket": 997637,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -38994,6 +38994,41 @@
    "key": "https://www.aljazeera.com/?t=1795743550",
    "firstQueuedAtMs": 1795744800000,
    "playedAtMs": 1795744800000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=230513",
+   "firstQueuedAtMs": 1795746600000,
+   "playedAtMs": 1795746600000
+  },
+  {
+   "key": "16fc53f2-eed4-42c0-80db-3e8af8bd77c1",
+   "firstQueuedAtMs": 1795746600000,
+   "playedAtMs": 1795746600000
+  },
+  {
+   "key": "TP1SKCKK3NY900",
+   "firstQueuedAtMs": 1795746600000,
+   "playedAtMs": 1795746600000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/politics/article/3375975/will-taiwans-referendum-bring-back-nuclear-power-chips-and-ai-strain-grid",
+   "firstQueuedAtMs": 1795746600000,
+   "playedAtMs": 1795746600000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/transport/article/3375974/ferry-runs-floating-dock-waters-hong-kong-oil-depot-24-injured",
+   "firstQueuedAtMs": 1795746600000,
+   "playedAtMs": 1795746600000
+  },
+  {
+   "key": "https://www.scmp.com/news/people-culture/trending-china/article/3375972/chinese-job-applicant-claims-hr-staffer-cancelled-interview-after-she-refused-buy-drink",
+   "firstQueuedAtMs": 1795746600000,
+   "playedAtMs": 1795746600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795733660",
+   "firstQueuedAtMs": 1795746600000,
+   "playedAtMs": 1795746600000
   }
  ]
 }
