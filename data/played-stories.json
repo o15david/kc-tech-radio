@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T00:20:20.718Z",
- "lastSyncBucket": 997631,
+ "updatedAt": "2026-11-27T00:35:11.283Z",
+ "lastSyncBucket": 997632,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -38634,6 +38634,46 @@
    "key": "https://www.scmp.com/news/world/europe/article/3375966/eu-leaders-unable-agree-budget-after-over-12-hours-talks-zero-results",
    "firstQueuedAtMs": 1795735800000,
    "playedAtMs": 1795735800000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386762",
+   "firstQueuedAtMs": 1795737600000,
+   "playedAtMs": 1795737600000
+  },
+  {
+   "key": "74544248",
+   "firstQueuedAtMs": 1795737600000,
+   "playedAtMs": 1795737600000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/new-book-focuses-on-how-to-get-through-lifes-hardest-days",
+   "firstQueuedAtMs": 1795737600000,
+   "playedAtMs": 1795737600000
+  },
+  {
+   "key": "108559711",
+   "firstQueuedAtMs": 1795737600000,
+   "playedAtMs": 1795737600000
+  },
+  {
+   "key": "https://hackaday.com/?p=1430323",
+   "firstQueuedAtMs": 1795737600000,
+   "playedAtMs": 1795737600000
+  },
+  {
+   "key": "https://www.theguardian.com/australia-news/2026/nov/27/qantas-plane-aborted-landing-sydney-airport-mental-model-investigation",
+   "firstQueuedAtMs": 1795737600000,
+   "playedAtMs": 1795737600000
+  },
+  {
+   "key": "https://www.scmp.com/week-asia/people/article/3375922/angry-nerds-campaign-exposing-red-flags-philippines-2027-budget",
+   "firstQueuedAtMs": 1795737600000,
+   "playedAtMs": 1795737600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795730949",
+   "firstQueuedAtMs": 1795737600000,
+   "playedAtMs": 1795737600000
   }
  ]
 }
