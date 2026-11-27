@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T07:50:05.516Z",
- "lastSyncBucket": 997646,
+ "updatedAt": "2026-11-27T08:05:18.481Z",
+ "lastSyncBucket": 997647,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -39684,6 +39684,71 @@
    "key": "https://www.theguardian.com/environment/2026/nov/27/wa-police-investigating-after-iconic-500-year-old-king-jarrah-tree-chainsawed-in-national-park",
    "firstQueuedAtMs": 1795762800000,
    "playedAtMs": 1795762800000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=225698",
+   "firstQueuedAtMs": 1795764600000,
+   "playedAtMs": 1795764600000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75850",
+   "firstQueuedAtMs": 1795764600000,
+   "playedAtMs": 1795764600000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75846",
+   "firstQueuedAtMs": 1795764600000,
+   "playedAtMs": 1795764600000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312283",
+   "firstQueuedAtMs": 1795764600000,
+   "playedAtMs": 1795764600000
+  },
+  {
+   "key": "https://www.buynothingday.co.uk/",
+   "firstQueuedAtMs": 1795764600000,
+   "playedAtMs": 1795764600000
+  },
+  {
+   "key": "tag:daringfireball.net,2026:/linked//6.43781",
+   "firstQueuedAtMs": 1795764600000,
+   "playedAtMs": 1795764600000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3376025/hong-kong-police-handle-30-cybersecurity-cases-past-month-including-ai-assisted-hack",
+   "firstQueuedAtMs": 1795764600000,
+   "playedAtMs": 1795764600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795764647",
+   "firstQueuedAtMs": 1795764600000,
+   "playedAtMs": 1795764600000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3376017/hong-kongs-top-court-quashes-flag-desecration-conviction-autistic-man",
+   "firstQueuedAtMs": 1795764600000,
+   "playedAtMs": 1795764600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795758037",
+   "firstQueuedAtMs": 1795764600000,
+   "playedAtMs": 1795764600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795756164",
+   "firstQueuedAtMs": 1795764600000,
+   "playedAtMs": 1795764600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795525231",
+   "firstQueuedAtMs": 1795764600000,
+   "playedAtMs": 1795764600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795688996",
+   "firstQueuedAtMs": 1795764600000,
+   "playedAtMs": 1795764600000
   }
  ]
 }
