@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T16:50:14.022Z",
- "lastSyncBucket": 997664,
+ "updatedAt": "2026-11-27T17:05:19.297Z",
+ "lastSyncBucket": 997665,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -42979,6 +42979,166 @@
    "key": "https://www.bbc.co.uk/news/articles/ck053e1d3ly1o#1",
    "firstQueuedAtMs": 1795795200000,
    "playedAtMs": 1795795200000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/217810/chiefs-week-11-snap-count-analysis-hunter-nourzad-emerges-up-front",
+   "firstQueuedAtMs": 1795797000000,
+   "playedAtMs": 1795797000000
+  },
+  {
+   "key": "https://bridgemi.com/?p=84412",
+   "firstQueuedAtMs": 1795797000000,
+   "playedAtMs": 1795797000000
+  },
+  {
+   "key": "u6pXPnTWMD5KS72pSF4Gnn",
+   "firstQueuedAtMs": 1795797000000,
+   "playedAtMs": 1795797000000
+  },
+  {
+   "key": "https://nautil.us/?p=1287089",
+   "firstQueuedAtMs": 1795797000000,
+   "playedAtMs": 1795797000000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43363",
+   "firstQueuedAtMs": 1795797000000,
+   "playedAtMs": 1795797000000
+  },
+  {
+   "key": "https://www.engadget.com/2329586/hackers-reportedly-infiltrated-the-air-force-cloud-systems/",
+   "firstQueuedAtMs": 1795797000000,
+   "playedAtMs": 1795797000000
+  },
+  {
+   "key": "https://www.engadget.com/2329581/costco-electronics-deep-discounts-black-friday-2026/",
+   "firstQueuedAtMs": 1795797000000,
+   "playedAtMs": 1795797000000
+  },
+  {
+   "key": "news714989972",
+   "firstQueuedAtMs": 1795797000000,
+   "playedAtMs": 1795797000000
+  },
+  {
+   "key": "https://lobste.rs/s/hizg2w",
+   "firstQueuedAtMs": 1795797000000,
+   "playedAtMs": 1795797000000
+  },
+  {
+   "key": "news714995282",
+   "firstQueuedAtMs": 1795797000000,
+   "playedAtMs": 1795797000000
+  },
+  {
+   "key": "https://greatlakesecho.org/?p=5038872",
+   "firstQueuedAtMs": 1795797000000,
+   "playedAtMs": 1795797000000
+  },
+  {
+   "key": "https://hackaday.com/?p=1430486",
+   "firstQueuedAtMs": 1795797000000,
+   "playedAtMs": 1795797000000
+  },
+  {
+   "key": "https://thehill.com/?p=6243525",
+   "firstQueuedAtMs": 1795797000000,
+   "playedAtMs": 1795797000000
+  },
+  {
+   "key": "https://www.theverge.com/1043935/here-are-the-apple-deals-actually-worth-picking-up-ahead-of-black-friday",
+   "firstQueuedAtMs": 1795797000000,
+   "playedAtMs": 1795797000000
+  },
+  {
+   "key": "eYWA6JnwfjzishtvkTmq4e",
+   "firstQueuedAtMs": 1795797000000,
+   "playedAtMs": 1795797000000
+  },
+  {
+   "key": "https://www.fastcompany.com/91647430/travis-jason-kelces-garage-beer-lands-20-million-craft-brewers-pull-back",
+   "firstQueuedAtMs": 1795797000000,
+   "playedAtMs": 1795797000000
+  },
+  {
+   "key": "https://www.nbcnews.com/news/us-news/black-friday-shoppers-head-brick-mortar-stores-us-rcna611564",
+   "firstQueuedAtMs": 1795797000000,
+   "playedAtMs": 1795797000000
+  },
+  {
+   "key": "https://blog.pimalaya.org/pimalaya-goes-stable/",
+   "firstQueuedAtMs": 1795797000000,
+   "playedAtMs": 1795797000000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/politics/republicans-rethink-tariffs-giving-democrats-an-opening-to-challenge-trump",
+   "firstQueuedAtMs": 1795797000000,
+   "playedAtMs": 1795797000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html",
+   "firstQueuedAtMs": 1795797000000,
+   "playedAtMs": 1795797000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795798061",
+   "firstQueuedAtMs": 1795797000000,
+   "playedAtMs": 1795797000000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o#1",
+   "firstQueuedAtMs": 1795797000000,
+   "playedAtMs": 1795797000000
+  },
+  {
+   "key": "https://www.dw.com/en/france-seeks-german-man-in-channel-migrant-boat-probe/a-80078069?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795797000000,
+   "playedAtMs": 1795797000000
+  },
+  {
+   "key": "https://www.dw.com/en/divisions-deepen-between-eu-member-states-after-tense-budget-summit/a-80078599?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795797000000,
+   "playedAtMs": 1795797000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795795599",
+   "firstQueuedAtMs": 1795797000000,
+   "playedAtMs": 1795797000000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/politics/article/3376100/more-57000-granted-uk-permanent-residence-bno-route-year-september",
+   "firstQueuedAtMs": 1795797000000,
+   "playedAtMs": 1795797000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795794205",
+   "firstQueuedAtMs": 1795797000000,
+   "playedAtMs": 1795797000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795795048",
+   "firstQueuedAtMs": 1795797000000,
+   "playedAtMs": 1795797000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795792639",
+   "firstQueuedAtMs": 1795797000000,
+   "playedAtMs": 1795797000000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo#0",
+   "firstQueuedAtMs": 1795797000000,
+   "playedAtMs": 1795797000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795789591",
+   "firstQueuedAtMs": 1795797000000,
+   "playedAtMs": 1795797000000
+  },
+  {
+   "key": "9.7436261",
+   "firstQueuedAtMs": 1795797000000,
+   "playedAtMs": 1795797000000
   }
  ]
 }
