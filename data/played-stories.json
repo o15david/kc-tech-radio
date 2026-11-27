@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T17:50:20.870Z",
- "lastSyncBucket": 997666,
+ "updatedAt": "2026-11-27T18:05:18.025Z",
+ "lastSyncBucket": 997667,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -43304,6 +43304,166 @@
    "key": "9.7438374",
    "firstQueuedAtMs": 1795798800000,
    "playedAtMs": 1795798800000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4457002",
+   "firstQueuedAtMs": 1795800600000,
+   "playedAtMs": 1795800600000
+  },
+  {
+   "key": "https://bridgemi.com/?p=84091",
+   "firstQueuedAtMs": 1795800600000,
+   "playedAtMs": 1795800600000
+  },
+  {
+   "key": "74551066",
+   "firstQueuedAtMs": 1795800600000,
+   "playedAtMs": 1795800600000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=217762",
+   "firstQueuedAtMs": 1795800600000,
+   "playedAtMs": 1795800600000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315941",
+   "firstQueuedAtMs": 1795800600000,
+   "playedAtMs": 1795800600000
+  },
+  {
+   "key": "9a1ae5fe-a0e7-4e58-b95b-bb6ae12e8054",
+   "firstQueuedAtMs": 1795800600000,
+   "playedAtMs": 1795800600000
+  },
+  {
+   "key": "https://thesoapbox.email/archive/3",
+   "firstQueuedAtMs": 1795800600000,
+   "playedAtMs": 1795800600000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315724",
+   "firstQueuedAtMs": 1795800600000,
+   "playedAtMs": 1795800600000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4456970",
+   "firstQueuedAtMs": 1795800600000,
+   "playedAtMs": 1795800600000
+  },
+  {
+   "key": "news714991699",
+   "firstQueuedAtMs": 1795800600000,
+   "playedAtMs": 1795800600000
+  },
+  {
+   "key": "news714995461",
+   "firstQueuedAtMs": 1795800600000,
+   "playedAtMs": 1795800600000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315961",
+   "firstQueuedAtMs": 1795800600000,
+   "playedAtMs": 1795800600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/hackers-breach-us-air-force-computing-platform-reports-say/",
+   "firstQueuedAtMs": 1795800600000,
+   "playedAtMs": 1795800600000
+  },
+  {
+   "key": "TP68OXKIP3JC00",
+   "firstQueuedAtMs": 1795800600000,
+   "playedAtMs": 1795800600000
+  },
+  {
+   "key": "https://www.fastcompany.com/91649467/how-sony-giving-dog-robot-aibo-second-life-hospitals",
+   "firstQueuedAtMs": 1795800600000,
+   "playedAtMs": 1795800600000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1039645",
+   "firstQueuedAtMs": 1795800600000,
+   "playedAtMs": 1795800600000
+  },
+  {
+   "key": "https://thehill.com/?p=6240998",
+   "firstQueuedAtMs": 1795800600000,
+   "playedAtMs": 1795800600000
+  },
+  {
+   "key": "https://www.wsj.com/world/europe/french-economy-slips-into-recession-as-exports-sag-47e934c5",
+   "firstQueuedAtMs": 1795800600000,
+   "playedAtMs": 1795800600000
+  },
+  {
+   "key": "https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far/",
+   "firstQueuedAtMs": 1795800600000,
+   "playedAtMs": 1795800600000
+  },
+  {
+   "key": "https://lobste.rs/s/fin7at",
+   "firstQueuedAtMs": 1795800600000,
+   "playedAtMs": 1795800600000
+  },
+  {
+   "key": "https://www.kshb.com/politics/guns/millions-of-americans-own-ar-15s-supreme-court-weighs-whether-they-can-be-banned",
+   "firstQueuedAtMs": 1795800600000,
+   "playedAtMs": 1795800600000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03900-8",
+   "firstQueuedAtMs": 1795800600000,
+   "playedAtMs": 1795800600000
+  },
+  {
+   "key": "https://www.nature.com/articles/s41586-026-11411-9",
+   "firstQueuedAtMs": 1795800600000,
+   "playedAtMs": 1795800600000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03754-0",
+   "firstQueuedAtMs": 1795800600000,
+   "playedAtMs": 1795800600000
+  },
+  {
+   "key": "https://thehill.com/?p=6245428",
+   "firstQueuedAtMs": 1795800600000,
+   "playedAtMs": 1795800600000
+  },
+  {
+   "key": "74550948",
+   "firstQueuedAtMs": 1795800600000,
+   "playedAtMs": 1795800600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/27/us/supreme-court-rulings-midterms-voting.html",
+   "firstQueuedAtMs": 1795800600000,
+   "playedAtMs": 1795800600000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4456929",
+   "firstQueuedAtMs": 1795800600000,
+   "playedAtMs": 1795800600000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/217818/chiefs-fans-play-the-blame-game-after-fourth-quarter-collapse-in-denver",
+   "firstQueuedAtMs": 1795800600000,
+   "playedAtMs": 1795800600000
+  },
+  {
+   "key": "9.7438377",
+   "firstQueuedAtMs": 1795800600000,
+   "playedAtMs": 1795800600000
+  },
+  {
+   "key": "https://www.dw.com/en/ai-goes-from-math-dunce-to-genius/a-80067691?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795800600000,
+   "playedAtMs": 1795800600000
+  },
+  {
+   "key": "https://www.dw.com/en/albania-s-youth-are-protesting-no-longer-leaving-the-country/a-80068939?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795800600000,
+   "playedAtMs": 1795800600000
   }
  ]
 }
