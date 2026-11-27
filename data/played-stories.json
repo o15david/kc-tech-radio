@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T06:50:26.333Z",
- "lastSyncBucket": 997644,
+ "updatedAt": "2026-11-27T07:05:02.898Z",
+ "lastSyncBucket": 997645,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -39539,6 +39539,81 @@
    "key": "https://www.aljazeera.com/?t=1795757722",
    "firstQueuedAtMs": 1795759200000,
    "playedAtMs": 1795759200000
+  },
+  {
+   "key": "https://www.kshb.com/sports/football/chiefs/special-teams-meltdown-costs-chiefs-in-sloppy-showdown-at-buffalo",
+   "firstQueuedAtMs": 1795761000000,
+   "playedAtMs": 1795761000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/27/nyregion/national-weather-service-thanksgiving-storm.html",
+   "firstQueuedAtMs": 1795761000000,
+   "playedAtMs": 1795761000000
+  },
+  {
+   "key": "6b04870901c220242ab6816f",
+   "firstQueuedAtMs": 1795761000000,
+   "playedAtMs": 1795761000000
+  },
+  {
+   "key": "https://www.infoq.com/news/2026/11/mozilla-mistral-ai-smart-window/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795761000000,
+   "playedAtMs": 1795761000000
+  },
+  {
+   "key": "TP5FBEVTTCZW00",
+   "firstQueuedAtMs": 1795761000000,
+   "playedAtMs": 1795761000000
+  },
+  {
+   "key": "https://construct22.com/",
+   "firstQueuedAtMs": 1795761000000,
+   "playedAtMs": 1795761000000
+  },
+  {
+   "key": "108559937",
+   "firstQueuedAtMs": 1795761000000,
+   "playedAtMs": 1795761000000
+  },
+  {
+   "key": "https://www.inc.com/gracejackson/91432361/91432361",
+   "firstQueuedAtMs": 1795761000000,
+   "playedAtMs": 1795761000000
+  },
+  {
+   "key": "672d41fcd6406683ec9bfd2e",
+   "firstQueuedAtMs": 1795761000000,
+   "playedAtMs": 1795761000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795759367",
+   "firstQueuedAtMs": 1795761000000,
+   "playedAtMs": 1795761000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1792571399",
+   "firstQueuedAtMs": 1795761000000,
+   "playedAtMs": 1795761000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/trump-addresses-death-detective-killed-thanksgiving-day-wrong-way-crash/",
+   "firstQueuedAtMs": 1795761000000,
+   "playedAtMs": 1795761000000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo#2",
+   "firstQueuedAtMs": 1795761000000,
+   "playedAtMs": 1795761000000
+  },
+  {
+   "key": "9.7436280",
+   "firstQueuedAtMs": 1795761000000,
+   "playedAtMs": 1795761000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/overturned-catch-call-leaves-chiefs-puzzled-loss-bills/",
+   "firstQueuedAtMs": 1795761000000,
+   "playedAtMs": 1795761000000
   }
  ]
 }
