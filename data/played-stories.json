@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T13:20:24.786Z",
- "lastSyncBucket": 997657,
- "lastSyncCarryInSeconds": 0,
+ "updatedAt": "2026-11-27T13:35:19.943Z",
+ "lastSyncBucket": 997658,
+ "lastSyncCarryInSeconds": 9,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -41424,6 +41424,246 @@
    "key": "https://link.mail.beehiiv.com/ss/c/u001.dSnm3kaGd0BkNqLYPjeMf_DKThdpaPaB9_aROy42m3-QkrpXFAupeHADtSyezHztzSRqfdI5KA69nA7xk0zTSXEmevCz9Jn_3XGqFo9_wa9heqdjYA7koSefo0645oHtZUTxAXvsPPxgCxH7dLfyFNWRM_n3EOBxTFYfRTqrxFiTsOtjpRVKGkDqWvIYH1XmNMPiZTDNxRH99KhR0LdmbcoyeShpVxSC64J2ePcNkWM/4w3/fMHbPf6qRR-cbVdhjqPvUw/h27/h001.wn-qImTZIpgJj4K7Mo8pqBk4IDOepqDRw4k4-RM21fc",
    "firstQueuedAtMs": 1795782600000,
    "playedAtMs": 1795782600000
+  },
+  {
+   "key": "https://www.kshb.com/politics/immigration/ice-arrests-man-days-after-he-wins-2-million-massachusetts-lottery-prize",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/27/ozarks-life-new-video-game-set-downtown-springfield/",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://abcnews.com/Business/wireStory/republicans-rethink-tariffs-giving-democrats-opening-challenge-trump-138479009",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1041299",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "WP-MKTW-0005367166",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://lobste.rs/s/locqp9",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://abcnews.com/video/138479018/",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "108559018",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=315861",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "108557354",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://fortune.com/?p=4652018&showAdminBar=true",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/217789/chiefs-news-happy-thanksgiving-game-day",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "69244d81a92886eb39735d84",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://thehill.com/?p=6240695",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://lobste.rs/s/tgihkm",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "108558323",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "108559837",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://www.fastcompany.com/91647966/the-simplest-well-being-strategy-leaders-overlook",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/black-friday-tech-deals-2026-rcna610952",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://fortune.com/?p=4647283",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://www.royalsreview.com/?p=108338",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://www.inc.com/netta-jenkins/jensen-huang-got-a-heros-welcome-while-kristin-cabot-faced-backlash-why/91442805",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://www.inc.com/liyana-illyas/patagonia-ceo-says-costco-does-1-thing-most-companies-wont/91442802",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://www.inc.com/kimanzi-constable/ashton-kutcher-made-an-early-bet-on-anthropic-his-investment-is-now-worth-7-billion/91441970",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "6ad68391a81e4c7e1674b6fe",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://www.kimi.ai/news/kimi-for-science-program",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://link.mail.beehiiv.com/ss/c/u001.dSnm3kaGd0BkNqLYPjeMf0gyeM8tESkQ4qmvKtcxeZ9Sf8FWzyiEWE10HHsJrV5cblVac8sPVuUw3gneLIw3rtqW6_4IEyEyGCvBdTH6tfKtx4hRcRZzrew8RfHWk9lJYhE7qhWf23ISlzVNOGbSJmR5yh_mXMfAhnof4fT1lHY4C47Q-dyQlIJWnzkuENRth4B7qrq8ISvYmlKYNVIyR__nZVftgBw4l_eqRe_6GSU/4w3/fMHbPf6qRR-cbVdhjqPvUw/h32/h001.2hn0w2y_IlP5IMCvv1xL5bOqRjBOlMewXNwd2hmuQsI",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://link.mail.beehiiv.com/ss/c/u001.Q334NVcZU4O6L6VKRz8ijB1TBWraWSjSa1EgItxTfJGLIvJAG36TdoN_RcL5Qcb4l-TTKJ7kJ40VnFns1HNbTrS7dbLgPHI8dLrwXl8iOfb2ljYNEeE0q2TWET6YxEhgc6wA30v1AH50GDP_JrWdpc5WcWA2_dRv1CY67RTPfSxUKW8XcuL0hJIMeJbkSboyqqS-2SIq1h809N6UN9Thoot76tcLaMfBIkR0E-CiT-Y/4w3/fMHbPf6qRR-cbVdhjqPvUw/h39/h001.pnHx_NuQqY6QfC1dwkNky6t4oGd2-Iq3pPL6P6y1pv8",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://link.mail.beehiiv.com/ss/c/u001.KT4rQsO6sHS_v2VASG2xupywTByilB7vBf1gbeXMnd8Hof3Ca4zliYIk5t4pKnVtdKtfjcRsdlABoWM1f2xRqbFtEoijeNFSOo3EBbFrZB1XKqphW1kM9RnumyVI2_CuOmz8zLiYB5dWao-VuirZlms-6Wdbl7cE3LjWXCKHxYXplJBgGX6sx4xUGitJWwfw66Pp4Gxb-zEMZr3IpF8T5nV617hoW3slQbpiBPrV34yxfs5DiRCtN82PZxYbr1KZ4wtXDaR8zkw2N79APAISxJvO5F_Gnli8b_ki8Ee2YiTG8_cvMYHxIlPJWzkYho5s8V_oOgUCmA2Wut8tgeJTZIGi1i8Y-5UuDDQ-qHH3warabPq_OkXGTEhUAKkZSs53e3nANtlHWZCZDTj2jSkhE2_BTWwHUSjm7tPxjXIdtgjAJYfG4tambmKTPTg3g33eNGeMpA3cchxls8Flz7qD6PrmNL3VUmMN9Wij-hsfvCqCiNLf6Fhf_TZaTT4xl3HrhkOk3aN5YgMCC5ceJmBcKD9QtuHEmouZJLd8n8GHMrq8bCjVM5dJ7hmfHWNUPI5FJw5QMNYcDvWSrxyk69P-Sz94kAmWyejKVkBbwSDRvmYU-i2DXbqqxkK3j4Pr1r_PXLrjEbOguSThe7HM3m_SrsCateQSVJYyNBhepsLbHaHDF5Ra32nndsZc9mNo7F-vToeKM_cSWiJp5Tyx37Yy2QB9gQbRN2Uc9WzmK3VecfLy9hdqT8VJYaLBjhV5cieIyDqK9fYqOqvmk-GbaKfOHiUEahmiuLW4e88gHiyb0OVgru3jh1ZUXhGO2OIWWGmU0pBmU-IwqWwwuhKyb_LSRrx-jB1yK_iasJegIffYRCYtQ9djEh8Sv5CgbVo1R2fipmUpbgYfNOhs0zZXXnEHeh_mLKNCzxdzTNU9zF82ahtQX6qt3hO6n0H8hJipb3X71GHdS4Wyo15W-6yh5C-uSqbmCfwsf-ornuiXMG6LZWeEenIhOEZpSnw13TZPmGpMzA0YOP-EoCUuPa6zambPrg/4w3/fMHbPf6qRR-cbVdhjqPvUw/h45/h001.zyyf6iucywSGdrurfaH2pIR0LvhCJzUaZIbwfKZNH5Q",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "682755a99198909d2f7f6652",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03885-4",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03801-w",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/science/article/3376081/china-test-fires-worlds-first-metal-powder-fuelled-afterburner-fighter-jets",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/26/pounding-waves-tear-apart-fishing-pier-virginia-beach/",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://www.kshb.com/politics/congress/bipartisan-permitting-bill-sparks-fight-over-costs-environmental-protections",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795783092",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://capitolnewsillinois.com/?p=135138",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://www.dw.com/en/on-the-arrest-of-informer-tv-owner-and-editor-in-chief-dragan-j-vucicevic-has-the-reckoning-with-serbia-s-pro-vucic-media-machine-begun/a-80074650?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://nebraskaexaminer.com/?p=46048",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://www.scmp.com/news/world/europe/article/3376094/belgium-orders-google-stop-work-data-centre-lacking-proper-permits",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://www.dw.com/en/duterte-s-icc-trial-what-is-at-stake-for-the-philippines/a-80075657?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795782853",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795785095",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795782337",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://www.dw.com/en/risks-of-child-marriage-in-iran-complicated-by-war/a-80075473?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795776012",
+   "firstQueuedAtMs": 1795784400000,
+   "playedAtMs": 1795784400000
   }
  ]
 }
