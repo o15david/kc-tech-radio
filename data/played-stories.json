@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T22:26:13.419Z",
- "lastSyncBucket": 997675,
+ "updatedAt": "2026-11-27T22:35:26.941Z",
+ "lastSyncBucket": 997676,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -44514,6 +44514,146 @@
    "key": "https://www.scmp.com/opinion/asia-opinion/article/3375746/philippines-could-be-key-player-us-china-ai-competition",
    "firstQueuedAtMs": 1795815000000,
    "playedAtMs": 1795815000000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1042705",
+   "firstQueuedAtMs": 1795816800000,
+   "playedAtMs": 1795816800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/hes-town-santa-claus-arrives-crown-center-holiday-season/",
+   "firstQueuedAtMs": 1795816800000,
+   "playedAtMs": 1795816800000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/27/man-killed-thanksgiving-after-stopping-help-another-driver-interstate-police-say/",
+   "firstQueuedAtMs": 1795816800000,
+   "playedAtMs": 1795816800000
+  },
+  {
+   "key": "https://www.nbcnews.com/news/us-news/zohran-mamdani-surgery-torn-achilles-successful-ll-make-full-recovery-rcna611501",
+   "firstQueuedAtMs": 1795816800000,
+   "playedAtMs": 1795816800000
+  },
+  {
+   "key": "news715005121",
+   "firstQueuedAtMs": 1795816800000,
+   "playedAtMs": 1795816800000
+  },
+  {
+   "key": "news714999759",
+   "firstQueuedAtMs": 1795816800000,
+   "playedAtMs": 1795816800000
+  },
+  {
+   "key": "https://frantic.im/git/",
+   "firstQueuedAtMs": 1795816800000,
+   "playedAtMs": 1795816800000
+  },
+  {
+   "key": "https://www.schneier.com/?p=72975",
+   "firstQueuedAtMs": 1795816800000,
+   "playedAtMs": 1795816800000
+  },
+  {
+   "key": "https://lobste.rs/s/cz9ecz",
+   "firstQueuedAtMs": 1795816800000,
+   "playedAtMs": 1795816800000
+  },
+  {
+   "key": "https://www.engadget.com/2329851/la-school-district-blocks-google-ai-search-features/",
+   "firstQueuedAtMs": 1795816800000,
+   "playedAtMs": 1795816800000
+  },
+  {
+   "key": "news715004100",
+   "firstQueuedAtMs": 1795816800000,
+   "playedAtMs": 1795816800000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/nation/protesters-take-to-the-streets-in-puerto-ricos-capital-as-standard-of-living-deteriorates",
+   "firstQueuedAtMs": 1795816800000,
+   "playedAtMs": 1795816800000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386923",
+   "firstQueuedAtMs": 1795816800000,
+   "playedAtMs": 1795816800000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/217828/7-winners-and-2-losers-from-the-chiefs-win-over-the-cardinals",
+   "firstQueuedAtMs": 1795816800000,
+   "playedAtMs": 1795816800000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1044612",
+   "firstQueuedAtMs": 1795816800000,
+   "playedAtMs": 1795816800000
+  },
+  {
+   "key": "https://progrium.github.io/9ux/",
+   "firstQueuedAtMs": 1795816800000,
+   "playedAtMs": 1795816800000
+  },
+  {
+   "key": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/",
+   "firstQueuedAtMs": 1795816800000,
+   "playedAtMs": 1795816800000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/",
+   "firstQueuedAtMs": 1795816800000,
+   "playedAtMs": 1795816800000
+  },
+  {
+   "key": "https://abcnews.com/video/138487748/",
+   "firstQueuedAtMs": 1795816800000,
+   "playedAtMs": 1795816800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/umkc-mens-soccer-prepares-host-vermont-round-16/",
+   "firstQueuedAtMs": 1795816800000,
+   "playedAtMs": 1795816800000
+  },
+  {
+   "key": "https://www.nbcnews.com/world/united-kingdom/princess-kate-wants-people-learn-cancer-journey-vulnerable-new-documen-rcna611259",
+   "firstQueuedAtMs": 1795816800000,
+   "playedAtMs": 1795816800000
+  },
+  {
+   "key": "https://thehill.com/?p=6243704",
+   "firstQueuedAtMs": 1795816800000,
+   "playedAtMs": 1795816800000
+  },
+  {
+   "key": "74552135",
+   "firstQueuedAtMs": 1795816800000,
+   "playedAtMs": 1795816800000
+  },
+  {
+   "key": "tdy_news_8a_hamamdjian_middleton_doc_261127",
+   "firstQueuedAtMs": 1795816800000,
+   "playedAtMs": 1795816800000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/diplomacy/article/3376105/colombian-congress-chiefs-rush-reassure-china-envoy-berates-lawmakers-taiwan",
+   "firstQueuedAtMs": 1795816800000,
+   "playedAtMs": 1795816800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo#0",
+   "firstQueuedAtMs": 1795816800000,
+   "playedAtMs": 1795816800000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/politics/article/3376027/taiwan-expanding-its-military-draft-will-those-troops-make-difference",
+   "firstQueuedAtMs": 1795816800000,
+   "playedAtMs": 1795816800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o#2",
+   "firstQueuedAtMs": 1795816800000,
+   "playedAtMs": 1795816800000
   }
  ]
 }
