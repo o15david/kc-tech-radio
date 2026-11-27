@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T01:50:18.846Z",
- "lastSyncBucket": 997634,
+ "updatedAt": "2026-11-27T02:05:30.804Z",
+ "lastSyncBucket": 997635,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -38879,6 +38879,76 @@
    "key": "https://www.aljazeera.com/?t=1795714819",
    "firstQueuedAtMs": 1795741200000,
    "playedAtMs": 1795741200000
+  },
+  {
+   "key": "74544501",
+   "firstQueuedAtMs": 1795743000000,
+   "playedAtMs": 1795743000000
+  },
+  {
+   "key": "https://thehill.com/?p=6245034",
+   "firstQueuedAtMs": 1795743000000,
+   "playedAtMs": 1795743000000
+  },
+  {
+   "key": "https://www.inc.com/lucia-auerbach/kentucky-distillers-filled-1-million-fewer-bourbon-barrels-last-year-2025/91442768",
+   "firstQueuedAtMs": 1795743000000,
+   "playedAtMs": 1795743000000
+  },
+  {
+   "key": "TNPOZNT96OSK00",
+   "firstQueuedAtMs": 1795743000000,
+   "playedAtMs": 1795743000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
+   "firstQueuedAtMs": 1795743000000,
+   "playedAtMs": 1795743000000
+  },
+  {
+   "key": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+   "firstQueuedAtMs": 1795743000000,
+   "playedAtMs": 1795743000000
+  },
+  {
+   "key": "https://www.c82.net/naturalists-library/",
+   "firstQueuedAtMs": 1795743000000,
+   "playedAtMs": 1795743000000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/c670278qk879o#0",
+   "firstQueuedAtMs": 1795743000000,
+   "playedAtMs": 1795743000000
+  },
+  {
+   "key": "https://www.scmp.com/news/world/united-states-canada/article/3375968/major-storm-batters-us-thanksgiving-holiday-disrupting-flights-and-power",
+   "firstQueuedAtMs": 1795743000000,
+   "playedAtMs": 1795743000000
+  },
+  {
+   "key": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results",
+   "firstQueuedAtMs": 1795743000000,
+   "playedAtMs": 1795743000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795742989",
+   "firstQueuedAtMs": 1795743000000,
+   "playedAtMs": 1795743000000
+  },
+  {
+   "key": "https://www.scmp.com/opinion/world-opinion/article/3375652/ai-changing-child-exploitation-our-response-must-change-too",
+   "firstQueuedAtMs": 1795743000000,
+   "playedAtMs": 1795743000000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/c9gklryvj24do#1",
+   "firstQueuedAtMs": 1795743000000,
+   "playedAtMs": 1795743000000
+  },
+  {
+   "key": "https://www.dw.com/en/at-odds-over-the-eu-budget-european-leaders-cut-summit-short/live-80056415?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795743000000,
+   "playedAtMs": 1795743000000
   }
  ]
 }
