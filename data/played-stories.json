@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T10:50:06.670Z",
- "lastSyncBucket": 997652,
+ "updatedAt": "2026-11-27T11:05:25.058Z",
+ "lastSyncBucket": 997653,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -40474,6 +40474,246 @@
    "key": "https://www.bbc.co.uk/news/videos/cq808d704m22o#2",
    "firstQueuedAtMs": 1795773600000,
    "playedAtMs": 1795773600000
+  },
+  {
+   "key": "74547426",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "6afe1f33dadd802701616bf8",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "WAFyBddT7Myh47GCAR4vcB",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "74547095",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "6UTPLWir9iqHpWx9hQx9yX",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=224673",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://sifted.eu/articles/welcome-to-venture-feudalism/",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "WP-MKTW-0005371313",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://sifted.eu/articles/europe-neolab-live-up-to-hype/",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "WP-MKTW-0005371406",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://www.technologyreview.com/?p=1149857",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75862",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312366",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75861",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "6afdcbfe9ae6df6360e828bc",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75863",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/27/consumer-spending-cheap-retail",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://fortune.com/?p=4651900&showAdminBar=true",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "WP-MKTW-0005371370",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "TP5PG1KGIFPQ00",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "WP-MKTW-0005371390",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://fortune.com/?p=4651374&showAdminBar=true",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/27/business/holiday-shopping-deals-spending.html",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1039190",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03849-8",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://www.nature.com/articles/d41586-026-03894-3",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/27/business/nvidia-jensen-huang-trump-markets.html",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/27/business/inflation-consumer-spending-trade-offs-holidays.html",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-parade-history-timeline.html",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/24/business/medicare-hospice-caps-patients-lose-care.html",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/upshot/gen-z-elder-care.html",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "d_ov_feature_california_farmer_261029",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://www.scmp.com/presented/news/hong-kong/topics/50-years-construction-industry-training/article/3375854/tools-change-spirit-does-not-50-years-hong-kong-construction-industry-training",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://www.scmp.com/news/asia/southeast-asia/article/3376071/philippines-sara-duterte-says-she-does-not-expect-fair-icc-trial-her-father",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://www.theguardian.com/world/2026/nov/27/for-whom-the-bells-troll-french-town-divided-over-churchs-night-time-chimes",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo#1",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795769247",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o#0",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/crkgvjy7q83wo#1",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po#0",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cw4gnm3m9deno#1",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o#0",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/ck053e1d3ly1o#0",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/c58j4pw9xjrlo#1",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/c670278qk879o#1",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o#1",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo#1",
+   "firstQueuedAtMs": 1795775400000,
+   "playedAtMs": 1795775400000
   }
  ]
 }
