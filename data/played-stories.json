@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T19:50:22.781Z",
- "lastSyncBucket": 997670,
+ "updatedAt": "2026-11-27T20:05:20.891Z",
+ "lastSyncBucket": 997671,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -43909,6 +43909,111 @@
    "key": "https://iowacapitaldispatch.com/?p=61518",
    "firstQueuedAtMs": 1795806000000,
    "playedAtMs": 1795806000000
+  },
+  {
+   "key": "74551648",
+   "firstQueuedAtMs": 1795807800000,
+   "playedAtMs": 1795807800000
+  },
+  {
+   "key": "https://kansasreflector.com/?post_type=republished&p=64236",
+   "firstQueuedAtMs": 1795807800000,
+   "playedAtMs": 1795807800000
+  },
+  {
+   "key": "https://thehill.com/?p=6245597/",
+   "firstQueuedAtMs": 1795807800000,
+   "playedAtMs": 1795807800000
+  },
+  {
+   "key": "https://www.zmescience.com/?p=221258",
+   "firstQueuedAtMs": 1795807800000,
+   "playedAtMs": 1795807800000
+  },
+  {
+   "key": "https://www.engadget.com/2329748/restricted-nvidia-chips-were-installed-at-a-chinese-data-center-linked-to-alice-huang/",
+   "firstQueuedAtMs": 1795807800000,
+   "playedAtMs": 1795807800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/sheriff-reveals-countys-first-triple-murder-crime-scene-is-his-former-home/",
+   "firstQueuedAtMs": 1795807800000,
+   "playedAtMs": 1795807800000
+  },
+  {
+   "key": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+   "firstQueuedAtMs": 1795807800000,
+   "playedAtMs": 1795807800000
+  },
+  {
+   "key": "https://thehill.com/?p=6245545",
+   "firstQueuedAtMs": 1795807800000,
+   "playedAtMs": 1795807800000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1044314",
+   "firstQueuedAtMs": 1795807800000,
+   "playedAtMs": 1795807800000
+  },
+  {
+   "key": "https://twitter.com/michael_nielsen/status/2126359767362748777",
+   "firstQueuedAtMs": 1795807800000,
+   "playedAtMs": 1795807800000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4430408",
+   "firstQueuedAtMs": 1795807800000,
+   "playedAtMs": 1795807800000
+  },
+  {
+   "key": "https://hackaday.com/?p=1430670",
+   "firstQueuedAtMs": 1795807800000,
+   "playedAtMs": 1795807800000
+  },
+  {
+   "key": "https://www.fastcompany.com/91649579/the-2026-macys-thanksgiving-day-parade-isnt-canceled-heres-when-you-can-watch-it-this-weekend",
+   "firstQueuedAtMs": 1795807800000,
+   "playedAtMs": 1795807800000
+  },
+  {
+   "key": "https://github.com/openai/math/blob/main/preprints/Euclidean-geometry-in-the-asymptotic-spectrum-of-tensors-November-24-2026/paper.pdf",
+   "firstQueuedAtMs": 1795807800000,
+   "playedAtMs": 1795807800000
+  },
+  {
+   "key": "1882f1cc-0666-4d06-a308-a68f1496166c",
+   "firstQueuedAtMs": 1795807800000,
+   "playedAtMs": 1795807800000
+  },
+  {
+   "key": "https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html",
+   "firstQueuedAtMs": 1795807800000,
+   "playedAtMs": 1795807800000
+  },
+  {
+   "key": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
+   "firstQueuedAtMs": 1795807800000,
+   "playedAtMs": 1795807800000
+  },
+  {
+   "key": "https://www.kshb.com/life/money/gen-z-is-bringing-black-friday-shopping-back-to-stores-as-higher-prices-squeeze-holiday-budgets",
+   "firstQueuedAtMs": 1795807800000,
+   "playedAtMs": 1795807800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html",
+   "firstQueuedAtMs": 1795807800000,
+   "playedAtMs": 1795807800000
+  },
+  {
+   "key": "https://www.dw.com/en/informer-tv-owner-vucicevic-arrested-has-the-reckoning-with-serbia-s-pro-vucic-media-machine-begun/a-80074650?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795807800000,
+   "playedAtMs": 1795807800000
+  },
+  {
+   "key": "74551420",
+   "firstQueuedAtMs": 1795807800000,
+   "playedAtMs": 1795807800000
   }
  ]
 }
