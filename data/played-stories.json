@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T22:50:34.875Z",
- "lastSyncBucket": 997676,
+ "updatedAt": "2026-11-27T23:05:30.566Z",
+ "lastSyncBucket": 997677,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -44654,6 +44654,116 @@
    "key": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o#2",
    "firstQueuedAtMs": 1795816800000,
    "playedAtMs": 1795816800000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4457262",
+   "firstQueuedAtMs": 1795818600000,
+   "playedAtMs": 1795818600000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/27/plumbers-ozarks-see-uptick-calls-brown-friday/",
+   "firstQueuedAtMs": 1795818600000,
+   "playedAtMs": 1795818600000
+  },
+  {
+   "key": "02f028c8-c208-4964-b5a2-59ee5bc96093",
+   "firstQueuedAtMs": 1795818600000,
+   "playedAtMs": 1795818600000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/all-the-gaps-we-see-in-protoplanetary-disks-arent-from-planets",
+   "firstQueuedAtMs": 1795818600000,
+   "playedAtMs": 1795818600000
+  },
+  {
+   "key": "74547027",
+   "firstQueuedAtMs": 1795818600000,
+   "playedAtMs": 1795818600000
+  },
+  {
+   "key": "https://www.pymnts.com/?p=4430612",
+   "firstQueuedAtMs": 1795818600000,
+   "playedAtMs": 1795818600000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/the-eso-is-deeply-concerned-about-space-data-centers-and-the-rest-of-us-should-be-too",
+   "firstQueuedAtMs": 1795818600000,
+   "playedAtMs": 1795818600000
+  },
+  {
+   "key": "74552235",
+   "firstQueuedAtMs": 1795818600000,
+   "playedAtMs": 1795818600000
+  },
+  {
+   "key": "https://www.engadget.com/2329878/gta-6-performance-ways-make-sure-console-not-holding-back/",
+   "firstQueuedAtMs": 1795818600000,
+   "playedAtMs": 1795818600000
+  },
+  {
+   "key": "news715003982",
+   "firstQueuedAtMs": 1795818600000,
+   "playedAtMs": 1795818600000
+  },
+  {
+   "key": "news715005422",
+   "firstQueuedAtMs": 1795818600000,
+   "playedAtMs": 1795818600000
+  },
+  {
+   "key": "https://thehill.com/?p=6245694",
+   "firstQueuedAtMs": 1795818600000,
+   "playedAtMs": 1795818600000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386929",
+   "firstQueuedAtMs": 1795818600000,
+   "playedAtMs": 1795818600000
+  },
+  {
+   "key": "https://www.chronicle.com/article/everybody-is-going-to-be-made-obsolete",
+   "firstQueuedAtMs": 1795818600000,
+   "playedAtMs": 1795818600000
+  },
+  {
+   "key": "https://neuralnetworksanddeeplearning.com/",
+   "firstQueuedAtMs": 1795818600000,
+   "playedAtMs": 1795818600000
+  },
+  {
+   "key": "108559883",
+   "firstQueuedAtMs": 1795818600000,
+   "playedAtMs": 1795818600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795814247",
+   "firstQueuedAtMs": 1795818600000,
+   "playedAtMs": 1795818600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/27/nyregion/rescheduled-macys-thanksgiving-parade.html",
+   "firstQueuedAtMs": 1795818600000,
+   "playedAtMs": 1795818600000
+  },
+  {
+   "key": "https://abcnews.com/US/nyc-mayor-mamdani-successful-surgery-torn-achilles-tendon/story?id=138488280",
+   "firstQueuedAtMs": 1795818600000,
+   "playedAtMs": 1795818600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/27/opinion/what-to-do-about-the-epidemic-of-bad-dogs.html",
+   "firstQueuedAtMs": 1795818600000,
+   "playedAtMs": 1795818600000
+  },
+  {
+   "key": "https://abcnews.com/GMA/Culture/kate-middleton-patron-cancer-center-charity/story?id=138480841",
+   "firstQueuedAtMs": 1795818600000,
+   "playedAtMs": 1795818600000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/black-friday-sneaker-deals-2026-rcna611438",
+   "firstQueuedAtMs": 1795818600000,
+   "playedAtMs": 1795818600000
   }
  ]
 }
