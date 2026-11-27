@@ -1,9 +1,9 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T12:50:35.278Z",
- "lastSyncBucket": 997656,
- "lastSyncCarryInSeconds": 44,
+ "updatedAt": "2026-11-27T13:06:09.101Z",
+ "lastSyncBucket": 997657,
+ "lastSyncCarryInSeconds": 0,
  "entries": [
   {
    "key": "https://www.kshb.com/life/faith-and-religion/religion-spirituality-linked-to-greater-life-satisfaction-among-older-adults",
@@ -41259,6 +41259,171 @@
    "key": "https://michiganadvance.com/?p=116234",
    "firstQueuedAtMs": 1795780800000,
    "playedAtMs": 1795780800000
+  },
+  {
+   "key": "https://www.technologyreview.com/?p=1149960",
+   "firstQueuedAtMs": 1795782600000,
+   "playedAtMs": 1795782600000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=302255",
+   "firstQueuedAtMs": 1795782600000,
+   "playedAtMs": 1795782600000
+  },
+  {
+   "key": "https://www.rockmnation.com/165250/missouri-vs-kentucky-football-game-week-info-where-to-watch-predictions",
+   "firstQueuedAtMs": 1795782600000,
+   "playedAtMs": 1795782600000
+  },
+  {
+   "key": "e1066a17-9ea3-46fb-ada2-94444ca5a83c",
+   "firstQueuedAtMs": 1795782600000,
+   "playedAtMs": 1795782600000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1043362",
+   "firstQueuedAtMs": 1795782600000,
+   "playedAtMs": 1795782600000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/black-friday-vacuum-deals-2026-rcna610994",
+   "firstQueuedAtMs": 1795782600000,
+   "playedAtMs": 1795782600000
+  },
+  {
+   "key": "https://kansascitymag.com/?p=78487",
+   "firstQueuedAtMs": 1795782600000,
+   "playedAtMs": 1795782600000
+  },
+  {
+   "key": "https://nautil.us/?p=1287009",
+   "firstQueuedAtMs": 1795782600000,
+   "playedAtMs": 1795782600000
+  },
+  {
+   "key": "https://www.sci.news/?p=112907",
+   "firstQueuedAtMs": 1795782600000,
+   "playedAtMs": 1795782600000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=164148",
+   "firstQueuedAtMs": 1795782600000,
+   "playedAtMs": 1795782600000
+  },
+  {
+   "key": "TP5URYKGZAK100",
+   "firstQueuedAtMs": 1795782600000,
+   "playedAtMs": 1795782600000
+  },
+  {
+   "key": "https://fortune.com/?p=4638092&showAdminBar=true",
+   "firstQueuedAtMs": 1795782600000,
+   "playedAtMs": 1795782600000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/walmart-black-friday-deals-2026-rcna611473",
+   "firstQueuedAtMs": 1795782600000,
+   "playedAtMs": 1795782600000
+  },
+  {
+   "key": "https://kansascitymag.com/?p=78495",
+   "firstQueuedAtMs": 1795782600000,
+   "playedAtMs": 1795782600000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/should-space-data-centers-run-on-solar-panels-nuclear-reactors-or-both",
+   "firstQueuedAtMs": 1795782600000,
+   "playedAtMs": 1795782600000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312501",
+   "firstQueuedAtMs": 1795782600000,
+   "playedAtMs": 1795782600000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75871",
+   "firstQueuedAtMs": 1795782600000,
+   "playedAtMs": 1795782600000
+  },
+  {
+   "key": "https://www.dw.com/en/philippines-vp-duterte-says-father-s-icc-case-not-a-fair-trial/a-80074359?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795782600000,
+   "playedAtMs": 1795782600000
+  },
+  {
+   "key": "https://lobste.rs/s/h3scdc",
+   "firstQueuedAtMs": 1795782600000,
+   "playedAtMs": 1795782600000
+  },
+  {
+   "key": "TP5M6VKK3NY900",
+   "firstQueuedAtMs": 1795782600000,
+   "playedAtMs": 1795782600000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163355",
+   "firstQueuedAtMs": 1795782600000,
+   "playedAtMs": 1795782600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/orrick-police-seek-suspect-domestic-violence-case/",
+   "firstQueuedAtMs": 1795782600000,
+   "playedAtMs": 1795782600000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/26/first-alert-weather-cold-leftovers-tonight/",
+   "firstQueuedAtMs": 1795782600000,
+   "playedAtMs": 1795782600000
+  },
+  {
+   "key": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffandf.co%2F4AEtY19%3Futm_source=TLDR%26utm_medium=newsletter%26utm_campaign=2026-11-27_tldr_primary_atlassian_jira%26utm_content=header_manage_agent_swarm%26utm_term=2026-11-27_tldr/2/010001a21cd3fafd-f6eb36b2-ee6b-4309-bad9-096cd61cace5-000000/xr_opdGFGaFgCSaDrs21pMA68YgKSZjPS42Al2GbOYA=452",
+   "firstQueuedAtMs": 1795782600000,
+   "playedAtMs": 1795782600000
+  },
+  {
+   "key": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2026%2F11%2F26%2Fneoclouds-nvidia-china-ai.html%3Futm_source=tldrnewsletter/1/010001a21cd3fafd-f6eb36b2-ee6b-4309-bad9-096cd61cace5-000000/FWboHFkvW9T4Q_vpfmWiIfYLuU6xkzswY1HUFvHzWd4=452",
+   "firstQueuedAtMs": 1795782600000,
+   "playedAtMs": 1795782600000
+  },
+  {
+   "key": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnirmalyakajuri.substack.com%2Fp%2Fits-so-over-for-quantum-gravity%3Futm_source=tldrnewsletter/1/010001a21cd3fafd-f6eb36b2-ee6b-4309-bad9-096cd61cace5-000000/40edpUvf0wQDbytcvZe8dCFyPN7nnE_yQGjI8_oZCCA=452",
+   "firstQueuedAtMs": 1795782600000,
+   "playedAtMs": 1795782600000
+  },
+  {
+   "key": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fpoly.ai%2Fbuild-it-with-polyai%3Futm_campaign=tldr_1127%26utm_source=tldr%26utm_medium=newsletter/1/010001a21cd3fafd-f6eb36b2-ee6b-4309-bad9-096cd61cace5-000000/tohel0zsURtbZ-Wl5p1L-iCr-gROcxkEfObVt3VibtU=452",
+   "firstQueuedAtMs": 1795782600000,
+   "playedAtMs": 1795782600000
+  },
+  {
+   "key": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjiaxin-wen.github.io%2Fblog%2Fbullish-on-human-intelligence.html%3Futm_source=tldrnewsletter/1/010001a21cd3fafd-f6eb36b2-ee6b-4309-bad9-096cd61cace5-000000/SrPrWASUtnJ_1wNVo9IaM-ksmYQN2zljWGiNj3fcdbc=452",
+   "firstQueuedAtMs": 1795782600000,
+   "playedAtMs": 1795782600000
+  },
+  {
+   "key": "https://www.dw.com/en/germany-s-tiny-bsw-is-a-party-in-crisis-as-it-is-set-to-hand-the-far-right-afd-power-in-saxony-anhalt/a-80074417?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795782600000,
+   "playedAtMs": 1795782600000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=164146",
+   "firstQueuedAtMs": 1795782600000,
+   "playedAtMs": 1795782600000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4456726",
+   "firstQueuedAtMs": 1795782600000,
+   "playedAtMs": 1795782600000
+  },
+  {
+   "key": "74548685",
+   "firstQueuedAtMs": 1795782600000,
+   "playedAtMs": 1795782600000
+  },
+  {
+   "key": "https://link.mail.beehiiv.com/ss/c/u001.dSnm3kaGd0BkNqLYPjeMf_DKThdpaPaB9_aROy42m3-QkrpXFAupeHADtSyezHztzSRqfdI5KA69nA7xk0zTSXEmevCz9Jn_3XGqFo9_wa9heqdjYA7koSefo0645oHtZUTxAXvsPPxgCxH7dLfyFNWRM_n3EOBxTFYfRTqrxFiTsOtjpRVKGkDqWvIYH1XmNMPiZTDNxRH99KhR0LdmbcoyeShpVxSC64J2ePcNkWM/4w3/fMHbPf6qRR-cbVdhjqPvUw/h27/h001.wn-qImTZIpgJj4K7Mo8pqBk4IDOepqDRw4k4-RM21fc",
+   "firstQueuedAtMs": 1795782600000,
+   "playedAtMs": 1795782600000
   }
  ]
 }
