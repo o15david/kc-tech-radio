@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T05:50:12.322Z",
- "lastSyncBucket": 997642,
+ "updatedAt": "2026-11-27T06:05:13.358Z",
+ "lastSyncBucket": 997643,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -39394,6 +39394,81 @@
    "key": "https://www.theguardian.com/australia-news/2026/nov/27/raaf-pilot-robert-john-crawford-guilty-murder-wife-staged-as-lawn-mowing-accident-ntwnfb",
    "firstQueuedAtMs": 1795755600000,
    "playedAtMs": 1795755600000
+  },
+  {
+   "key": "67119320efb17e0b0a750c63",
+   "firstQueuedAtMs": 1795757400000,
+   "playedAtMs": 1795757400000
+  },
+  {
+   "key": "74545428",
+   "firstQueuedAtMs": 1795757400000,
+   "playedAtMs": 1795757400000
+  },
+  {
+   "key": "108559902",
+   "firstQueuedAtMs": 1795757400000,
+   "playedAtMs": 1795757400000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/?p=217774",
+   "firstQueuedAtMs": 1795757400000,
+   "playedAtMs": 1795757400000
+  },
+  {
+   "key": "TP5C00R24U8K00",
+   "firstQueuedAtMs": 1795757400000,
+   "playedAtMs": 1795757400000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312457",
+   "firstQueuedAtMs": 1795757400000,
+   "playedAtMs": 1795757400000
+  },
+  {
+   "key": "https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers/",
+   "firstQueuedAtMs": 1795757400000,
+   "playedAtMs": 1795757400000
+  },
+  {
+   "key": "https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in/",
+   "firstQueuedAtMs": 1795757400000,
+   "playedAtMs": 1795757400000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386896",
+   "firstQueuedAtMs": 1795757400000,
+   "playedAtMs": 1795757400000
+  },
+  {
+   "key": "https://www.theregister.com/a/5312449",
+   "firstQueuedAtMs": 1795757400000,
+   "playedAtMs": 1795757400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795025027",
+   "firstQueuedAtMs": 1795757400000,
+   "playedAtMs": 1795757400000
+  },
+  {
+   "key": "https://www.theguardian.com/australia-news/2026/nov/27/erin-patterson-launches-high-court-appeal-over-mushroom-convictions-ntwnfb",
+   "firstQueuedAtMs": 1795757400000,
+   "playedAtMs": 1795757400000
+  },
+  {
+   "key": "https://www.scmp.com/week-asia/lifestyle-culture/article/3375995/singapore-lifts-ban-hainan-goose-can-chefs-match-hong-kongs-gold-standard",
+   "firstQueuedAtMs": 1795757400000,
+   "playedAtMs": 1795757400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795601919",
+   "firstQueuedAtMs": 1795757400000,
+   "playedAtMs": 1795757400000
+  },
+  {
+   "key": "https://www.scmp.com/news/asia/southeast-asia/article/3375994/singapore-reaches-out-local-firms-amid-reports-nvidia-chip-shipment-halt",
+   "firstQueuedAtMs": 1795757400000,
+   "playedAtMs": 1795757400000
   }
  ]
 }
