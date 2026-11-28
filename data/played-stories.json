@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-28T00:20:24.624Z",
- "lastSyncBucket": 997679,
+ "updatedAt": "2026-11-28T00:35:08.984Z",
+ "lastSyncBucket": 997680,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -45004,6 +45004,121 @@
    "key": "https://www.scmp.com/news/world/middle-east/article/3376106/son-hamas-chief-survives-israeli-strike-group-says",
    "firstQueuedAtMs": 1795822200000,
    "playedAtMs": 1795822200000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1043976",
+   "firstQueuedAtMs": 1795824000000,
+   "playedAtMs": 1795824000000
+  },
+  {
+   "key": "https://www.kshb.com/us-news/american-airlines-jets-clip-wings-at-washington-dc-area-airport",
+   "firstQueuedAtMs": 1795824000000,
+   "playedAtMs": 1795824000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/27/sports/anita-defrantz-dead.html",
+   "firstQueuedAtMs": 1795824000000,
+   "playedAtMs": 1795824000000
+  },
+  {
+   "key": "https://electrek.co/?p=496747",
+   "firstQueuedAtMs": 1795824000000,
+   "playedAtMs": 1795824000000
+  },
+  {
+   "key": "news714997265",
+   "firstQueuedAtMs": 1795824000000,
+   "playedAtMs": 1795824000000
+  },
+  {
+   "key": "https://lobste.rs/s/ulfg29",
+   "firstQueuedAtMs": 1795824000000,
+   "playedAtMs": 1795824000000
+  },
+  {
+   "key": "https://lobste.rs/s/wkljma",
+   "firstQueuedAtMs": 1795824000000,
+   "playedAtMs": 1795824000000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1044706",
+   "firstQueuedAtMs": 1795824000000,
+   "playedAtMs": 1795824000000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/rachel-maddow-discusses-how-the-justice-department-has-strayed-from-its-mission",
+   "firstQueuedAtMs": 1795824000000,
+   "playedAtMs": 1795824000000
+  },
+  {
+   "key": "https://hackaday.com/?p=1430479",
+   "firstQueuedAtMs": 1795824000000,
+   "playedAtMs": 1795824000000
+  },
+  {
+   "key": "news715007642",
+   "firstQueuedAtMs": 1795824000000,
+   "playedAtMs": 1795824000000
+  },
+  {
+   "key": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+   "firstQueuedAtMs": 1795824000000,
+   "playedAtMs": 1795824000000
+  },
+  {
+   "key": "https://slate.com/business/2026/11/dumb-cars-cheap-low-tech.html",
+   "firstQueuedAtMs": 1795824000000,
+   "playedAtMs": 1795824000000
+  },
+  {
+   "key": "https://research.google/blog/supercharging-transformer-residual-connections/",
+   "firstQueuedAtMs": 1795824000000,
+   "playedAtMs": 1795824000000
+  },
+  {
+   "key": "https://simonwillison.net/2026/Nov/27/datasette-mcp/",
+   "firstQueuedAtMs": 1795824000000,
+   "playedAtMs": 1795824000000
+  },
+  {
+   "key": "https://localthunk.com/blog/balatro-timeline-3aarh",
+   "firstQueuedAtMs": 1795824000000,
+   "playedAtMs": 1795824000000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/a-veterans-brief-but-spectacular-take-on-finding-new-ways-to-serve-after-the-military",
+   "firstQueuedAtMs": 1795824000000,
+   "playedAtMs": 1795824000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/28/tiller-scores-22-points-crowe-21-tigers-block-13-shots-win-over-arkansas-pine-bluff/",
+   "firstQueuedAtMs": 1795824000000,
+   "playedAtMs": 1795824000000
+  },
+  {
+   "key": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
+   "firstQueuedAtMs": 1795824000000,
+   "playedAtMs": 1795824000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/28/2-teens-injured-dade-county-crash/",
+   "firstQueuedAtMs": 1795824000000,
+   "playedAtMs": 1795824000000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno#3",
+   "firstQueuedAtMs": 1795824000000,
+   "playedAtMs": 1795824000000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/diplomacy/article/3376076/australia-quietly-revives-antarctic-logistics-pact-china-ties-steady",
+   "firstQueuedAtMs": 1795824000000,
+   "playedAtMs": 1795824000000
+  },
+  {
+   "key": "https://www.scmp.com/week-asia/politics/article/3376067/myanmars-asean-exit-talk-pariah-pushes-back",
+   "firstQueuedAtMs": 1795824000000,
+   "playedAtMs": 1795824000000
   }
  ]
 }
