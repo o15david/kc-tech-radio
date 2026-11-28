@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-28T06:20:06.997Z",
- "lastSyncBucket": 997691,
+ "updatedAt": "2026-11-28T06:35:05.144Z",
+ "lastSyncBucket": 997692,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -45709,6 +45709,56 @@
    "key": "6b09ecdfa4210cd344f4d547",
    "firstQueuedAtMs": 1795843800000,
    "playedAtMs": 1795843800000
+  },
+  {
+   "key": "https://hackaday.com/?p=1430480",
+   "firstQueuedAtMs": 1795845600000,
+   "playedAtMs": 1795845600000
+  },
+  {
+   "key": "108560010",
+   "firstQueuedAtMs": 1795845600000,
+   "playedAtMs": 1795845600000
+  },
+  {
+   "key": "108559956",
+   "firstQueuedAtMs": 1795845600000,
+   "playedAtMs": 1795845600000
+  },
+  {
+   "key": "69dd137ca1e49505ef8b581e",
+   "firstQueuedAtMs": 1795845600000,
+   "playedAtMs": 1795845600000
+  },
+  {
+   "key": "https://www.fastcompany.com/91648424/screwed-up-at-work-heres-how-to-learn-from-your-mistake-without-overcorrecting",
+   "firstQueuedAtMs": 1795845600000,
+   "playedAtMs": 1795845600000
+  },
+  {
+   "key": "https://science.nasa.gov/image-article/apod-2026-november-28-apollo-17-vip-site-anaglyph/",
+   "firstQueuedAtMs": 1795845600000,
+   "playedAtMs": 1795845600000
+  },
+  {
+   "key": "6b04b2c6ef7c9c5fad5ca175",
+   "firstQueuedAtMs": 1795845600000,
+   "playedAtMs": 1795845600000
+  },
+  {
+   "key": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
+   "firstQueuedAtMs": 1795845600000,
+   "playedAtMs": 1795845600000
+  },
+  {
+   "key": "https://www.theguardian.com/world/2026/nov/28/mohammad-baraka-palestinian-eu-gaza-redundancy-pay-access",
+   "firstQueuedAtMs": 1795845600000,
+   "playedAtMs": 1795845600000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/article/3376116/chinese-engineers-defy-hormuz-blockade-install-abu-dhabi-drilling-rigs",
+   "firstQueuedAtMs": 1795845600000,
+   "playedAtMs": 1795845600000
   }
  ]
 }
