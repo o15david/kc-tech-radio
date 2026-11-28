@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-28T08:20:23.974Z",
- "lastSyncBucket": 997695,
+ "updatedAt": "2026-11-28T08:35:12.421Z",
+ "lastSyncBucket": 997696,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -45829,6 +45829,51 @@
    "key": "https://www.aljazeera.com/?t=1795793096",
    "firstQueuedAtMs": 1795851000000,
    "playedAtMs": 1795851000000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/27/nx-s1-6053049/sudans-lost-generation-war-is-stealing-a-generation-of-childhood",
+   "firstQueuedAtMs": 1795852800000,
+   "playedAtMs": 1795852800000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75837",
+   "firstQueuedAtMs": 1795852800000,
+   "playedAtMs": 1795852800000
+  },
+  {
+   "key": "https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf",
+   "firstQueuedAtMs": 1795852800000,
+   "playedAtMs": 1795852800000
+  },
+  {
+   "key": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
+   "firstQueuedAtMs": 1795852800000,
+   "playedAtMs": 1795852800000
+  },
+  {
+   "key": "https://blogs.loc.gov/maps/2026/11/same-streets-different-empires/",
+   "firstQueuedAtMs": 1795852800000,
+   "playedAtMs": 1795852800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795435465",
+   "firstQueuedAtMs": 1795852800000,
+   "playedAtMs": 1795852800000
+  },
+  {
+   "key": "https://www.dw.com/en/india-hindu-lamp-lighting-at-disputed-thiruparankundram-pillar-today/live-80083375?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795852800000,
+   "playedAtMs": 1795852800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795848143",
+   "firstQueuedAtMs": 1795852800000,
+   "playedAtMs": 1795852800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo#1",
+   "firstQueuedAtMs": 1795852800000,
+   "playedAtMs": 1795852800000
   }
  ]
 }
