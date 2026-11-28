@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-28T15:20:19.837Z",
- "lastSyncBucket": 997709,
+ "updatedAt": "2026-11-28T15:35:23.730Z",
+ "lastSyncBucket": 997710,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -47329,6 +47329,111 @@
    "key": "https://www.dw.com/en/taiwan-election-dpp-gains-ground-but-loses-taipei-race/a-80083086?maca=en-rss-en-all-1573-rdf",
    "firstQueuedAtMs": 1795876200000,
    "playedAtMs": 1795876200000
+  },
+  {
+   "key": "https://www.engadget.com/2325541/what-does-33-percent-rule-mean-installing-solar-panels/",
+   "firstQueuedAtMs": 1795878000000,
+   "playedAtMs": 1795878000000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/world/un-warns-hunger-will-deepen-in-the-middle-east-as-war-fuel-costs-and-aid-cuts-collide",
+   "firstQueuedAtMs": 1795878000000,
+   "playedAtMs": 1795878000000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1044917",
+   "firstQueuedAtMs": 1795878000000,
+   "playedAtMs": 1795878000000
+  },
+  {
+   "key": "https://hackaday.com/?p=1430856",
+   "firstQueuedAtMs": 1795878000000,
+   "playedAtMs": 1795878000000
+  },
+  {
+   "key": "news715007865",
+   "firstQueuedAtMs": 1795878000000,
+   "playedAtMs": 1795878000000
+  },
+  {
+   "key": "https://www.engadget.com/2325544/how-to-fix-airdrop-not-working-iphone-ipad-mac/",
+   "firstQueuedAtMs": 1795878000000,
+   "playedAtMs": 1795878000000
+  },
+  {
+   "key": "https://fortune.com/?p=4649986&showAdminBar=true",
+   "firstQueuedAtMs": 1795878000000,
+   "playedAtMs": 1795878000000
+  },
+  {
+   "key": "https://thehill.com/?p=6245641",
+   "firstQueuedAtMs": 1795878000000,
+   "playedAtMs": 1795878000000
+  },
+  {
+   "key": "https://fortune.com/?p=4651996&showAdminBar=true",
+   "firstQueuedAtMs": 1795878000000,
+   "playedAtMs": 1795878000000
+  },
+  {
+   "key": "https://thehill.com/?p=6245987",
+   "firstQueuedAtMs": 1795878000000,
+   "playedAtMs": 1795878000000
+  },
+  {
+   "key": "https://www.inc.com/robyn-d-shulman/the-news-isnt-the-only-reason-you-feel-anxious-your-brain-may-be-stuck-in-this-self-reinforcing-loop/91441488",
+   "firstQueuedAtMs": 1795878000000,
+   "playedAtMs": 1795878000000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=164387",
+   "firstQueuedAtMs": 1795878000000,
+   "playedAtMs": 1795878000000
+  },
+  {
+   "key": "https://www.verysane.ai/p/ai-isnt-that-dangerous",
+   "firstQueuedAtMs": 1795878000000,
+   "playedAtMs": 1795878000000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163541",
+   "firstQueuedAtMs": 1795878000000,
+   "playedAtMs": 1795878000000
+  },
+  {
+   "key": "https://www.scmp.com/news/asia/southeast-asia/article/3376152/myanmar-air-strike-wedding-venue-kills-20-including-children-witnesses",
+   "firstQueuedAtMs": 1795878000000,
+   "playedAtMs": 1795878000000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=164349",
+   "firstQueuedAtMs": 1795878000000,
+   "playedAtMs": 1795878000000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163532",
+   "firstQueuedAtMs": 1795878000000,
+   "playedAtMs": 1795878000000
+  },
+  {
+   "key": "https://trynito.ai/blog/encrypted-inference-tees",
+   "firstQueuedAtMs": 1795878000000,
+   "playedAtMs": 1795878000000
+  },
+  {
+   "key": "https://www.dw.com/en/germany-news-leftist-bsw-rules-out-reducing-ties-with-far-right-afd/live-80084280?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795878000000,
+   "playedAtMs": 1795878000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795877774",
+   "firstQueuedAtMs": 1795878000000,
+   "playedAtMs": 1795878000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795874771",
+   "firstQueuedAtMs": 1795878000000,
+   "playedAtMs": 1795878000000
   }
  ]
 }
