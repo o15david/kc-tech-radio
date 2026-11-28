@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-28T15:50:07.856Z",
- "lastSyncBucket": 997710,
+ "updatedAt": "2026-11-28T16:05:08.819Z",
+ "lastSyncBucket": 997711,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -47434,6 +47434,141 @@
    "key": "https://www.aljazeera.com/?t=1795874771",
    "firstQueuedAtMs": 1795878000000,
    "playedAtMs": 1795878000000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/28/56-year-old-man-killed-while-riding-e-bike-highway-97/",
+   "firstQueuedAtMs": 1795879800000,
+   "playedAtMs": 1795879800000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/world/doctors-without-borders-condemns-israeli-strike-that-killed-2-gaza-staff-and-other-middle-east-news",
+   "firstQueuedAtMs": 1795879800000,
+   "playedAtMs": 1795879800000
+  },
+  {
+   "key": "https://www.infoq.com/news/2026/11/google-long-context-training/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795879800000,
+   "playedAtMs": 1795879800000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=230490",
+   "firstQueuedAtMs": 1795879800000,
+   "playedAtMs": 1795879800000
+  },
+  {
+   "key": "LrKmHGLNiAXWdKUXkcxSSY",
+   "firstQueuedAtMs": 1795879800000,
+   "playedAtMs": 1795879800000
+  },
+  {
+   "key": "https://lobste.rs/s/3dinjq",
+   "firstQueuedAtMs": 1795879800000,
+   "playedAtMs": 1795879800000
+  },
+  {
+   "key": "https://www.engadget.com/2326178/give-old-dji-drone-device-new-purpose/",
+   "firstQueuedAtMs": 1795879800000,
+   "playedAtMs": 1795879800000
+  },
+  {
+   "key": "https://electrek.co/?p=496857",
+   "firstQueuedAtMs": 1795879800000,
+   "playedAtMs": 1795879800000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386958",
+   "firstQueuedAtMs": 1795879800000,
+   "playedAtMs": 1795879800000
+  },
+  {
+   "key": "https://www.bleepingcomputer.com/news/security/q-dir-and-desktopok-windows-utilities-compromised-to-push-python-rat/",
+   "firstQueuedAtMs": 1795879800000,
+   "playedAtMs": 1795879800000
+  },
+  {
+   "key": "124c04df-9b29-43f1-9b8f-aa34ebe1ec4e",
+   "firstQueuedAtMs": 1795879800000,
+   "playedAtMs": 1795879800000
+  },
+  {
+   "key": "https://www.engadget.com/2325809/what-to-do-apple-apps-show-subscription-retention-messages/",
+   "firstQueuedAtMs": 1795879800000,
+   "playedAtMs": 1795879800000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386977",
+   "firstQueuedAtMs": 1795879800000,
+   "playedAtMs": 1795879800000
+  },
+  {
+   "key": "https://www.dw.com/en/germany-news-leftist-bsw-rules-out-limiting-ties-with-far-right-afd/live-80084280?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795879800000,
+   "playedAtMs": 1795879800000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4457553",
+   "firstQueuedAtMs": 1795879800000,
+   "playedAtMs": 1795879800000
+  },
+  {
+   "key": "74554146",
+   "firstQueuedAtMs": 1795879800000,
+   "playedAtMs": 1795879800000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/nation/aclu-seeks-court-order-blocking-trump-administrations-efforts-to-unmask-ice-critics-on-social-media",
+   "firstQueuedAtMs": 1795879800000,
+   "playedAtMs": 1795879800000
+  },
+  {
+   "key": "74553702",
+   "firstQueuedAtMs": 1795879800000,
+   "playedAtMs": 1795879800000
+  },
+  {
+   "key": "74553602",
+   "firstQueuedAtMs": 1795879800000,
+   "playedAtMs": 1795879800000
+  },
+  {
+   "key": "https://www.kshb.com/life/holidays-and-celebrations/americans-often-make-too-much-thanksgiving-food-heres-how-to-safely-store-it",
+   "firstQueuedAtMs": 1795879800000,
+   "playedAtMs": 1795879800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/28/opinion/holocaust-auschwitz-broadway-play-blueberries.html",
+   "firstQueuedAtMs": 1795879800000,
+   "playedAtMs": 1795879800000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4457541",
+   "firstQueuedAtMs": 1795879800000,
+   "playedAtMs": 1795879800000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/society/article/3376155/suspended-lights-plunge-ceiling-hong-kong-estates-clubhouse-playroom",
+   "firstQueuedAtMs": 1795879800000,
+   "playedAtMs": 1795879800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795880247",
+   "firstQueuedAtMs": 1795879800000,
+   "playedAtMs": 1795879800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795776420",
+   "firstQueuedAtMs": 1795879800000,
+   "playedAtMs": 1795879800000
+  },
+  {
+   "key": "https://www.theguardian.com/world/2026/nov/28/taiwan-ruling-party-dpp-secures-best-result-in-decade-china",
+   "firstQueuedAtMs": 1795879800000,
+   "playedAtMs": 1795879800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795872975",
+   "firstQueuedAtMs": 1795879800000,
+   "playedAtMs": 1795879800000
   }
  ]
 }
