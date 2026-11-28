@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-27T23:50:06.297Z",
- "lastSyncBucket": 997678,
+ "updatedAt": "2026-11-28T00:05:13.312Z",
+ "lastSyncBucket": 997679,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -44859,6 +44859,151 @@
    "key": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o#3",
    "firstQueuedAtMs": 1795820400000,
    "playedAtMs": 1795820400000
+  },
+  {
+   "key": "74552461",
+   "firstQueuedAtMs": 1795822200000,
+   "playedAtMs": 1795822200000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/news-wrap-crews-work-to-restore-power-for-thousands-after-thanksgiving-storm",
+   "firstQueuedAtMs": 1795822200000,
+   "playedAtMs": 1795822200000
+  },
+  {
+   "key": "6b09fa5bb169e903a8de8d9a",
+   "firstQueuedAtMs": 1795822200000,
+   "playedAtMs": 1795822200000
+  },
+  {
+   "key": "news715009861",
+   "firstQueuedAtMs": 1795822200000,
+   "playedAtMs": 1795822200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/alec-bohm-introduced-by-royals-brings-power-childhood-connection-kansas-city/",
+   "firstQueuedAtMs": 1795822200000,
+   "playedAtMs": 1795822200000
+  },
+  {
+   "key": "news715007043",
+   "firstQueuedAtMs": 1795822200000,
+   "playedAtMs": 1795822200000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1044487",
+   "firstQueuedAtMs": 1795822200000,
+   "playedAtMs": 1795822200000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1044715",
+   "firstQueuedAtMs": 1795822200000,
+   "playedAtMs": 1795822200000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1040471",
+   "firstQueuedAtMs": 1795822200000,
+   "playedAtMs": 1795822200000
+  },
+  {
+   "key": "https://tabernet.es/",
+   "firstQueuedAtMs": 1795822200000,
+   "playedAtMs": 1795822200000
+  },
+  {
+   "key": "https://terraformindustries.wordpress.com/2026/11/04/doing-it-the-hard-way/",
+   "firstQueuedAtMs": 1795822200000,
+   "playedAtMs": 1795822200000
+  },
+  {
+   "key": "https://lobste.rs/s/xsjwvi",
+   "firstQueuedAtMs": 1795822200000,
+   "playedAtMs": 1795822200000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=165475",
+   "firstQueuedAtMs": 1795822200000,
+   "playedAtMs": 1795822200000
+  },
+  {
+   "key": "74552118",
+   "firstQueuedAtMs": 1795822200000,
+   "playedAtMs": 1795822200000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/american-consumers-face-pitfalls-with-rise-of-buy-now-pay-later",
+   "firstQueuedAtMs": 1795822200000,
+   "playedAtMs": 1795822200000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4457156",
+   "firstQueuedAtMs": 1795822200000,
+   "playedAtMs": 1795822200000
+  },
+  {
+   "key": "https://www.kshb.com/news/local-news/missouri/kansas-city/umkc-mens-soccer-rides-kansas-citys-championship-wave-into-ncaa-round-of-16",
+   "firstQueuedAtMs": 1795822200000,
+   "playedAtMs": 1795822200000
+  },
+  {
+   "key": "https://thehill.com/?p=6245776",
+   "firstQueuedAtMs": 1795822200000,
+   "playedAtMs": 1795822200000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/missouri-department-social-services-encourages-mo-healthnet-participants-prepare-2027-renewal-changes/",
+   "firstQueuedAtMs": 1795822200000,
+   "playedAtMs": 1795822200000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/27/hackers-breach-us-air-force-computing-platform-reports-say/",
+   "firstQueuedAtMs": 1795822200000,
+   "playedAtMs": 1795822200000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/how-online-gambling-is-changing-the-game-and-impacting-athletes",
+   "firstQueuedAtMs": 1795822200000,
+   "playedAtMs": 1795822200000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/brooks-and-capehart-on-trumps-new-tariffs-nvidias-future-and-democratic-leadership",
+   "firstQueuedAtMs": 1795822200000,
+   "playedAtMs": 1795822200000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/show/exploring-an-ai-reboot-and-the-ethics-that-surround-it",
+   "firstQueuedAtMs": 1795822200000,
+   "playedAtMs": 1795822200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/27/us/thanksgiving-delayed-storm.html",
+   "firstQueuedAtMs": 1795822200000,
+   "playedAtMs": 1795822200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/27/world/europe/princess-catherine-kate-heal-cancer-documentary.html",
+   "firstQueuedAtMs": 1795822200000,
+   "playedAtMs": 1795822200000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/black-friday-bestsellers-2026-rcna611287",
+   "firstQueuedAtMs": 1795822200000,
+   "playedAtMs": 1795822200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795819261",
+   "firstQueuedAtMs": 1795822200000,
+   "playedAtMs": 1795822200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795823656",
+   "firstQueuedAtMs": 1795822200000,
+   "playedAtMs": 1795822200000
+  },
+  {
+   "key": "https://www.scmp.com/news/world/middle-east/article/3376106/son-hamas-chief-survives-israeli-strike-group-says",
+   "firstQueuedAtMs": 1795822200000,
+   "playedAtMs": 1795822200000
   }
  ]
 }
