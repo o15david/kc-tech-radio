@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-28T16:50:17.829Z",
- "lastSyncBucket": 997712,
+ "updatedAt": "2026-11-28T17:05:15.880Z",
+ "lastSyncBucket": 997713,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -47719,6 +47719,106 @@
    "key": "https://www.aljazeera.com/?t=1795881363",
    "firstQueuedAtMs": 1795881600000,
    "playedAtMs": 1795881600000
+  },
+  {
+   "key": "https://www.engadget.com/2326000/car-speakers-rattling-fixes-before-calling-mechanic/",
+   "firstQueuedAtMs": 1795883400000,
+   "playedAtMs": 1795883400000
+  },
+  {
+   "key": "74554151",
+   "firstQueuedAtMs": 1795883400000,
+   "playedAtMs": 1795883400000
+  },
+  {
+   "key": "https://greatlakesecho.org/?p=5038856",
+   "firstQueuedAtMs": 1795883400000,
+   "playedAtMs": 1795883400000
+  },
+  {
+   "key": "e9da3d25-f1a5-44ec-aba6-29d250bf9257",
+   "firstQueuedAtMs": 1795883400000,
+   "playedAtMs": 1795883400000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3192465",
+   "firstQueuedAtMs": 1795883400000,
+   "playedAtMs": 1795883400000
+  },
+  {
+   "key": "https://www.engadget.com/2325994/cool-amazon-echo-show-features-shouldnt-overlook/",
+   "firstQueuedAtMs": 1795883400000,
+   "playedAtMs": 1795883400000
+  },
+  {
+   "key": "https://fortune.com/?p=4652225&showAdminBar=true",
+   "firstQueuedAtMs": 1795883400000,
+   "playedAtMs": 1795883400000
+  },
+  {
+   "key": "https://twitter.com/TimSweeneyEpic/status/2126682647862862063",
+   "firstQueuedAtMs": 1795883400000,
+   "playedAtMs": 1795883400000
+  },
+  {
+   "key": "https://thestacksentinel.com/articles/postgresql-18-7-and-19-0-expression-aggregates-31-6-slower-a64ecb0f/",
+   "firstQueuedAtMs": 1795883400000,
+   "playedAtMs": 1795883400000
+  },
+  {
+   "key": "YwHwvo24tLQuPq3BDrJCZj",
+   "firstQueuedAtMs": 1795883400000,
+   "playedAtMs": 1795883400000
+  },
+  {
+   "key": "a9cc86f9-e992-4341-9880-16a6b38a87c2",
+   "firstQueuedAtMs": 1795883400000,
+   "playedAtMs": 1795883400000
+  },
+  {
+   "key": "tag:daringfireball.net,2026:/linked//6.43784",
+   "firstQueuedAtMs": 1795883400000,
+   "playedAtMs": 1795883400000
+  },
+  {
+   "key": "https://thehill.com/?p=6246057",
+   "firstQueuedAtMs": 1795883400000,
+   "playedAtMs": 1795883400000
+  },
+  {
+   "key": "74354a27-628f-436d-a533-16ca24c111ea",
+   "firstQueuedAtMs": 1795883400000,
+   "playedAtMs": 1795883400000
+  },
+  {
+   "key": "9b0128c9-470c-4627-8fa2-593fb9886eb8",
+   "firstQueuedAtMs": 1795883400000,
+   "playedAtMs": 1795883400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795877891",
+   "firstQueuedAtMs": 1795883400000,
+   "playedAtMs": 1795883400000
+  },
+  {
+   "key": "https://www.dw.com/en/albania-clashes-erupt-at-anti-government-protest-in-tirana/a-80086581?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795883400000,
+   "playedAtMs": 1795883400000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168881",
+   "firstQueuedAtMs": 1795883400000,
+   "playedAtMs": 1795883400000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168894",
+   "firstQueuedAtMs": 1795883400000,
+   "playedAtMs": 1795883400000
+  },
+  {
+   "key": "https://news.un.org/en/story/2026/11/1168893",
+   "firstQueuedAtMs": 1795883400000,
+   "playedAtMs": 1795883400000
   }
  ]
 }
