@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-28T13:20:08.260Z",
- "lastSyncBucket": 997705,
+ "updatedAt": "2026-11-28T13:35:15.350Z",
+ "lastSyncBucket": 997706,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -46739,6 +46739,146 @@
    "key": "https://www.theguardian.com/uk-news/2026/nov/28/argentina-oil-drilling-falkland-islands-international-tribunal",
    "firstQueuedAtMs": 1795869000000,
    "playedAtMs": 1795869000000
+  },
+  {
+   "key": "https://www.engadget.com/2325008/free-samsung-galaxy-watch-apps-every-owner-should-know-about/",
+   "firstQueuedAtMs": 1795870800000,
+   "playedAtMs": 1795870800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/28/rain-arrives-late-saturday-ahead-incoming-cool-down/",
+   "firstQueuedAtMs": 1795870800000,
+   "playedAtMs": 1795870800000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/27/recalled-ibuprofen-tablets-may-be-contaminated-with-metal-particles/",
+   "firstQueuedAtMs": 1795870800000,
+   "playedAtMs": 1795870800000
+  },
+  {
+   "key": "https://thehill.com/?p=6245941",
+   "firstQueuedAtMs": 1795870800000,
+   "playedAtMs": 1795870800000
+  },
+  {
+   "key": "https://www.engadget.com/2324752/questions-avoid-asking-chatgpt-why/",
+   "firstQueuedAtMs": 1795870800000,
+   "playedAtMs": 1795870800000
+  },
+  {
+   "key": "0003dd18-1ac7-4b44-b81e-d2214ddba465",
+   "firstQueuedAtMs": 1795870800000,
+   "playedAtMs": 1795870800000
+  },
+  {
+   "key": "https://fortune.com/?p=4652102&showAdminBar=true",
+   "firstQueuedAtMs": 1795870800000,
+   "playedAtMs": 1795870800000
+  },
+  {
+   "key": "108557427",
+   "firstQueuedAtMs": 1795870800000,
+   "playedAtMs": 1795870800000
+  },
+  {
+   "key": "https://fortune.com/?p=4650187&showAdminBar=true",
+   "firstQueuedAtMs": 1795870800000,
+   "playedAtMs": 1795870800000
+  },
+  {
+   "key": "https://www.inc.com/scott-hutcheson/verizon-needed-35-signatures-to-make-some-decisions-cutting-them-is-only-half-the-job/91441465",
+   "firstQueuedAtMs": 1795870800000,
+   "playedAtMs": 1795870800000
+  },
+  {
+   "key": "https://scriptor-pro.github.io/luciole-mono/",
+   "firstQueuedAtMs": 1795870800000,
+   "playedAtMs": 1795870800000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=164339",
+   "firstQueuedAtMs": 1795870800000,
+   "playedAtMs": 1795870800000
+  },
+  {
+   "key": "6864c706-8e1a-428d-99f3-a7e3bdb9bc53",
+   "firstQueuedAtMs": 1795870800000,
+   "playedAtMs": 1795870800000
+  },
+  {
+   "key": "74553753",
+   "firstQueuedAtMs": 1795870800000,
+   "playedAtMs": 1795870800000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=163455",
+   "firstQueuedAtMs": 1795870800000,
+   "playedAtMs": 1795870800000
+  },
+  {
+   "key": "74553755",
+   "firstQueuedAtMs": 1795870800000,
+   "playedAtMs": 1795870800000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=164347",
+   "firstQueuedAtMs": 1795870800000,
+   "playedAtMs": 1795870800000
+  },
+  {
+   "key": "8f824a47-7056-40d8-8f9f-3d26428ebe34",
+   "firstQueuedAtMs": 1795870800000,
+   "playedAtMs": 1795870800000
+  },
+  {
+   "key": "https://southdakotasearchlight.com/?p=26350",
+   "firstQueuedAtMs": 1795870800000,
+   "playedAtMs": 1795870800000
+  },
+  {
+   "key": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+   "firstQueuedAtMs": 1795870800000,
+   "playedAtMs": 1795870800000
+  },
+  {
+   "key": "6a67a4477121677383fc0ebc",
+   "firstQueuedAtMs": 1795870800000,
+   "playedAtMs": 1795870800000
+  },
+  {
+   "key": "https://github.com/david-crespo/jjack",
+   "firstQueuedAtMs": 1795870800000,
+   "playedAtMs": 1795870800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795859253",
+   "firstQueuedAtMs": 1795870800000,
+   "playedAtMs": 1795870800000
+  },
+  {
+   "key": "https://www.scmp.com/news/world/united-states-canada/article/3376146/16-years-after-sandy-hook-school-massacre-us-court-case-targets-assault-weapons-ban",
+   "firstQueuedAtMs": 1795870800000,
+   "playedAtMs": 1795870800000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/politics/article/3376145/kmt-extends-21-year-grip-new-taipei-lee-shu-chuan-beats-dpps-su-chiao-hui",
+   "firstQueuedAtMs": 1795870800000,
+   "playedAtMs": 1795870800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795856956",
+   "firstQueuedAtMs": 1795870800000,
+   "playedAtMs": 1795870800000
+  },
+  {
+   "key": "https://www.theguardian.com/australia-news/2026/nov/28/jess-wilson-coalition-rise-victorian-labor-collapse-election-2026-ntwnfb",
+   "firstQueuedAtMs": 1795870800000,
+   "playedAtMs": 1795870800000
+  },
+  {
+   "key": "https://news.sky.com/story/explosion-near-school-kills-10-and-wounds-more-than-100-in-afghanistan-13617431",
+   "firstQueuedAtMs": 1795870800000,
+   "playedAtMs": 1795870800000
   }
  ]
 }
