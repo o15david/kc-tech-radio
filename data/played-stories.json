@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-28T03:20:24.992Z",
- "lastSyncBucket": 997685,
+ "updatedAt": "2026-11-28T03:35:05.767Z",
+ "lastSyncBucket": 997686,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -45444,6 +45444,56 @@
    "key": "https://www.aljazeera.com/?t=1795599059",
    "firstQueuedAtMs": 1795833000000,
    "playedAtMs": 1795833000000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1044771",
+   "firstQueuedAtMs": 1795834800000,
+   "playedAtMs": 1795834800000
+  },
+  {
+   "key": "https://www.mlb.com/royals/news/each-team-s-best-single-game-performance-in-2026",
+   "firstQueuedAtMs": 1795834800000,
+   "playedAtMs": 1795834800000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/28/families-battlefield-mo-show-holiday-spirit-through-christmas-home-decorating-contest/",
+   "firstQueuedAtMs": 1795834800000,
+   "playedAtMs": 1795834800000
+  },
+  {
+   "key": "https://www.scmp.com/news/world/americas/article/3376110/costa-rica-bars-un-picked-human-rights-expert-palestinian-territories",
+   "firstQueuedAtMs": 1795834800000,
+   "playedAtMs": 1795834800000
+  },
+  {
+   "key": "https://hackaday.com/?p=1430789",
+   "firstQueuedAtMs": 1795834800000,
+   "playedAtMs": 1795834800000
+  },
+  {
+   "key": "news714985096",
+   "firstQueuedAtMs": 1795834800000,
+   "playedAtMs": 1795834800000
+  },
+  {
+   "key": "news714997165",
+   "firstQueuedAtMs": 1795834800000,
+   "playedAtMs": 1795834800000
+  },
+  {
+   "key": "https://github.com/fortran-lang/fplotlib",
+   "firstQueuedAtMs": 1795834800000,
+   "playedAtMs": 1795834800000
+  },
+  {
+   "key": "https://www.scmp.com/week-asia/economics/article/3376089/japans-airlines-brace-looming-2030-problem-pilot-shortages",
+   "firstQueuedAtMs": 1795834800000,
+   "playedAtMs": 1795834800000
+  },
+  {
+   "key": "https://www.theguardian.com/australia-news/2026/nov/28/australias-east-coast-deluged-by-storms-as-roads-flood-and-damaging-winds-forecast-for-nsw-and-victoria",
+   "firstQueuedAtMs": 1795834800000,
+   "playedAtMs": 1795834800000
   }
  ]
 }
