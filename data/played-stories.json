@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-28T04:50:09.837Z",
- "lastSyncBucket": 997688,
+ "updatedAt": "2026-11-28T05:05:09.404Z",
+ "lastSyncBucket": 997689,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -45599,6 +45599,41 @@
    "key": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o#3",
    "firstQueuedAtMs": 1795838400000,
    "playedAtMs": 1795838400000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75876",
+   "firstQueuedAtMs": 1795840200000,
+   "playedAtMs": 1795840200000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/28/oral-roberts-secures-victory-against-missouri-state/",
+   "firstQueuedAtMs": 1795840200000,
+   "playedAtMs": 1795840200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795833287",
+   "firstQueuedAtMs": 1795840200000,
+   "playedAtMs": 1795840200000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/bepicolombo-captures-mercury-orbit-after-8-year-trip",
+   "firstQueuedAtMs": 1795840200000,
+   "playedAtMs": 1795840200000
+  },
+  {
+   "key": "https://www.scmp.com/news/world/united-states-canada/article/3376113/us-military-says-cyber-systems-secure-after-reports-air-force-hack",
+   "firstQueuedAtMs": 1795840200000,
+   "playedAtMs": 1795840200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795836511",
+   "firstQueuedAtMs": 1795840200000,
+   "playedAtMs": 1795840200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795610712",
+   "firstQueuedAtMs": 1795840200000,
+   "playedAtMs": 1795840200000
   }
  ]
 }
