@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-28T06:50:20.209Z",
- "lastSyncBucket": 997692,
+ "updatedAt": "2026-11-28T07:05:14.933Z",
+ "lastSyncBucket": 997693,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -45759,6 +45759,31 @@
    "key": "https://www.scmp.com/news/china/article/3376116/chinese-engineers-defy-hormuz-blockade-install-abu-dhabi-drilling-rigs",
    "firstQueuedAtMs": 1795845600000,
    "playedAtMs": 1795845600000
+  },
+  {
+   "key": "https://www.infoq.com/news/2026/11/azure-ai-gateway-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795847400000,
+   "playedAtMs": 1795847400000
+  },
+  {
+   "key": "TP762QR24U9100",
+   "firstQueuedAtMs": 1795847400000,
+   "playedAtMs": 1795847400000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/education/article/3376120/no-tenders-yet-hong-kongs-first-university-town-education-chief-says",
+   "firstQueuedAtMs": 1795847400000,
+   "playedAtMs": 1795847400000
+  },
+  {
+   "key": "https://www.scmp.com/news/asia/south-asia/article/3376119/india-finds-unsafe-bisleri-sample-due-bacteria-amid-bottled-water-crackdown",
+   "firstQueuedAtMs": 1795847400000,
+   "playedAtMs": 1795847400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795779889",
+   "firstQueuedAtMs": 1795847400000,
+   "playedAtMs": 1795847400000
   }
  ]
 }
