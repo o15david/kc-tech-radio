@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-28T09:50:03.798Z",
- "lastSyncBucket": 997698,
+ "updatedAt": "2026-11-28T10:05:06.458Z",
+ "lastSyncBucket": 997699,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -45979,6 +45979,96 @@
    "key": "https://quantumfrontiers.com/2026/10/11/the-quantum-omelette-problem-how-much-energy-belongs-to-the-yolk/",
    "firstQueuedAtMs": 1795856400000,
    "playedAtMs": 1795856400000
+  },
+  {
+   "key": "6b04aba016008e5dfc85e29f",
+   "firstQueuedAtMs": 1795858200000,
+   "playedAtMs": 1795858200000
+  },
+  {
+   "key": "https://kansasreflector.com/?p=64238",
+   "firstQueuedAtMs": 1795858200000,
+   "playedAtMs": 1795858200000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/28/g-s1-155837/democratic-attorneys-general-justice-system-texas",
+   "firstQueuedAtMs": 1795858200000,
+   "playedAtMs": 1795858200000
+  },
+  {
+   "key": "dUHexBe49jTn43PRxujicG",
+   "firstQueuedAtMs": 1795858200000,
+   "playedAtMs": 1795858200000
+  },
+  {
+   "key": "https://insideclimatenews.org/?p=116612",
+   "firstQueuedAtMs": 1795858200000,
+   "playedAtMs": 1795858200000
+  },
+  {
+   "key": "https://insideclimatenews.org/?p=116738",
+   "firstQueuedAtMs": 1795858200000,
+   "playedAtMs": 1795858200000
+  },
+  {
+   "key": "https://www.marktechpost.com/?p=84104",
+   "firstQueuedAtMs": 1795858200000,
+   "playedAtMs": 1795858200000
+  },
+  {
+   "key": "tdy_news_7a_mclaughlin_thanksgiving_parade_postponed_261126",
+   "firstQueuedAtMs": 1795858200000,
+   "playedAtMs": 1795858200000
+  },
+  {
+   "key": "https://lobste.rs/s/82zm3l",
+   "firstQueuedAtMs": 1795858200000,
+   "playedAtMs": 1795858200000
+  },
+  {
+   "key": "TP7C8JT96OSH00",
+   "firstQueuedAtMs": 1795858200000,
+   "playedAtMs": 1795858200000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75882",
+   "firstQueuedAtMs": 1795858200000,
+   "playedAtMs": 1795858200000
+  },
+  {
+   "key": "https://www.fastcompany.com/91649144/ai-chips-and-whats-so-special-about-nvidias",
+   "firstQueuedAtMs": 1795858200000,
+   "playedAtMs": 1795858200000
+  },
+  {
+   "key": "https://oklahomavoice.com/?post_type=republished&p=22861",
+   "firstQueuedAtMs": 1795858200000,
+   "playedAtMs": 1795858200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795850793",
+   "firstQueuedAtMs": 1795858200000,
+   "playedAtMs": 1795858200000
+  },
+  {
+   "key": "https://www.scmp.com/news/world/americas/article/3376127/peru-ecuador-hit-el-nino-linked-floods",
+   "firstQueuedAtMs": 1795858200000,
+   "playedAtMs": 1795858200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795854195",
+   "firstQueuedAtMs": 1795858200000,
+   "playedAtMs": 1795858200000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/society/article/3376126/more-lanyard-making-hidden-disabilities-visible-hong-kong-airport",
+   "firstQueuedAtMs": 1795858200000,
+   "playedAtMs": 1795858200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795819922",
+   "firstQueuedAtMs": 1795858200000,
+   "playedAtMs": 1795858200000
   }
  ]
 }
