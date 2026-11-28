@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-28T16:20:07.659Z",
- "lastSyncBucket": 997711,
+ "updatedAt": "2026-11-28T16:35:05.904Z",
+ "lastSyncBucket": 997712,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -47569,6 +47569,156 @@
    "key": "https://www.aljazeera.com/?t=1795872975",
    "firstQueuedAtMs": 1795879800000,
    "playedAtMs": 1795879800000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1045251",
+   "firstQueuedAtMs": 1795881600000,
+   "playedAtMs": 1795881600000
+  },
+  {
+   "key": "74553997",
+   "firstQueuedAtMs": 1795881600000,
+   "playedAtMs": 1795881600000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/27/missouri-agriculture-industrys-annual-economic-impact-reaches-121-billion/",
+   "firstQueuedAtMs": 1795881600000,
+   "playedAtMs": 1795881600000
+  },
+  {
+   "key": "06a62d01-9fd5-4c9c-89d1-d6b1cc145d70",
+   "firstQueuedAtMs": 1795881600000,
+   "playedAtMs": 1795881600000
+  },
+  {
+   "key": "https://www.engadget.com/2325993/pc-motherboard-repair-or-replace/",
+   "firstQueuedAtMs": 1795881600000,
+   "playedAtMs": 1795881600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/28/two-men-killed-crash-north-clinton/",
+   "firstQueuedAtMs": 1795881600000,
+   "playedAtMs": 1795881600000
+  },
+  {
+   "key": "https://coryalthoff.com/essays/if-ai-takes-every-job-who-will-buy-things",
+   "firstQueuedAtMs": 1795881600000,
+   "playedAtMs": 1795881600000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1045256",
+   "firstQueuedAtMs": 1795881600000,
+   "playedAtMs": 1795881600000
+  },
+  {
+   "key": "https://cleantechnica.com/?p=386965",
+   "firstQueuedAtMs": 1795881600000,
+   "playedAtMs": 1795881600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/28/world/middleeast/syria-sednaya-prison-survivor.html",
+   "firstQueuedAtMs": 1795881600000,
+   "playedAtMs": 1795881600000
+  },
+  {
+   "key": "https://lobste.rs/s/tz1uyv",
+   "firstQueuedAtMs": 1795881600000,
+   "playedAtMs": 1795881600000
+  },
+  {
+   "key": "news713186968",
+   "firstQueuedAtMs": 1795881600000,
+   "playedAtMs": 1795881600000
+  },
+  {
+   "key": "https://www.engadget.com/2325979/iphone-update-improves-carplay-experience/",
+   "firstQueuedAtMs": 1795881600000,
+   "playedAtMs": 1795881600000
+  },
+  {
+   "key": "https://www.inc.com/ash-kumra/youre-automating-your-business-why-are-you-still-doing-everything-at-home/91442678",
+   "firstQueuedAtMs": 1795881600000,
+   "playedAtMs": 1795881600000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/28/mega-millions-jackpot-rises-700-million-following-fridays-drawing/",
+   "firstQueuedAtMs": 1795881600000,
+   "playedAtMs": 1795881600000
+  },
+  {
+   "key": "https://earthsky.org/?p=371778",
+   "firstQueuedAtMs": 1795881600000,
+   "playedAtMs": 1795881600000
+  },
+  {
+   "key": "https://www.quantabooks.org/essential-reading-in-the-age-of-math-2-0/",
+   "firstQueuedAtMs": 1795881600000,
+   "playedAtMs": 1795881600000
+  },
+  {
+   "key": "https://thehill.com/?p=6246047",
+   "firstQueuedAtMs": 1795881600000,
+   "playedAtMs": 1795881600000
+  },
+  {
+   "key": "https://johnsoncountypost.com/?p=302637",
+   "firstQueuedAtMs": 1795881600000,
+   "playedAtMs": 1795881600000
+  },
+  {
+   "key": "425fb83f-2410-4ca2-ba04-558eed8db9c0",
+   "firstQueuedAtMs": 1795881600000,
+   "playedAtMs": 1795881600000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/27/us-senator-shares-tragic-update-husbands-death/",
+   "firstQueuedAtMs": 1795881600000,
+   "playedAtMs": 1795881600000
+  },
+  {
+   "key": "bebb47e9-79ed-493e-8092-eb00a9db2411",
+   "firstQueuedAtMs": 1795881600000,
+   "playedAtMs": 1795881600000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/nation/epa-says-no-rise-in-contamination-after-army-detonates-lead-azide-stockpile-in-iowa",
+   "firstQueuedAtMs": 1795881600000,
+   "playedAtMs": 1795881600000
+  },
+  {
+   "key": "c5175146-4215-42e9-a688-761ec9649eb0",
+   "firstQueuedAtMs": 1795881600000,
+   "playedAtMs": 1795881600000
+  },
+  {
+   "key": "https://thehill.com/?p=6243020",
+   "firstQueuedAtMs": 1795881600000,
+   "playedAtMs": 1795881600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/28/us/politics/snap-cuts-children-trump.html",
+   "firstQueuedAtMs": 1795881600000,
+   "playedAtMs": 1795881600000
+  },
+  {
+   "key": "9.7440320",
+   "firstQueuedAtMs": 1795881600000,
+   "playedAtMs": 1795881600000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/politics/article/3376154/taiwan-elections-kmt-holds-taipei-new-taipei-loses-taichung-challenges-rise",
+   "firstQueuedAtMs": 1795881600000,
+   "playedAtMs": 1795881600000
+  },
+  {
+   "key": "https://www.theguardian.com/world/2026/nov/28/guatemala-climate-crisis-trump-deportation-crackdown",
+   "firstQueuedAtMs": 1795881600000,
+   "playedAtMs": 1795881600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795881363",
+   "firstQueuedAtMs": 1795881600000,
+   "playedAtMs": 1795881600000
   }
  ]
 }
