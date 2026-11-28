@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-28T10:50:05.711Z",
- "lastSyncBucket": 997700,
+ "updatedAt": "2026-11-28T11:05:07.991Z",
+ "lastSyncBucket": 997701,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -46164,6 +46164,111 @@
    "key": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o#0",
    "firstQueuedAtMs": 1795860000000,
    "playedAtMs": 1795860000000
+  },
+  {
+   "key": "JoBaFAGBETVQCpJpUPB76c",
+   "firstQueuedAtMs": 1795861800000,
+   "playedAtMs": 1795861800000
+  },
+  {
+   "key": "74553460",
+   "firstQueuedAtMs": 1795861800000,
+   "playedAtMs": 1795861800000
+  },
+  {
+   "key": "F7iaxTk94YciuBiZWGw2N9",
+   "firstQueuedAtMs": 1795861800000,
+   "playedAtMs": 1795861800000
+  },
+  {
+   "key": "https://abcnews.com/International/wireStory/explosion-middle-school-eastern-afghanistan-kills-wounds-students-138493977",
+   "firstQueuedAtMs": 1795861800000,
+   "playedAtMs": 1795861800000
+  },
+  {
+   "key": "https://www.inc.com/stephanie-davis/sales-pitch-customers-startup-founders-selling-strategy/91442724",
+   "firstQueuedAtMs": 1795861800000,
+   "playedAtMs": 1795861800000
+  },
+  {
+   "key": "https://www.inc.com/connor-jewiss/cambridge-dictionarys-word-of-the-year-points-to-what-companies-cant-automate/91441457",
+   "firstQueuedAtMs": 1795861800000,
+   "playedAtMs": 1795861800000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75891",
+   "firstQueuedAtMs": 1795861800000,
+   "playedAtMs": 1795861800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/28/magazine/pedro-pascal-interview.html",
+   "firstQueuedAtMs": 1795861800000,
+   "playedAtMs": 1795861800000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43391",
+   "firstQueuedAtMs": 1795861800000,
+   "playedAtMs": 1795861800000
+  },
+  {
+   "key": "https://fortune.com/?p=4647571",
+   "firstQueuedAtMs": 1795861800000,
+   "playedAtMs": 1795861800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/28/us/politics/millions-of-children-are-losing-food-stamps.html",
+   "firstQueuedAtMs": 1795861800000,
+   "playedAtMs": 1795861800000
+  },
+  {
+   "key": "https://dailygalaxy.com/?p=164058",
+   "firstQueuedAtMs": 1795861800000,
+   "playedAtMs": 1795861800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/28/world/europe/ukraine-russia-long-range-strikes.html",
+   "firstQueuedAtMs": 1795861800000,
+   "playedAtMs": 1795861800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/28/world/canada/canada-rangers-quebec-arctic-military.html",
+   "firstQueuedAtMs": 1795861800000,
+   "playedAtMs": 1795861800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/28/world/middleeast/freed-from-a-notorious-syrian-prison-but-still-trapped-by-its-terror.html",
+   "firstQueuedAtMs": 1795861800000,
+   "playedAtMs": 1795861800000
+  },
+  {
+   "key": "https://abcnews.com/US/wwe-star-bronson-reed-dies-38-due-medical/story?id=138490946",
+   "firstQueuedAtMs": 1795861800000,
+   "playedAtMs": 1795861800000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/politics/article/3376134/kmt-claims-first-win-taiwan-local-elections-chen-yu-jen-takes-quemoy",
+   "firstQueuedAtMs": 1795861800000,
+   "playedAtMs": 1795861800000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/society/article/3376132/hong-kong-construction-sector-hit-cyberattack-affecting-85-registered-workers",
+   "firstQueuedAtMs": 1795861800000,
+   "playedAtMs": 1795861800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795854061",
+   "firstQueuedAtMs": 1795861800000,
+   "playedAtMs": 1795861800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795851072",
+   "firstQueuedAtMs": 1795861800000,
+   "playedAtMs": 1795861800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795860166",
+   "firstQueuedAtMs": 1795861800000,
+   "playedAtMs": 1795861800000
   }
  ]
 }
