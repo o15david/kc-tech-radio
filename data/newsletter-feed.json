@@ -1,7 +1,95 @@
 {
-  "generatedAt": "2026-11-27T12:43:39.606Z",
+  "generatedAt": "2026-11-28T00:43:48.535Z",
   "source": "kc-tech-radio newsletter processor",
   "items": [
+    {
+      "id": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FkbrUA8%3Futm_source=TLDR%26utm_medium=newsletter%26utm_campaign=2026-11-27_tldr_ai_primary_microsoft_azure%26utm_content=header_late_night_patch%26utm_term=2026-11-27_tldr_ai/2/010001a21d82d297-a65d9040-d1c8-4d02-907b-d9821ec74920-000000/TvRntLetg1WyPsiWcSOjFQNdj2i0hZ5osjMD_1BfLHA=452",
+      "title": "TLDR AI 2026-11-27",
+      "link": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FkbrUA8%3Futm_source=TLDR%26utm_medium=newsletter%26utm_campaign=2026-11-27_tldr_ai_primary_microsoft_azure%26utm_content=header_late_night_patch%26utm_term=2026-11-27_tldr_ai/2/010001a21d82d297-a65d9040-d1c8-4d02-907b-d9821ec74920-000000/TvRntLetg1WyPsiWcSOjFQNdj2i0hZ5osjMD_1BfLHA=452",
+      "summary": "",
+      "source": "TLDR Tech",
+      "publishedAt": 1795791442000
+    },
+    {
+      "id": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmicjm.com%2Fblog%2Fopenai-is-in-cost-control-mode%2F%3Futm_source=tldrai/1/010001a21d82d297-a65d9040-d1c8-4d02-907b-d9821ec74920-000000/ukdQRbmkH6ESgUN6iMPlQwvV01p9EkkKyKJ4G9zSK-M=452",
+      "title": "Headlines & Launches",
+      "link": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmicjm.com%2Fblog%2Fopenai-is-in-cost-control-mode%2F%3Futm_source=tldrai/1/010001a21d82d297-a65d9040-d1c8-4d02-907b-d9821ec74920-000000/ukdQRbmkH6ESgUN6iMPlQwvV01p9EkkKyKJ4G9zSK-M=452",
+      "summary": "",
+      "source": "TLDR Tech",
+      "publishedAt": 1795791442000
+    },
+    {
+      "id": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fandrewtrask.substack.com%2Fp%2Fmeasuring-rsi%3Futm_source=tldrai/1/010001a21d82d297-a65d9040-d1c8-4d02-907b-d9821ec74920-000000/UmuO_Q7E3XETYEL4J4piPoa2IigCxz8heSplBAEzgss=452",
+      "title": "Deep Dives & Analysis",
+      "link": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fandrewtrask.substack.com%2Fp%2Fmeasuring-rsi%3Futm_source=tldrai/1/010001a21d82d297-a65d9040-d1c8-4d02-907b-d9821ec74920-000000/UmuO_Q7E3XETYEL4J4piPoa2IigCxz8heSplBAEzgss=452",
+      "summary": "",
+      "source": "TLDR Tech",
+      "publishedAt": 1795791442000
+    },
+    {
+      "id": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsima.ai%2Fpalette-3-0-hub%2F%3Futm_source=tldr-ai%26utm_medium=paid-email%26utm_campaign=palette-3-launch-2026-11%26utm_content=secondary01/1/010001a21d82d297-a65d9040-d1c8-4d02-907b-d9821ec74920-000000/YuBA7DBonkik_W0xDdJy5UkrVZpt48i6AG7OaMhBmfo=452",
+      "title": "Engineering & Research",
+      "link": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsima.ai%2Fpalette-3-0-hub%2F%3Futm_source=tldr-ai%26utm_medium=paid-email%26utm_campaign=palette-3-launch-2026-11%26utm_content=secondary01/1/010001a21d82d297-a65d9040-d1c8-4d02-907b-d9821ec74920-000000/YuBA7DBonkik_W0xDdJy5UkrVZpt48i6AG7OaMhBmfo=452",
+      "summary": "",
+      "source": "TLDR Tech",
+      "publishedAt": 1795791442000
+    },
+    {
+      "id": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnewsletter.forethought.org%2Fp%2Fdo-scale-dependent-algorithms-cut-against-a-software-intelligence-explosion%3Futm_source=tldrai/1/010001a21d82d297-a65d9040-d1c8-4d02-907b-d9821ec74920-000000/J71COcFUFFUlW9z15KDzQopYnN8UvsYNBVb2VDlMtOo=452",
+      "title": "Miscellaneous",
+      "link": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnewsletter.forethought.org%2Fp%2Fdo-scale-dependent-algorithms-cut-against-a-software-intelligence-explosion%3Futm_source=tldrai/1/010001a21d82d297-a65d9040-d1c8-4d02-907b-d9821ec74920-000000/J71COcFUFFUlW9z15KDzQopYnN8UvsYNBVb2VDlMtOo=452",
+      "summary": "",
+      "source": "TLDR Tech",
+      "publishedAt": 1795791442000
+    },
+    {
+      "id": "https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VWhsGq6rrgPnW3Wvd_l9gwd80W4Mw1s55XTKB4N61zzTY3qgz0W6N1vHY6lZ3msW7J2tMl5vSKBPN9dy_bYJstBWN9jslMdr82-rW8PHGbN8W33nSN7V4rF0G610LVf5v8z2G9YWXN3YxjcNYMMMbW5hCgkd6-VslNW3bF8Jr87zCVCW85BqnM2Ww0LKW2NzW7p6vpXjWW7VgB8q3Cct0DW4_S7qn28dFLMMTvwgybJW5MW1GsbLY55TK5BV1NBzf5vWn9XW7jBP23756LRHV4P67S3l5BQjW305dsB3hK8QJVbtpQl4tr4KXW78BKJZ98b6xyN907TfSnNw3Tf6Knysx04",
+      "title": "A MESSAGE FROM DEEPLEARNING.AI",
+      "link": "https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VWhsGq6rrgPnW3Wvd_l9gwd80W4Mw1s55XTKB4N61zzTY3qgz0W6N1vHY6lZ3msW7J2tMl5vSKBPN9dy_bYJstBWN9jslMdr82-rW8PHGbN8W33nSN7V4rF0G610LVf5v8z2G9YWXN3YxjcNYMMMbW5hCgkd6-VslNW3bF8Jr87zCVCW85BqnM2Ww0LKW2NzW7p6vpXjWW7VgB8q3Cct0DW4_S7qn28dFLMMTvwgybJW5MW1GsbLY55TK5BV1NBzf5vWn9XW7jBP23756LRHV4P67S3l5BQjW305dsB3hK8QJVbtpQl4tr4KXW78BKJZ98b6xyN907TfSnNw3Tf6Knysx04",
+      "summary": "Black Friday for readers of The Batch : 25 percent off AI Dev NYC, our best offer yet and our last before the event. Join Andrew Ng, Yann LeCun, and teams from OpenAI and Runway at Chelsea Piers, Nov 30 - Dec 1. Tickets are almost gone. Claim your discount.",
+      "source": "The Batch",
+      "publishedAt": 1795788546000
+    },
+    {
+      "id": "https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VWhsGq6rrgPnW3Wvd_l9gwd80W4Mw1s55XTKB4N61zzT25nR3bW50kH_H6lZ3mBW1lvMFw13nrmnW4KPN9F7HYb7_N9gTDYrYZNsDW2-816M8WynzxN8NgqjyXhNqBW2yH6j06wF1QyW86lPrQ13HlkyW3xGCk07sZ0bXW9f5gfC95CtxWW8zDdBY1LzPXqW3PrYRv4kL_FLW1cHzsG8-mHdbW5Gkw6X5Nb9wxW367R-z7fj4R2W8869R_71fS4yW1445SZ1gDcK-W7XRnWM8DLvzPW5z8GyC3DYc0RV1t5Xb6wsc4nW4tM2w82yD0HCN5kZnY-Ns0ryW8P_N5P1sFHNyW6J3dyN6Gc1F6W59y7M12lQmKyN73jz2Fwr_tSW6FScgr5DsLQQW4_Hwft802rTlW2x9Tsh31LmvDW6QFVLV7LpVg6W4d82Wl1Qn95CW1F--KZ97KZQlW47vW4956F6MPf3bJKlH04",
+      "title": "Carbon, Hydrogen, Neon, Oh My!",
+      "link": "https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VWhsGq6rrgPnW3Wvd_l9gwd80W4Mw1s55XTKB4N61zzT25nR3bW50kH_H6lZ3mBW1lvMFw13nrmnW4KPN9F7HYb7_N9gTDYrYZNsDW2-816M8WynzxN8NgqjyXhNqBW2yH6j06wF1QyW86lPrQ13HlkyW3xGCk07sZ0bXW9f5gfC95CtxWW8zDdBY1LzPXqW3PrYRv4kL_FLW1cHzsG8-mHdbW5Gkw6X5Nb9wxW367R-z7fj4R2W8869R_71fS4yW1445SZ1gDcK-W7XRnWM8DLvzPW5z8GyC3DYc0RV1t5Xb6wsc4nW4tM2w82yD0HCN5kZnY-Ns0ryW8P_N5P1sFHNyW6J3dyN6Gc1F6W59y7M12lQmKyN73jz2Fwr_tSW6FScgr5DsLQQW4_Hwft802rTlW2x9Tsh31LmvDW6QFVLV7LpVg6W4d82Wl1Qn95CW1F--KZ97KZQlW47vW4956F6MPf3bJKlH04",
+      "summary": "",
+      "source": "The Batch",
+      "publishedAt": 1795788546000
+    },
+    {
+      "id": "https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VWhsGq6rrgPnW3Wvd_l9gwd80W4Mw1s55XTKB4N61zzVd3qgz0W7lCdLW6lZ3pcW8dq5lV2JM2t2W7f-dYd8Z-rvxW5GQ90D8DGg_CVHVr-V5z72fWW34d63m12y10lW8h44056ZSzfrV6t0wW7SXpGMW8-v52-221T8NW8CbGzM6nBlqdVR4Ngh71qy7nW981JDY8csgGKW2YjFp43GZl59W1HpJFR5KbdrwW5B-2yg2GLGYpW7KZWpm5QJ7YgW1t0_Cb330KKhW52RVhc64DfhFW2-yWtq4pRhbYW2lB8Zb3kYwvkW4WJdzP54y1L9VQlJ_D41dvL7VVCHBR4531dPW39kGk_88mgCkW3_flQq1GJP5Sf8P9Zk604",
+      "title": "llama.cpp Makes It Official",
+      "link": "https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VWhsGq6rrgPnW3Wvd_l9gwd80W4Mw1s55XTKB4N61zzVd3qgz0W7lCdLW6lZ3pcW8dq5lV2JM2t2W7f-dYd8Z-rvxW5GQ90D8DGg_CVHVr-V5z72fWW34d63m12y10lW8h44056ZSzfrV6t0wW7SXpGMW8-v52-221T8NW8CbGzM6nBlqdVR4Ngh71qy7nW981JDY8csgGKW2YjFp43GZl59W1HpJFR5KbdrwW5B-2yg2GLGYpW7KZWpm5QJ7YgW1t0_Cb330KKhW52RVhc64DfhFW2-yWtq4pRhbYW2lB8Zb3kYwvkW4WJdzP54y1L9VQlJ_D41dvL7VVCHBR4531dPW39kGk_88mgCkW3_flQq1GJP5Sf8P9Zk604",
+      "summary": "",
+      "source": "The Batch",
+      "publishedAt": 1795788546000
+    },
+    {
+      "id": "https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VWhsGq6rrgPnW3Wvd_l9gwd80W4Mw1s55XTKB4N61zzVd3qgz0W7lCdLW6lZ3pGW5q362G7yy_QwW62XhHh53Tx8dN35JtLt-LNcpW6J7WLT7cng7_W5bCzHG9j2HV3W5Mtnz03NvF7yW1wQc7740ml6VW2gv97b2FHD9KW13MWwK1m1VrRW3P4lSs4rKnxmW5bmB9k2rQFc0F2NH_5Lkw62W8pPp_n5TWcVLW8x4JpX6ByyMvVbnxDr2t7cjcW4WLljz2SpR2nW4hh2N87QPvntW3l1BYK8NSk7cW5hVD739fGlmxV6YmHF7lvZNQW1HcFgV6c9l5TVfywPY3Hd_WyW37wM9M2X3dMnW3CnmL82-Q9Vqf2wQ8Xl04",
+      "title": "How the “Token Tax” Hurts Non-English Users",
+      "link": "https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VWhsGq6rrgPnW3Wvd_l9gwd80W4Mw1s55XTKB4N61zzVd3qgz0W7lCdLW6lZ3pGW5q362G7yy_QwW62XhHh53Tx8dN35JtLt-LNcpW6J7WLT7cng7_W5bCzHG9j2HV3W5Mtnz03NvF7yW1wQc7740ml6VW2gv97b2FHD9KW13MWwK1m1VrRW3P4lSs4rKnxmW5bmB9k2rQFc0F2NH_5Lkw62W8pPp_n5TWcVLW8x4JpX6ByyMvVbnxDr2t7cjcW4WLljz2SpR2nW4hh2N87QPvntW3l1BYK8NSk7cW5hVD739fGlmxV6YmHF7lvZNQW1HcFgV6c9l5TVfywPY3Hd_WyW37wM9M2X3dMnW3CnmL82-Q9Vqf2wQ8Xl04",
+      "summary": "",
+      "source": "The Batch",
+      "publishedAt": 1795788546000
+    },
+    {
+      "id": "https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VWhsGq6rrgPnW3Wvd_l9gwd80W4Mw1s55XTKB4N61zzTY3qgz0W6N1vHY6lZ3q2N81F4c_w-jc5N45HJ2Zg94X9W8zpbqB1T8qClW31fWSm3VYX9ZW7LCrNh2QLLTzW3Cmt0N3pPwg0W2T81Zc8gq4MlW46LzqD4DmH36W321Z845Xvn76W7bGvqW7zn8_DW66flnw4MFVZnW9bVxRV65wBqLW5n3NNw9gQ1BzW8BmZMk3_WS94W2NBMTy1MpzyyW3lMLPY96fClYVKGxGm5GVM66W7kNkPG7QbN8jW3gtxfv7bfSMdW2f4WwW3RnBSmW1B6Fxm37yrNbW7pvM246yYnhVdTL3hF04",
+      "title": "Communicating Agents’ Thoughts",
+      "link": "https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VWhsGq6rrgPnW3Wvd_l9gwd80W4Mw1s55XTKB4N61zzTY3qgz0W6N1vHY6lZ3q2N81F4c_w-jc5N45HJ2Zg94X9W8zpbqB1T8qClW31fWSm3VYX9ZW7LCrNh2QLLTzW3Cmt0N3pPwg0W2T81Zc8gq4MlW46LzqD4DmH36W321Z845Xvn76W7bGvqW7zn8_DW66flnw4MFVZnW9bVxRV65wBqLW5n3NNw9gQ1BzW8BmZMk3_WS94W2NBMTy1MpzyyW3lMLPY96fClYVKGxGm5GVM66W7kNkPG7QbN8jW3gtxfv7bfSMdW2f4WwW3RnBSmW1B6Fxm37yrNbW7pvM246yYnhVdTL3hF04",
+      "summary": "",
+      "source": "The Batch",
+      "publishedAt": 1795788546000
+    },
+    {
+      "id": "https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VWhsGq6rrgPnW3Wvd_l9gwd80W4Mw1s55XTKB4N61zzTY3qgz0W6N1vHY6lZ3lSW7vng0R7NgRqPW4_K6Rw20GT38MtXHbgc00XNW8SZJc748zvrWW4J9BbD5lj-xCW2XfQXQ81vvLsW3d43dG7VPmPlW3mMCCS1p2dV0W3Sldc-8-Y2M6W4dPbdd8wwj6TN43-KdSn_0BzW3G_m3g7b1p-yW8ksQh22RmBsWW18B7B19dbVB1W3Cpt2R7gFhQ1W3L9mMp8S2R86V-KPyY6gLXG0W12lfKN6mh5jxW1Vn66r38JH0RVctbJV4fsLBqW69W5zQ2tFqjtW18mhfR3_F_8Xf56lB9g04",
+      "title": "Work With Andrew Ng",
+      "link": "https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VWhsGq6rrgPnW3Wvd_l9gwd80W4Mw1s55XTKB4N61zzTY3qgz0W6N1vHY6lZ3lSW7vng0R7NgRqPW4_K6Rw20GT38MtXHbgc00XNW8SZJc748zvrWW4J9BbD5lj-xCW2XfQXQ81vvLsW3d43dG7VPmPlW3mMCCS1p2dV0W3Sldc-8-Y2M6W4dPbdd8wwj6TN43-KdSn_0BzW3G_m3g7b1p-yW8ksQh22RmBsWW18B7B19dbVB1W3Cpt2R7gFhQ1W3L9mMp8S2R86V-KPyY6gLXG0W12lfKN6mh5jxW1Vn66r38JH0RVctbJV4fsLBqW69W5zQ2tFqjtW18mhfR3_F_8Xf56lB9g04",
+      "summary": "",
+      "source": "The Batch",
+      "publishedAt": 1795788546000
+    },
     {
       "id": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffandf.co%2F4AEtY19%3Futm_source=TLDR%26utm_medium=newsletter%26utm_campaign=2026-11-27_tldr_primary_atlassian_jira%26utm_content=header_manage_agent_swarm%26utm_term=2026-11-27_tldr/2/010001a21cd3fafd-f6eb36b2-ee6b-4309-bad9-096cd61cace5-000000/xr_opdGFGaFgCSaDrs21pMA68YgKSZjPS42Al2GbOYA=452",
       "title": "TLDR 2026-11-27",
@@ -313,94 +401,6 @@
       "summary": "How hair salons are trimming waste and going green",
       "source": "The Hustle",
       "publishedAt": 1795607234000
-    },
-    {
-      "id": "https://thehustle.co/e3t/Ctc/UB+113/d2q-Vf04/VVt65x5JCqRXW3swhXG8K6kHtW8LzBkh5XPd06N5QLhSR2-ZW0W6N1vHY6lZ3ndW4H3kn31n_L9GN79Zdfq2c01tW48zsw65hxbhmN7Yz1b2RSK2qN2WD4ZHqtLWWVQddhC2PKYnGW7Yt8r61MtTFyW5NBH_M7yWn-fW1_Ltgj1mzm9tW1fPvGS8rltz-W5F1FM61v2SqMVtVK-n7v_X6VW5NMYDk4V2hlHW9cP_8q4CBjcmW2WSMS27_H1RZW7yb0FQ3SXMWfW6l9-yS1HnkgLW7w5vRK4xBlLqVsKGFM2ZxBv2W38XXKN8FtMLkVd4-xr67YtPxW3qyZkR7dynYkdKwn1l04",
-      "title": "HIGHLY RECOMMENDED",
-      "link": "https://thehustle.co/e3t/Ctc/UB+113/d2q-Vf04/VVt65x5JCqRXW3swhXG8K6kHtW8LzBkh5XPd06N5QLhSR2-ZW0W6N1vHY6lZ3ndW4H3kn31n_L9GN79Zdfq2c01tW48zsw65hxbhmN7Yz1b2RSK2qN2WD4ZHqtLWWVQddhC2PKYnGW7Yt8r61MtTFyW5NBH_M7yWn-fW1_Ltgj1mzm9tW1fPvGS8rltz-W5F1FM61v2SqMVtVK-n7v_X6VW5NMYDk4V2hlHW9cP_8q4CBjcmW2WSMS27_H1RZW7yb0FQ3SXMWfW6l9-yS1HnkgLW7w5vRK4xBlLqVsKGFM2ZxBv2W38XXKN8FtMLkVd4-xr67YtPxW3qyZkR7dynYkdKwn1l04",
-      "summary": "",
-      "source": "The Hustle",
-      "publishedAt": 1795607234000
-    },
-    {
-      "id": "https://thehustle.co/e3t/Ctc/UB+113/d2q-Vf04/VVt65x5JCqRXW3swhXG8K6kHtW8LzBkh5XPd06N5QLhT62-ZW0W7lCdLW6lZ3nqW5DGfqF5XDfdwW687_Yl7MJs6sW8Df7BV3rm4XxW51Y4zg3H7WckW5h573Q3L08L7W2gbz6K3Tmh2zW5Nv22d47BN9vN5W5HZBXb7SPN7lCmzTRzRtRW2PPkbS5prQKWW6cfCML7wHrVnW2P7tvX2YpJMnW81ZQG0513bqQW3yCnqy9jKhW1W6n5f641Rk6CBVRZNPC1FJkrDW4fbshl8tWLBsN3KLp0zjVWcyW5n5kvT4HfClkW27XRxX9bpc3MW4BNnms46B4n6W1HW56S4JrfZQW2KqDMN98g_vPW37dqJt3gKYK8f5f1Kj004",
-      "title": "NEWSWORTHY NUMBER",
-      "link": "https://thehustle.co/e3t/Ctc/UB+113/d2q-Vf04/VVt65x5JCqRXW3swhXG8K6kHtW8LzBkh5XPd06N5QLhT62-ZW0W7lCdLW6lZ3nqW5DGfqF5XDfdwW687_Yl7MJs6sW8Df7BV3rm4XxW51Y4zg3H7WckW5h573Q3L08L7W2gbz6K3Tmh2zW5Nv22d47BN9vN5W5HZBXb7SPN7lCmzTRzRtRW2PPkbS5prQKWW6cfCML7wHrVnW2P7tvX2YpJMnW81ZQG0513bqQW3yCnqy9jKhW1W6n5f641Rk6CBVRZNPC1FJkrDW4fbshl8tWLBsN3KLp0zjVWcyW5n5kvT4HfClkW27XRxX9bpc3MW4BNnms46B4n6W1HW56S4JrfZQW2KqDMN98g_vPW37dqJt3gKYK8f5f1Kj004",
-      "summary": "Football fields' worth of food that went to waste last Thanksgiving, per a new study from researchers at Ohio State University. That’s 166k metric tons of uneaten grub worth $3B, 40% more food waste compared to a typical week in late fall. And it wasn’t all just green beans and…",
-      "source": "The Hustle",
-      "publishedAt": 1795607234000
-    },
-    {
-      "id": "https://thehustle.co/e3t/Ctc/UB+113/d2q-Vf04/VVt65x5JCqRXW3swhXG8K6kHtW8LzBkh5XPd06N5QLhSx6Y2WnW69tBBd6lZ3nNW44G2P25LlxD3W7VNzwS6RW8ZwW4F3H4441F2N2W40T97n3659T4W4T5wPy3NXZhYW2wrjF85xBkGPW3qHw6m6NCxVHW2WJGlg1wqb8tVm6ZW87FNny1N2N9mByzKfTNW14_C2Q6hKKqYW85WXTD6GhbhvW56hjv951y_Z4W4XnwxJ5r4cyJW5wVrl88X86hlW6lWrnW3PZg4KW731dm25YSN_9W4x3Mw71KNfrPW1NsX976ndRxBVWFFqK5QxBb7W4CLRR93XTX96W4x2hHy92rgNHW79dhRB18Yn3ZW8LPK8t7kPDBjW2hQjhq8LjhLQV5q_qy7kNSy8W3mqcL61XH7Z1W9jYJyN6lqxPjW1t_zPs6NggK9W6K-BLZ3YXGpwW88YsyQ7jQssKVtccVK5Br6FLW1Hy5zF2VRJZ_W1Qwc7N3R6bsBW451XZn3k6_cBW50KPXQ4YLbctW3zt28z25b6vTW5Zz5lC54gB1hW4Fc87v2bwFjVN1S6zV-XB_G0W4Hd1Mz2QNjtCMscTjyKh_JxN80gjs_rtV0gW3g16Ff3rvDpLW38gY_W4LDsn4W2jm7Ls87D14-W8vXqBW6V9LRTV_JN8d9hFHc-W8RfDQn5TjV7MW8pg_Tc6pQPjgW12bBFt10CGZpN8CBTRTz5NtZf4-HDJT04",
-      "title": "HOW YOU HUSTLE",
-      "link": "https://thehustle.co/e3t/Ctc/UB+113/d2q-Vf04/VVt65x5JCqRXW3swhXG8K6kHtW8LzBkh5XPd06N5QLhSx6Y2WnW69tBBd6lZ3nNW44G2P25LlxD3W7VNzwS6RW8ZwW4F3H4441F2N2W40T97n3659T4W4T5wPy3NXZhYW2wrjF85xBkGPW3qHw6m6NCxVHW2WJGlg1wqb8tVm6ZW87FNny1N2N9mByzKfTNW14_C2Q6hKKqYW85WXTD6GhbhvW56hjv951y_Z4W4XnwxJ5r4cyJW5wVrl88X86hlW6lWrnW3PZg4KW731dm25YSN_9W4x3Mw71KNfrPW1NsX976ndRxBVWFFqK5QxBb7W4CLRR93XTX96W4x2hHy92rgNHW79dhRB18Yn3ZW8LPK8t7kPDBjW2hQjhq8LjhLQV5q_qy7kNSy8W3mqcL61XH7Z1W9jYJyN6lqxPjW1t_zPs6NggK9W6K-BLZ3YXGpwW88YsyQ7jQssKVtccVK5Br6FLW1Hy5zF2VRJZ_W1Qwc7N3R6bsBW451XZn3k6_cBW50KPXQ4YLbctW3zt28z25b6vTW5Zz5lC54gB1hW4Fc87v2bwFjVN1S6zV-XB_G0W4Hd1Mz2QNjtCMscTjyKh_JxN80gjs_rtV0gW3g16Ff3rvDpLW38gY_W4LDsn4W2jm7Ls87D14-W8vXqBW6V9LRTV_JN8d9hFHc-W8RfDQn5TjV7MW8pg_Tc6pQPjgW12bBFt10CGZpN8CBTRTz5NtZf4-HDJT04",
-      "summary": "Y’all are always cooking up something cool. This is our weekly spotlight on a Hustle reader’s ambitious venture.",
-      "source": "The Hustle",
-      "publishedAt": 1795607234000
-    },
-    {
-      "id": "https://thehustle.co/e3t/Ctc/UB+113/d2q-Vf04/VVt65x5JCqRXW3swhXG8K6kHtW8LzBkh5XPd06N5QLhT62-ZW0W7lCdLW6lZ3pfW1zy3gm5BP_pjW5kRHVf2QCPH6W3ncCmK5zt8zsW4k0hDb5VLkp0W7wQhfG7Mp28mW2sS2B92KczppM_Dvz6vdKyyN5lRpdZKxSg8W67fk0f38S7ZSW2vDpYP3F89WQVWdBFn7ZGZXnW3Y92Jb1vFFcPW92zcDP3rVdd7W4NXXCx8nmr5GW6dtJHz6rFY8fW8d-YB61VSTLjW4PgZTw6v7NpLW7GnmGW3Q2m6bN7vQfylPvt9NW1j5wNy1TkgKfW5J8P4B8dYRDGN3KzbL9HFFn-W4tfNFR1b64dzW85wT6G90d6hhf1R_FMW04",
-      "title": "AROUND THE WEB",
-      "link": "https://thehustle.co/e3t/Ctc/UB+113/d2q-Vf04/VVt65x5JCqRXW3swhXG8K6kHtW8LzBkh5XPd06N5QLhT62-ZW0W7lCdLW6lZ3pfW1zy3gm5BP_pjW5kRHVf2QCPH6W3ncCmK5zt8zsW4k0hDb5VLkp0W7wQhfG7Mp28mW2sS2B92KczppM_Dvz6vdKyyN5lRpdZKxSg8W67fk0f38S7ZSW2vDpYP3F89WQVWdBFn7ZGZXnW3Y92Jb1vFFcPW92zcDP3rVdd7W4NXXCx8nmr5GW6dtJHz6rFY8fW8d-YB61VSTLjW4PgZTw6v7NpLW7GnmGW3Q2m6bN7vQfylPvt9NW1j5wNy1TkgKfW5J8P4B8dYRDGN3KzbL9HFFn-W4tfNFR1b64dzW85wT6G90d6hhf1R_FMW04",
-      "summary": "📅 On this day: In 1963, John F. Kennedy was buried at Arlington National Cemetery, three days after his assassination in Dallas.",
-      "source": "The Hustle",
-      "publishedAt": 1795607234000
-    },
-    {
-      "id": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2Fbook-a-campaign%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=primary11252026%26sp=O619ePvXMgQjWYC6a4MEbJjM/2/010001a212866a76-13258054-dd85-47cd-9aa2-d4719c841841-000000/hTP4o_mfAR1UMf-nnUnWvtRIQK3WnnlwT5v6MaKo5zQ=452",
-      "title": "TLDR 2026-11-25",
-      "link": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2Fbook-a-campaign%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=primary11252026%26sp=O619ePvXMgQjWYC6a4MEbJjM/2/010001a212866a76-13258054-dd85-47cd-9aa2-d4719c841841-000000/hTP4o_mfAR1UMf-nnUnWvtRIQK3WnnlwT5v6MaKo5zQ=452",
-      "summary": "",
-      "source": "TLDR Tech",
-      "publishedAt": 1795607128000
-    },
-    {
-      "id": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-11-24%2Fnvidia-s-huang-to-host-all-hands-meeting-a-day-after-his-return%3FaccessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTU5MTYxNCwiZXhwIjoxNzk2MTk2NDE0LCJhcnRpY2xlSWQiOiJUUDBONzNUOTZPU0cwMCIsImJjb25uZWN0SWQiOiJBOEExRDhFQTI5OTc0OTRGQTQ1QUE2REJBMjAwNTM3MSJ9.e37IuvlQG2Nbdkmu77u9Od_yrwzGDZCDDSPQzom9vOM%26utm_source=tldrnewsletter/1/010001a212866a76-13258054-dd85-47cd-9aa2-d4719c841841-000000/0EyazKSXKo39fnbAHUJ9AM-NGpNZFp5i_vlxJSkoghM=452",
-      "title": "Big Tech & Startups",
-      "link": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2026-11-24%2Fnvidia-s-huang-to-host-all-hands-meeting-a-day-after-his-return%3FaccessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTU5MTYxNCwiZXhwIjoxNzk2MTk2NDE0LCJhcnRpY2xlSWQiOiJUUDBONzNUOTZPU0cwMCIsImJjb25uZWN0SWQiOiJBOEExRDhFQTI5OTc0OTRGQTQ1QUE2REJBMjAwNTM3MSJ9.e37IuvlQG2Nbdkmu77u9Od_yrwzGDZCDDSPQzom9vOM%26utm_source=tldrnewsletter/1/010001a212866a76-13258054-dd85-47cd-9aa2-d4719c841841-000000/0EyazKSXKo39fnbAHUJ9AM-NGpNZFp5i_vlxJSkoghM=452",
-      "summary": "",
-      "source": "TLDR Tech",
-      "publishedAt": 1795607128000
-    },
-    {
-      "id": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fscottaaronson.blog%2F%3Fp=10362%26utm_source=tldrnewsletter/1/010001a212866a76-13258054-dd85-47cd-9aa2-d4719c841841-000000/7uM1PGFmdGDon_mzv-KDbOgZQ8MlcXVzMULWIWUDgqY=452",
-      "title": "Science & Futuristic Technology",
-      "link": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fscottaaronson.blog%2F%3Fp=10362%26utm_source=tldrnewsletter/1/010001a212866a76-13258054-dd85-47cd-9aa2-d4719c841841-000000/7uM1PGFmdGDon_mzv-KDbOgZQ8MlcXVzMULWIWUDgqY=452",
-      "summary": "",
-      "source": "TLDR Tech",
-      "publishedAt": 1795607128000
-    },
-    {
-      "id": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.frankrousseau.fr%2Fagentic-coding-on-an-open-source-project%2F%3Futm_source=tldrnewsletter/1/010001a212866a76-13258054-dd85-47cd-9aa2-d4719c841841-000000/q0Q12jUIZ4vc5OXRgXCqyMVoV9POxBzF7V7r4ToqNN8=452",
-      "title": "Programming, Design & Data Science",
-      "link": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.frankrousseau.fr%2Fagentic-coding-on-an-open-source-project%2F%3Futm_source=tldrnewsletter/1/010001a212866a76-13258054-dd85-47cd-9aa2-d4719c841841-000000/q0Q12jUIZ4vc5OXRgXCqyMVoV9POxBzF7V7r4ToqNN8=452",
-      "summary": "",
-      "source": "TLDR Tech",
-      "publishedAt": 1795607128000
-    },
-    {
-      "id": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcommunity.tldr.tech%2Ft%2Fwhat-new-work-habits-have-you-picked-up-as-you-ve-started-using-ai-mor%3Futm_source=tldrnewsletter/1/010001a212866a76-13258054-dd85-47cd-9aa2-d4719c841841-000000/kQpZXtfOxn_vL1C0Q3p3xOmXmYAmru-XWQyUGrsY54o=452",
-      "title": "Miscellaneous",
-      "link": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcommunity.tldr.tech%2Ft%2Fwhat-new-work-habits-have-you-picked-up-as-you-ve-started-using-ai-mor%3Futm_source=tldrnewsletter/1/010001a212866a76-13258054-dd85-47cd-9aa2-d4719c841841-000000/kQpZXtfOxn_vL1C0Q3p3xOmXmYAmru-XWQyUGrsY54o=452",
-      "summary": "",
-      "source": "TLDR Tech",
-      "publishedAt": 1795607128000
-    },
-    {
-      "id": "https://link.mail.beehiiv.com/ss/c/u001.dSnm3kaGd0BkNqLYPjeMf_DKThdpaPaB9_aROy42m3-QkrpXFAupeHADtSyezHztzSRqfdI5KA69nA7xk0zTSXEmevCz9Jn_3XGqFo9_wa9heqdjYA7koSefo0645oHtZUTxAXvsPPxgCxH7dLfyFNxa0ZqyMJY82henDnNsQN-rOx9CBgUS5P7BeqpnR2P4129li99dh9gmz8vBPO2Lq_Hgkt45Qv8hwgHhl6y2iNc/4w1/gLJ7NcnzQvaYNBeGsZZNXw/h29/h001.Znd-H5QdA3EP9QRTOvdCiwRL8aFrdqCF14vNLIUqogE",
-      "title": "🛠️ Trending AI Tools",
-      "link": "https://link.mail.beehiiv.com/ss/c/u001.dSnm3kaGd0BkNqLYPjeMf_DKThdpaPaB9_aROy42m3-QkrpXFAupeHADtSyezHztzSRqfdI5KA69nA7xk0zTSXEmevCz9Jn_3XGqFo9_wa9heqdjYA7koSefo0645oHtZUTxAXvsPPxgCxH7dLfyFNxa0ZqyMJY82henDnNsQN-rOx9CBgUS5P7BeqpnR2P4129li99dh9gmz8vBPO2Lq_Hgkt45Qv8hwgHhl6y2iNc/4w1/gLJ7NcnzQvaYNBeGsZZNXw/h29/h001.Znd-H5QdA3EP9QRTOvdCiwRL8aFrdqCF14vNLIUqogE",
-      "summary": "🔒 Incogni - Remove your personal data from the web so scammers and identity thieves can’t access it. Use code RUNDOWN to get 58% off*",
-      "source": "The Rundown AI",
-      "publishedAt": 1795604822000
-    },
-    {
-      "id": "https://link.mail.beehiiv.com/ss/c/u001.dSnm3kaGd0BkNqLYPjeMf0gyeM8tESkQ4qmvKtcxeZ9Sf8FWzyiEWE10HHsJrV5cblVac8sPVuUw3gneLIw3rtqW6_4IEyEyGCvBdTH6tfKtx4hRcRZzrew8RfHWk9lJYhE7qhWf23ISlzVNOGbSJvTr2J-uvyoHbi1X-zfsU-ngXjQ0ixvrG7-PfEATPU7N2SdtS_z5OgbDZJY7_Frp_NwRj1pnREJLV_MDSi2eLsk/4w1/gLJ7NcnzQvaYNBeGsZZNXw/h34/h001.fmTpXKaeK3vANi5mXDpFryf7bgGAOF5EHySIDrU8Rqc",
-      "title": "📰 Everything else in AI today",
-      "link": "https://link.mail.beehiiv.com/ss/c/u001.dSnm3kaGd0BkNqLYPjeMf0gyeM8tESkQ4qmvKtcxeZ9Sf8FWzyiEWE10HHsJrV5cblVac8sPVuUw3gneLIw3rtqW6_4IEyEyGCvBdTH6tfKtx4hRcRZzrew8RfHWk9lJYhE7qhWf23ISlzVNOGbSJvTr2J-uvyoHbi1X-zfsU-ngXjQ0ixvrG7-PfEATPU7N2SdtS_z5OgbDZJY7_Frp_NwRj1pnREJLV_MDSi2eLsk/4w1/gLJ7NcnzQvaYNBeGsZZNXw/h34/h001.fmTpXKaeK3vANi5mXDpFryf7bgGAOF5EHySIDrU8Rqc",
-      "summary": "Anthropic said an internal Claude model solved a 47-year-old math problem tied to computing's famous P vs NP question; the proof has yet to be checked.",
-      "source": "The Rundown AI",
-      "publishedAt": 1795604822000
     }
   ]
 }
