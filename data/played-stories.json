@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-28T01:20:08.065Z",
- "lastSyncBucket": 997681,
+ "updatedAt": "2026-11-28T01:35:02.855Z",
+ "lastSyncBucket": 997682,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -45219,6 +45219,96 @@
    "key": "https://www.aljazeera.com/?t=1795814749",
    "firstQueuedAtMs": 1795825800000,
    "playedAtMs": 1795825800000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1043445",
+   "firstQueuedAtMs": 1795827600000,
+   "playedAtMs": 1795827600000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/27/house-was-gone-apparent-home-explosion-heard-nearly-12-miles-away/",
+   "firstQueuedAtMs": 1795827600000,
+   "playedAtMs": 1795827600000
+  },
+  {
+   "key": "https://thehill.com/?p=6245814",
+   "firstQueuedAtMs": 1795827600000,
+   "playedAtMs": 1795827600000
+  },
+  {
+   "key": "https://ssg.dev/passkey-blues/",
+   "firstQueuedAtMs": 1795827600000,
+   "playedAtMs": 1795827600000
+  },
+  {
+   "key": "https://www.fofr.ai/greenhouse-after-the-typhoon",
+   "firstQueuedAtMs": 1795827600000,
+   "playedAtMs": 1795827600000
+  },
+  {
+   "key": "https://shellzine.net/cyberpunk-television/",
+   "firstQueuedAtMs": 1795827600000,
+   "playedAtMs": 1795827600000
+  },
+  {
+   "key": "99b1d33b-d45e-4f26-a86e-7b546b105daa",
+   "firstQueuedAtMs": 1795827600000,
+   "playedAtMs": 1795827600000
+  },
+  {
+   "key": "6d38c671-86b4-4900-a4ea-1478671923c7",
+   "firstQueuedAtMs": 1795827600000,
+   "playedAtMs": 1795827600000
+  },
+  {
+   "key": "e7c89658-b7c5-4a1f-be61-8cba8e77c6ab",
+   "firstQueuedAtMs": 1795827600000,
+   "playedAtMs": 1795827600000
+  },
+  {
+   "key": "391c15ea-35d9-4706-b444-4fdc60b1154c",
+   "firstQueuedAtMs": 1795827600000,
+   "playedAtMs": 1795827600000
+  },
+  {
+   "key": "3bf1f05f-7392-4729-9e59-6a68f110f32f",
+   "firstQueuedAtMs": 1795827600000,
+   "playedAtMs": 1795827600000
+  },
+  {
+   "key": "038dee96-d7f0-4200-affc-24306f115639",
+   "firstQueuedAtMs": 1795827600000,
+   "playedAtMs": 1795827600000
+  },
+  {
+   "key": "nn_sro_weather_friday_261127",
+   "firstQueuedAtMs": 1795827600000,
+   "playedAtMs": 1795827600000
+  },
+  {
+   "key": "nn_bch_black_friday_261127",
+   "firstQueuedAtMs": 1795827600000,
+   "playedAtMs": 1795827600000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3376084/trade-gold-and-culture-russian-envoy-pushes-closer-ties-hong-kong",
+   "firstQueuedAtMs": 1795827600000,
+   "playedAtMs": 1795827600000
+  },
+  {
+   "key": "https://www.scmp.com/business/companies/article/3376061/convenience-stores-face-pressure-7-eleven-set-open-largest-china-outlet-kunming",
+   "firstQueuedAtMs": 1795827600000,
+   "playedAtMs": 1795827600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795821249",
+   "firstQueuedAtMs": 1795827600000,
+   "playedAtMs": 1795827600000
+  },
+  {
+   "key": "https://news.sky.com/story/son-of-hamas-chief-and-his-family-survive-israeli-airstrike-group-says-13617394",
+   "firstQueuedAtMs": 1795827600000,
+   "playedAtMs": 1795827600000
   }
  ]
 }
