@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-28T02:20:56.077Z",
- "lastSyncBucket": 997683,
+ "updatedAt": "2026-11-28T02:35:20.843Z",
+ "lastSyncBucket": 997684,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -45364,6 +45364,46 @@
    "key": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o#3",
    "firstQueuedAtMs": 1795829400000,
    "playedAtMs": 1795829400000
+  },
+  {
+   "key": "https://quin.fyi/posts/how-winhelp-files-work.html",
+   "firstQueuedAtMs": 1795831200000,
+   "playedAtMs": 1795831200000
+  },
+  {
+   "key": "https://www.kshb.com/obituaries/jermaine-haley-known-as-wwe-wrestler-bronson-reed-dies-at-38",
+   "firstQueuedAtMs": 1795831200000,
+   "playedAtMs": 1795831200000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/black-friday-luggage-deals-2026-rcna610974",
+   "firstQueuedAtMs": 1795831200000,
+   "playedAtMs": 1795831200000
+  },
+  {
+   "key": "https://www.scmp.com/news/people-culture/trending-china/article/3376107/chinese-wife-asks-online-gamers-repeatedly-kill-husband-curb-late-night-gaming-habit",
+   "firstQueuedAtMs": 1795831200000,
+   "playedAtMs": 1795831200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795823479",
+   "firstQueuedAtMs": 1795831200000,
+   "playedAtMs": 1795831200000
+  },
+  {
+   "key": "https://www.scmp.com/week-asia/people/article/3376083/mary-jane-veloso-life-after-death-row-indonesia-and-finding-freedom-i-was-reborn",
+   "firstQueuedAtMs": 1795831200000,
+   "playedAtMs": 1795831200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795830294",
+   "firstQueuedAtMs": 1795831200000,
+   "playedAtMs": 1795831200000
+  },
+  {
+   "key": "9.7436802",
+   "firstQueuedAtMs": 1795831200000,
+   "playedAtMs": 1795831200000
   }
  ]
 }
