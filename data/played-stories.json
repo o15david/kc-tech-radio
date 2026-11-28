@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-28T14:20:05.326Z",
- "lastSyncBucket": 997707,
+ "updatedAt": "2026-11-28T14:35:24.928Z",
+ "lastSyncBucket": 997708,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -47074,6 +47074,126 @@
    "key": "https://www.aljazeera.com/?t=1795867827",
    "firstQueuedAtMs": 1795872600000,
    "playedAtMs": 1795872600000
+  },
+  {
+   "key": "WP-MKTW-0005348269",
+   "firstQueuedAtMs": 1795874400000,
+   "playedAtMs": 1795874400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/28/firefighters-rescue-person-stranded-40-feet-up-bucket-truck/",
+   "firstQueuedAtMs": 1795874400000,
+   "playedAtMs": 1795874400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/27/farmer-finds-body-while-working-field/",
+   "firstQueuedAtMs": 1795874400000,
+   "playedAtMs": 1795874400000
+  },
+  {
+   "key": "https://lobste.rs/s/brcqm7",
+   "firstQueuedAtMs": 1795874400000,
+   "playedAtMs": 1795874400000
+  },
+  {
+   "key": "108558534",
+   "firstQueuedAtMs": 1795874400000,
+   "playedAtMs": 1795874400000
+  },
+  {
+   "key": "https://spaceflightnow.com/?p=75037",
+   "firstQueuedAtMs": 1795874400000,
+   "playedAtMs": 1795874400000
+  },
+  {
+   "key": "https://electrek.co/?p=480247",
+   "firstQueuedAtMs": 1795874400000,
+   "playedAtMs": 1795874400000
+  },
+  {
+   "key": "983e4b9a-02b3-4be5-a6c4-016b2498ecfe",
+   "firstQueuedAtMs": 1795874400000,
+   "playedAtMs": 1795874400000
+  },
+  {
+   "key": "news713159656",
+   "firstQueuedAtMs": 1795874400000,
+   "playedAtMs": 1795874400000
+  },
+  {
+   "key": "108556726",
+   "firstQueuedAtMs": 1795874400000,
+   "playedAtMs": 1795874400000
+  },
+  {
+   "key": "https://www.inc.com/elizabeth-gore/risk-isnt-always-worth-taking-jimmy-chin-explains-when-leaders-should-walk-away/91443065",
+   "firstQueuedAtMs": 1795874400000,
+   "playedAtMs": 1795874400000
+  },
+  {
+   "key": "https://www.inc.com/chloe-rosenberg/developer-selling-30-million-dollar-mansion-cash-is-not-preferred-payment/91442088",
+   "firstQueuedAtMs": 1795874400000,
+   "playedAtMs": 1795874400000
+  },
+  {
+   "key": "https://www.inc.com/nicole-ramirez/founders-building-audience-before-product-ai-linkedin-data/91439195",
+   "firstQueuedAtMs": 1795874400000,
+   "playedAtMs": 1795874400000
+  },
+  {
+   "key": "108560346",
+   "firstQueuedAtMs": 1795874400000,
+   "playedAtMs": 1795874400000
+  },
+  {
+   "key": "https://github.com/MVS-sysgen/sysgen",
+   "firstQueuedAtMs": 1795874400000,
+   "playedAtMs": 1795874400000
+  },
+  {
+   "key": "https://bjango.com/mac/skala/",
+   "firstQueuedAtMs": 1795874400000,
+   "playedAtMs": 1795874400000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/27/sheriff-reveals-countys-first-triple-murder-crime-scene-is-his-former-home/",
+   "firstQueuedAtMs": 1795874400000,
+   "playedAtMs": 1795874400000
+  },
+  {
+   "key": "74553862",
+   "firstQueuedAtMs": 1795874400000,
+   "playedAtMs": 1795874400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/28/high-school-teacher-under-investigation-after-being-mentioned-note-student-who-died-by-suicide/",
+   "firstQueuedAtMs": 1795874400000,
+   "playedAtMs": 1795874400000
+  },
+  {
+   "key": "https://www.dw.com/en/ai-generated-lawsuits-flood-german-courts/a-80076247?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795874400000,
+   "playedAtMs": 1795874400000
+  },
+  {
+   "key": "https://www.scmp.com/news/world/russia-central-asia/article/3376148/ukraine-reports-least-9-killed-russia-shoots-down-over-1200-drones",
+   "firstQueuedAtMs": 1795874400000,
+   "playedAtMs": 1795874400000
+  },
+  {
+   "key": "https://iowacapitaldispatch.com/?post_type=republished&p=61478",
+   "firstQueuedAtMs": 1795874400000,
+   "playedAtMs": 1795874400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795869053",
+   "firstQueuedAtMs": 1795874400000,
+   "playedAtMs": 1795874400000
+  },
+  {
+   "key": "https://michiganadvance.com/?p=116228",
+   "firstQueuedAtMs": 1795874400000,
+   "playedAtMs": 1795874400000
   }
  ]
 }
