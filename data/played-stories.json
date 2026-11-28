@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-28T04:20:06.964Z",
- "lastSyncBucket": 997687,
+ "updatedAt": "2026-11-28T04:35:11.868Z",
+ "lastSyncBucket": 997688,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -45524,6 +45524,81 @@
    "key": "3857dc26-f60a-450d-96a2-e4fde957dbfe",
    "firstQueuedAtMs": 1795836600000,
    "playedAtMs": 1795836600000
+  },
+  {
+   "key": "news714985214",
+   "firstQueuedAtMs": 1795838400000,
+   "playedAtMs": 1795838400000
+  },
+  {
+   "key": "74552947",
+   "firstQueuedAtMs": 1795838400000,
+   "playedAtMs": 1795838400000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o#0",
+   "firstQueuedAtMs": 1795838400000,
+   "playedAtMs": 1795838400000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/nuclear-pathfinder-mission-to-ceres-would-usher-in-era-of-interplanetary-transport",
+   "firstQueuedAtMs": 1795838400000,
+   "playedAtMs": 1795838400000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/27/lenexa-man-dies-after-thanksgiving-day-rollover-crash/",
+   "firstQueuedAtMs": 1795838400000,
+   "playedAtMs": 1795838400000
+  },
+  {
+   "key": "https://www.inc.com/dan-schawbel/ai-is-saving-workers-time-so-why-might-they-be-working-more/91441421",
+   "firstQueuedAtMs": 1795838400000,
+   "playedAtMs": 1795838400000
+  },
+  {
+   "key": "https://www.abc.net.au/news/2026-11-25/nsw-government-ramps-up-efforts-to-respond-to-fire-ants-/107424812",
+   "firstQueuedAtMs": 1795838400000,
+   "playedAtMs": 1795838400000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo#0",
+   "firstQueuedAtMs": 1795838400000,
+   "playedAtMs": 1795838400000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3376111/european-financial-firms-plan-larger-hong-kong-investment-treasury-chief-says",
+   "firstQueuedAtMs": 1795838400000,
+   "playedAtMs": 1795838400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795838425",
+   "firstQueuedAtMs": 1795838400000,
+   "playedAtMs": 1795838400000
+  },
+  {
+   "key": "https://www.scmp.com/week-asia/opinion/article/3376068/southeast-asia-chinas-split-personality-stands-out",
+   "firstQueuedAtMs": 1795838400000,
+   "playedAtMs": 1795838400000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/military/article/3376023/cambodias-ream-naval-base-back-spotlight-after-chinese-radar-features-joint-drill",
+   "firstQueuedAtMs": 1795838400000,
+   "playedAtMs": 1795838400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795833131",
+   "firstQueuedAtMs": 1795838400000,
+   "playedAtMs": 1795838400000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo#1",
+   "firstQueuedAtMs": 1795838400000,
+   "playedAtMs": 1795838400000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o#3",
+   "firstQueuedAtMs": 1795838400000,
+   "playedAtMs": 1795838400000
   }
  ]
 }
