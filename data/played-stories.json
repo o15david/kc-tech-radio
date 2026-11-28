@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-28T12:20:07.195Z",
- "lastSyncBucket": 997703,
+ "updatedAt": "2026-11-28T12:35:08.734Z",
+ "lastSyncBucket": 997704,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -46434,6 +46434,176 @@
    "key": "https://news.sky.com/story/court-rejects-argentinas-bid-to-block-falklands-oil-drilling-project-13615287",
    "firstQueuedAtMs": 1795865400000,
    "playedAtMs": 1795865400000
+  },
+  {
+   "key": "WP-MKTW-0005368675",
+   "firstQueuedAtMs": 1795867200000,
+   "playedAtMs": 1795867200000
+  },
+  {
+   "key": "https://www.kshb.com/entertainment/better-late-than-never-macys-thanksgiving-day-parade-ready-for-saturday",
+   "firstQueuedAtMs": 1795867200000,
+   "playedAtMs": 1795867200000
+  },
+  {
+   "key": "dfdc13fc-7ab2-4545-b0a7-7233d30dfb91",
+   "firstQueuedAtMs": 1795867200000,
+   "playedAtMs": 1795867200000
+  },
+  {
+   "key": "Fe6MpuSfVNQ6Lcy6udJGS7",
+   "firstQueuedAtMs": 1795867200000,
+   "playedAtMs": 1795867200000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=230098",
+   "firstQueuedAtMs": 1795867200000,
+   "playedAtMs": 1795867200000
+  },
+  {
+   "key": "https://hackaday.com/?p=1430483",
+   "firstQueuedAtMs": 1795867200000,
+   "playedAtMs": 1795867200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/28/opinion/elon-musk-usaid-south-sudan.html",
+   "firstQueuedAtMs": 1795867200000,
+   "playedAtMs": 1795867200000
+  },
+  {
+   "key": "https://arstechnica.com/gadgets/2026/11/2026-kindle-paperwhite-review-page-turn-buttons-are-back-for-a-price/",
+   "firstQueuedAtMs": 1795867200000,
+   "playedAtMs": 1795867200000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/28/opinion/saddam-hussein-us-iraq-war.html",
+   "firstQueuedAtMs": 1795867200000,
+   "playedAtMs": 1795867200000
+  },
+  {
+   "key": "6b00c35f7c78d96a15f9054a",
+   "firstQueuedAtMs": 1795867200000,
+   "playedAtMs": 1795867200000
+  },
+  {
+   "key": "https://fortune.com/?p=4652120",
+   "firstQueuedAtMs": 1795867200000,
+   "playedAtMs": 1795867200000
+  },
+  {
+   "key": "74553701",
+   "firstQueuedAtMs": 1795867200000,
+   "playedAtMs": 1795867200000
+  },
+  {
+   "key": "74553578",
+   "firstQueuedAtMs": 1795867200000,
+   "playedAtMs": 1795867200000
+  },
+  {
+   "key": "https://www.inc.com/chris-morris/6-startup-ideas-you-can-launch-without-a-college-degree/91442795",
+   "firstQueuedAtMs": 1795867200000,
+   "playedAtMs": 1795867200000
+  },
+  {
+   "key": "74553592",
+   "firstQueuedAtMs": 1795867200000,
+   "playedAtMs": 1795867200000
+  },
+  {
+   "key": "4a7d1755-ce57-464d-be9c-e2a394940fde",
+   "firstQueuedAtMs": 1795867200000,
+   "playedAtMs": 1795867200000
+  },
+  {
+   "key": "https://www.inc.com/moses-jeanfrancois/macy-founder-lost-4-stores-fifth-attempt-launched-6-billion-dollar-giant/91439622",
+   "firstQueuedAtMs": 1795867200000,
+   "playedAtMs": 1795867200000
+  },
+  {
+   "key": "https://fortune.com/?p=4652147&showAdminBar=true",
+   "firstQueuedAtMs": 1795867200000,
+   "playedAtMs": 1795867200000
+  },
+  {
+   "key": "74553577",
+   "firstQueuedAtMs": 1795867200000,
+   "playedAtMs": 1795867200000
+  },
+  {
+   "key": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
+   "firstQueuedAtMs": 1795867200000,
+   "playedAtMs": 1795867200000
+  },
+  {
+   "key": "https://fortune.com/?p=4652098&showAdminBar=true",
+   "firstQueuedAtMs": 1795867200000,
+   "playedAtMs": 1795867200000
+  },
+  {
+   "key": "https://www.scmp.com/news/world/europe/article/3376142/uk-charity-honouring-wwii-veteran-be-disbanded-after-financial-controversy",
+   "firstQueuedAtMs": 1795867200000,
+   "playedAtMs": 1795867200000
+  },
+  {
+   "key": "https://fortune.com/?p=4651906&showAdminBar=true",
+   "firstQueuedAtMs": 1795867200000,
+   "playedAtMs": 1795867200000
+  },
+  {
+   "key": "https://fortune.com/?p=4650891",
+   "firstQueuedAtMs": 1795867200000,
+   "playedAtMs": 1795867200000
+  },
+  {
+   "key": "https://yogthos.net/posts/2026-11-23-b+trees.html",
+   "firstQueuedAtMs": 1795867200000,
+   "playedAtMs": 1795867200000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno#0",
+   "firstQueuedAtMs": 1795867200000,
+   "playedAtMs": 1795867200000
+  },
+  {
+   "key": "https://www.dw.com/en/ai-data-centers-in-space-millions-of-satellites-and-so-many-unknowns/a-80080166?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795867200000,
+   "playedAtMs": 1795867200000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795864510",
+   "firstQueuedAtMs": 1795867200000,
+   "playedAtMs": 1795867200000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/military/article/3376032/us-navy-pushes-ahead-submarine-launched-nuclear-cruise-missile-programme",
+   "firstQueuedAtMs": 1795867200000,
+   "playedAtMs": 1795867200000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo#0",
+   "firstQueuedAtMs": 1795867200000,
+   "playedAtMs": 1795867200000
+  },
+  {
+   "key": "https://news.sky.com/story/keep-russia-ukraine-war-out-of-the-mediterranean-italys-giorgia-meloni-tells-volodymyr-zelenskyy-13617434",
+   "firstQueuedAtMs": 1795867200000,
+   "playedAtMs": 1795867200000
+  },
+  {
+   "key": "9.7438984",
+   "firstQueuedAtMs": 1795867200000,
+   "playedAtMs": 1795867200000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo#1",
+   "firstQueuedAtMs": 1795867200000,
+   "playedAtMs": 1795867200000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo#1",
+   "firstQueuedAtMs": 1795867200000,
+   "playedAtMs": 1795867200000
   }
  ]
 }
