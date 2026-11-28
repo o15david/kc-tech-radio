@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-28T08:50:10.299Z",
- "lastSyncBucket": 997696,
+ "updatedAt": "2026-11-28T09:05:19.248Z",
+ "lastSyncBucket": 997697,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -45874,6 +45874,61 @@
    "key": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo#1",
    "firstQueuedAtMs": 1795852800000,
    "playedAtMs": 1795852800000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/society/article/3376125/teary-eyed-fiancee-brother-firefighter-ho-wai-ho-receive-posthumous-medal",
+   "firstQueuedAtMs": 1795854600000,
+   "playedAtMs": 1795854600000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=230335",
+   "firstQueuedAtMs": 1795854600000,
+   "playedAtMs": 1795854600000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75894",
+   "firstQueuedAtMs": 1795854600000,
+   "playedAtMs": 1795854600000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75889",
+   "firstQueuedAtMs": 1795854600000,
+   "playedAtMs": 1795854600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795855947",
+   "firstQueuedAtMs": 1795854600000,
+   "playedAtMs": 1795854600000
+  },
+  {
+   "key": "https://www.theguardian.com/australia-news/2026/nov/28/victoria-election-2026-winner-announced-who-won-poll-win-coalition-labor-victorian-state-results",
+   "firstQueuedAtMs": 1795854600000,
+   "playedAtMs": 1795854600000
+  },
+  {
+   "key": "https://www.pv-magazine.com/?p=75875",
+   "firstQueuedAtMs": 1795854600000,
+   "playedAtMs": 1795854600000
+  },
+  {
+   "key": "https://www.theregister.com/a/5313200",
+   "firstQueuedAtMs": 1795854600000,
+   "playedAtMs": 1795854600000
+  },
+  {
+   "key": "https://www.scmp.com/news/world/united-states-canada/article/3376123/canada-prosecutors-seek-25-year-prison-term-suicide-poison-seller",
+   "firstQueuedAtMs": 1795854600000,
+   "playedAtMs": 1795854600000
+  },
+  {
+   "key": "https://www.scmp.com/opinion/china-opinion/article/3375799/post-property-boom-china-still-has-plenty-build-and-upgrade",
+   "firstQueuedAtMs": 1795854600000,
+   "playedAtMs": 1795854600000
+  },
+  {
+   "key": "https://www.dw.com/en/polls-close-in-taiwan-s-closely-watched-local-elections/a-80083086?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795854600000,
+   "playedAtMs": 1795854600000
   }
  ]
 }
