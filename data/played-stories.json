@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-28T00:50:08.564Z",
- "lastSyncBucket": 997680,
+ "updatedAt": "2026-11-28T01:05:12.444Z",
+ "lastSyncBucket": 997681,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -45119,6 +45119,106 @@
    "key": "https://www.scmp.com/week-asia/politics/article/3376067/myanmars-asean-exit-talk-pariah-pushes-back",
    "firstQueuedAtMs": 1795824000000,
    "playedAtMs": 1795824000000
+  },
+  {
+   "key": "https://quad9.net/?url=nginx2root.com#domain-tester",
+   "firstQueuedAtMs": 1795825800000,
+   "playedAtMs": 1795825800000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/28/springfield-shoppers-look-deals-ways-save-black-friday/",
+   "firstQueuedAtMs": 1795825800000,
+   "playedAtMs": 1795825800000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/27/us/politics/supreme-court-rulings-midterms-voting.html",
+   "firstQueuedAtMs": 1795825800000,
+   "playedAtMs": 1795825800000
+  },
+  {
+   "key": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FkbrUA8%3Futm_source=TLDR%26utm_medium=newsletter%26utm_campaign=2026-11-27_tldr_ai_primary_microsoft_azure%26utm_content=header_late_night_patch%26utm_term=2026-11-27_tldr_ai/2/010001a21d82d297-a65d9040-d1c8-4d02-907b-d9821ec74920-000000/TvRntLetg1WyPsiWcSOjFQNdj2i0hZ5osjMD_1BfLHA=452",
+   "firstQueuedAtMs": 1795825800000,
+   "playedAtMs": 1795825800000
+  },
+  {
+   "key": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmicjm.com%2Fblog%2Fopenai-is-in-cost-control-mode%2F%3Futm_source=tldrai/1/010001a21d82d297-a65d9040-d1c8-4d02-907b-d9821ec74920-000000/ukdQRbmkH6ESgUN6iMPlQwvV01p9EkkKyKJ4G9zSK-M=452",
+   "firstQueuedAtMs": 1795825800000,
+   "playedAtMs": 1795825800000
+  },
+  {
+   "key": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fandrewtrask.substack.com%2Fp%2Fmeasuring-rsi%3Futm_source=tldrai/1/010001a21d82d297-a65d9040-d1c8-4d02-907b-d9821ec74920-000000/UmuO_Q7E3XETYEL4J4piPoa2IigCxz8heSplBAEzgss=452",
+   "firstQueuedAtMs": 1795825800000,
+   "playedAtMs": 1795825800000
+  },
+  {
+   "key": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsima.ai%2Fpalette-3-0-hub%2F%3Futm_source=tldr-ai%26utm_medium=paid-email%26utm_campaign=palette-3-launch-2026-11%26utm_content=secondary01/1/010001a21d82d297-a65d9040-d1c8-4d02-907b-d9821ec74920-000000/YuBA7DBonkik_W0xDdJy5UkrVZpt48i6AG7OaMhBmfo=452",
+   "firstQueuedAtMs": 1795825800000,
+   "playedAtMs": 1795825800000
+  },
+  {
+   "key": "https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnewsletter.forethought.org%2Fp%2Fdo-scale-dependent-algorithms-cut-against-a-software-intelligence-explosion%3Futm_source=tldrai/1/010001a21d82d297-a65d9040-d1c8-4d02-907b-d9821ec74920-000000/J71COcFUFFUlW9z15KDzQopYnN8UvsYNBVb2VDlMtOo=452",
+   "firstQueuedAtMs": 1795825800000,
+   "playedAtMs": 1795825800000
+  },
+  {
+   "key": "https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VWhsGq6rrgPnW3Wvd_l9gwd80W4Mw1s55XTKB4N61zzTY3qgz0W6N1vHY6lZ3msW7J2tMl5vSKBPN9dy_bYJstBWN9jslMdr82-rW8PHGbN8W33nSN7V4rF0G610LVf5v8z2G9YWXN3YxjcNYMMMbW5hCgkd6-VslNW3bF8Jr87zCVCW85BqnM2Ww0LKW2NzW7p6vpXjWW7VgB8q3Cct0DW4_S7qn28dFLMMTvwgybJW5MW1GsbLY55TK5BV1NBzf5vWn9XW7jBP23756LRHV4P67S3l5BQjW305dsB3hK8QJVbtpQl4tr4KXW78BKJZ98b6xyN907TfSnNw3Tf6Knysx04",
+   "firstQueuedAtMs": 1795825800000,
+   "playedAtMs": 1795825800000
+  },
+  {
+   "key": "https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VWhsGq6rrgPnW3Wvd_l9gwd80W4Mw1s55XTKB4N61zzT25nR3bW50kH_H6lZ3mBW1lvMFw13nrmnW4KPN9F7HYb7_N9gTDYrYZNsDW2-816M8WynzxN8NgqjyXhNqBW2yH6j06wF1QyW86lPrQ13HlkyW3xGCk07sZ0bXW9f5gfC95CtxWW8zDdBY1LzPXqW3PrYRv4kL_FLW1cHzsG8-mHdbW5Gkw6X5Nb9wxW367R-z7fj4R2W8869R_71fS4yW1445SZ1gDcK-W7XRnWM8DLvzPW5z8GyC3DYc0RV1t5Xb6wsc4nW4tM2w82yD0HCN5kZnY-Ns0ryW8P_N5P1sFHNyW6J3dyN6Gc1F6W59y7M12lQmKyN73jz2Fwr_tSW6FScgr5DsLQQW4_Hwft802rTlW2x9Tsh31LmvDW6QFVLV7LpVg6W4d82Wl1Qn95CW1F--KZ97KZQlW47vW4956F6MPf3bJKlH04",
+   "firstQueuedAtMs": 1795825800000,
+   "playedAtMs": 1795825800000
+  },
+  {
+   "key": "https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VWhsGq6rrgPnW3Wvd_l9gwd80W4Mw1s55XTKB4N61zzVd3qgz0W7lCdLW6lZ3pcW8dq5lV2JM2t2W7f-dYd8Z-rvxW5GQ90D8DGg_CVHVr-V5z72fWW34d63m12y10lW8h44056ZSzfrV6t0wW7SXpGMW8-v52-221T8NW8CbGzM6nBlqdVR4Ngh71qy7nW981JDY8csgGKW2YjFp43GZl59W1HpJFR5KbdrwW5B-2yg2GLGYpW7KZWpm5QJ7YgW1t0_Cb330KKhW52RVhc64DfhFW2-yWtq4pRhbYW2lB8Zb3kYwvkW4WJdzP54y1L9VQlJ_D41dvL7VVCHBR4531dPW39kGk_88mgCkW3_flQq1GJP5Sf8P9Zk604",
+   "firstQueuedAtMs": 1795825800000,
+   "playedAtMs": 1795825800000
+  },
+  {
+   "key": "https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VWhsGq6rrgPnW3Wvd_l9gwd80W4Mw1s55XTKB4N61zzVd3qgz0W7lCdLW6lZ3pGW5q362G7yy_QwW62XhHh53Tx8dN35JtLt-LNcpW6J7WLT7cng7_W5bCzHG9j2HV3W5Mtnz03NvF7yW1wQc7740ml6VW2gv97b2FHD9KW13MWwK1m1VrRW3P4lSs4rKnxmW5bmB9k2rQFc0F2NH_5Lkw62W8pPp_n5TWcVLW8x4JpX6ByyMvVbnxDr2t7cjcW4WLljz2SpR2nW4hh2N87QPvntW3l1BYK8NSk7cW5hVD739fGlmxV6YmHF7lvZNQW1HcFgV6c9l5TVfywPY3Hd_WyW37wM9M2X3dMnW3CnmL82-Q9Vqf2wQ8Xl04",
+   "firstQueuedAtMs": 1795825800000,
+   "playedAtMs": 1795825800000
+  },
+  {
+   "key": "https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VWhsGq6rrgPnW3Wvd_l9gwd80W4Mw1s55XTKB4N61zzTY3qgz0W6N1vHY6lZ3q2N81F4c_w-jc5N45HJ2Zg94X9W8zpbqB1T8qClW31fWSm3VYX9ZW7LCrNh2QLLTzW3Cmt0N3pPwg0W2T81Zc8gq4MlW46LzqD4DmH36W321Z845Xvn76W7bGvqW7zn8_DW66flnw4MFVZnW9bVxRV65wBqLW5n3NNw9gQ1BzW8BmZMk3_WS94W2NBMTy1MpzyyW3lMLPY96fClYVKGxGm5GVM66W7kNkPG7QbN8jW3gtxfv7bfSMdW2f4WwW3RnBSmW1B6Fxm37yrNbW7pvM246yYnhVdTL3hF04",
+   "firstQueuedAtMs": 1795825800000,
+   "playedAtMs": 1795825800000
+  },
+  {
+   "key": "https://info.deeplearning.ai/e3t/Ctc/LX+113/cJhC404/VWhsGq6rrgPnW3Wvd_l9gwd80W4Mw1s55XTKB4N61zzTY3qgz0W6N1vHY6lZ3lSW7vng0R7NgRqPW4_K6Rw20GT38MtXHbgc00XNW8SZJc748zvrWW4J9BbD5lj-xCW2XfQXQ81vvLsW3d43dG7VPmPlW3mMCCS1p2dV0W3Sldc-8-Y2M6W4dPbdd8wwj6TN43-KdSn_0BzW3G_m3g7b1p-yW8ksQh22RmBsWW18B7B19dbVB1W3Cpt2R7gFhQ1W3L9mMp8S2R86V-KPyY6gLXG0W12lfKN6mh5jxW1Vn66r38JH0RVctbJV4fsLBqW69W5zQ2tFqjtW18mhfR3_F_8Xf56lB9g04",
+   "firstQueuedAtMs": 1795825800000,
+   "playedAtMs": 1795825800000
+  },
+  {
+   "key": "c9035a0e-393d-4f48-991c-27461221e267",
+   "firstQueuedAtMs": 1795825800000,
+   "playedAtMs": 1795825800000
+  },
+  {
+   "key": "https://thehill.com/?p=6245795",
+   "firstQueuedAtMs": 1795825800000,
+   "playedAtMs": 1795825800000
+  },
+  {
+   "key": "https://www.dw.com/en/spain-s-sanchez-makes-final-appeal-to-voters-before-election/a-80082783?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795825800000,
+   "playedAtMs": 1795825800000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o#3",
+   "firstQueuedAtMs": 1795825800000,
+   "playedAtMs": 1795825800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795822989",
+   "firstQueuedAtMs": 1795825800000,
+   "playedAtMs": 1795825800000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795814749",
+   "firstQueuedAtMs": 1795825800000,
+   "playedAtMs": 1795825800000
   }
  ]
 }
