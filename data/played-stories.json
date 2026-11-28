@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-28T12:50:08.756Z",
- "lastSyncBucket": 997704,
+ "updatedAt": "2026-11-28T13:05:05.381Z",
+ "lastSyncBucket": 997705,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -46604,6 +46604,141 @@
    "key": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo#1",
    "firstQueuedAtMs": 1795867200000,
    "playedAtMs": 1795867200000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1042700",
+   "firstQueuedAtMs": 1795869000000,
+   "playedAtMs": 1795869000000
+  },
+  {
+   "key": "https://www.rockchalktalk.com/?p=34615",
+   "firstQueuedAtMs": 1795869000000,
+   "playedAtMs": 1795869000000
+  },
+  {
+   "key": "https://kansascitymag.com/?p=78264",
+   "firstQueuedAtMs": 1795869000000,
+   "playedAtMs": 1795869000000
+  },
+  {
+   "key": "https://nautil.us/?p=1287107",
+   "firstQueuedAtMs": 1795869000000,
+   "playedAtMs": 1795869000000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=230675",
+   "firstQueuedAtMs": 1795869000000,
+   "playedAtMs": 1795869000000
+  },
+  {
+   "key": "6b097f075aa7f2000157923d",
+   "firstQueuedAtMs": 1795869000000,
+   "playedAtMs": 1795869000000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/28/nx-s1-6045586/perspective-a-heros-name-lives-on",
+   "firstQueuedAtMs": 1795869000000,
+   "playedAtMs": 1795869000000
+  },
+  {
+   "key": "https://lobste.rs/s/rfgkyl",
+   "firstQueuedAtMs": 1795869000000,
+   "playedAtMs": 1795869000000
+  },
+  {
+   "key": "https://electrek.co/?p=496777",
+   "firstQueuedAtMs": 1795869000000,
+   "playedAtMs": 1795869000000
+  },
+  {
+   "key": "TP7QHUKGIFQ300",
+   "firstQueuedAtMs": 1795869000000,
+   "playedAtMs": 1795869000000
+  },
+  {
+   "key": "https://www.inc.com/lucia-auerbach/could-pink-noise-sleep-fight-cognitive-decline-mit-researchers-1-promising-clue/91439138",
+   "firstQueuedAtMs": 1795869000000,
+   "playedAtMs": 1795869000000
+  },
+  {
+   "key": "https://fortune.com/?p=4647528&showAdminBar=true",
+   "firstQueuedAtMs": 1795869000000,
+   "playedAtMs": 1795869000000
+  },
+  {
+   "key": "https://thehill.com/?p=6243488",
+   "firstQueuedAtMs": 1795869000000,
+   "playedAtMs": 1795869000000
+  },
+  {
+   "key": "news714741099",
+   "firstQueuedAtMs": 1795869000000,
+   "playedAtMs": 1795869000000
+  },
+  {
+   "key": "https://twitter.com/QualiaQuanta/status/2126158001035768256",
+   "firstQueuedAtMs": 1795869000000,
+   "playedAtMs": 1795869000000
+  },
+  {
+   "key": "https://fortune.com/?p=4632958&showAdminBar=true",
+   "firstQueuedAtMs": 1795869000000,
+   "playedAtMs": 1795869000000
+  },
+  {
+   "key": "https://kansascitymag.com/?p=79200",
+   "firstQueuedAtMs": 1795869000000,
+   "playedAtMs": 1795869000000
+  },
+  {
+   "key": "https://www.fastcompany.com/91640195/foundations-pillars-support-beams-why-great-leadership-is-like-building-a-house-leadership",
+   "firstQueuedAtMs": 1795869000000,
+   "playedAtMs": 1795869000000
+  },
+  {
+   "key": "https://retractionwatch.com/?p=136735",
+   "firstQueuedAtMs": 1795869000000,
+   "playedAtMs": 1795869000000
+  },
+  {
+   "key": "https://www.filfre.net/2026/11/diablo-ii/",
+   "firstQueuedAtMs": 1795869000000,
+   "playedAtMs": 1795869000000
+  },
+  {
+   "key": "66ec4f7706f903e6b4a52383",
+   "firstQueuedAtMs": 1795869000000,
+   "playedAtMs": 1795869000000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/politics/article/3376143/taiwan-elections-kmts-johnny-chiang-loses-key-taichung-race-possible-2028-blow",
+   "firstQueuedAtMs": 1795869000000,
+   "playedAtMs": 1795869000000
+  },
+  {
+   "key": "https://www.dw.com/en/azerbaijan-s-opposition-leader-ali-karimli-a-year-behind-bars/a-80036095?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795869000000,
+   "playedAtMs": 1795869000000
+  },
+  {
+   "key": "https://www.dw.com/en/ukraine-s-expertise-comes-in-handy-for-international-drone-alliances/a-80075472?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795869000000,
+   "playedAtMs": 1795869000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795866589",
+   "firstQueuedAtMs": 1795869000000,
+   "playedAtMs": 1795869000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795868313",
+   "firstQueuedAtMs": 1795869000000,
+   "playedAtMs": 1795869000000
+  },
+  {
+   "key": "https://www.theguardian.com/uk-news/2026/nov/28/argentina-oil-drilling-falkland-islands-international-tribunal",
+   "firstQueuedAtMs": 1795869000000,
+   "playedAtMs": 1795869000000
   }
  ]
 }
