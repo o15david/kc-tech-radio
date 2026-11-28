@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-28T10:20:05.175Z",
- "lastSyncBucket": 997699,
+ "updatedAt": "2026-11-28T10:35:09.850Z",
+ "lastSyncBucket": 997700,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -46069,6 +46069,101 @@
    "key": "https://www.aljazeera.com/?t=1795819922",
    "firstQueuedAtMs": 1795858200000,
    "playedAtMs": 1795858200000
+  },
+  {
+   "key": "691f3de53b476d6c7a5ff4dc",
+   "firstQueuedAtMs": 1795860000000,
+   "playedAtMs": 1795860000000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/28/7-shot-art-center-during-teen-birthday-party-police-say/",
+   "firstQueuedAtMs": 1795860000000,
+   "playedAtMs": 1795860000000
+  },
+  {
+   "key": "https://nebraskaexaminer.com/?p=46043",
+   "firstQueuedAtMs": 1795860000000,
+   "playedAtMs": 1795860000000
+  },
+  {
+   "key": "https://www.nbcnews.com/news/news-quiz/iowa-detonation-founding-father-arrest-news-quiz-rcna611282",
+   "firstQueuedAtMs": 1795860000000,
+   "playedAtMs": 1795860000000
+  },
+  {
+   "key": "https://www.infoq.com/news/2026/11/anthropic-claude-ship/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "firstQueuedAtMs": 1795860000000,
+   "playedAtMs": 1795860000000
+  },
+  {
+   "key": "https://www.inc.com/minda-zetlin/i-was-hired-with-the-mandate-to-fire-everyone-in-my-department-should-i/91443137",
+   "firstQueuedAtMs": 1795860000000,
+   "playedAtMs": 1795860000000
+  },
+  {
+   "key": "https://www.fastcompany.com/91638331/beware-these-3-holiday-shopping-scams-gift-card-drain-social-media-fake-website-fedex-ups-dhl-shipping",
+   "firstQueuedAtMs": 1795860000000,
+   "playedAtMs": 1795860000000
+  },
+  {
+   "key": "https://fortune.com/?p=4651405",
+   "firstQueuedAtMs": 1795860000000,
+   "playedAtMs": 1795860000000
+  },
+  {
+   "key": "https://www.scmp.com/news/world/europe/article/3376131/spains-pm-sanchez-makes-final-bid-head-conservatives-and-far-right",
+   "firstQueuedAtMs": 1795860000000,
+   "playedAtMs": 1795860000000
+  },
+  {
+   "key": "https://fox4kc.com/?p=4457076",
+   "firstQueuedAtMs": 1795860000000,
+   "playedAtMs": 1795860000000
+  },
+  {
+   "key": "https://fortune.com/?p=4649972&showAdminBar=true",
+   "firstQueuedAtMs": 1795860000000,
+   "playedAtMs": 1795860000000
+  },
+  {
+   "key": "https://fleetlayer.ai/",
+   "firstQueuedAtMs": 1795860000000,
+   "playedAtMs": 1795860000000
+  },
+  {
+   "key": "https://starfire.tech/shock/",
+   "firstQueuedAtMs": 1795860000000,
+   "playedAtMs": 1795860000000
+  },
+  {
+   "key": "https://www.scmp.com/news/people-culture/trending-china/article/3376112/scientists-find-dice-game-tiles-kublai-khan-shipwreck-revealing-how-troops-coped-sea",
+   "firstQueuedAtMs": 1795860000000,
+   "playedAtMs": 1795860000000
+  },
+  {
+   "key": "https://www.dw.com/en/afghanistan-several-killed-in-blast-near-middle-school/a-80084227?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795860000000,
+   "playedAtMs": 1795860000000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o#0",
+   "firstQueuedAtMs": 1795860000000,
+   "playedAtMs": 1795860000000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/diplomacy/article/3376012/saudi-blockbuster-7-dogs-lands-china-cultural-ties-grow",
+   "firstQueuedAtMs": 1795860000000,
+   "playedAtMs": 1795860000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795859694",
+   "firstQueuedAtMs": 1795860000000,
+   "playedAtMs": 1795860000000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o#0",
+   "firstQueuedAtMs": 1795860000000,
+   "playedAtMs": 1795860000000
   }
  ]
 }
