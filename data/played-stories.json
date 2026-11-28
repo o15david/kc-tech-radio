@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-28T13:50:09.826Z",
- "lastSyncBucket": 997706,
+ "updatedAt": "2026-11-28T14:05:27.738Z",
+ "lastSyncBucket": 997707,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -46879,6 +46879,201 @@
    "key": "https://news.sky.com/story/explosion-near-school-kills-10-and-wounds-more-than-100-in-afghanistan-13617431",
    "firstQueuedAtMs": 1795870800000,
    "playedAtMs": 1795870800000
+  },
+  {
+   "key": "https://www.kctv5.com/2026/11/28/epa-releases-preliminary-results-lead-levels-water-supplies-following-iowa-detonation/",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/28/first-alert-weather-quiet-saturday-before-cooler-sunday/",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://techcrunch.com/?p=3192694",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://www.theverge.com/?p=1043764",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://www.engadget.com/2325141/how-to-permanently-delete-playstation-account/",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://grist.org/?p=761525",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://www.engadget.com/2330021/uk-pulled-down-pensions-services-cyber-incident/",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261128014255.htm",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://www.theverge.com/1045110/the-absolute-best-black-friday-deals-you-can-still-get",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://www.kshb.com/us-news/iran-war/us-military-disables-merchant-ship-trying-to-run-blockade-of-iranian-ports",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://www.engadget.com/2325093/cool-things-carplay-useful-for/",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261128010416.htm",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43399",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://thehill.com/?p=6242970",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://electrek.co/?p=491345",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://www.inc.com/liyana-illyas/crumbl-franchise-drew-long-lines-less-than-2-months-later-hit-the-market/91443189",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/28/ai-math-breakthroughs-encryption-p-vs-np",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261127203630.htm",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://thehill.com/?p=6245957",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://www.engadget.com/2325087/acer-googlebooks-boot-loop-issue-fixed-by-google/",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261126063326.htm",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261126063318.htm",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "TP7P0KT9NJLS00",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261127203617.htm",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261128014259.htm",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://www.ky3.com/2026/11/27/woman-accused-shoplifting-target-injuring-officers-black-friday/",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261127203625.htm",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261127203623.htm",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261126063324.htm",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261126063322.htm",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://www.nbcnews.com/select/shopping/costco-black-friday-sale-2026-rcna611502",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://www.sciencedaily.com/releases/2026/11/261126063321.htm",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/25/podcasts/the-daily/dont-let-go-my-balloon-training-for-the-macys-thanksgiving-day-parade.html",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/politics/article/3376147/taiwan-elections-kmt-loses-25-year-hold-hsinchu-tech-hub-magistrate-vote",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "9.7440253",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/politics/article/3376122/taiwan-elections-kmt-loses-yilan-county-setback-ahead-2028-general-election",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795872583",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795867827",
+   "firstQueuedAtMs": 1795872600000,
+   "playedAtMs": 1795872600000
   }
  ]
 }
