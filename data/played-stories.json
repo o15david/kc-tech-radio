@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-28T05:20:20.287Z",
- "lastSyncBucket": 997689,
+ "updatedAt": "2026-11-28T05:35:12.466Z",
+ "lastSyncBucket": 997690,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -45634,6 +45634,41 @@
    "key": "https://www.aljazeera.com/?t=1795610712",
    "firstQueuedAtMs": 1795840200000,
    "playedAtMs": 1795840200000
+  },
+  {
+   "key": "https://fortune.com/?p=4651925&showAdminBar=true",
+   "firstQueuedAtMs": 1795842000000,
+   "playedAtMs": 1795842000000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/28/us/politics/trump-china-critics-nvidia.html",
+   "firstQueuedAtMs": 1795842000000,
+   "playedAtMs": 1795842000000
+  },
+  {
+   "key": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
+   "firstQueuedAtMs": 1795842000000,
+   "playedAtMs": 1795842000000
+  },
+  {
+   "key": "https://www.scmp.com/week-asia/politics/article/3376115/sarawak-state-election-retreat-anwar-and-rivals-brings-ruling-gps-closer-victory",
+   "firstQueuedAtMs": 1795842000000,
+   "playedAtMs": 1795842000000
+  },
+  {
+   "key": "https://www.theguardian.com/business/2026/nov/28/french-succession-bernard-arnault-lvmh",
+   "firstQueuedAtMs": 1795842000000,
+   "playedAtMs": 1795842000000
+  },
+  {
+   "key": "https://www.theguardian.com/world/2026/nov/28/yuri-football-together-russia-war-dead-ukraine",
+   "firstQueuedAtMs": 1795842000000,
+   "playedAtMs": 1795842000000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795839101",
+   "firstQueuedAtMs": 1795842000000,
+   "playedAtMs": 1795842000000
   }
  ]
 }
