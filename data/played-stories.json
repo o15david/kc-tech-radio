@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-28T14:50:08.792Z",
- "lastSyncBucket": 997708,
+ "updatedAt": "2026-11-28T15:05:06.658Z",
+ "lastSyncBucket": 997709,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -47194,6 +47194,141 @@
    "key": "https://michiganadvance.com/?p=116228",
    "firstQueuedAtMs": 1795874400000,
    "playedAtMs": 1795874400000
+  },
+  {
+   "key": "74553821",
+   "firstQueuedAtMs": 1795876200000,
+   "playedAtMs": 1795876200000
+  },
+  {
+   "key": "https://thehill.com/?p=6245999",
+   "firstQueuedAtMs": 1795876200000,
+   "playedAtMs": 1795876200000
+  },
+  {
+   "key": "74554046",
+   "firstQueuedAtMs": 1795876200000,
+   "playedAtMs": 1795876200000
+  },
+  {
+   "key": "74554049",
+   "firstQueuedAtMs": 1795876200000,
+   "playedAtMs": 1795876200000
+  },
+  {
+   "key": "ncLW24ogec7YtVff9nbpUb",
+   "firstQueuedAtMs": 1795876200000,
+   "playedAtMs": 1795876200000
+  },
+  {
+   "key": "74553731",
+   "firstQueuedAtMs": 1795876200000,
+   "playedAtMs": 1795876200000
+  },
+  {
+   "key": "https://www.kshb.com/us-news/epa-no-increased-lead-found-in-water-after-iowa-explosives-detonation",
+   "firstQueuedAtMs": 1795876200000,
+   "playedAtMs": 1795876200000
+  },
+  {
+   "key": "https://nautil.us/?p=1287047",
+   "firstQueuedAtMs": 1795876200000,
+   "playedAtMs": 1795876200000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=230259",
+   "firstQueuedAtMs": 1795876200000,
+   "playedAtMs": 1795876200000
+  },
+  {
+   "key": "https://lobste.rs/s/obmxh1",
+   "firstQueuedAtMs": 1795876200000,
+   "playedAtMs": 1795876200000
+  },
+  {
+   "key": "https://pages.ethanmdavidson.com/ai-physics-breakthrough",
+   "firstQueuedAtMs": 1795876200000,
+   "playedAtMs": 1795876200000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43403",
+   "firstQueuedAtMs": 1795876200000,
+   "playedAtMs": 1795876200000
+  },
+  {
+   "key": "ba69b109-5a6f-48ea-92c0-47cba5a6cddf",
+   "firstQueuedAtMs": 1795876200000,
+   "playedAtMs": 1795876200000
+  },
+  {
+   "key": "https://www.engadget.com/2325814/important-gemini-security-settings-should-be-using/",
+   "firstQueuedAtMs": 1795876200000,
+   "playedAtMs": 1795876200000
+  },
+  {
+   "key": "uKn8TWiiEpZSV39C7mYRQD",
+   "firstQueuedAtMs": 1795876200000,
+   "playedAtMs": 1795876200000
+  },
+  {
+   "key": "108511441",
+   "firstQueuedAtMs": 1795876200000,
+   "playedAtMs": 1795876200000
+  },
+  {
+   "key": "H3QcC9EWkQRfz6ns7LYuJV",
+   "firstQueuedAtMs": 1795876200000,
+   "playedAtMs": 1795876200000
+  },
+  {
+   "key": "https://www.arrowheadpride.com/217850/chiefs-news-special-teams-cost-the-chiefs-the-game-in-buffalo",
+   "firstQueuedAtMs": 1795876200000,
+   "playedAtMs": 1795876200000
+  },
+  {
+   "key": "https://www.engadget.com/2325353/ios-27-carplay-google-maps-waze-issues/",
+   "firstQueuedAtMs": 1795876200000,
+   "playedAtMs": 1795876200000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/28/nx-s1-6050187/cop31-talks-fall-apart",
+   "firstQueuedAtMs": 1795876200000,
+   "playedAtMs": 1795876200000
+  },
+  {
+   "key": "https://www.engadget.com/2325263/free-music-streaming-services/",
+   "firstQueuedAtMs": 1795876200000,
+   "playedAtMs": 1795876200000
+  },
+  {
+   "key": "https://github.com/RiccardoSottini/AffrescoUI",
+   "firstQueuedAtMs": 1795876200000,
+   "playedAtMs": 1795876200000
+  },
+  {
+   "key": "https://koppar.ai/blog/lte-modem-bring-up/",
+   "firstQueuedAtMs": 1795876200000,
+   "playedAtMs": 1795876200000
+  },
+  {
+   "key": "0ebda215-5fa0-4580-992c-bf8b82144ddd",
+   "firstQueuedAtMs": 1795876200000,
+   "playedAtMs": 1795876200000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/society/article/3376151/hong-kong-hygiene-authorities-report-staff-police-over-alleged-leave-abuse",
+   "firstQueuedAtMs": 1795876200000,
+   "playedAtMs": 1795876200000
+  },
+  {
+   "key": "https://www.royalsreview.com/?p=108591",
+   "firstQueuedAtMs": 1795876200000,
+   "playedAtMs": 1795876200000
+  },
+  {
+   "key": "https://www.dw.com/en/taiwan-election-dpp-gains-ground-but-loses-taipei-race/a-80083086?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795876200000,
+   "playedAtMs": 1795876200000
   }
  ]
 }
