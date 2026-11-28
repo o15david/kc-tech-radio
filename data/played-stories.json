@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-28T01:50:24.794Z",
- "lastSyncBucket": 997682,
+ "updatedAt": "2026-11-28T02:05:25.930Z",
+ "lastSyncBucket": 997683,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -45309,6 +45309,61 @@
    "key": "https://news.sky.com/story/son-of-hamas-chief-and-his-family-survive-israeli-airstrike-group-says-13617394",
    "firstQueuedAtMs": 1795827600000,
    "playedAtMs": 1795827600000
+  },
+  {
+   "key": "https://www.sciencealert.com/?p=229886",
+   "firstQueuedAtMs": 1795829400000,
+   "playedAtMs": 1795829400000
+  },
+  {
+   "key": "74552708",
+   "firstQueuedAtMs": 1795829400000,
+   "playedAtMs": 1795829400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/27/us/politics/kennedy-center-trump-name-tarp.html",
+   "firstQueuedAtMs": 1795829400000,
+   "playedAtMs": 1795829400000
+  },
+  {
+   "key": "https://www.eetimes.com/?p=101804990",
+   "firstQueuedAtMs": 1795829400000,
+   "playedAtMs": 1795829400000
+  },
+  {
+   "key": "https://www.inc.com/kevin-haynes/airfares-soared-1-overlooked-travel-alternative-record-year/91443532",
+   "firstQueuedAtMs": 1795829400000,
+   "playedAtMs": 1795829400000
+  },
+  {
+   "key": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+   "firstQueuedAtMs": 1795829400000,
+   "playedAtMs": 1795829400000
+  },
+  {
+   "key": "74552779",
+   "firstQueuedAtMs": 1795829400000,
+   "playedAtMs": 1795829400000
+  },
+  {
+   "key": "https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/",
+   "firstQueuedAtMs": 1795829400000,
+   "playedAtMs": 1795829400000
+  },
+  {
+   "key": "nn_kod_air_force_cyber_attack_261127",
+   "firstQueuedAtMs": 1795829400000,
+   "playedAtMs": 1795829400000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/27/us/politics/planning-board-trump-construction-meeting.html",
+   "firstQueuedAtMs": 1795829400000,
+   "playedAtMs": 1795829400000
+  },
+  {
+   "key": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o#3",
+   "firstQueuedAtMs": 1795829400000,
+   "playedAtMs": 1795829400000
   }
  ]
 }
