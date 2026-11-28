@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-28T11:50:09.720Z",
- "lastSyncBucket": 997702,
+ "updatedAt": "2026-11-28T12:05:05.251Z",
+ "lastSyncBucket": 997703,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -46349,6 +46349,91 @@
    "key": "https://news.sky.com/story/seven-students-killed-and-up-to-99-injured-in-explosion-near-afghan-school-13617431",
    "firstQueuedAtMs": 1795863600000,
    "playedAtMs": 1795863600000
+  },
+  {
+   "key": "https://github.com/p-e-w/heretic/issues/601",
+   "firstQueuedAtMs": 1795865400000,
+   "playedAtMs": 1795865400000
+  },
+  {
+   "key": "https://www.rockmnation.com/?p=165391",
+   "firstQueuedAtMs": 1795865400000,
+   "playedAtMs": 1795865400000
+  },
+  {
+   "key": "https://www.npr.org/2026/11/28/nx-s1-6056284/explosion-school-eastern-afghanistan",
+   "firstQueuedAtMs": 1795865400000,
+   "playedAtMs": 1795865400000
+  },
+  {
+   "key": "https://www.universetoday.com/articles/nasas-giant-pressure-cooker-reveals-how-venus-hides-clues-to-its-potential-watery-past",
+   "firstQueuedAtMs": 1795865400000,
+   "playedAtMs": 1795865400000
+  },
+  {
+   "key": "6afdfad777dd672c501bd702",
+   "firstQueuedAtMs": 1795865400000,
+   "playedAtMs": 1795865400000
+  },
+  {
+   "key": "527cefa5-bfde-4e51-8866-5763bf8a17ee",
+   "firstQueuedAtMs": 1795865400000,
+   "playedAtMs": 1795865400000
+  },
+  {
+   "key": "https://abcnews.com/GMA/Living/weather-delayed-100th-macys-thanksgiving-day-parade/story?id=138486032",
+   "firstQueuedAtMs": 1795865400000,
+   "playedAtMs": 1795865400000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/politics/article/3376141/kmt-challenger-ko-chih-en-falls-short-dpp-retains-kaohsiung-stronghold",
+   "firstQueuedAtMs": 1795865400000,
+   "playedAtMs": 1795865400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795865875",
+   "firstQueuedAtMs": 1795865400000,
+   "playedAtMs": 1795865400000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/politics/article/3376140/kmt-holds-taipei-mayor-wayne-chiang-fends-fierce-dpp-challenge",
+   "firstQueuedAtMs": 1795865400000,
+   "playedAtMs": 1795865400000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/military/article/3376138/zhuhai-air-show-chinas-j-35a-stealth-jet-and-delayed-ma700-turboprop-take-spotlight",
+   "firstQueuedAtMs": 1795865400000,
+   "playedAtMs": 1795865400000
+  },
+  {
+   "key": "https://www.scmp.com/news/china/politics/article/3376137/kmts-wei-ping-cheng-loses-pivotal-changhua-county-magistrate-seat-taiwan-local-elections",
+   "firstQueuedAtMs": 1795865400000,
+   "playedAtMs": 1795865400000
+  },
+  {
+   "key": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3376133/between-europe-and-thailand-can-hong-kong-become-asias-electronic-music-hub",
+   "firstQueuedAtMs": 1795865400000,
+   "playedAtMs": 1795865400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795863693",
+   "firstQueuedAtMs": 1795865400000,
+   "playedAtMs": 1795865400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795843939",
+   "firstQueuedAtMs": 1795865400000,
+   "playedAtMs": 1795865400000
+  },
+  {
+   "key": "https://www.aljazeera.com/?t=1795790742",
+   "firstQueuedAtMs": 1795865400000,
+   "playedAtMs": 1795865400000
+  },
+  {
+   "key": "https://news.sky.com/story/court-rejects-argentinas-bid-to-block-falklands-oil-drilling-project-13615287",
+   "firstQueuedAtMs": 1795865400000,
+   "playedAtMs": 1795865400000
   }
  ]
 }
