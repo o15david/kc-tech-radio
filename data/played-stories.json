@@ -1,8 +1,8 @@
 {
  "version": 1,
  "epochMs": 1795327200000,
- "updatedAt": "2026-11-28T11:20:09.212Z",
- "lastSyncBucket": 997701,
+ "updatedAt": "2026-11-28T11:35:10.513Z",
+ "lastSyncBucket": 997702,
  "lastSyncCarryInSeconds": 0,
  "entries": [
   {
@@ -46269,6 +46269,86 @@
    "key": "https://www.aljazeera.com/?t=1795860166",
    "firstQueuedAtMs": 1795861800000,
    "playedAtMs": 1795861800000
+  },
+  {
+   "key": "https://fortune.com/?p=4652153&showAdminBar=true",
+   "firstQueuedAtMs": 1795863600000,
+   "playedAtMs": 1795863600000
+  },
+  {
+   "key": "74553549",
+   "firstQueuedAtMs": 1795863600000,
+   "playedAtMs": 1795863600000
+  },
+  {
+   "key": "https://arkansasadvocate.com/?post_type=republished&p=31229",
+   "firstQueuedAtMs": 1795863600000,
+   "playedAtMs": 1795863600000
+  },
+  {
+   "key": "74553521",
+   "firstQueuedAtMs": 1795863600000,
+   "playedAtMs": 1795863600000
+  },
+  {
+   "key": "https://the-decoder.com/?p=43384",
+   "firstQueuedAtMs": 1795863600000,
+   "playedAtMs": 1795863600000
+  },
+  {
+   "key": "https://fortune.com/?p=4650118&showAdminBar=true",
+   "firstQueuedAtMs": 1795863600000,
+   "playedAtMs": 1795863600000
+  },
+  {
+   "key": "https://www.nytimes.com/2026/11/28/briefing/retail-therapy.html",
+   "firstQueuedAtMs": 1795863600000,
+   "playedAtMs": 1795863600000
+  },
+  {
+   "key": "9f63b24f-24dd-4a48-848d-4a93b8c21661",
+   "firstQueuedAtMs": 1795863600000,
+   "playedAtMs": 1795863600000
+  },
+  {
+   "key": "https://www.pbs.org/newshour/science/using-a-drone-and-a-poop-sniffing-dog-scientists-perform-health-checks-on-endangered-orcas",
+   "firstQueuedAtMs": 1795863600000,
+   "playedAtMs": 1795863600000
+  },
+  {
+   "key": "https://www.quarter--mile.com/Signals",
+   "firstQueuedAtMs": 1795863600000,
+   "playedAtMs": 1795863600000
+  },
+  {
+   "key": "https://www.axios.com/2026/11/28/congress-sexual-misconduct-house-ethics",
+   "firstQueuedAtMs": 1795863600000,
+   "playedAtMs": 1795863600000
+  },
+  {
+   "key": "https://abcnews.com/video/138494154/",
+   "firstQueuedAtMs": 1795863600000,
+   "playedAtMs": 1795863600000
+  },
+  {
+   "key": "https://www.dw.com/en/as-spain-votes-what-could-change-for-europe/a-80035381?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795863600000,
+   "playedAtMs": 1795863600000
+  },
+  {
+   "key": "https://www.dw.com/en/germany-news-job-market-unlikely-to-recover-before-summer/live-80084280?maca=en-rss-en-all-1573-rdf",
+   "firstQueuedAtMs": 1795863600000,
+   "playedAtMs": 1795863600000
+  },
+  {
+   "key": "https://www.theguardian.com/world/2026/nov/28/spain-vote-election-could-far-right-power-first-time-franco",
+   "firstQueuedAtMs": 1795863600000,
+   "playedAtMs": 1795863600000
+  },
+  {
+   "key": "https://news.sky.com/story/seven-students-killed-and-up-to-99-injured-in-explosion-near-afghan-school-13617431",
+   "firstQueuedAtMs": 1795863600000,
+   "playedAtMs": 1795863600000
   }
  ]
 }
